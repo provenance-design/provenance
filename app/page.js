@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { ARCHIVE, DISCIPLINES, CONNECTION_TYPES } from "./data/archive";
 const CONN_TYPES = Object.fromEntries(Object.entries(CONNECTION_TYPES).map(([k, v]) => [k, { ...v, icon: v.symbol }]));
 const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", Lighting: "#5B7065", Architecture: "#6B7B6F", Typography: "#7A8B7A", Textile: "#9B6B4A", Transport: "#5A7B8B", Ceramic: "#8B7355", Glass: "#6B8B7B", Metalwork: "#7B6B8B" };
@@ -57,6 +57,7 @@ export default function Page() {
   const [searchQuery, setSearchQuery] = useState("");
   const [connFilter, setConnFilter] = useState("all");
   const [featured] = useState(() => ARCHIVE[0]);
+  const scrollPosRef = useRef(0);
 
   const filteredArchive = ARCHIVE.filter(item => {
     const d = selectedDiscipline === "All" || item.discipline === selectedDiscipline;
@@ -65,7 +66,7 @@ export default function Page() {
     return d && s;
   });
 
-  const openItem = (item) => { setSelectedItem(item); setView("detail"); setConnFilter("all"); window.scrollTo(0, 0); };
+  const openItem = (item) => { scrollPosRef.current = window.scrollY; setSelectedItem(item); setView("detail"); setConnFilter("all"); window.scrollTo(0, 0); };
 
   const filteredConnections = (item) => {
     if (!item) return [];
@@ -205,7 +206,7 @@ export default function Page() {
         {/* DETAIL */}
         {view === 'detail' && selectedItem && (() => { const s = selectedItem; return (
           <div>
-            <button onClick={() => setView('archive')} style={{ fontFamily: 'inherit', fontSize: '11px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#BBB', cursor: 'pointer', background: 'none', border: 'none', padding: 0, marginBottom: '36px' }}>← Back to Archive</button>
+            <button onClick={() => { setView('archive'); setTimeout(() => window.scrollTo(0, scrollPosRef.current), 0); }} style={{ fontFamily: 'inherit', fontSize: '11px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#BBB', cursor: 'pointer', background: 'none', border: 'none', padding: 0, marginBottom: '36px' }}>← Back to Archive</button>
             <div style={{ display: 'grid', gridTemplateColumns: '1.1fr 0.9fr', gap: '56px', alignItems: 'start' }}>
               <div>
                 <ImageWithFallback key={s.id} item={s} aspectRatio="4/3" />
