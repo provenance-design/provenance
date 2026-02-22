@@ -175,7 +175,7 @@ export const ARCHIVE = [
     "manufacturer": "Flos",
     "collection": "Triennale Design Museum, Milan",
     "movement": "Italian Rationalism",
-    "wikiTitle": null,
+    "wikiTitle": "Snoopy_(table_lamp)",
     "description": "A heavy white Carrara marble base supports an enamelled metal reflector on a slim glass stem. The reflector's profile resembles the cartoon dog's nose, hence the name. But the form is entirely functional: it directs light downward while the marble base re-reflects ambient light upward through the glass stem, creating a secondary glow.",
     "significance": "The Snoopy demonstrates the Castiglionis' ability to generate visual personality from functional logic. The marble base isn't just a counterweight — it's a reflective surface. The glass stem isn't just structure — it's a light conductor. Nothing is merely what it appears.",
     "connections": [
@@ -1116,7 +1116,7 @@ export const ARCHIVE = [
     "manufacturer": "Fredericia",
     "collection": "Designmuseum Danmark",
     "movement": "Danish Functionalism",
-    "wikiTitle": null,
+    "wikiTitle": "Spanish_Chair",
     "description": "A solid oak frame with wide armrests and a saddle leather seat and back held in place by the frame's own tension — no upholstery, no springs, no webbing. Inspired by Spanish colonial furniture Mogensen studied in Seville. The leather stretches and moulds to the owner's body over decades.",
     "significance": "Mogensen's chairs are the least fashionable and most enduring in Danish design. The Spanish Chair doesn't photograph well — it needs to be sat in. That's the point. Where Juhl and Jacobsen designed for the eye, Mogensen designed for the body over time.",
     "connections": [
@@ -2127,7 +2127,7 @@ export const ARCHIVE = [
     "manufacturer": "New York City Transit Authority",
     "collection": "MoMA, New York",
     "movement": "International Typographic Style / Swiss Design",
-    "wikiTitle": null,
+    "wikiTitle": "New_York_City_Subway#Signs_and_symbols",
     "description": "A comprehensive wayfinding system using Helvetica in white on black or coloured backgrounds, with coloured circles for line identification. Vignelli's 1972 subway map replaced geography with diagrammatic clarity — horizontal, vertical, and 45-degree lines only — but was rejected by riders who wanted geographic accuracy. The signage system endured.",
     "significance": "Vignelli's subway work is a case study in the tension between designer logic and user expectation. The signage succeeded because clarity is universal. The map failed because New Yorkers navigate by neighbourhood, not by system. Knowing which design problems are universal and which are cultural — that's the lesson.",
     "connections": [
@@ -2166,7 +2166,7 @@ export const ARCHIVE = [
     "manufacturer": "IBM",
     "collection": "—",
     "movement": "American Corporate Identity / Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "IBM#Logo",
     "description": "Eight horizontal stripes cutting through the letters I, B, and M — suggesting speed, dynamism, and the scan lines of a computer monitor. Rand designed three versions: a solid version, an 8-stripe version, and a 13-stripe version. The stripes unify three very different letterforms into a single visual system.",
     "significance": "Rand proved that a logo is not an illustration but a system — it must work at every scale, in every medium, in every context. His IBM identity survived fifty years because it was designed for reproduction, not for presentation. The 'Eye-Bee-M' rebus poster (1982) showed he could be playful within his own system's rules.",
     "connections": [
@@ -2205,7 +2205,7 @@ export const ARCHIVE = [
     "manufacturer": "Steubenville Pottery",
     "collection": "Cooper Hewitt, Smithsonian Design Museum",
     "movement": "American Streamline Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "Russel_Wright",
     "description": "Organic, flowing ceramic forms in earthy colours — Seafoam, Granite Grey, Chartreuse, Coral — designed to mix and match rather than form identical sets. Over 250 million pieces sold, making it the most commercially successful American dinnerware ever produced. Wright insisted on being credited on the packaging — revolutionary for 1937.",
     "significance": "American Modern democratised modernist design in America. Wright understood something European modernists didn't: American consumers wanted warmth, colour, and personality, not Bauhaus austerity. He proved that 'modern' could mean accessible, not elite — a lesson the Scandinavians would learn independently.",
     "connections": [
@@ -2244,7 +2244,7 @@ export const ARCHIVE = [
     "manufacturer": "Nakashima Studios",
     "collection": "Smithsonian American Art Museum",
     "movement": "American Craft / Mingei",
-    "wikiTitle": null,
+    "wikiTitle": "George_Nakashima",
     "description": "A free-edge walnut slab supported by two conoid (inverted cone) legs made from laminated rosewood and hickory. Each bench is unique because each slab retains its natural edge — knots, bark inclusions, and grain figuring determine the final form. Nakashima selected each tree personally and seasoned his wood for years.",
     "significance": "Nakashima argued that the tree is the designer — his job was to listen to the wood and reveal what it wanted to become. This isn't mysticism; it's a design philosophy that puts material intelligence above human intention. Each piece carries the specific history of a specific tree.",
     "connections": [
@@ -2517,7 +2517,7 @@ export const ARCHIVE = [
     "manufacturer": "Verlag Niggli",
     "collection": "—",
     "movement": "Swiss International Typographic Style",
-    "wikiTitle": null,
+    "wikiTitle": "Grid_(graphic_design)",
     "description": "Not a single poster but a design methodology codified in Müller-Brockmann's book and practice: the modular grid as an organising principle for all visual communication. Every element — text, image, whitespace — locks to an underlying mathematical structure. His Zurich Tonhalle concert posters demonstrated the principle with radical clarity.",
     "significance": "Müller-Brockmann systematised intuition. The grid isn't a constraint — it's a decision-making framework that frees the designer to focus on content rather than composition. Every website, every app, every magazine layout that uses a grid system descends from this methodology.",
     "connections": [
@@ -2906,7 +2906,7 @@ export const ARCHIVE = [
     "manufacturer": "Fritz Hansen",
     "collection": "Various",
     "movement": "Danish Modernism / Colour",
-    "wikiTitle": null,
+    "wikiTitle": "Series_7",
     "description": "The Series 7 chair in lacquered colours rather than wood veneer — a decision Fritz Hansen made in the 1960s that transformed an institutional workhorse into a design statement. The colour palette has been updated periodically, with Tal R, Kasper Salto, and others contributing limited editions. The form is identical; the surface changes everything.",
     "significance": "The coloured Series 7 proves that surface treatment is design, not decoration. The same chair reads as institutional in natural veneer, playful in yellow, luxurious in deep green. Colour changes context, which changes meaning, which changes use. One form, infinite identities.",
     "connections": [
@@ -3263,42 +3263,6 @@ export const ARCHIVE = [
       "product family"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3951/full/800,/0/default.jpg"
-  },
-  {
-    "id": 84,
-    "title": "Medal of Hans Wegner",
-    "designer": "Matthes Gebel",
-    "year": 1542,
-    "discipline": "Product",
-    "origin": "Germany",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Northern Renaissance",
-    "wikiTitle": "Matthes Gebel",
-    "description": "Gebel's portrait medal captures Hans Wegner and his wife Anna through precise relief modeling that balances individual character with ideal Renaissance proportions. The bronze casting preserves minute details of facial features and costume while maintaining the circular format's symbolic perfection. Inscriptions in Latin establish the subjects' civic status and the artist's signature within the medal's architectural framework.",
-    "significance": "Shows how functional objects can simultaneously serve as portraits, status symbols, and artistic statements. Demonstrates that design thinking applies across centuries — how constraints of materials, processes, and cultural meaning shape form-making decisions.",
-    "connections": [
-      {
-        "id": 82,
-        "type": "material",
-        "reason": "Both use metal's capacity for precise detail and permanent form, but the medal uses bronze casting for portraiture while cutlery uses steel stamping for ergonomic function"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic approaches to organizing information within constrained formats — the medal within circular bounds, Tschichold within rectangular page layouts"
-      }
-    ],
-    "keywords": [
-      "bronze casting",
-      "portrait medal",
-      "Renaissance proportions",
-      "Latin inscription",
-      "civic status",
-      "relief modeling",
-      "circular format"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4781/full/800,/0/default.jpg"
   },
   {
     "id": 85,
@@ -4035,42 +3999,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2016JE0281/full/800,/0/default.jpg"
   },
   {
-    "id": 102,
-    "title": "Drawing",
-    "designer": "Charles Eames",
-    "year": 1955,
-    "discipline": "Product",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "American Modernism",
-    "wikiTitle": null,
-    "description": "Eames's design drawing demonstrates his method of thinking through form and function simultaneously on paper. The sketch reveals the systematic approach to problem-solving that characterized his furniture development, showing how mechanical joints and material properties were resolved before production. The drawing process itself became a design tool for exploring structural relationships.",
-    "significance": "This drawing teaches how preliminary sketches function as design thinking made visible. Students learn that drawing is not decoration but a method for working through complex spatial and mechanical problems before committing to expensive prototyping.",
-    "connections": [
-      {
-        "id": 14,
-        "type": "zeitgeist",
-        "reason": "Both codify modernist design principles into teachable systems — Eames's sketches systematize furniture structure while Tschichold systematizes typography"
-      },
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use diagrammatic thinking to solve complex spatial problems — Eames's sketches reduce furniture to essential structural relationships just as Beck reduced geography to essential connections"
-      }
-    ],
-    "keywords": [
-      "design process",
-      "structural thinking",
-      "sketching",
-      "problem-solving",
-      "modernist method",
-      "systematic design",
-      "furniture development"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ7247/full/800,/0/default.jpg"
-  },
-  {
     "id": 103,
     "title": "CTW Coffee Table",
     "designer": "Charles Eames",
@@ -4156,11 +4084,6 @@ export const ARCHIVE = [
     "description": "This educational toy uses spinning discs of different colors that blend when rotated, teaching color theory through direct manipulation. The mechanism transforms abstract optical principles into physical play, making complex concepts accessible through action. The toy embodies Eames's belief that learning happens through doing rather than being told.",
     "significance": "Students learn that good design can make complex ideas simple through appropriate mechanisms. The toy demonstrates how physical interaction can teach abstract concepts more effectively than explanation — a principle applicable to all interface design.",
     "connections": [
-      {
-        "id": 102,
-        "type": "method",
-        "reason": "Both use hands-on exploration as a learning tool — the drawing process teaches structural thinking through sketching while the toy teaches color theory through manipulation"
-      },
       {
         "id": 13,
         "type": "argument",
@@ -7250,53 +7173,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN1492/full/800,/0/default.jpg"
   },
   {
-    "id": 174,
-    "title": "Printer's Notes",
-    "designer": "William Morris",
-    "year": 1880,
-    "discipline": "Graphic",
-    "origin": "England",
-    "manufacturer": "Morris & Co.",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Arts and Crafts",
-    "wikiTitle": null,
-    "description": "Morris's printer's notes reveal his systematic approach to colour registration and block printing techniques. The handwritten annotations specify exact colour mixing ratios and printing sequences, demonstrating how Arts and Crafts 'handwork' required precise technical documentation. These working documents expose the controlled methodology behind apparently spontaneous craft production.",
-    "significance": "Students must see how Morris reconciled industrial precision with craft ideology — his 'medieval' patterns required modern documentation systems. The notes reveal that Arts and Crafts anti-industrialism was itself systematised, a crucial paradox in design reform movements.",
-    "connections": [
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both documents systematise apparently intuitive design decisions — Morris codifies craft printing while Tschichold codifies modernist typography, showing how all design requires systematic documentation"
-      },
-      {
-        "id": 13,
-        "type": "argument",
-        "reason": "Morris's handwritten craft instructions oppose Beck's geometric abstraction, yet both require systematic documentation to achieve their aesthetic goals — craft versus rationalism through identical methodological rigour"
-      },
-      {
-        "id": 175,
-        "type": "lineage",
-        "reason": "The printer's notes directly informed the production of Morris's later textiles like Lea, translating wallpaper printing techniques into fabric dyeing and weaving processes"
-      },
-      {
-        "id": 16,
-        "type": "argument",
-        "reason": "Morris's craft documentation opposes Rams's industrial design systematisation — both require precise technical control but Morris hides this behind romantic craft ideology while Rams celebrates systematic clarity"
-      }
-    ],
-    "keywords": [
-      "documentation",
-      "craft",
-      "printing",
-      "colour",
-      "systematic",
-      "handwork",
-      "technical",
-      "process"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR1694/full/800,/0/default.jpg"
-  },
-  {
     "id": 175,
     "title": "Lea Fabric",
     "designer": "William Morris",
@@ -8112,11 +7988,6 @@ export const ARCHIVE = [
     "significance": "Foundational to understanding fashion as designed system rather than individual craft. Shows how luxury production industrialized while preserving artisanal status through branding and seasonal renewal.",
     "connections": [
       {
-        "id": 194,
-        "type": "lineage",
-        "reason": "Worth's evening wear construction methods directly inform his wedding dress designs, establishing systematic approach to formal wear that prioritizes structural engineering over decorative application"
-      },
-      {
         "id": 11,
         "type": "method",
         "reason": "Both establish modular systems for luxury markets — Worth through standardized construction methods for bespoke garments, Rams through component-based furniture for domestic spaces"
@@ -8143,53 +8014,6 @@ export const ARCHIVE = [
       "systematic tailoring"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6114/full/800,/0/default.jpg"
-  },
-  {
-    "id": 194,
-    "title": "Wedding dress",
-    "designer": "Berketex",
-    "year": 1970,
-    "discipline": "Product",
-    "origin": "London",
-    "manufacturer": "Berketex",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Ready-to-wear Fashion",
-    "wikiTitle": null,
-    "description": "Berketex's wedding dress democratizes bridal fashion through standardized sizing and simplified construction. The design eliminates couture's bespoke fitting in favor of ready-to-wear efficiency while maintaining ceremonial formality through volume and material choice.",
-    "significance": "Demonstrates fashion's shift from craft-based to industrial production systems. Shows how standardization enables access while requiring new approaches to ceremonial significance through design rather than exclusivity.",
-    "connections": [
-      {
-        "id": 194,
-        "type": "argument",
-        "reason": "Opposes Worth's bespoke construction with ready-to-wear standardization, showing fashion's democratization through industrial methods versus exclusive handcraft"
-      },
-      {
-        "id": 8,
-        "type": "method",
-        "reason": "Both achieve mass market accessibility through standardized production — Berketex via ready-to-wear sizing, Jacobsen through molded plywood manufacturing"
-      },
-      {
-        "id": 12,
-        "type": "zeitgeist",
-        "reason": "Shared 1970s challenge to traditional hierarchies — Berketex democratizing wedding luxury, Sottsass questioning furniture's functional orthodoxy through radical design"
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Both represent 1970s institutional democratization — Berketex making bridal fashion accessible, Piano & Rogers making high culture publicly accessible through architectural transparency"
-      }
-    ],
-    "keywords": [
-      "ready-to-wear",
-      "fashion democratization",
-      "standardized sizing",
-      "industrial wedding fashion",
-      "mass market luxury",
-      "ceremonial design",
-      "simplified construction",
-      "accessible formality"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN5147/full/800,/0/default.jpg"
   },
   {
     "id": 195,
@@ -8892,137 +8716,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5472/full/800,/0/default.jpg"
   },
   {
-    "id": 210,
-    "title": "Snuffbox",
-    "designer": "Johann Georg Aigner",
-    "year": 1800,
-    "discipline": "Product",
-    "origin": "Austria",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Neoclassical",
-    "wikiTitle": null,
-    "description": "This gold snuffbox employs engine-turned decoration and precise hinged mechanisms typical of imperial Vienna's luxury crafts. The surface patterns are created through mechanical engraving that produces geometrically perfect repetitive motifs. The object demonstrates how industrial precision tools were applied to luxury goods before mass production.",
-    "significance": "Students understand how mechanised decoration preceded industrial design, showing that the marriage of machine precision with luxury objects established aesthetic principles later adopted by modernist designers. This reveals the deep historical roots of machine aesthetics.",
-    "connections": [
-      {
-        "id": 5,
-        "type": "lineage",
-        "reason": "Both objects use mechanical precision in metalworking, with the snuffbox's engine-turned patterns anticipating the machine-made perfection of modernist stainless steel"
-      },
-      {
-        "id": 16,
-        "type": "method",
-        "reason": "Both objects use mechanical precision as an aesthetic principle, with Aigner's engine-turning prefiguring Rams's machine-perfect surfaces as markers of quality"
-      },
-      {
-        "id": 210,
-        "type": "sameProblem",
-        "reason": "Both snuffboxes solve the luxury portable container problem through precious metal craftsmanship, but Aigner uses Neoclassical restraint while Legueriniere employs Rococo ornamentation"
-      }
-    ],
-    "keywords": [
-      "engine-turning",
-      "mechanical precision",
-      "gold craftsmanship",
-      "hinged mechanism",
-      "luxury portable object",
-      "neoclassical",
-      "Vienna",
-      "machine aesthetics"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BU2163/full/800,/0/default.jpg"
-  },
-  {
-    "id": 211,
-    "title": "Commode",
-    "designer": "Bernard II Vanrisamburgh",
-    "year": 1750,
-    "discipline": "Furniture",
-    "origin": "France",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Rococo",
-    "wikiTitle": null,
-    "description": "This commode uses exotic wood veneering and ormolu bronze mounts to create a piece that prioritises visual richness over structural honesty. The curved form follows rococo aesthetic principles while concealing the underlying construction. Complex joinery techniques allow the decorative veneer to appear continuous across the undulating surface.",
-    "significance": "Students see how pre-industrial luxury furniture solved the storage problem through ornamental excess rather than functional expression. This provides essential context for understanding why modernist designers later rejected such decorative approaches in favour of structural honesty.",
-    "connections": [
-      {
-        "id": 12,
-        "type": "argument",
-        "reason": "Both pieces use decorative excess as a design strategy, but where Vanrisamburgh employs traditional craft luxury, Sottsass uses industrial laminate to create postmodern luxury"
-      },
-      {
-        "id": 11,
-        "type": "argument",
-        "reason": "Where the commode conceals its construction through decorative veneer, Rams's shelving exposes its structural logic as the primary aesthetic strategy"
-      },
-      {
-        "id": 118,
-        "type": "sameProblem",
-        "reason": "Both solve luxury storage through craft excellence, but the commode uses rococo curves and concealed construction while Webb uses gothic lines and honest joinery"
-      }
-    ],
-    "keywords": [
-      "ormolu mounts",
-      "exotic veneer",
-      "rococo curves",
-      "concealed construction",
-      "luxury storage",
-      "French cabinetmaking",
-      "decorative excess",
-      "traditional craft"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL7621/full/800,/0/default.jpg"
-  },
-  {
-    "id": 212,
-    "title": "Design for a textile",
-    "designer": "Peter Coker",
-    "year": 1956,
-    "discipline": "Product",
-    "origin": "England",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Festival of Britain",
-    "wikiTitle": null,
-    "description": "A repeat pattern design that demonstrates systematic thinking about textile production. The geometric motifs are arranged to create seamless continuity when printed on fabric, requiring mathematical precision in spacing and alignment. The drawing method shows how designers translate individual marks into industrial reproducibility.",
-    "significance": "Reveals the design process behind mass-produced textiles — how hand-drawn concepts become mechanical repeats. Shows students the relationship between artistic expression and manufacturing constraints.",
-    "connections": [
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic rules for reproduction — Coker for textile printing, Tschichold for book layout — that constrain individual expression within industrial logic"
-      },
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use systematic abstraction to solve reproduction problems — Coker eliminates detail that won't print cleanly, Beck removes geographic accuracy that confuses navigation"
-      },
-      {
-        "id": 109,
-        "type": "argument",
-        "reason": "Where Morris bases patterns on naturalistic observation, Coker uses geometric abstraction that prioritizes mechanical reproduction over natural reference"
-      },
-      {
-        "id": 16,
-        "type": "zeitgeist",
-        "reason": "Both represent mid-1950s British design optimism, applying systematic modernist thinking to everyday objects for mass consumption"
-      }
-    ],
-    "keywords": [
-      "textile design",
-      "repeat pattern",
-      "geometric",
-      "industrial reproduction",
-      "Festival of Britain",
-      "systematic design",
-      "printing",
-      "pattern"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT8207/full/800,/0/default.jpg"
-  },
-  {
     "id": 213,
     "title": "Tracer",
     "designer": "Michael Heindorff",
@@ -9036,11 +8729,6 @@ export const ARCHIVE = [
     "description": "A furnishing fabric that uses digital technology to create patterns impossible through traditional weaving methods. The design exploits computer-controlled printing to layer transparent effects and complex color gradations. The 'tracer' name references both the visual effect and the technological process that enables it.",
     "significance": "Demonstrates how digital tools expand design possibilities beyond mechanical constraints. Shows students how technology creates new aesthetic territories while maintaining functional requirements like durability and washability.",
     "connections": [
-      {
-        "id": 212,
-        "type": "lineage",
-        "reason": "Where Coker worked within mechanical printing limitations, Heindorff exploits digital printing's capacity for infinite color variation and seamless gradation"
-      },
       {
         "id": 12,
         "type": "zeitgeist",
@@ -9083,11 +8771,6 @@ export const ARCHIVE = [
     "description": "A fabric pattern that applies Pop Art sensibilities to domestic textiles. The design uses bold, simplified forms and high-contrast colors that remain readable when printed on fabric and viewed from various distances. The motifs are scaled to work effectively on both small accessories and large furnishing applications.",
     "significance": "Shows how Pop Art principles translate to functional objects — bold graphics that work at domestic scales. Teaches students about designing across multiple applications while maintaining visual coherence.",
     "connections": [
-      {
-        "id": 212,
-        "type": "argument",
-        "reason": "Where Coker uses restrained geometric abstraction, Albeck embraces Pop Art's bold, accessible imagery for domestic consumption"
-      },
       {
         "id": 15,
         "type": "zeitgeist",
@@ -9178,11 +8861,6 @@ export const ARCHIVE = [
     "significance": "Shows how 19th-century designers appropriated and systematised non-Western design languages for industrial production. Students learn how pattern design bridges cultural analysis and manufacturing constraints, and how geometric abstraction enables mass reproduction of complex ornamental systems.",
     "connections": [
       {
-        "id": 217,
-        "type": "sameProblem",
-        "reason": "Both solve the same brief of translating Islamic geometric patterns into manufacturable tile designs, demonstrating Jones's systematic approach to ornamental industrialisation"
-      },
-      {
         "id": 13,
         "type": "method",
         "reason": "Both use systematic abstraction to make complex systems readable and reproducible, though Beck abstracts geography while Jones abstracts ornament"
@@ -9209,100 +8887,6 @@ export const ARCHIVE = [
       "manufacturing translation"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AP3540/full/800,/0/default.jpg"
-  },
-  {
-    "id": 217,
-    "title": "Design for tiles in Islamic style",
-    "designer": "Owen Jones",
-    "year": 1840,
-    "discipline": "Graphic",
-    "origin": "Great Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Victorian Orientalism",
-    "wikiTitle": "Owen Jones (architect)",
-    "description": "Jones develops interlocking geometric motifs derived from Moorish sources, creating patterns that work both as individual tiles and continuous surfaces. The design demonstrates how complex Islamic geometries can be broken down into manufacturable components while maintaining their mathematical logic. Each element contains the information needed to generate infinite extension.",
-    "significance": "Demonstrates how design research into historical precedents gets translated into commercial products. Students see how pattern design requires understanding both source material and production constraints, and how modular thinking enables scalable decoration systems.",
-    "connections": [
-      {
-        "id": 216,
-        "type": "sameProblem",
-        "reason": "Both address the same challenge of adapting Islamic geometric systems for Victorian tile production, showing Jones's comprehensive research into ornamental sources"
-      },
-      {
-        "id": 218,
-        "type": "lineage",
-        "reason": "The tile studies inform the larger pavement design, demonstrating how individual pattern units scale up to architectural applications"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic rules for consistent reproduction - Jones for ornamental pattern, Tschichold for typographic composition"
-      },
-      {
-        "id": 11,
-        "type": "argument",
-        "reason": "Jones's ornamental complexity opposes Rams's systematic reduction, representing fundamentally different approaches to modular design thinking"
-      }
-    ],
-    "keywords": [
-      "pattern system",
-      "modular design",
-      "Islamic geometry",
-      "tile manufacture",
-      "ornamental logic",
-      "systematic repetition",
-      "decorative industrialisation",
-      "architectural ornament"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EH9476/full/800,/0/default.jpg"
-  },
-  {
-    "id": 218,
-    "title": "Design for a tiled pavement in Islamic style",
-    "designer": "Owen Jones",
-    "year": 1840,
-    "discipline": "Graphic",
-    "origin": "Great Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Victorian Orientalism",
-    "wikiTitle": "Owen Jones (architect)",
-    "description": "Jones orchestrates individual tile patterns into large-scale pavement compositions, demonstrating how modular elements create architectural environments. The design shows Islamic geometric principles operating at multiple scales - from individual tile to room-sized installation. Colour coding indicates different tile types and their placement logic within the overall system.",
-    "significance": "Shows how pattern design scales from product to architecture, requiring designers to think systematically about part-to-whole relationships. Students learn how modular systems enable both standardisation and variation, and how historical research informs contemporary spatial design.",
-    "connections": [
-      {
-        "id": 217,
-        "type": "lineage",
-        "reason": "The pavement design applies and extends the individual tile studies, showing how component research scales up to architectural application"
-      },
-      {
-        "id": 15,
-        "type": "method",
-        "reason": "Both use systematic colour coding to make complex structural relationships readable, though Jones codes ornamental hierarchy while Rogers codes building systems"
-      },
-      {
-        "id": 110,
-        "type": "argument",
-        "reason": "Jones's systematic geometry opposes Morris's organic naturalism, representing competing Victorian approaches to Islamic and Indian design sources"
-      },
-      {
-        "id": 104,
-        "type": "sameProblem",
-        "reason": "Both design floor-based pattern systems that create spatial environments through repetitive geometric elements, though du Pasquier fragments where Jones systematises"
-      }
-    ],
-    "keywords": [
-      "architectural pattern",
-      "pavement design",
-      "modular system",
-      "Islamic architecture",
-      "spatial composition",
-      "systematic colour",
-      "ornamental scaling",
-      "environmental design"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016HY8666/full/800,/0/default.jpg"
   },
   {
     "id": 219,
@@ -10292,47 +9876,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM1967/full/800,/0/default.jpg"
   },
   {
-    "id": 240,
-    "title": "Overcrowded schools",
-    "designer": "Ernest Cole",
-    "year": 1966,
-    "discipline": "Graphic",
-    "origin": "South Africa",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Documentary Photography",
-    "wikiTitle": "Ernest Cole",
-    "description": "Cole's documentary photograph captures the systemic overcrowding of apartheid-era South African schools through precise framing that transforms architectural inadequacy into political evidence. The image's power emerges from its formal restraint — no editorial flourishes, just the brutal arithmetic of too many bodies in too small a space. The photograph functions as both documentation and indictment, using the camera's supposed objectivity to expose institutional violence.",
-    "significance": "Students learn how graphic design can serve social justice through strategic deployment of documentary aesthetics. The work demonstrates that the most powerful political graphics often emerge from systematic observation rather than symbolic manipulation.",
-    "connections": [
-      {
-        "id": 13,
-        "type": "argument",
-        "reason": "Where Beck used systematic reduction to make complex information navigable, Cole uses systematic documentation to make invisible injustice visible — opposing approaches to information design's social responsibility"
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Both emerged from 1960s-70s institutional critique, but where Piano & Rogers celebrated architectural transparency as democratic progress, Cole exposed how architectural inadequacy enforced social control"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both use systematic approaches to make information accessible, but where Tschichold's rules democratize literary culture, Cole's systematic documentation exposes how systems can enforce oppression"
-      }
-    ],
-    "keywords": [
-      "documentary",
-      "apartheid",
-      "institutional critique",
-      "social justice",
-      "systematic observation",
-      "architectural inadequacy",
-      "political evidence"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY9325/full/800,/0/default.jpg"
-  },
-  {
     "id": 241,
     "title": "Columbine",
     "designer": "Lucienne Day",
@@ -10396,11 +9939,6 @@ export const ARCHIVE = [
         "id": 116,
         "type": "argument",
         "reason": "Where Morris used single botanical species to create infinite pattern repeats, Day constrains multiple species within finite circular formats — opposing approaches to pattern boundaries"
-      },
-      {
-        "id": 174,
-        "type": "method",
-        "reason": "Both use systematic variation of natural motifs to create decorative schemes that reference temporal cycles while serving domestic functions"
       }
     ],
     "keywords": [
@@ -10566,11 +10104,6 @@ export const ARCHIVE = [
         "id": 1,
         "type": "zeitgeist",
         "reason": "Both from 1962 represent the decade's move toward bold geometric forms, though Castiglioni's industrial minimalism contrasts with Day's decorative pattern-making"
-      },
-      {
-        "id": 174,
-        "type": "argument",
-        "reason": "While Day's glass towel maintains her signature organic vocabulary, Club shows her embrace of hard-edged geometric abstraction, demonstrating her range across different markets"
       },
       {
         "id": 24,
@@ -11249,48 +10782,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1786/full/800,/0/default.jpg"
   },
   {
-    "id": 261,
-    "title": "Contribution to V&A's 150th anniversary album",
-    "designer": "Kenneth Grange",
-    "year": 2007,
-    "discipline": "Graphic",
-    "origin": "United Kingdom",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Contemporary Reflection",
-    "wikiTitle": null,
-    "description": "Retrospective page demonstrating Grange's mature reflection on design practice, combining text and image to articulate his philosophy of systematic industrial design. The layout itself embodies his rational approach, using clear hierarchies and precise alignments to structure information.",
-    "significance": "Shows students how experienced designers articulate their methods and philosophy. Demonstrates that design thinking can be applied reflexively to explain design thinking itself.",
-    "connections": [
-      {
-        "id": 29,
-        "type": "sameProblem",
-        "reason": "Both are retrospective texts where senior designers reflect on their practice and its historical significance"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both use systematic layout principles to organize information clearly, applying design methodology to the communication of design ideas"
-      },
-      {
-        "id": 11,
-        "type": "argument",
-        "reason": "Both advocate for systematic, rational approaches to design problems, but Grange applies this philosophy across multiple product categories"
-      }
-    ],
-    "keywords": [
-      "design philosophy",
-      "retrospective reflection",
-      "systematic thinking",
-      "professional practice",
-      "design communication",
-      "rational methodology",
-      "industrial design legacy",
-      "institutional memory"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY2194/full/800,/0/default.jpg"
-  },
-  {
     "id": 262,
     "title": "Women at Work",
     "designer": "Margaret Calvert",
@@ -11608,43 +11099,6 @@ export const ARCHIVE = [
       "educational design"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF7895/full/800,/0/default.jpg"
-  },
-  {
-    "id": 269,
-    "title": "The Nutcracker",
-    "designer": "Anthony Crickmay",
-    "year": 1976,
-    "discipline": "Graphic",
-    "origin": "Great Britain",
-    "manufacturer": "Unknown",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "British Arts Photography",
-    "wikiTitle": null,
-    "description": "A ballet poster that uses dramatic dance photography to communicate the energy and spectacle of performance. The design relies on the expressive power of the human form in motion rather than decorative illustration. The typography works in service of the photographic image, allowing the dancer's gesture to carry the visual message.",
-    "significance": "Demonstrates how photography replaced illustration in cultural advertising during the 1970s, showing the medium's power to capture authentic movement and emotion. Important for understanding how graphic design shifted from constructed imagery to documentary approaches.",
-    "connections": [
-      {
-        "id": 88,
-        "type": "method",
-        "reason": "Both use dramatic photographic imagery as the primary graphic element, rejecting decorative approaches in favor of direct emotional communication"
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Both from the 1970s period when cultural institutions embraced bold, uncompromising visual strategies that celebrated performance and spectacle"
-      }
-    ],
-    "keywords": [
-      "ballet poster",
-      "performance photography",
-      "cultural advertising",
-      "dance",
-      "typographic hierarchy",
-      "movement",
-      "1970s graphics",
-      "theatrical promotion"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PL1618/full/800,/0/default.jpg"
   },
   {
     "id": 270,
@@ -12087,95 +11541,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT5930/full/800,/0/default.jpg"
   },
   {
-    "id": 280,
-    "title": "Don Carlos of Spain",
-    "designer": "Antonio Abondio",
-    "year": 1570,
-    "discipline": "Product",
-    "origin": "Austria",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Northern Renaissance",
-    "wikiTitle": null,
-    "description": "A bronze relief portrait that demonstrates Renaissance court portraiture's transition from medieval flatness to classical three-dimensionality. Abondio employs subtle modeling and precise casting to create psychological depth while maintaining the formal constraints of royal representation. The relief technique allows for multiple reproduction while preserving sculptural quality, serving both artistic and diplomatic functions.",
-    "significance": "Shows how Renaissance artisans adapted classical techniques for modern political communication. Demonstrates the role of reproducible objects in creating consistent royal imagery across European courts, establishing design's relationship to power and identity.",
-    "connections": [
-      {
-        "id": 9,
-        "type": "lineage",
-        "reason": "Both use bronze relief for commemorative portraiture, showing continuity of medallic traditions from Renaissance court culture through Northern European craft traditions"
-      },
-      {
-        "id": 5,
-        "type": "material",
-        "reason": "Both demonstrate how metalworking precision serves functional and symbolic purposes, though Abondio's casting contrasts with Jacobsen's industrial steel fabrication methods"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic approaches to consistent visual identity - Abondio through standardized portrait conventions, Tschichold through typographic rules"
-      }
-    ],
-    "keywords": [
-      "Renaissance portraiture",
-      "bronze relief",
-      "court art",
-      "political representation",
-      "casting techniques",
-      "commemorative objects",
-      "royal imagery",
-      "diplomatic art"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0464/full/800,/0/default.jpg"
-  },
-  {
-    "id": 281,
-    "title": "Philip II of Spain Relief",
-    "designer": "Antonio Abondio",
-    "year": 1570,
-    "discipline": "Product",
-    "origin": "Lombardy",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Northern Renaissance",
-    "wikiTitle": "Antonio Abondio",
-    "description": "This bronze relief demonstrates the Renaissance medallion's function as portable propaganda, using precise cast detail to project royal authority. Abondio's technique compresses three-dimensional portraiture into a format that could be reproduced and distributed across Habsburg territories. The relief's shallow depth creates maximum visual impact while remaining economically producible through bronze casting.",
-    "significance": "Students learn how design serves political communication through material constraint. The relief shows how Renaissance makers balanced artistic ambition with technical limitation, creating a template for mass-produced authority that prefigures modern corporate identity systems.",
-    "connections": [
-      {
-        "id": 229,
-        "type": "zeitgeist",
-        "reason": "Both reliefs were made by Abondio in the same workshop period, showing how Renaissance court portraiture standardized royal representation through identical casting techniques and compositional formulas."
-      },
-      {
-        "id": 5,
-        "type": "material",
-        "reason": "Both objects use metal's capacity for precision and reproduction to create authority through consistency — the relief's cast bronze achieving royal gravitas just as Jacobsen's steel cutlery achieves domestic refinement."
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic visual languages for mass communication — Abondio's relief creating templates for royal representation that parallel Tschichold's typographic standards for publishing consistency."
-      },
-      {
-        "id": 13,
-        "type": "sameProblem",
-        "reason": "Both solve the problem of communicating complex information through simplified visual systems — the relief reducing royal presence to essential symbolic elements just as Beck reduces geographic complexity to navigational clarity."
-      }
-    ],
-    "keywords": [
-      "bronze casting",
-      "political propaganda",
-      "Renaissance portraiture",
-      "mass reproduction",
-      "royal iconography",
-      "Habsburg court",
-      "medallion design",
-      "authority systems"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0465/full/800,/0/default.jpg"
-  },
-  {
     "id": 282,
     "title": "Extinction Rebellion Printing Block",
     "designer": "Extinction Rebellion Arts Group",
@@ -12237,11 +11602,6 @@ export const ARCHIVE = [
     "significance": "Students learn how crisis communication requires abandoning conventional design polish for emotional immediacy. The placard shows how activist graphics prioritize authenticity over professionalism, teaching that appropriate design depends on social context and political purpose.",
     "connections": [
       {
-        "id": 210,
-        "type": "argument",
-        "reason": "Against Games's optimistic poster celebrating national progress, XR's placard uses graphic design to communicate civilizational failure, opposing celebration with lamentation through deliberately distressed typography."
-      },
-      {
         "id": 224,
         "type": "zeitgeist",
         "reason": "Both graphics emerge from environmental activism but XR's crude aesthetics contrast with Fuller's systematic approach, showing how 2019 climate despair replaces 1970s technological optimism."
@@ -12284,11 +11644,6 @@ export const ARCHIVE = [
         "reason": "Both blocks emerge from the same 2019 activist moment, using identical relief printing techniques to create grassroots media networks that bypass corporate publishing infrastructure."
       },
       {
-        "id": 281,
-        "type": "sameProblem",
-        "reason": "Both solve the problem of mass-producing political messages through relief techniques, but where Abondio's bronze projects royal authority, ESP's carved block communicates grassroots resistance to institutional power."
-      },
-      {
         "id": 14,
         "type": "argument",
         "reason": "Against Tschichold's systematic typography for mass literacy, ESP's block argues that political crisis requires crude immediacy over refined professionalism in visual communication."
@@ -12329,11 +11684,6 @@ export const ARCHIVE = [
         "id": 13,
         "type": "argument",
         "reason": "Where Beck's map creates systematic order for navigation, XR's flag creates systematic chaos for disruption, opposing institutional efficiency with activist interruption through coordinated visual identity."
-      },
-      {
-        "id": 210,
-        "type": "argument",
-        "reason": "Against Games's optimistic national celebration, XR's flag uses similar graphic boldness to communicate national failure, opposing patriotic pride with environmental shame through visual appropriation."
       }
     ],
     "keywords": [
@@ -12413,11 +11763,6 @@ export const ARCHIVE = [
         "id": 231,
         "type": "lineage",
         "reason": "The leaflet's production methods connect to traditional protest printing, with both using reproducible graphic techniques to spread political messages through democratic means"
-      },
-      {
-        "id": 210,
-        "type": "argument",
-        "reason": "Where Games created optimistic national identity through celebratory graphics, Extinction Rebellion uses urgent typography to communicate crisis — both use graphic design to shape collective response but with opposite emotional registers"
       },
       {
         "id": 14,
@@ -12697,11 +12042,6 @@ export const ARCHIVE = [
         "reason": "Both use graphic design for political messaging but take opposite approaches—Gatley employs illustrative persuasion while Aqui uses typographic directness to communicate resistance"
       },
       {
-        "id": 210,
-        "type": "argument",
-        "reason": "Both address British national identity through graphic design but from opposing political positions—Games celebrates collective achievement while Gatley warns against institutional overreach"
-      },
-      {
         "id": 13,
         "type": "sameProblem",
         "reason": "Both address London's organizational complexity through graphic design, though Beck creates neutral infrastructure while Gatley makes political argument about governance"
@@ -12723,100 +12063,6 @@ export const ARCHIVE = [
       "civic graphics"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV2129/full/800,/0/default.jpg"
-  },
-  {
-    "id": 294,
-    "title": "Design for a carpet",
-    "designer": "Frederick Etchells",
-    "year": 1913,
-    "discipline": "Product",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "British Modernism",
-    "wikiTitle": null,
-    "description": "A geometric carpet pattern that applies Vorticist angular abstraction to domestic textile design. The composition uses bold geometric forms and contrasting tones to create dynamic visual movement within a functional floor covering. Abstract art principles are translated into applied design through systematic geometric organization.",
-    "significance": "Demonstrates the transition from Arts and Crafts naturalism to modernist abstraction in British design. Shows how avant-garde art movements influence domestic objects. Critical for understanding how geometric abstraction enters everyday life through applied arts.",
-    "connections": [
-      {
-        "id": 109,
-        "type": "argument",
-        "reason": "Both are British textile designs but represent opposing philosophies—Morris uses organic naturalism rooted in craft tradition while Etchells applies geometric abstraction from modernist art movements"
-      },
-      {
-        "id": 140,
-        "type": "method",
-        "reason": "Both use geometric abstraction in carpet design to create visual impact through systematic pattern-making, though Gray works within Art Deco luxury while Etchells applies Vorticist angularity"
-      },
-      {
-        "id": 115,
-        "type": "argument",
-        "reason": "Both are British pattern designs but embody opposite approaches to decoration—Morris integrates natural forms with architectural structure while Etchells uses pure geometric abstraction"
-      },
-      {
-        "id": 104,
-        "type": "lineage",
-        "reason": "Both reject naturalistic pattern in favor of abstract composition, though Etchells uses geometric precision while du Pasquier employs Memphis postmodern fragmentation"
-      }
-    ],
-    "keywords": [
-      "Vorticist design",
-      "geometric abstraction",
-      "British modernism",
-      "textile pattern",
-      "avant-garde applied arts",
-      "angular composition",
-      "domestic modernism",
-      "art-into-design"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG9201/full/800,/0/default.jpg"
-  },
-  {
-    "id": 295,
-    "title": "Malcho Papo",
-    "designer": "Tobias Stimmer",
-    "year": 1607,
-    "discipline": "Graphic",
-    "origin": "Schaffhausen",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Northern Renaissance",
-    "wikiTitle": null,
-    "description": "A stained glass design that combines heraldic symbolism with Renaissance architectural framing. The composition balances figurative elements within geometric borders, using color and line to create hierarchical visual organization. Design thinking applies systematic proportion and symbolic programming to architectural decoration.",
-    "significance": "Shows how systematic design thinking operated before industrialization, using geometric proportion and symbolic programming to organize complex visual information. Demonstrates design as cultural communication system. Essential for understanding pre-modern design methodology and visual hierarchy.",
-    "connections": [
-      {
-        "id": 9,
-        "type": "zeitgeist",
-        "reason": "Both emerge from Northern Renaissance culture, using systematic craft techniques to create symbolic objects that communicate cultural values through geometric organization and figurative representation"
-      },
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use systematic visual hierarchy to organize complex information, though Stimmer works through heraldic symbolism while Beck uses diagrammatic abstraction"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic approaches to visual organization for information communication, though Stimmer uses architectural proportion while Tschichold applies modernist typography"
-      },
-      {
-        "id": 161,
-        "type": "sameProblem",
-        "reason": "Both create systematic pattern designs for architectural application using geometric principles, though Stimmer works through Christian symbolism while Jones applies Islamic geometric logic"
-      }
-    ],
-    "keywords": [
-      "stained glass design",
-      "heraldic symbolism",
-      "Northern Renaissance",
-      "systematic proportion",
-      "architectural decoration",
-      "visual hierarchy",
-      "cultural communication",
-      "symbolic programming"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HR7944/full/800,/0/default.jpg"
   },
   {
     "id": 296,
@@ -12866,48 +12112,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH9970/full/800,/0/default.jpg"
   },
   {
-    "id": 297,
-    "title": "Standing paten",
-    "designer": "Daniel Gee",
-    "year": 1629,
-    "discipline": "Product",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "English Silver",
-    "wikiTitle": "Paten",
-    "description": "This silver communion plate demonstrates early 17th-century English silversmithing's balance between ceremonial function and material craft. The raised foot creates hierarchical presentation while the broad surface maximizes the display area for consecrated bread. The hammered silver construction shows how precious materials communicate sacred purpose through weight and reflectivity.",
-    "significance": "Students see how functional objects carry symbolic meaning through material choice and proportional relationships. It shows how craft traditions encode religious and social hierarchies into everyday ritual objects, making abstract concepts tangible through form.",
-    "connections": [
-      {
-        "id": 5,
-        "type": "sameProblem",
-        "reason": "Both solve the problem of elevating eating implements above mere function — Gee through precious material and religious symbolism, Jacobsen through systematic modernist reduction"
-      },
-      {
-        "id": 9,
-        "type": "argument",
-        "reason": "The paten prioritizes sacred function over efficiency, while Starck's squeezer prioritizes symbolic form over practical use — opposite approaches to object meaning"
-      },
-      {
-        "id": 152,
-        "type": "material",
-        "reason": "Both use precious metals to transform mundane consumption rituals into displays of social status, showing how material choice elevates function"
-      }
-    ],
-    "keywords": [
-      "sacred objects",
-      "silversmithing",
-      "ceremonial function",
-      "precious metals",
-      "ritual design",
-      "religious symbolism",
-      "craft tradition",
-      "hierarchical form"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AD0680/full/800,/0/default.jpg"
-  },
-  {
     "id": 298,
     "title": "European Socialists for the Women of Europe",
     "designer": "Lolli Aboutboul",
@@ -12935,11 +12139,6 @@ export const ARCHIVE = [
         "id": 299,
         "type": "sameProblem",
         "reason": "Both posters address socialist politics but Aboutboul focuses on gender inclusion while Mabb critiques economic policy — different graphic approaches to left political discourse"
-      },
-      {
-        "id": 210,
-        "type": "argument",
-        "reason": "Games' festival poster promotes national optimism through celebration, while Aboutboul's poster demands institutional change through critique — opposing uses of graphic design for political engagement"
       }
     ],
     "keywords": [
@@ -13015,11 +12214,6 @@ export const ARCHIVE = [
     "description": "This commemorative poster uses restrained typography and photographic portraiture to honor Czechoslovakia's first president during the 1990 democratic transition. The design balances institutional authority with democratic accessibility, using serif typography to suggest historical continuity while maintaining modern clarity. The quote placement emphasizes moral leadership over political pragmatism.",
     "significance": "Students learn how graphic design mediates between historical memory and contemporary political transition. It demonstrates how typography and image hierarchy can construct democratic legitimacy by connecting new institutions to respected historical figures and moral principles.",
     "connections": [
-      {
-        "id": 297,
-        "type": "argument",
-        "reason": "Where the paten embodies traditional religious authority through precious materials, Hladík's poster challenges political authority through democratic typography — opposing relationships to institutional power"
-      },
       {
         "id": 13,
         "type": "sameProblem",
@@ -13207,11 +12401,6 @@ export const ARCHIVE = [
         "id": 110,
         "type": "lineage",
         "reason": "Crane's systematic approach to pattern documentation builds on Morris's earlier wallpaper innovations, showing how Arts and Crafts design became systematized for industrial production."
-      },
-      {
-        "id": 305,
-        "type": "zeitgeist",
-        "reason": "Both reflect Victorian revival interests but Crane applies Arts and Crafts principles to wallpaper while Richardson revives Elizabethan architecture — parallel historicist approaches in different media."
       }
     ],
     "keywords": [
@@ -13225,84 +12414,6 @@ export const ARCHIVE = [
       "medieval revival"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA1427/full/800,/0/default.jpg"
-  },
-  {
-    "id": 305,
-    "title": "Design no. 4 - Front Elevation of an Elizabethan villa",
-    "designer": "Charles James Richardson",
-    "year": 1850,
-    "discipline": "Architecture",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Victorian Historicism",
-    "wikiTitle": null,
-    "description": "Richardson creates detailed architectural drawings that systematically document Elizabethan design elements for Victorian revival use, emphasizing precise proportional relationships and decorative details. The elevation drawing functions as both historical record and practical template, showing how Tudor and Elizabethan motifs can be adapted for contemporary construction. Technical precision serves romantic historicism, making past architectural styles available for modern application.",
-    "significance": "Demonstrates how architectural drawing serves both documentation and design generation. Shows students how historical revival movements used systematic drawing to make past styles available for contemporary use.",
-    "connections": [
-      {
-        "id": 304,
-        "type": "zeitgeist",
-        "reason": "Both reflect Victorian revival interests but Richardson revives Elizabethan architecture while Crane applies Arts and Crafts principles to wallpaper — parallel historicist approaches in different media."
-      },
-      {
-        "id": 118,
-        "type": "argument",
-        "reason": "Webb creates authentic medieval-inspired furniture while Richardson systematizes historical styles for revival application — opposing approaches to historical reference in design."
-      },
-      {
-        "id": 13,
-        "type": "argument",
-        "reason": "Richardson adds decorative complexity to communicate historical authenticity while Beck eliminates ornament for functional clarity — opposing approaches to architectural communication."
-      }
-    ],
-    "keywords": [
-      "Elizabethan revival",
-      "architectural drawing",
-      "Victorian historicism",
-      "elevation drawing",
-      "Tudor style",
-      "architectural documentation",
-      "historical revival",
-      "proportional systems"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9068/full/800,/0/default.jpg"
-  },
-  {
-    "id": 306,
-    "title": "Design of a chimney piece from a farm house in Yatton Keynell, Wiltshire",
-    "designer": "Charles James Richardson",
-    "year": 1850,
-    "discipline": "Architecture",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Victorian Historicism",
-    "wikiTitle": null,
-    "description": "Richardson's drawing documents vernacular architectural details with archaeological precision, treating domestic elements as historical specimens. The chimney piece represents Gothic Revival methodology — not copying medieval forms but understanding their structural logic. Richardson's approach demonstrates how Victorian architects studied regional building traditions to establish national architectural character.",
-    "significance": "Shows how documentation became design methodology in the Gothic Revival. Students learn that architectural drawing wasn't just representation but analysis — understanding how vernacular forms carried cultural meaning. Essential for understanding how national style was constructed through selective historical interpretation.",
-    "connections": [
-      {
-        "id": 254,
-        "type": "zeitgeist",
-        "reason": "Both Richardson drawings from 1850 demonstrate the Victorian method of architectural documentation as cultural project — studying historical forms to construct contemporary national identity"
-      },
-      {
-        "id": 118,
-        "type": "argument",
-        "reason": "Richardson's chimney piece represents machine-age documentation of craft traditions while Webb's cabinet represents craft revival opposing machine production — opposite responses to industrialization's threat to vernacular making"
-      }
-    ],
-    "keywords": [
-      "vernacular architecture",
-      "Gothic Revival",
-      "architectural documentation",
-      "Victorian historicism",
-      "domestic architecture",
-      "cultural nationalism",
-      "drawing methodology"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9067/full/800,/0/default.jpg"
   },
   {
     "id": 307,
@@ -13425,11 +12536,6 @@ export const ARCHIVE = [
         "id": 250,
         "type": "argument",
         "reason": "Jirásek's democratic minimalism directly opposes Klucis's revolutionary dynamism — representing opposite approaches to political graphic communication before and after communist collapse"
-      },
-      {
-        "id": 210,
-        "type": "sameProblem",
-        "reason": "Both posters communicate national renewal through optimistic modernist graphics — Games for post-war reconstruction, Jirásek for post-communist democracy"
       }
     ],
     "keywords": [
@@ -14123,47 +13229,6 @@ export const ARCHIVE = [
       "organic forms"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG6278/full/800,/0/default.jpg"
-  },
-  {
-    "id": 325,
-    "title": "Self-Portrait",
-    "designer": "Tom Dixon",
-    "year": 1986,
-    "discipline": "Product",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "British Post-Industrial",
-    "wikiTitle": null,
-    "description": "Dixon's self-portrait reveals his transition from art to design through material manipulation. The painting documents his interest in transformation—the same conceptual approach he would later apply to welding salvaged metal into furniture. This work captures the designer as bricoleur, establishing his methodology of remaking found objects into new functional forms.",
-    "significance": "This demonstrates how designers develop their material philosophy before establishing their practice. Dixon's artistic background explains his approach to design as transformation rather than creation from scratch, showing students how personal methodology can emerge from other disciplines.",
-    "connections": [
-      {
-        "id": 39,
-        "type": "lineage",
-        "reason": "Dixon's artistic practice of material transformation, visible in this self-portrait, directly informed his later design methodology of welding salvaged metal into furniture"
-      },
-      {
-        "id": 2,
-        "type": "method",
-        "reason": "Both Dixon and the Castiglioni brothers employ readymade transformation, though Dixon's artistic background led him to more aggressive material interventions"
-      },
-      {
-        "id": 12,
-        "type": "zeitgeist",
-        "reason": "Both emerged from 1980s design culture that celebrated the designer as auteur, though Dixon's industrial aesthetic contrasted with Memphis Group's decorative postmodernism"
-      }
-    ],
-    "keywords": [
-      "self-documentation",
-      "material transformation",
-      "artist-designer",
-      "bricolage",
-      "post-industrial",
-      "found objects",
-      "welding methodology"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG0970/full/800,/0/default.jpg"
   },
   {
     "id": 326,
@@ -14935,11 +14000,6 @@ export const ARCHIVE = [
     "significance": "Shows students how reduction can be a form of sophistication, not simplification. Demonstrates that contemporary design can critique both modernist functionalism and postmodern expressiveness by proposing a third way: objects that work perfectly but remain culturally neutral. Essential for understanding how design can be simultaneously contemporary and timeless.",
     "connections": [
       {
-        "id": 294,
-        "type": "lineage",
-        "reason": "Morrison's 1986 chair establishes his material vocabulary and reductive approach that he would refine three years later in the Ply-Chair, showing his consistent investigation of plywood as an honest, functional material"
-      },
-      {
         "id": 6,
         "type": "argument",
         "reason": "Where Ponti's chair celebrates its structural virtuosity and traditional craftsmanship, Morrison's chair deliberately suppresses any display of technical prowess, proposing that contemporary seating should be functionally excellent but culturally invisible"
@@ -15089,11 +14149,6 @@ export const ARCHIVE = [
         "id": 2,
         "type": "argument",
         "reason": "Where Castiglioni celebrates the found object's industrial origins, Morrison erases all traces of making process, arguing for anonymous perfection over expressive appropriation."
-      },
-      {
-        "id": 295,
-        "type": "method",
-        "reason": "Both exemplify Morrison's systematic reduction methodology, removing decorative elements to reveal essential forms, but the Pill Stool applies this philosophy to the most basic seating typology."
       }
     ],
     "keywords": [
@@ -15900,11 +14955,6 @@ export const ARCHIVE = [
         "id": 104,
         "type": "zeitgeist",
         "reason": "Both 1980s designs reject minimalist reduction in favour of complex graphic compositions that celebrate decorative abundance"
-      },
-      {
-        "id": 194,
-        "type": "sameProblem",
-        "reason": "Both solve the challenge of creating ceremonial luxury through material choice and surface treatment, though the scarf achieves this through portability rather than architectural structure"
       }
     ],
     "keywords": [
@@ -16483,11 +15533,6 @@ export const ARCHIVE = [
         "reason": "Development of the series toward more explicitly defensive and hostile forms, suggesting evolutionary adaptation against human use"
       },
       {
-        "id": 281,
-        "type": "argument",
-        "reason": "Both employ sharp protrusions to repel human interaction, though the spikes are explicitly defensive architecture while Vinci's work suggests autonomous object evolution"
-      },
-      {
         "id": 283,
         "type": "zeitgeist",
         "reason": "Both pieces reject comfort and conventional use, though Smithson's brutalist aesthetic contrasts with Vinci's organic-technological hybrid approach"
@@ -16632,11 +15677,6 @@ export const ARCHIVE = [
         "id": 109,
         "type": "method",
         "reason": "Both investigate human relationships with natural systems, but Morris used craft to resist industrial production while Formafantasma uses design to critique it"
-      },
-      {
-        "id": 325,
-        "type": "material",
-        "reason": "Both investigate how contemporary craft can address environmental concerns, using material exploration to question industrial production systems"
       }
     ],
     "keywords": [
@@ -16791,47 +15831,6 @@ export const ARCHIVE = [
       "craft modernism"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3607/full/800,/0/default.jpg"
-  },
-  {
-    "id": 384,
-    "title": "The Apotheosis of Henry VIII",
-    "designer": "Robert Pyte",
-    "year": 1546,
-    "discipline": "Graphic",
-    "origin": "England",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Northern Renaissance",
-    "wikiTitle": null,
-    "description": "A ceremonial drawing that constructs royal power through visual hierarchy and symbolic iconography. The composition uses architectural framing and figural arrangement to elevate Henry VIII above earthly concerns into divine association. This propaganda technique demonstrates how graphic design has always served political communication, using formal devices to make abstract concepts of authority tangible and persuasive.",
-    "significance": "Students need to understand how visual rhetoric functions through compositional strategies, not just aesthetic choice. This work reveals design as a technology of power — showing how arrangement, scale, and symbolic reference create meaning that serves specific political functions.",
-    "connections": [
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use visual hierarchy and systematic organization to communicate complex information clearly — Pyte through ceremonial iconography, Beck through geographical abstraction"
-      },
-      {
-        "id": 14,
-        "type": "argument",
-        "reason": "Represents the opposite approach to information design — where Pyte uses ornamental complexity to signal authority, Tschichold strips decoration to achieve clarity"
-      },
-      {
-        "id": 12,
-        "type": "zeitgeist",
-        "reason": "Both respond to their era's power structures — Pyte reinforcing Tudor absolutism through visual glorification, Sottsass challenging modernist authority through radical form"
-      }
-    ],
-    "keywords": [
-      "visual rhetoric",
-      "political propaganda",
-      "royal iconography",
-      "compositional hierarchy",
-      "ceremonial design",
-      "Tudor period",
-      "graphic communication"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6537/full/800,/0/default.jpg"
   },
   {
     "id": 385,
@@ -17125,48 +16124,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU9052/full/800,/0/default.jpg"
   },
   {
-    "id": 392,
-    "title": "Doorcase and door",
-    "designer": "Robert Adam",
-    "year": 1770,
-    "discipline": "Architecture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Neoclassicism",
-    "wikiTitle": null,
-    "description": "Adam's doorcase demonstrates how architectural details can transform functional elements into decorative statements about social status and cultural sophistication. The design operates through classical proportional systems applied to domestic scale, using carved ornament and material richness to signal wealth and education. Each molding profile and decorative element follows established hierarchies that communicate the owner's understanding of proper architectural grammar.",
-    "significance": "Students learn how architectural design encodes social and cultural information through formal language, demonstrating design's role in constructing and communicating class distinctions. The work shows how functional elements become carriers of cultural meaning through decorative treatment.",
-    "connections": [
-      {
-        "id": 118,
-        "type": "sameProblem",
-        "reason": "Both transform functional furniture into statements of cultural sophistication through decorative programs — Adam through classical ornament, Webb through medieval revival"
-      },
-      {
-        "id": 12,
-        "type": "argument",
-        "reason": "Where Adam uses established classical language to confirm social hierarchy, Sottsass uses radical forms to challenge cultural conventions — opposing attitudes toward decoration's social function"
-      },
-      {
-        "id": 15,
-        "type": "argument",
-        "reason": "Adam conceals structural elements behind decorative surfaces while Rogers exposes them as architectural expression — opposite approaches to revealing building logic"
-      }
-    ],
-    "keywords": [
-      "neoclassical ornament",
-      "social status",
-      "architectural grammar",
-      "proportional systems",
-      "domestic architecture",
-      "cultural sophistication",
-      "decorative hierarchy",
-      "Neoclassicism"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY4362/full/800,/0/default.jpg"
-  },
-  {
     "id": 393,
     "title": "Printed flannel",
     "designer": "Varvara Stepanova",
@@ -17194,11 +16151,6 @@ export const ARCHIVE = [
         "id": 104,
         "type": "lineage",
         "reason": "Memphis's subversive patterns descend from Constructivist attempts to replace bourgeois decoration with revolutionary imagery, though serving opposite political ends"
-      },
-      {
-        "id": 211,
-        "type": "sameProblem",
-        "reason": "Both textiles embed national ideology into personal objects, though Stepanova promotes revolution while Britain's Festival celebrates reconstruction"
       }
     ],
     "keywords": [
@@ -17320,11 +16272,6 @@ export const ARCHIVE = [
         "id": 92,
         "type": "lineage",
         "reason": "Beggarstaff's simplified poster language directly influences Swiss modernist approaches to reducing complex information into clear visual communication"
-      },
-      {
-        "id": 210,
-        "type": "sameProblem",
-        "reason": "Both posters must communicate cultural events to mass audiences, using reduction and strong imagery to compete for attention in busy urban environments"
       },
       {
         "id": 88,
@@ -17463,11 +16410,6 @@ export const ARCHIVE = [
         "reason": "Both represent British manufacturers' attempts to compete with continental design leadership through modernist styling, showing how design became a tool of industrial policy."
       },
       {
-        "id": 210,
-        "type": "zeitgeist",
-        "reason": "Both emerge from post-war British efforts to demonstrate cultural and industrial renewal through modernist design, proving that style served national reconstruction."
-      },
-      {
         "id": 168,
         "type": "argument",
         "reason": "While Day's furniture systems emphasize adaptability and openness, GEC's radio prioritizes contained, self-sufficient functionality — showing different interpretations of modernist principles."
@@ -17580,47 +16522,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2012FG8497/full/800,/0/default.jpg"
   },
   {
-    "id": 402,
-    "title": "Design for Ad Hoc Chair",
-    "designer": "Nathan Silver",
-    "year": 1968,
-    "discipline": "Furniture",
-    "origin": "UK",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "British Radical Architecture",
-    "wikiTitle": null,
-    "description": "Silver's Ad Hoc chair proposal demonstrates radical architecture's embrace of improvisation and anti-design. The design rejects fixed formal solutions in favor of situational responses, embodying the architectural philosophy that buildings and objects should emerge from immediate conditions rather than predetermined aesthetic principles.",
-    "significance": "Students learn how 1960s counter-culture challenged modernism's universal solutions. The design demonstrates how architects can question the very premise of designed objects, proposing instead frameworks for user-determined outcomes.",
-    "connections": [
-      {
-        "id": 2,
-        "type": "argument",
-        "reason": "Both question whether designed objects are necessary — Silver proposes improvised construction while Castiglioni appropriates existing industrial forms, but Silver rejects design entirely while Castiglioni celebrates found industrial beauty"
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Both emerge from 1960s architectural radicalism that questioned institutional frameworks — Silver's anti-design and Piano/Rogers' exposed systems both reject traditional architectural decorum"
-      },
-      {
-        "id": 12,
-        "type": "argument",
-        "reason": "Silver's improvised construction philosophy directly opposes Sottsass's highly designed symbolic objects — one rejects authorial control while the other demands it through extreme formal statement"
-      }
-    ],
-    "keywords": [
-      "improvisation",
-      "anti-design",
-      "radical architecture",
-      "situationism",
-      "counter-culture",
-      "user agency",
-      "improvised construction"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KL1820/full/800,/0/default.jpg"
-  },
-  {
     "id": 403,
     "title": "Morris Kestelmen design",
     "designer": "Morris Kestelman",
@@ -17643,11 +16544,6 @@ export const ARCHIVE = [
         "id": 13,
         "type": "method",
         "reason": "Both use systematic reduction of complex information into essential visual elements — Kestelman's wartime graphics and Beck's map both prioritize immediate comprehension over decorative appeal"
-      },
-      {
-        "id": 210,
-        "type": "lineage",
-        "reason": "Kestelman's wartime design experience directly influenced post-war British graphic optimism — his institutional communication work provided foundation for Festival's celebration of reconstructed national identity"
       }
     ],
     "keywords": [
@@ -17702,47 +16598,6 @@ export const ARCHIVE = [
       "accumulation"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY6810/full/800,/0/default.jpg"
-  },
-  {
-    "id": 405,
-    "title": "Design for Ramah Droog",
-    "designer": "John Inigo Richards",
-    "year": 1798,
-    "discipline": "Architecture",
-    "origin": "UK",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Picturesque Architecture",
-    "wikiTitle": null,
-    "description": "Richards' theatrical set design for 'Ramah Droog' creates exotic architectural fantasy through Orientalist imagery and dramatic perspective. The design constructs an imagined Indian fortress using European conventions of the picturesque, demonstrating how architectural representation served colonial imagination rather than accurate documentation.",
-    "significance": "Students understand how architectural drawings construct cultural fantasies and political narratives. The design shows representation as ideological tool — architecture used to visualize imperial relationships through invented exotic imagery.",
-    "connections": [
-      {
-        "id": 110,
-        "type": "zeitgeist",
-        "reason": "Both reflect late 18th-century British fascination with Indian motifs — Richards' theatrical orientalism and Morris's pattern-making both appropriate Eastern imagery for Western consumption, constructing colonial relationships through design"
-      },
-      {
-        "id": 69,
-        "type": "sameProblem",
-        "reason": "Both solve theatrical visualization through architectural thinking — Richards creates exotic space while Noguchi creates abstract character, both using design to construct dramatic meaning"
-      },
-      {
-        "id": 15,
-        "type": "argument",
-        "reason": "Richards' exotic fantasy directly opposes Piano/Rogers' functional transparency — one conceals structure through decorative orientalism while the other exposes mechanical systems, representing opposed attitudes to architectural honesty"
-      }
-    ],
-    "keywords": [
-      "orientalism",
-      "theatrical architecture",
-      "picturesque",
-      "colonial imagination",
-      "exotic fantasy",
-      "architectural representation",
-      "imperial design"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB2580/full/800,/0/default.jpg"
   },
   {
     "id": 406,
@@ -18138,11 +16993,6 @@ export const ARCHIVE = [
         "id": 3,
         "type": "material",
         "reason": "Both achieve visual depth through material behavior — Aalto uses blown glass thickness variation while Jongerius uses woven fiber layers to create similar optical complexity"
-      },
-      {
-        "id": 306,
-        "type": "lineage",
-        "reason": "Jongerius continues her exploration of ceramic reference in non-ceramic materials — from porcelain-inspired plastic tableware to glaze-effect textiles"
       },
       {
         "id": 104,
@@ -19374,11 +18224,6 @@ export const ARCHIVE = [
         "id": 14,
         "type": "argument",
         "reason": "Tschichold's rules establish neutral, systematic information design, while Guerrilla Girls corrupt this systematic approach to expose how seemingly neutral systems perpetuate inequality."
-      },
-      {
-        "id": 210,
-        "type": "argument",
-        "reason": "Games' poster celebrates national optimism through design, while Guerrilla Girls use similar authoritative typography to expose the exclusions that such optimism conceals."
       }
     ],
     "keywords": [
@@ -19447,11 +18292,6 @@ export const ARCHIVE = [
     "description": "Confrontational typographic statement using bold capitals to challenge art world exclusivity. The question format forces viewer engagement while the stark presentation amplifies the political urgency. Typography becomes activism through directness and scale.",
     "significance": "Shows how graphic design can function as direct political intervention. Demonstrates that typography alone can carry radical messages when content and form align. Essential for understanding design's role in social justice movements.",
     "connections": [
-      {
-        "id": 402,
-        "type": "zeitgeist",
-        "reason": "Both emerge from 1980s activist graphics that use direct typography to challenge art world inequities, sharing strategies of confrontational questioning"
-      },
       {
         "id": 209,
         "type": "argument",
@@ -19552,11 +18392,6 @@ export const ARCHIVE = [
         "reason": "Both address mass distribution of activist messages, using low-cost printing to enable grassroots circulation"
       },
       {
-        "id": 210,
-        "type": "argument",
-        "reason": "Where Games celebrates national optimism through sophisticated graphics, PESTS uses crude printing to challenge cultural institutions"
-      },
-      {
         "id": 14,
         "type": "method",
         "reason": "Both understand that systematic design principles can serve political ends, though Tschichold democratizes literature while PESTS challenges art world exclusion"
@@ -19602,11 +18437,6 @@ export const ARCHIVE = [
         "id": 231,
         "type": "argument",
         "reason": "Both appropriate historical protest graphics to address contemporary crises, though PESTS references segregation while XR references traditional printing"
-      },
-      {
-        "id": 402,
-        "type": "method",
-        "reason": "Both use stark text statements to expose institutional bias, making discrimination visible through direct language"
       }
     ],
     "keywords": [
@@ -19733,11 +18563,6 @@ export const ARCHIVE = [
         "id": 448,
         "type": "zeitgeist",
         "reason": "Both represent Garland's systematic approach to political communication during the 1960s, using consistent typographic methods to serve different progressive causes"
-      },
-      {
-        "id": 210,
-        "type": "argument",
-        "reason": "Where Games celebrates British optimism through dynamic illustration, Garland's poster reflects 1960s skepticism, using austere typography to question rather than celebrate national identity"
       },
       {
         "id": 258,
@@ -20264,80 +19089,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK3842/full/800,/0/default.jpg"
   },
   {
-    "id": 461,
-    "title": "Photograph of J.J. Jennings",
-    "designer": "Walter Barnett Studios",
-    "year": 1930,
-    "discipline": "Graphic",
-    "origin": "France",
-    "manufacturer": "Walter Barnett Studios",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Commercial Portrait Photography",
-    "wikiTitle": null,
-    "description": "Barnett's studio portrait uses controlled lighting and formal composition to construct a professional theatrical identity. The photograph employs studio techniques — backdrop, directional lighting, careful pose — to create a commercial image that sells both the subject's persona and the photographer's technical skill. The formal language borrows from painted portraiture while exploiting photography's mechanical reproducibility.",
-    "significance": "This work shows students how commercial photography developed its own visual conventions separate from art photography. Understanding how studios systematized portrait-making reveals photography's role in constructing public identity and professional image.",
-    "connections": [
-      {
-        "id": 462,
-        "type": "sameProblem",
-        "reason": "Both solve the problem of theatrical documentation but Barnett's 1930 approach emphasizes professional glamour while the 1867 version prioritizes character documentation, showing photography's evolution from record to marketing tool"
-      },
-      {
-        "id": 14,
-        "type": "method",
-        "reason": "Both establish systematic approaches to visual communication — Barnett's studio develops repeatable portrait formulas while Tschichold systematizes book typography, showing parallel standardization of visual practices"
-      }
-    ],
-    "keywords": [
-      "studio portraiture",
-      "commercial photography",
-      "identity construction",
-      "lighting technique",
-      "professional image",
-      "mechanical reproduction",
-      "theatrical documentation",
-      "visual standardization"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4444/full/800,/0/default.jpg"
-  },
-  {
-    "id": 462,
-    "title": "Guy Little Theatrical Photograph",
-    "designer": "London Stereoscopic Company",
-    "year": 1867,
-    "discipline": "Graphic",
-    "origin": "England",
-    "manufacturer": "London Stereoscopic Company",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Victorian Commercial Photography",
-    "wikiTitle": null,
-    "description": "The London Stereoscopic Company's theatrical photograph prioritizes character documentation over glamour, using photography to record specific dramatic personas for commercial distribution. The composition treats the subject as specimen — full figure, neutral background, clear lighting — creating a visual catalogue entry. This approach reflects photography's early role as objective documentation rather than interpretive portraiture.",
-    "significance": "Students see how early commercial photography developed systematic approaches to documentation that influenced later design thinking. The catalog-like approach shows photography's relationship to classification and systems of visual organization.",
-    "connections": [
-      {
-        "id": 462,
-        "type": "method",
-        "reason": "Both Fradelle & Marshall and London Stereoscopic Company use systematic documentation approaches but the 1867 version emphasizes specimen-like recording while the 1873 approach begins incorporating more theatrical atmosphere"
-      },
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use systematic reduction to aid identification — the theatrical photograph strips away distracting elements to isolate character information, while Beck reduces geographic complexity to clarify journey logic"
-      }
-    ],
-    "keywords": [
-      "documentary photography",
-      "character documentation",
-      "systematic cataloging",
-      "specimen approach",
-      "Victorian commerce",
-      "theatrical archive",
-      "neutral composition",
-      "commercial distribution"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX7725/full/800,/0/default.jpg"
-  },
-  {
     "id": 463,
     "title": "Circuit",
     "designer": "Eddie Squires",
@@ -20486,80 +19237,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3723/full/800,/0/default.jpg"
   },
   {
-    "id": 467,
-    "title": "Photograph of Nellie Briercliffe",
-    "designer": "Bassano Ltd., Royal Photographers",
-    "year": 1915,
-    "discipline": "Graphic",
-    "origin": "United Kingdom",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Commercial Portrait Photography",
-    "wikiTitle": "Bassano Ltd.",
-    "description": "Bassano's studio lighting creates theatrical character through controlled shadow and highlight, transforming the sitter into a marketable persona rather than documentary record. The photograph uses professional lighting equipment and posed composition to manufacture celebrity, treating the human subject as material for commercial image construction. Soft focus and dramatic lighting angles reference fine art painting traditions while serving the publicity machinery of early entertainment industry.",
-    "significance": "Students learn how commercial photography established the visual grammar of celebrity, creating templates for personal branding that persist in social media. The work reveals photography's role in constructing rather than capturing identity.",
-    "connections": [
-      {
-        "id": 468,
-        "type": "method",
-        "reason": "Both portraits use identical studio lighting setups and compositional formulas to manufacture theatrical personality, demonstrating how Bassano systematised celebrity image production through repeatable techniques"
-      },
-      {
-        "id": 7,
-        "type": "lineage",
-        "reason": "Bassano's commercial portrait formulas directly influence later theatrical photographers like Barnett, establishing the visual conventions that define professional entertainment photography"
-      }
-    ],
-    "keywords": [
-      "studio lighting",
-      "celebrity photography",
-      "theatrical portraiture",
-      "commercial identity",
-      "entertainment industry",
-      "soft focus",
-      "manufactured persona",
-      "publicity photography"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4464/full/800,/0/default.jpg"
-  },
-  {
-    "id": 468,
-    "title": "Photograph of Sylvia Cecil",
-    "designer": "Bassano Ltd., Royal Photographers",
-    "year": 1920,
-    "discipline": "Graphic",
-    "origin": "United Kingdom",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Commercial Portrait Photography",
-    "wikiTitle": "Bassano Ltd.",
-    "description": "The photograph demonstrates Bassano's systematic approach to celebrity construction, using consistent lighting and posing to create theatrical glamour. Professional equipment — arc lights, reflectors, painted backdrops — transforms the studio into a factory for manufacturing public personas. The composition balances documentary accuracy with romantic idealization, serving the dual commercial needs of recognition and aspiration that drive entertainment marketing.",
-    "significance": "Students understand how standardised photographic techniques create the illusion of unique personality. The work shows early mass media's role in transforming private individuals into public commodities through repeatable visual formulas.",
-    "connections": [
-      {
-        "id": 467,
-        "type": "method",
-        "reason": "Identical studio systems and lighting setups reveal Bassano's industrial approach to celebrity photography, where individual identity becomes secondary to branded visual consistency"
-      },
-      {
-        "id": 8,
-        "type": "lineage",
-        "reason": "Bassano's commercial portrait studio builds directly on Victorian theatrical photography traditions established by studios like London Stereoscopic Company, professionalising celebrity image production"
-      }
-    ],
-    "keywords": [
-      "celebrity factory",
-      "studio system",
-      "commercial glamour",
-      "entertainment marketing",
-      "professional lighting",
-      "standardised portraiture",
-      "public persona",
-      "mass media identity"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4466/full/800,/0/default.jpg"
-  },
-  {
     "id": 469,
     "title": "V&A 150th Anniversary Album Page",
     "designer": "Ron Arad",
@@ -20705,47 +19382,6 @@ export const ARCHIVE = [
       "formal excess"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7754/full/800,/0/default.jpg"
-  },
-  {
-    "id": 473,
-    "title": "Design for Pylon Chair",
-    "designer": "Tom Dixon",
-    "year": 1991,
-    "discipline": "Furniture",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "British Craft Revival",
-    "wikiTitle": null,
-    "description": "Dixon's technical drawing systematizes his intuitive welding practice into reproducible geometry, translating the S Chair's curved steel rod logic into electrical transmission tower aesthetics. The drawing reveals how he codifies craft knowledge into industrial production methods. The pylon reference connects domestic furniture to infrastructure scale, suggesting furniture as architectural miniature.",
-    "significance": "Students learn how designers move from craft prototyping to systematic production through technical drawing. This shows the translation process between intuitive making and documented methodology — essential for scaling craft-based ideas into commercial products.",
-    "connections": [
-      {
-        "id": 20,
-        "type": "lineage",
-        "reason": "The Pylon Chair drawing documents Dixon's transition from welded steel construction to inflatable polymer systems — both structural approaches to lightweight furniture through different material logics"
-      },
-      {
-        "id": 18,
-        "type": "method",
-        "reason": "Both use technical drawing to systematize curved steel rod construction, but the Pylon design scales up the domestic chair logic to reference industrial infrastructure"
-      },
-      {
-        "id": 11,
-        "type": "argument",
-        "reason": "Dixon's drawing emphasizes expressive structural form while Rams prioritizes invisible systematic logic — opposing approaches to how technical documentation should communicate design intent"
-      }
-    ],
-    "keywords": [
-      "technical drawing",
-      "craft systematization",
-      "steel rod construction",
-      "infrastructure reference",
-      "production transition",
-      "systematic geometry",
-      "structural expression"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG9208/full/800,/0/default.jpg"
   },
   {
     "id": 474,
@@ -21121,156 +19757,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY6981/full/800,/0/default.jpg"
   },
   {
-    "id": 483,
-    "title": "Examining Fluorescent Tubes",
-    "designer": "Maurice Broomfield",
-    "year": 1958,
-    "discipline": "Graphic",
-    "origin": "Netherlands",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "A photograph capturing quality control inspection of fluorescent tubes at Philips factory, with workers examining products against backlit testing stations. The image transforms industrial process into geometric composition, with rows of tubes creating rhythmic patterns. The photography reveals both human labor and mass production systems.",
-    "significance": "Documents the moment when electric lighting shifted from craft to industrial production, showing students how manufacturing photography can reveal both process and aesthetic possibility. Demonstrates photography's role in constructing industrial modernity's visual language.",
-    "connections": [
-      {
-        "id": 1,
-        "type": "zeitgeist",
-        "reason": "Both represent 1950s lighting innovation — the photograph documents industrial fluorescent production while Castiglioni domesticates new lighting technology for homes"
-      },
-      {
-        "id": 15,
-        "type": "argument",
-        "reason": "The photograph celebrates industrial aesthetics and mass production while Rogers & Piano's architecture later adopts industrial language as cultural statement"
-      },
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both use systematic visual organization — Beck through diagrammatic clarity, Broomfield through photographic composition — to make complex systems comprehensible"
-      }
-    ],
-    "keywords": [
-      "industrial photography",
-      "quality control",
-      "mass production",
-      "fluorescent lighting",
-      "Philips factory",
-      "geometric composition",
-      "manufacturing process",
-      "1950s industry"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY3720/full/800,/0/default.jpg"
-  },
-  {
-    "id": 484,
-    "title": "Woman Examining Sample",
-    "designer": "Maurice Broomfield",
-    "year": 1957,
-    "discipline": "Graphic",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "Broomfield's industrial photograph transforms quality control into visual poetry, using shallow depth of field to isolate the worker's concentrated examination against abstracted machinery. The composition elevates mundane testing procedures into a study of human precision within industrial systems. Light and gesture combine to dignify industrial labour through formal photographic techniques.",
-    "significance": "Shows how documentary photography can argue for industrial work as skilled craft rather than mechanical repetition. Demonstrates photography's capacity to reframe perception of manufacturing processes through careful composition and lighting choices.",
-    "connections": [
-      {
-        "id": 35,
-        "type": "zeitgeist",
-        "reason": "Both represent Broomfield's systematic documentation of post-war British industrial optimism, using identical photographic strategies to present manufacturing as a site of human dignity and technical progress"
-      }
-    ],
-    "keywords": [
-      "industrial photography",
-      "quality control",
-      "selective focus",
-      "manufacturing documentation",
-      "human labour",
-      "technical precision",
-      "post-war industry"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5408/full/800,/0/default.jpg"
-  },
-  {
-    "id": 485,
-    "title": "Testing Ceramic Insulator Parts, Doultons. Tamworth, Staffordshire, 1958",
-    "designer": "Maurice Broomfield",
-    "year": 1958,
-    "discipline": "Graphic",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "Broomfield photographs electrical testing as sculptural arrangement, using the ceramic insulators' repetitive forms to create rhythmic composition while documenting their function. The worker's careful positioning of testing equipment becomes choreographed performance within an industrial ballet. Precise framing transforms utilitarian ceramic components into formal studies of material and light.",
-    "significance": "Demonstrates how industrial photography can simultaneously document process and argue for manufacturing as creative practice. Essential for understanding how post-war British design culture elevated technical craftsmanship through visual representation.",
-    "connections": [
-      {
-        "id": 484,
-        "type": "method",
-        "reason": "Both use selective focus and dramatic lighting to transform industrial quality control into contemplative studies of human expertise, arguing that technical examination requires the same visual attention as artistic creation"
-      },
-      {
-        "id": 487,
-        "type": "material",
-        "reason": "Both focus on new synthetic materials (ceramic insulators and nylon) that defined Britain's post-war industrial modernisation, using photography to validate these materials as worthy of the same aesthetic attention as traditional craft materials"
-      },
-      {
-        "id": 15,
-        "type": "argument",
-        "reason": "While the Pompidou exposes building systems as architectural spectacle, Broomfield's photography argues that hidden industrial processes deserve equal visual celebration, both making technical infrastructure the subject rather than background"
-      }
-    ],
-    "keywords": [
-      "ceramic insulators",
-      "electrical testing",
-      "Staffordshire pottery",
-      "industrial processes",
-      "material testing",
-      "quality control",
-      "technical ceramics"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5412/full/800,/0/default.jpg"
-  },
-  {
-    "id": 486,
-    "title": "Two Men and Four Tanks",
-    "designer": "Maurice Broomfield",
-    "year": 1960,
-    "discipline": "Graphic",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "Broomfield orchestrates industrial scale through human figures dwarfed by cylindrical storage tanks, creating geometric composition from functional infrastructure. The workers' small scale against monumental industrial forms argues for both human ingenuity in creating these systems and the sublime power of industrial architecture. Precise positioning transforms routine inspection into architectural photography.",
-    "significance": "Shows how industrial photography can argue for manufacturing infrastructure as monumental architecture deserving aesthetic consideration. Critical for understanding how post-war design culture elevated functional buildings to artistic status through photographic framing.",
-    "connections": [
-      {
-        "id": 488,
-        "type": "method",
-        "reason": "Both use human figures as scale references against massive industrial structures, employing the same compositional strategy to argue that industrial infrastructure possesses architectural monumentality worthy of aesthetic contemplation"
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Both represent the late-1960s/1970s moment when industrial aesthetics gained cultural legitimacy, with Broomfield's photography anticipating the Pompidou's argument that technical infrastructure can be architectural spectacle"
-      }
-    ],
-    "keywords": [
-      "industrial architecture",
-      "storage tanks",
-      "scale relationships",
-      "infrastructure photography",
-      "industrial monumentality",
-      "geometric composition",
-      "human scale"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5411/full/800,/0/default.jpg"
-  },
-  {
     "id": 487,
     "title": "Bobbins of Nylon Yarn, British Nylon Spinners, Pontypool Wales, 1957",
     "designer": "Maurice Broomfield",
@@ -21284,11 +19770,6 @@ export const ARCHIVE = [
     "description": "Broomfield transforms synthetic yarn production into abstract colour composition, using the bobbins' cylindrical repetition and saturated colours to create systematic visual rhythm. The photograph argues for nylon manufacturing as generating new aesthetic possibilities through industrial processes. Precise arrangement of coloured bobbins demonstrates how synthetic materials enabled unprecedented colour combinations and formal patterns.",
     "significance": "Essential for understanding how synthetic materials created new design vocabularies in the 1950s. Shows photography's role in legitimising industrial processes as sources of aesthetic innovation rather than mere functional production.",
     "connections": [
-      {
-        "id": 485,
-        "type": "material",
-        "reason": "Both focus on new synthetic materials (ceramic insulators and nylon) that defined Britain's post-war industrial modernisation, using photography to validate these materials as worthy of the same aesthetic attention as traditional craft materials"
-      },
       {
         "id": 6,
         "type": "zeitgeist",
@@ -21311,132 +19792,6 @@ export const ARCHIVE = [
       "repetitive forms"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5423/full/800,/0/default.jpg"
-  },
-  {
-    "id": 488,
-    "title": "North Sea Rig, 1967",
-    "designer": "Maurice Broomfield",
-    "year": 1967,
-    "discipline": "Graphic",
-    "origin": "Britain",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "Broomfield captures the oil rig as technological cathedral, using dramatic low angle and atmospheric conditions to emphasise its structural complexity and environmental dominance. The photograph argues for offshore engineering as architectural achievement, transforming extractive industry into sublime industrial landscape. Steel framework becomes gothic tracery against turbulent sky, dignifying controversial energy infrastructure through aesthetic framing.",
-    "significance": "Demonstrates photography's power to shape public perception of controversial technologies by presenting them as architectural achievements. Essential for understanding how industrial photography influenced acceptance of large-scale energy infrastructure in the environmental consciousness era.",
-    "connections": [
-      {
-        "id": 486,
-        "type": "method",
-        "reason": "Both use human figures as scale references against massive industrial structures, employing the same compositional strategy to argue that industrial infrastructure possesses architectural monumentality worthy of aesthetic contemplation"
-      },
-      {
-        "id": 15,
-        "type": "sameProblem",
-        "reason": "Both address how to make technical infrastructure publicly acceptable through aesthetic strategies, with Piano & Rogers using coloured services as architectural elements while Broomfield uses dramatic photography to present industrial structures as sublime architecture"
-      },
-      {
-        "id": 5,
-        "type": "zeitgeist",
-        "reason": "Both 1967 designs celebrate industrial aesthetics as domestic/cultural values, with Castiglioni's lamp bringing factory-inspired forms into homes while Broomfield's photography argues for industrial infrastructure as landscape architecture"
-      }
-    ],
-    "keywords": [
-      "offshore engineering",
-      "oil rig",
-      "industrial landscape",
-      "structural photography",
-      "energy infrastructure",
-      "environmental impact",
-      "sublime technology",
-      "North Sea"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5424/full/800,/0/default.jpg"
-  },
-  {
-    "id": 489,
-    "title": "Examining Nylon Shirts after Washing",
-    "designer": "Maurice Broomfield",
-    "year": 1959,
-    "discipline": "Graphic",
-    "origin": "Wales",
-    "manufacturer": "British Nylon Spinners",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Industrial Photography",
-    "wikiTitle": null,
-    "description": "Broomfield's photograph documents the laboratory testing of synthetic textiles, showing quality control through systematic visual examination. The image transforms industrial process into compositional geometry, with white shirts arranged against clinical backgrounds. This documentary approach makes visible the scientific rigor behind mass-produced consumer goods.",
-    "significance": "Shows how photography can reveal the hidden systems that validate industrial production. Demonstrates the aesthetic potential in documenting systematic testing procedures, turning quality control into visual argument about manufacturing reliability.",
-    "connections": [
-      {
-        "id": 39,
-        "type": "lineage",
-        "reason": "The textile testing follows directly from yarn production—Broomfield documents both ends of the synthetic textile manufacturing process, from raw material to finished product validation"
-      },
-      {
-        "id": 37,
-        "type": "sameProblem",
-        "reason": "Both photographs solve the same brief of making industrial quality control visually compelling, but ceramics testing emphasizes material hardness while textile testing shows fabric performance"
-      },
-      {
-        "id": 16,
-        "type": "zeitgeist",
-        "reason": "Both objects embody late 1950s confidence in synthetic materials and systematic design processes—one through photographic documentation of textile science, the other through rational product design"
-      }
-    ],
-    "keywords": [
-      "synthetic materials",
-      "quality control",
-      "industrial photography",
-      "systematic testing",
-      "mass production",
-      "documentary method",
-      "laboratory aesthetics",
-      "material validation"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5425/full/800,/0/default.jpg"
-  },
-  {
-    "id": 490,
-    "title": "Design for an entrance hall in a London flat",
-    "designer": "David Connor",
-    "year": 1985,
-    "discipline": "Architecture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Postmodern Interior Design",
-    "wikiTitle": null,
-    "description": "Connor's design proposal uses geometric abstraction and bold color blocking to transform a small entrance space into a dramatic threshold experience. The design fragments the wall plane into discrete colored zones, creating spatial complexity through graphic means rather than structural intervention. Color becomes architecture, defining zones without walls.",
-    "significance": "Demonstrates how graphic design principles can solve architectural problems in constrained urban spaces. Shows the influence of Memphis design language on British domestic interiors, making color and pattern primary spatial organizing tools.",
-    "connections": [
-      {
-        "id": 12,
-        "type": "zeitgeist",
-        "reason": "Both objects embody mid-1980s Postmodernism through bold geometric color blocking, but Connor applies Memphis formal language to interior architecture while Sottsass works at furniture scale"
-      },
-      {
-        "id": 13,
-        "type": "sameProblem",
-        "reason": "Both designers use geometric fragmentation to organize visual information in the 1980s, but Connor applies it to domestic space while Coffey works in graphic communication"
-      },
-      {
-        "id": 15,
-        "type": "argument",
-        "reason": "Where Piano and Rogers expose building systems as honest expression, Connor uses color and geometry to create spatial illusion—one reveals structure, the other conceals it through decoration"
-      }
-    ],
-    "keywords": [
-      "postmodern interior",
-      "color blocking",
-      "geometric abstraction",
-      "spatial illusion",
-      "threshold design",
-      "Memphis influence",
-      "graphic architecture",
-      "domestic space"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BM3424/full/800,/0/default.jpg"
   },
   {
     "id": 491,
@@ -24454,53 +22809,6 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF2989/full/800,/0/default.jpg"
   },
   {
-    "id": 562,
-    "title": "Horse Brass",
-    "designer": "unknown",
-    "year": null,
-    "discipline": "Product",
-    "origin": "England",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Folk Craft",
-    "wikiTitle": "Horse brass",
-    "description": "The brass demonstrates how functional decoration evolves through collective making rather than individual authorship. Cast in simple moulds, the design balances symbolic content with manufacturing economy. The central motif provides identity and protection while the perimeter attachment points solve the practical problem of harness integration without compromising the circular format.",
-    "significance": "Students learn about anonymous design traditions that operate outside academic design history. The brass teaches how symbolic meaning and practical function can be integrated through collective cultural development, showing design as social practice rather than individual expression.",
-    "connections": [
-      {
-        "id": 13,
-        "type": "method",
-        "reason": "Both solve complex information problems through systematic symbol systems, but Beck uses modernist abstraction while folk tradition uses cultural symbolism to create public understanding"
-      },
-      {
-        "id": 37,
-        "type": "material",
-        "reason": "Both objects demonstrate British industrial casting traditions, but Broomfield documents quality control in mass production while the brass shows craft tradition's acceptance of variation"
-      },
-      {
-        "id": 2,
-        "type": "argument",
-        "reason": "Where Castiglioni elevates agricultural tools into art furniture, the horse brass shows how working objects can carry symbolic meaning without losing practical function"
-      },
-      {
-        "id": 5,
-        "type": "sameProblem",
-        "reason": "Both objects preserve cultural memory through material accumulation, but Remy uses individual biography while folk tradition uses collective symbolism"
-      }
-    ],
-    "keywords": [
-      "folk craft",
-      "brass casting",
-      "anonymous design",
-      "symbolic function",
-      "harness decoration",
-      "collective authorship",
-      "cultural memory",
-      "working tradition"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011FB5205/full/800,/0/default.jpg"
-  },
-  {
     "id": 563,
     "title": "Button mould",
     "designer": "Lucie Rie",
@@ -25110,11 +23418,6 @@ export const ARCHIVE = [
         "id": 13,
         "type": "zeitgeist",
         "reason": "Both made during British art's engagement with identity politics, but Perry uses narrative density where Coffey uses graphic reduction"
-      },
-      {
-        "id": 84,
-        "type": "argument",
-        "reason": "Both are Perry's self-examinations but the print allows more complex narrative layering while the ceramic works through vessel metaphor"
       }
     ],
     "keywords": [
