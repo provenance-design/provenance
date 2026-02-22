@@ -24690,5 +24690,782 @@ export const ARCHIVE = [
       "John Makepeace"
     ],
     "id": 611
+  },
+  {
+    "title": "Orgone Lounge",
+    "designer": "Marc Newson",
+    "year": 1993,
+    "discipline": "Furniture",
+    "origin": "Australia / France",
+    "manufacturer": "Cappellini",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Biomorphism",
+    "wikiTitle": "Orgone_(lounge)",
+    "description": "A perforated aluminium chaise with an organic double-curved shell resting on three legs. The hundreds of precision-drilled holes reduce weight and create a shimmering moiré effect as light passes through. The form references both aircraft fuselage construction and the biomorphic sculptures of Hans Arp. Unlike the hand-beaten Lockheed Lounge, the Orgone was designed for series production.",
+    "significance": "Newson translating his gallery language into industrial production without losing formal ambition. Shows students the engineering required to make an organic freeform shape structurally viable in thin aluminium — the perforation pattern isn't decorative, it's a weight-reduction strategy borrowed from aerospace.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both pursue the lightest possible chaise form — Ponti through wood joinery, Newson through perforated metal — demonstrating that lightness is a material-specific achievement, not a universal formula"
+      }
+    ],
+    "keywords": [
+      "perforated aluminium",
+      "biomorphic",
+      "Cappellini",
+      "MoMA",
+      "aerospace",
+      "chaise",
+      "Australian design"
+    ],
+    "id": 612
+  },
+  {
+    "title": "Felt Chair",
+    "designer": "Marc Newson",
+    "year": 1993,
+    "discipline": "Furniture",
+    "origin": "Australia / Italy",
+    "manufacturer": "Cappellini",
+    "collection": "Various museum collections",
+    "movement": "Biomorphism",
+    "wikiTitle": null,
+    "description": "A single sheet of fibreglass-reinforced felt, stiffened with resin into a self-supporting shell. The chair uses no frame — the felt IS the structure once impregnated. The material retains its textile appearance and soft edges while performing as a rigid monocoque. Three slender steel legs support the shell at minimal contact points.",
+    "significance": "Challenges students' assumptions about what constitutes a 'structural' material. Felt is associated with softness, warmth, craft — not load-bearing furniture. Newson makes it do both simultaneously, proving that material innovation often means finding structural potential in unexpected places.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both Newson and Munari transform a soft, everyday material into an unexpected structural form — felt becomes furniture, elastic becomes lamp — through understanding material behaviour under tension and compression"
+      }
+    ],
+    "keywords": [
+      "felt",
+      "fibreglass",
+      "monocoque",
+      "Cappellini",
+      "textile structure",
+      "material innovation",
+      "Australian design"
+    ],
+    "id": 613
+  },
+  {
+    "title": "Big Shadows",
+    "designer": "Marcel Wanders",
+    "year": 2009,
+    "discipline": "Lighting",
+    "origin": "Netherlands",
+    "manufacturer": "Cappellini",
+    "collection": "Various collections",
+    "movement": "Dutch Neo-Baroque",
+    "wikiTitle": null,
+    "description": "An oversized floor lamp in the silhouette of a classical bedside lamp — shade, stem, base — scaled up to nearly two metres tall. The form is instantly recognisable as 'lamp' but the scale transforms the familiar into the surreal. Made from lacquered polyester. The shadow it casts on the wall is the shadow of a 'normal' lamp, adding a further layer of scale confusion.",
+    "significance": "Wanders at his most playful — taking the most generic lamp form imaginable and making it extraordinary through scale alone. Shows students that conceptual power doesn't require formal invention. Sometimes the strongest design move is making the ordinary enormous and forcing people to see it fresh.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "argument",
+        "reason": "Munari's Falkland lamp invents an entirely new form for lighting. Wanders takes the oldest lamp form and simply enlarges it — both challenge what a lamp should be, but from opposite strategies"
+      }
+    ],
+    "keywords": [
+      "oversized",
+      "scale",
+      "silhouette",
+      "Cappellini",
+      "Dutch design",
+      "neo-baroque",
+      "polyester",
+      "familiar made strange"
+    ],
+    "id": 614
+  },
+  {
+    "title": "Bon Bon Chair",
+    "designer": "Ineke Hans",
+    "year": 2000,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Ineke Hans Studio",
+    "collection": "Centraal Museum, Utrecht",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "A stacking chair made entirely from industrial felt — thick, stiff wool felt cut and stitched into a structural form without any internal frame. The material is honest: what you see is what holds you up. The simple geometric cuts fold like origami to create seat, back, and legs from a near-flat pattern. Stacks ten high for storage.",
+    "significance": "Hans proves that felt can be both structure and surface, eliminating the distinction between upholstery and frame. Shows students that reducing a chair to a single material isn't just an aesthetic decision — it simplifies manufacturing, eliminates assembly, and makes the object fully recyclable.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both Ponti's Superleggera and Hans's Bon Bon pursue the stackable minimal chair, but Ponti works in refined wood joinery while Hans works in industrial textile — material worlds apart, same functional ambition"
+      }
+    ],
+    "keywords": [
+      "felt",
+      "stackable",
+      "single material",
+      "Dutch design",
+      "no frame",
+      "origami",
+      "Centraal Museum",
+      "industrial textile"
+    ],
+    "id": 615
+  },
+  {
+    "title": "Rex Chair",
+    "designer": "Ineke Hans",
+    "year": 2017,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Ineke Hans Studio",
+    "collection": "Various collections",
+    "movement": "Democratic Design",
+    "wikiTitle": null,
+    "description": "An open-source flat-pack chair designed to be CNC-milled from a single sheet of plywood by anyone with access to a digital fabrication lab. All joints are friction-fit — no glue, screws, or tools required. Hans published the cutting files freely online, inviting global makers to produce, modify, and improve the design. Each maker's version is legitimate.",
+    "significance": "Hans updating Enzo Mari's Autoprogettazione for the digital age — where Mari used planks and nails, Hans uses CNC files and plywood. Shows students that open-source design doesn't mean low quality. The precision of digital fabrication actually enables tighter joints than hand-building, while the open distribution model is more radical than any gallery edition.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams designs for Braun's centralised industrial production. Hans designs for distributed digital production — both pursue democratic access to good design, separated by fifty years of manufacturing evolution"
+      }
+    ],
+    "keywords": [
+      "open source",
+      "CNC",
+      "flat-pack",
+      "plywood",
+      "digital fabrication",
+      "friction fit",
+      "democratic design",
+      "Dutch design"
+    ],
+    "id": 616
+  },
+  {
+    "title": "Light Shade Shade",
+    "designer": "Jurgen Bey",
+    "year": 1999,
+    "discipline": "Lighting",
+    "origin": "Netherlands",
+    "manufacturer": "Moooi",
+    "collection": "Various museum collections",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "A classical chandelier enclosed inside a cylindrical one-way mirror shade. When the light is off, the shade appears as a simple reflective chrome cylinder. When illuminated, the mirror becomes transparent and the ornate chandelier inside is revealed — a baroque ghost materialising inside a minimalist shell. The piece physically contains two design philosophies simultaneously.",
+    "significance": "Bey's most commercially successful piece, produced by Moooi. Brilliantly literalises the tension between decorative and minimal that defines contemporary design. Shows students that you don't have to choose between ornament and reduction — you can design an object that is both, switching between them with the flick of a switch.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "argument",
+        "reason": "Munari strips lighting to its essential function. Bey layers two contradictory lighting philosophies — baroque and minimal — into one object, arguing that design history doesn't have to be resolved, only contained"
+      },
+      {
+        "id": 1,
+        "type": "sameProblem",
+        "reason": "Both Rams and Bey address the question of ornament versus reduction, but Rams eliminates ornament while Bey literally hides it behind a mirror, ready to reappear"
+      }
+    ],
+    "keywords": [
+      "one-way mirror",
+      "chandelier",
+      "Moooi",
+      "Droog",
+      "dual identity",
+      "minimalism vs ornament",
+      "Dutch design",
+      "reveal"
+    ],
+    "id": 617
+  },
+  {
+    "title": "Monkey Table and Chairs",
+    "designer": "Jaime Hayon",
+    "year": 2008,
+    "discipline": "Furniture",
+    "origin": "Spain",
+    "manufacturer": "BD Barcelona",
+    "collection": "Various collections",
+    "movement": "New Playfulness",
+    "wikiTitle": null,
+    "description": "A children's furniture set where table legs are monkey arms, chair backs are monkey faces, and the forms are executed in high-quality lacquered wood with the finish precision of adult designer furniture. Hayon refuses the assumption that children's design should be cheap or disposable — these pieces are made with the same care as his gallery editions.",
+    "significance": "Challenges the industry assumption that designing for children means designing down. Shows students that playfulness and craft excellence aren't mutually exclusive — and that the best children's design respects its audience by giving them objects as considered as anything in the adult world.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "lineage",
+        "reason": "Hayon inherits Starck's belief that everyday objects should have personality, but applies it with genuine craft warmth rather than conceptual irony — personality through character rather than cleverness"
+      }
+    ],
+    "keywords": [
+      "children's furniture",
+      "BD Barcelona",
+      "lacquered wood",
+      "playful",
+      "Spanish design",
+      "craft quality",
+      "zoomorphic"
+    ],
+    "id": 618
+  },
+  {
+    "title": "Dino Chair",
+    "designer": "Jaime Hayon",
+    "year": 2017,
+    "discipline": "Furniture",
+    "origin": "Spain",
+    "manufacturer": "BD Barcelona",
+    "collection": "Various collections",
+    "movement": "Contemporary Craft",
+    "wikiTitle": null,
+    "description": "A solid oak armchair with exaggerated turned legs and a high curved back, combining Spanish vernacular carpentry with cartoon-like proportions. The turnings reference traditional Mediterranean woodwork but are inflated and simplified — chunky where tradition would be delicate. Hand-finished in Hayon's studio with obsessive attention to curve transitions and surface quality.",
+    "significance": "Hayon demonstrating that tradition and personality aren't contradictory. Shows students that vernacular craft can be a living design resource rather than a museum reference — you can work with turnings and carved wood without being retro if you bring your own formal language to the technique.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both Ponti and Hayon work within Mediterranean woodworking traditions to create chairs with strong personality — but Ponti refines toward lightness while Hayon inflates toward warmth"
+      }
+    ],
+    "keywords": [
+      "turned wood",
+      "oak",
+      "BD Barcelona",
+      "Mediterranean",
+      "Spanish design",
+      "vernacular",
+      "exaggerated",
+      "contemporary craft"
+    ],
+    "id": 619
+  },
+  {
+    "title": "Campana Banquete Chair",
+    "designer": "Fernando & Humberto Campana",
+    "year": 2002,
+    "discipline": "Furniture",
+    "origin": "Brazil",
+    "manufacturer": "Edra",
+    "collection": "Various museum collections",
+    "movement": "Brazilian Design",
+    "wikiTitle": null,
+    "description": "Hundreds of plush stuffed animals — bears, dogs, rabbits — are sewn into a steel frame chair structure, creating a seat that is simultaneously comforting and unsettling. The toys are commercially available stuffed animals, not custom-made. The effect is overwhelming abundance: the chair appears to be consuming or birthing its own cushioning. Each example uses different animals, making every chair unique.",
+    "significance": "The Campanas at their most provocative — using childhood comfort objects en masse to create something between furniture and art installation. Shows students that found materials can include mass-produced consumer goods, and that accumulation can be as powerful a design strategy as reduction.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams eliminates every unnecessary element from an object. The Campanas add hundreds of unnecessary elements — both are systematic, but one subtracts and the other multiplies, questioning what 'necessary' means in furniture"
+      }
+    ],
+    "keywords": [
+      "stuffed animals",
+      "Edra",
+      "accumulation",
+      "Brazilian design",
+      "found objects",
+      "Campana Brothers",
+      "excess",
+      "consumer goods"
+    ],
+    "id": 620
+  },
+  {
+    "title": "Vermelha Chair",
+    "designer": "Fernando & Humberto Campana",
+    "year": 1998,
+    "discipline": "Furniture",
+    "origin": "Brazil",
+    "manufacturer": "Edra",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Brazilian Design",
+    "wikiTitle": null,
+    "description": "500 metres of red cotton rope hand-wound around an aluminium and steel frame in a seemingly random pattern that actually follows a precise winding logic. The rope creates both the seat surface and the visual identity — no upholstery, no covering, just rope and structure. Each chair takes hours of hand-winding and no two are identical despite following the same method.",
+    "significance": "The piece that established the Campanas internationally. Shows students that 'handmade' doesn't have to mean 'primitive' — the winding technique requires genuine skill and the result is both structurally sound and visually extraordinary. The red rope is simultaneously structure, surface, and decoration.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both the Campanas and Munari create form through the behaviour of a flexible linear material — rope and elastic — rather than imposing form on rigid material. The process IS the design"
+      }
+    ],
+    "keywords": [
+      "cotton rope",
+      "hand-wound",
+      "Edra",
+      "MoMA",
+      "Brazilian design",
+      "Campana Brothers",
+      "red",
+      "process-driven"
+    ],
+    "id": 621
+  },
+  {
+    "title": "Faye Toogood Roly Poly Chair",
+    "designer": "Faye Toogood",
+    "year": 2014,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "Driade",
+    "collection": "Various collections",
+    "movement": "Sculptural Design / Neo-Brutalism",
+    "wikiTitle": null,
+    "description": "A bulbous fibreglass armchair composed of oversized cylindrical volumes — two fat arms, a rounded back, a drum seat — assembled like a child's drawing of a chair made real. Originally cast in raw fibreglass with visible cloth texture, later produced by Driade in rotational-moulded polyethylene. The proportions are deliberately clumsy, rejecting the refinement associated with 'good' furniture design.",
+    "significance": "Toogood trained as an art historian, not a designer, and it shows — the Roly Poly treats furniture as sculpture first. Shows students that challenging 'good taste' in furniture can be as radical as challenging function. The deliberate clumsiness is a considered aesthetic position, not a lack of skill.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Ponti spent decades refining proportions toward elegance. Toogood deliberately inflates proportions toward clumsiness — both are precise about proportion, but with opposite aesthetic values"
+      }
+    ],
+    "keywords": [
+      "fibreglass",
+      "Driade",
+      "bulbous",
+      "neo-brutalist",
+      "British design",
+      "sculptural",
+      "anti-refinement",
+      "oversized"
+    ],
+    "id": 622
+  },
+  {
+    "title": "Assemblage 5 Wardrobe",
+    "designer": "Faye Toogood",
+    "year": 2012,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "Faye Toogood Studio",
+    "collection": "Gallery FUMI, London",
+    "movement": "Sculptural Design",
+    "wikiTitle": null,
+    "description": "A freestanding wardrobe constructed from raw steel plates welded into a monolithic box, with doors that open to reveal a polished brass interior. The exterior is left deliberately unfinished — weld marks visible, surface oxidised — while the interior gleams. The contrast between brutal outside and precious inside mirrors the act of dressing: the private self concealed within the public.",
+    "significance": "Toogood designing furniture as emotional narrative rather than functional problem-solving. Shows students that a wardrobe isn't just storage — it's a threshold between private and public identity. The material contrast makes this argument physically, without explanation.",
+    "connections": [
+      {
+        "id": 1,
+        "type": "argument",
+        "reason": "Rams designs storage to be invisible and systematic. Toogood designs storage to be monumental and emotional — both take the container seriously, but one organises life and the other dramatises it"
+      }
+    ],
+    "keywords": [
+      "raw steel",
+      "brass interior",
+      "welded",
+      "Gallery FUMI",
+      "British design",
+      "contrast",
+      "emotional design",
+      "monolithic"
+    ],
+    "id": 623
+  },
+  {
+    "title": "Bethan Laura Wood Totem",
+    "designer": "Bethan Laura Wood",
+    "year": 2019,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "Bethan Laura Wood Studio",
+    "collection": "Various collections",
+    "movement": "Maximalist Craft",
+    "wikiTitle": null,
+    "description": "Stacked sculptural vessels in laminated wood, each layer turned on a lathe then laminated with hand-applied patterned veneers and coloured laminates. The patterns clash deliberately — stripes meet florals meet geometric grids — creating objects that vibrate with chromatic energy. Each piece is unique, assembled from Wood's archive of patterned materials collected from markets worldwide.",
+    "significance": "Wood is the anti-minimalist — her work argues that more is more, and that pattern, colour, and decoration are legitimate design territories that modernism wrongly dismissed. Shows students that maximalism requires as much discipline as minimalism; the pattern combinations are carefully orchestrated, not random.",
+    "connections": [
+      {
+        "id": 1,
+        "type": "argument",
+        "reason": "Rams eliminates colour and decoration to achieve clarity. Wood maximises colour and decoration to achieve joy — both are systematic, both are disciplined, but they disagree fundamentally about what design is for"
+      }
+    ],
+    "keywords": [
+      "laminated wood",
+      "pattern",
+      "maximalist",
+      "lathe-turned",
+      "colour",
+      "British design",
+      "RCA",
+      "anti-minimalist"
+    ],
+    "id": 624
+  },
+  {
+    "title": "Superfolk Everyday Objects",
+    "designer": "Bethan Laura Wood",
+    "year": 2015,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "Bethan Laura Wood Studio",
+    "collection": "Various collections",
+    "movement": "Contemporary Craft",
+    "wikiTitle": null,
+    "description": "A collection of functional domestic objects — trays, bowls, serving boards — made from wood marquetry using industrial laminate offcuts. The geometric inlay patterns reference traditional Italian marquetry techniques but use Formica and melamine instead of precious veneers. Each piece is handmade in Wood's London studio, combining centuries-old craft technique with disposable industrial material.",
+    "significance": "Wood collapsing the hierarchy between precious and cheap materials. Shows students that craft technique can elevate industrial waste, and that the distinction between 'noble' and 'base' materials is a cultural construction, not a material fact.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both Wood and Castiglioni find design value in overlooked industrial materials — Wood in laminate offcuts, Castiglioni in tractor seats — arguing that attention, not expense, creates quality"
+      }
+    ],
+    "keywords": [
+      "marquetry",
+      "Formica",
+      "laminate",
+      "handmade",
+      "domestic objects",
+      "material hierarchy",
+      "British design",
+      "offcuts"
+    ],
+    "id": 625
+  },
+  {
+    "title": "Ore Streams",
+    "designer": "Formafantasma",
+    "year": 2017,
+    "discipline": "Product",
+    "origin": "Netherlands / Italy",
+    "manufacturer": "Formafantasma Studio",
+    "collection": "National Gallery of Victoria / MoMA",
+    "movement": "Critical Design / Research Design",
+    "wikiTitle": null,
+    "description": "A body of research and designed objects investigating the global supply chain of electronic waste. The project includes furniture made from recycled phone screens and computer components, a film documenting e-waste processing in China, and a comprehensive mapping of how materials flow from mines to products to landfills. Commissioned by the National Gallery of Victoria.",
+    "significance": "Formafantasma demonstrating that design research can be as important as design production. Shows students that understanding where materials come from and where they go is itself a design discipline — and that the most responsible design response might be making the system visible rather than adding more objects to it.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams designs beautiful objects for production. Formafantasma questions whether production itself is the problem — both care about responsibility, but one expresses it through objects and the other through systems thinking"
+      }
+    ],
+    "keywords": [
+      "e-waste",
+      "supply chain",
+      "critical design",
+      "research",
+      "electronic waste",
+      "NGV",
+      "Italian-Dutch",
+      "systems design"
+    ],
+    "id": 626
+  },
+  {
+    "title": "Cambio",
+    "designer": "Formafantasma",
+    "year": 2020,
+    "discipline": "Product",
+    "origin": "Netherlands / Italy",
+    "manufacturer": "Formafantasma Studio",
+    "collection": "Serpentine Gallery, London",
+    "movement": "Research Design",
+    "wikiTitle": null,
+    "description": "A multi-year investigation into the global timber industry, encompassing a Serpentine Gallery exhibition, a fully searchable online platform, furniture prototypes using reclaimed wood, and policy recommendations. The project traces wood from forest to product, exposing the environmental and political structures that shape material availability. Commissioned as both art exhibition and actionable industry research.",
+    "significance": "The most ambitious design research project of the decade. Shows students that designers can operate at policy level — that understanding forestry governance, certification systems, and supply chains is as much a design competency as sketching chairs. Formafantasma expand the definition of what a design studio can do.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "The Ulm Stool emerges from a design school that believed in systematic methodology. Cambio applies systematic methodology not to making objects but to understanding their material origins — Ulm's rigour turned outward toward planetary systems"
+      }
+    ],
+    "keywords": [
+      "timber",
+      "forestry",
+      "Serpentine",
+      "research design",
+      "supply chain",
+      "policy",
+      "Italian-Dutch",
+      "governance"
+    ],
+    "id": 627
+  },
+  {
+    "title": "Clay Table",
+    "designer": "Maarten Baas",
+    "year": 2006,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Maarten Baas Studio",
+    "collection": "Various museum collections",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "A functional table with legs and surface modelled in synthetic clay over a hidden steel structure, then left with every fingerprint, thumb-mark, and imperfection visible in the finished surface. The clay is industrial — durable and permanent — but shaped with the deliberate awkwardness of a child's first pottery attempt. No smoothing, no refinement. The making process is frozen in the surface.",
+    "significance": "Baas extending his Smoke series philosophy: where Smoke arrested destruction, Clay arrests construction at its most raw. Shows students that 'unfinished' can be a deliberate aesthetic — that stopping before refinement preserves an honesty that polishing destroys.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams finishes every surface to perfection. Baas deliberately preserves every imperfection — both make conscious decisions about surface, but one values precision and the other values trace"
+      }
+    ],
+    "keywords": [
+      "synthetic clay",
+      "fingerprints",
+      "imperfection",
+      "Dutch design",
+      "handmade",
+      "anti-refinement",
+      "surface",
+      "process visible"
+    ],
+    "id": 628
+  },
+  {
+    "title": "Real Time: Sweepers Clock",
+    "designer": "Maarten Baas",
+    "year": 2009,
+    "discipline": "Product",
+    "origin": "Netherlands",
+    "manufacturer": "Maarten Baas Studio",
+    "collection": "Schiphol Airport, Amsterdam / Various museums",
+    "movement": "Dutch Conceptual Design / Performance",
+    "wikiTitle": null,
+    "description": "A 12-hour video of a man in a rubbish-filled room who continuously sweeps debris into the positions of clock hands, displayed on a screen framed as a clock face. Every minute, he reshapes the debris to show the new time. The full cycle requires 12 hours of continuous performance, filmed in real time. Installed permanently at Schiphol Airport's arrivals hall where millions of travellers check it daily.",
+    "significance": "Baas replacing mechanism with human labour — every minute of timekeeping requires a person's physical effort. Shows students that the most powerful critique of automation might be re-inserting the human body into a process we've forgotten involves bodies. Schiphol's commission makes it one of the most-seen design artworks in the world.",
+    "connections": [
+      {
+        "id": 13,
+        "type": "argument",
+        "reason": "Beck's Underground Map abstracts London into pure information. Baas's clock returns abstract time to physical, bodily effort — both redesign how we read systems, but one simplifies and the other complicates"
+      }
+    ],
+    "keywords": [
+      "performance",
+      "video",
+      "clock",
+      "Schiphol",
+      "real time",
+      "human labour",
+      "Dutch design",
+      "public art"
+    ],
+    "id": 629
+  },
+  {
+    "title": "Ronan & Erwan Bouroullec Alcove Sofa",
+    "designer": "Ronan & Erwan Bouroullec",
+    "year": 2006,
+    "discipline": "Furniture",
+    "origin": "France",
+    "manufacturer": "Vitra",
+    "collection": "Various collections",
+    "movement": "Contemporary European Design",
+    "wikiTitle": null,
+    "description": "A high-backed sofa whose walls rise to create a semi-enclosed space — part furniture, part architecture. The tall fabric panels absorb sound, block sightlines, and create a private zone within open-plan offices or public spaces. Available in multiple configurations from two-seat to full booth. The Bouroullecs describe it as 'a room within a room.'",
+    "significance": "Redefined office furniture by addressing the real problem of open-plan work: the need for privacy without walls. Shows students that the most successful designs often operate between categories — the Alcove is neither sofa nor partition nor room, but something new that didn't have a name until they designed it.",
+    "connections": [
+      {
+        "id": 10,
+        "type": "sameProblem",
+        "reason": "Both Jacobsen and the Bouroullecs design furniture that creates architectural space — the Egg Chair as private pod, the Alcove as private room — but the Bouroullecs scale it from individual to social"
+      }
+    ],
+    "keywords": [
+      "Vitra",
+      "high-back",
+      "acoustic",
+      "office furniture",
+      "privacy",
+      "French design",
+      "Bouroullec brothers",
+      "room within room"
+    ],
+    "id": 630
+  },
+  {
+    "title": "Palissade Outdoor Collection",
+    "designer": "Ronan & Erwan Bouroullec",
+    "year": 2015,
+    "discipline": "Furniture",
+    "origin": "France",
+    "manufacturer": "HAY",
+    "collection": "In production",
+    "movement": "Democratic Scandinavian-French Design",
+    "wikiTitle": null,
+    "description": "A comprehensive outdoor furniture system — chairs, benches, tables, loungers — made from hot-dip galvanised steel tube and flat bar. The diagonal cross-bracing pattern that gives the collection its name provides structural rigidity without added weight. Every piece stacks. The steel construction allows year-round outdoor use without degradation. Designed for HAY's accessible price point.",
+    "significance": "The Bouroullecs proving they can design for democratic production as effectively as for Vitra's premium market. Shows students that designing affordable outdoor furniture for a mass market is as legitimate an ambition as designing gallery editions — and arguably harder, because every gram of material and every weld has a cost consequence.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "method",
+        "reason": "Both Ponti's Superleggera and the Palissade achieve structural efficiency through geometry rather than material mass — triangulation in steel versus ash, same engineering logic, different material expression"
+      }
+    ],
+    "keywords": [
+      "galvanised steel",
+      "HAY",
+      "outdoor",
+      "stackable",
+      "affordable",
+      "French design",
+      "Bouroullec brothers",
+      "democratic"
+    ],
+    "id": 631
+  },
+  {
+    "title": "Konstantin Grcic Mayday Lamp",
+    "designer": "Konstantin Grcic",
+    "year": 2000,
+    "discipline": "Lighting",
+    "origin": "Germany",
+    "manufacturer": "Flos",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Industrial Rationalism",
+    "wikiTitle": null,
+    "description": "A portable utility lamp with a polypropylene body, integrated hook for hanging, and a handle that doubles as a cord winder. Designed as a modern reinterpretation of the mechanic's inspection lamp — honest, functional, meant to go where light is needed rather than sit decoratively. The cone-shaped shade directs light precisely. Costs under €50.",
+    "significance": "Grcic distilling a lamp to pure function with the rigour of Dieter Rams but the material honesty of a workshop tool. Shows students that designing a cheap, useful object well is among the hardest things in design — every curve in the Mayday has a functional reason, and the MoMA acquisition proves that affordability and design quality aren't contradictions.",
+    "connections": [
+      {
+        "id": 1,
+        "type": "lineage",
+        "reason": "Grcic directly inherits Rams's belief that good design is as little design as possible, but applies it to a tool-like object rather than a consumer electronics system — Braun's philosophy in a workshop lamp"
+      }
+    ],
+    "keywords": [
+      "Flos",
+      "polypropylene",
+      "portable",
+      "utility",
+      "MoMA",
+      "German design",
+      "affordable",
+      "inspection lamp"
+    ],
+    "id": 632
+  },
+  {
+    "title": "Dunne & Raby Placebo Project",
+    "designer": "Anthony Dunne & Fiona Raby",
+    "year": 2001,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "n/a (research project)",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Speculative Design / Critical Design",
+    "wikiTitle": null,
+    "description": "Eight prototype electronic objects designed to address the psychological anxiety caused by invisible electromagnetic radiation in the home. None of them actually protect against radiation — they function as emotional props, like a child's security blanket. A compass table wobbles when electronic devices are nearby. A nipple chair vibrates in the presence of mobile phone signals. The objects were placed in volunteers' homes and their responses documented.",
+    "significance": "The founding project of speculative design as a practice. Shows students that design doesn't have to solve problems — it can make problems visible, felt, and discussed. The 'placebo' in the title is the point: design as psychological intervention rather than technical solution.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams designs objects that work perfectly in the real world. Dunne & Raby design objects that work perfectly as provocations about the real world — both are rigorous, but one solves problems and the other reframes them"
+      }
+    ],
+    "keywords": [
+      "speculative design",
+      "critical design",
+      "electromagnetic",
+      "RCA",
+      "MoMA",
+      "psychological",
+      "British design",
+      "research"
+    ],
+    "id": 633
+  },
+  {
+    "title": "United Micro Kingdoms",
+    "designer": "Anthony Dunne & Fiona Raby",
+    "year": 2012,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "n/a (Design Museum exhibition)",
+    "collection": "Design Museum, London",
+    "movement": "Speculative Design",
+    "wikiTitle": null,
+    "description": "A speculative project imagining the United Kingdom divided into four self-governing counties, each organised around a different political philosophy: digitarians (techno-libertarians), communo-nuclearists (nuclear-powered communists), anarcho-evolutionists (self-experimenters), and bioliberals (biotechnology enthusiasts). For each county, Dunne & Raby designed the vehicles, objects, and landscapes that would logically emerge from its values.",
+    "significance": "Design fiction at its most ambitious — not designing objects but designing entire political-material cultures. Shows students that the designer's real power might be in imagining alternative futures rather than optimising the present. The project asks: if our politics were different, how would our objects be different?",
+    "connections": [
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both Beck and Dunne & Raby redesign how we understand systems — Beck maps London's transport network, Dunne & Raby map possible political futures. Both use design to make complex systems legible"
+      }
+    ],
+    "keywords": [
+      "speculative design",
+      "Design Museum",
+      "political",
+      "futures",
+      "design fiction",
+      "British design",
+      "RCA",
+      "scenarios"
+    ],
+    "id": 634
+  },
+  {
+    "title": "Sabine Marcelis Candy Cube",
+    "designer": "Sabine Marcelis",
+    "year": 2018,
+    "discipline": "Furniture",
+    "origin": "Netherlands / New Zealand",
+    "manufacturer": "Sabine Marcelis Studio",
+    "collection": "Various collections",
+    "movement": "Material-Led Design",
+    "wikiTitle": null,
+    "description": "A monolithic resin cube that functions as a side table, stool, or display plinth. Cast in a single pour of tinted polyester resin, each cube is a solid block of translucent colour. The material glows when light hits it, changing character throughout the day. No joints, no assembly, no visible construction — just a pure volume of colour. Available in a spectrum from deep amber to pale rose.",
+    "significance": "Marcelis reducing furniture to its most essential gesture: a coloured volume you can put things on or sit on. Shows students that when material itself is beautiful enough, form becomes almost irrelevant. The cube is the simplest possible furniture shape; the resin is the entire design.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "sameProblem",
+        "reason": "Both the Ulm Stool and the Candy Cube solve seating through geometric simplicity — one in wood, one in resin — but Marcelis makes the material itself the sensory experience rather than the form"
+      }
+    ],
+    "keywords": [
+      "resin",
+      "monolithic",
+      "translucent",
+      "colour",
+      "Eindhoven",
+      "New Zealand",
+      "material-led",
+      "single pour"
+    ],
+    "id": 635
+  },
+  {
+    "title": "Scholten & Baijings Paper Porcelain",
+    "designer": "Scholten & Baijings",
+    "year": 2010,
+    "discipline": "Ceramic",
+    "origin": "Netherlands",
+    "manufacturer": "Scholten & Baijings Studio",
+    "collection": "Stedelijk Museum, Amsterdam",
+    "movement": "Dutch Material Research",
+    "wikiTitle": null,
+    "description": "Tableware collection where each piece begins as a paper model — folded, scored, and taped — which is then reproduced in unglazed porcelain. The ceramic versions retain the visual language of paper: visible fold lines, sharp creases, flat planes. The transformation from disposable paper to permanent porcelain freezes a temporary material gesture in an eternal one.",
+    "significance": "Shows students that material translation itself can be the design concept. The 'mistake' of a paper prototype — its folds, its cheapness, its fragility — becomes the aesthetic of the final ceramic. Scholten & Baijings ask: what if we valued the development process as much as the finished product?",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both Scholten & Baijings and Munari investigate material transformation as primary design method — paper becomes porcelain, elastic becomes lamp — the metamorphosis IS the work"
+      }
+    ],
+    "keywords": [
+      "paper to porcelain",
+      "material translation",
+      "unglazed",
+      "Stedelijk",
+      "Dutch design",
+      "process visible",
+      "tableware",
+      "folded"
+    ],
+    "id": 636
   }
 ];
