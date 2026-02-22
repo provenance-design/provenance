@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1, "title": "Arco Floor Lamp", "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1962, "discipline": "Lighting", "movement": "Italian Rationalism",
+    "connections": [
+      {"id": 3, "type": "sameProblem"}, {"id": 8, "type": "material"},
+      {"id": 11, "type": "argument"}, {"id": 6, "type": "sameProblem"}
+    ]
+  },
+  {
+    "id": 2, "title": "Mezzadro Stool", "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1957, "discipline": "Furniture", "movement": "Ready-made / Italian Radical",
+    "connections": [
+      {"id": 9, "type": "argument"}, {"id": 4, "type": "method"},
+      {"id": 12, "type": "argument"}, {"id": 6, "type": "zeitgeist"}
+    ]
+  },
+  {
+    "id": 3, "title": "Parentesi Lamp", "designer": "Achille Castiglioni & Pio Manzù",
+    "year": 1971, "discipline": "Lighting", "movement": "Italian Rationalism",
+    "connections": [
+      {"id": 1, "type": "sameProblem"}, {"id": 11, "type": "method"}, {"id": 7, "type": "lineage"}
+    ]
+  },
+  {
+    "id": 4, "title": "Sella Stool", "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1957, "discipline": "Furniture", "movement": "Ready-made / Behavioural Design",
+    "connections": [
+      {"id": 2, "type": "method"}, {"id": 10, "type": "lineage"}, {"id": 9, "type": "argument"}
+    ]
+  },
+  {
+    "id": 5, "title": "Snoopy Table Lamp", "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1967, "discipline": "Lighting", "movement": "Italian Rationalism",
+    "connections": [
+      {"id": 1, "type": "material"}, {"id": 8, "type": "sameProblem"}, {"id": 3, "type": "method"}
+    ]
+  },
+  {
+    "id": 6, "title": "Superleggera Chair", "designer": "Gio Ponti",
+    "year": 1957, "discipline": "Furniture", "movement": "Italian Modernism",
+    "connections": [
+      {"id": 2, "type": "zeitgeist"}, {"id": 7, "type": "method"}, {"id": 1, "type": "argument"}
+    ]
+  },
+  {
+    "id": 7, "title": "Ulm Stool", "designer": "Max Bill & Hans Gugelot",
+    "year": 1954, "discipline": "Furniture", "movement": "Ulm School / Concrete Art",
+    "connections": [
+      {"id": 11, "type": "lineage"}, {"id": 6, "type": "method"}, {"id": 12, "type": "argument"}
+    ]
+  },
+  {
+    "id": 8, "title": "Taccia Table Lamp", "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1962, "discipline": "Lighting", "movement": "Italian Rationalism",
+    "connections": [
+      {"id": 5, "type": "sameProblem"}, {"id": 1, "type": "material"}, {"id": 15, "type": "lineage"}
+    ]
+  },
+  {
+    "id": 9, "title": "Juicy Salif Lemon Squeezer", "designer": "Philippe Starck",
+    "year": 1990, "discipline": "Product", "movement": "Postmodernism",
+    "connections": [
+      {"id": 2, "type": "argument"}, {"id": 12, "type": "lineage"}, {"id": 4, "type": "argument"}
+    ]
+  },
+  {
+    "id": 10, "title": "Grillo Telephone", "designer": "Marco Zanuso & Richard Sapper",
+    "year": 1965, "discipline": "Product", "movement": "Italian Industrial Design",
+    "connections": [
+      {"id": 4, "type": "lineage"}, {"id": 16, "type": "method"}, {"id": 11, "type": "sameProblem"}
+    ]
+  },
+  {
+    "id": 11, "title": "606 Universal Shelving System", "designer": "Dieter Rams",
+    "year": 1960, "discipline": "Furniture", "movement": "Functionalism / Systems Design",
+    "connections": [
+      {"id": 12, "type": "argument"}, {"id": 1, "type": "argument"},
+      {"id": 7, "type": "lineage"}, {"id": 3, "type": "method"}
+    ]
+  },
+  {
+    "id": 12, "title": "Carlton Bookcase", "designer": "Ettore Sottsass",
+    "year": 1981, "discipline": "Furniture", "movement": "Memphis / Postmodernism",
+    "connections": [
+      {"id": 11, "type": "argument"}, {"id": 9, "type": "lineage"},
+      {"id": 2, "type": "argument"}, {"id": 7, "type": "argument"}
+    ]
+  },
+  {
+    "id": 13, "title": "London Underground Map", "designer": "Harry Beck",
+    "year": 1933, "discipline": "Graphic", "movement": "Information Design",
+    "connections": [
+      {"id": 14, "type": "method"}, {"id": 16, "type": "lineage"}, {"id": 7, "type": "method"}
+    ]
+  },
+  {
+    "id": 14, "title": "Penguin Books Composition Rules", "designer": "Jan Tschichold",
+    "year": 1947, "discipline": "Graphic", "movement": "New Typography / Modernism",
+    "connections": [
+      {"id": 13, "type": "method"}, {"id": 11, "type": "method"}, {"id": 16, "type": "lineage"}
+    ]
+  },
+  {
+    "id": 15, "title": "Centre Pompidou", "designer": "Renzo Piano & Richard Rogers",
+    "year": 1977, "discipline": "Architecture", "movement": "High-Tech Architecture",
+    "connections": [
+      {"id": 16, "type": "method"}, {"id": 8, "type": "lineage"}, {"id": 11, "type": "argument"}
+    ]
+  },
+  {
+    "id": 16, "title": "Braun SK 4 Radiogram", "designer": "Dieter Rams & Hans Gugelot",
+    "year": 1956, "discipline": "Product", "movement": "Ulm School / Functionalism",
+    "connections": [
+      {"id": 15, "type": "method"}, {"id": 10, "type": "method"},
+      {"id": 14, "type": "lineage"}, {"id": 11, "type": "lineage"}
+    ]
+  }
+]

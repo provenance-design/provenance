@@ -1,17 +1,19 @@
 'use client';
 
 import { useState, useEffect } from "react";
-import { ARCHIVE, DISCIPLINES, PALETTE, CONN_TYPES } from "./data/archive";
+import { ARCHIVE, DISCIPLINES, CONNECTION_TYPES } from "./data/archive";
+const CONN_TYPES = Object.fromEntries(Object.entries(CONNECTION_TYPES).map(([k, v]) => [k, { ...v, icon: v.symbol }]));
+const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", Lighting: "#5B7065", Architecture: "#6B7B6F", Typography: "#7A8B7A", Textile: "#9B6B4A", Transport: "#5A7B8B", Ceramic: "#8B7355", Glass: "#6B8B7B", Metalwork: "#7B6B8B" };
 
 function getConnection(id) { return ARCHIVE.find(item => item.id === id); }
 
 function ImageWithFallback({ item, aspectRatio = "4/3" }) {
-  const [imgUrl, setImgUrl] = useState(null);
+  const [imgUrl, setImgUrl] = useState(item.imageUrl || null);
   const [failed, setFailed] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(!item.imageUrl);
 
   useEffect(() => {
-    if (!item.wikiTitle) { setLoading(false); return; }
+    if (item.imageUrl || !item.wikiTitle) { setLoading(false); return; }
     let cancelled = false;
     fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(item.wikiTitle)}`)
       .then(r => r.json())
@@ -23,7 +25,7 @@ function ImageWithFallback({ item, aspectRatio = "4/3" }) {
       })
       .catch(() => { if (!cancelled) { setFailed(true); setLoading(false); } });
     return () => { cancelled = true; };
-  }, [item.wikiTitle]);
+  }, [item.wikiTitle, item.imageUrl]);
 
   const fallbackEl = (
     <div style={{ aspectRatio, background: '#EDEADE', display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', padding: '24px', position: 'relative', overflow: 'hidden' }}>
@@ -34,7 +36,7 @@ function ImageWithFallback({ item, aspectRatio = "4/3" }) {
     </div>
   );
 
-  if (!item.wikiTitle || failed) return fallbackEl;
+  if ((!item.wikiTitle && !item.imageUrl) || failed) return fallbackEl;
   if (loading) return fallbackEl;
 
   return (
