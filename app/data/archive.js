@@ -25558,5 +25558,834 @@ export const ARCHIVE = [
       "essential form"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH5039/full/800,/0/default.jpg"
+  },
+  {
+    "title": "Lockheed Lounge",
+    "designer": "Marc Newson",
+    "year": 1988,
+    "discipline": "Furniture",
+    "origin": "Australia",
+    "manufacturer": "Pod",
+    "collection": "Vitra Design Museum / Powerhouse Museum, Sydney",
+    "movement": "New Simplicity / Biomorphism",
+    "wikiTitle": "Lockheed Lounge",
+    "description": "A chaise longue formed from fibreglass-reinforced polyester resin, clad in hand-beaten aluminium sheets fixed with blind rivets. Three rubber-footed legs descend from a continuous organic profile inspired loosely by David's Portrait of Madame Récamier and the riveted fuselage panels of Lockheed aircraft. Each piece in the edition of ten took six months, with every aluminium panel individually cut, filed, and fitted — making each one unique despite being editioned.",
+    "significance": "The most expensive object ever sold by a living designer (£2.4m, 2015). Shows students that limited-edition furniture can function as both design and contemporary art — and that the hand-making process itself becomes part of the object's cultural value. Raises questions about whether design's significance comes from function, craft, or narrative.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Both Newson and Starck create objects whose cultural value exceeds their functional utility, but Newson achieves this through material craft while Starck achieves it through wit — two models for design as authorship"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both address the chaise longue typology but from opposite positions — Ponti refines traditional craft to its lightest expression while Newson makes craft deliberately laborious and excessive"
+      },
+      {
+        "id": 1,
+        "type": "method",
+        "reason": "Both use hand-beaten metal sheet over an internal form, though separated by industrial purpose (Rams's calculated restraint) and sculptural ambition (Newson's biomorphic excess)"
+      }
+    ],
+    "keywords": [
+      "aluminium",
+      "limited edition",
+      "biomorphic",
+      "riveted",
+      "chaise longue",
+      "auction record",
+      "Australian design",
+      "craft excess"
+    ],
+    "id": 588
+  },
+  {
+    "title": "Tree Trunk Bench",
+    "designer": "Jurgen Bey",
+    "year": 1999,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Droog",
+    "collection": "Various public collections",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "Three bronze casts of classical chair backs are inserted into a fallen tree trunk, transforming found natural material into a public bench. Only the bronze backs are sold — Bey insists it is ridiculous to transport trees when they are locally available. The piece was originally designed for the park at Oranienbaum, where nature and culture physically intersect in a cultivated landscape.",
+    "significance": "The definitive Droog statement: design as idea rather than object. Forces students to ask what the designer actually designed — the backs, the concept, or the permission to see a fallen tree as furniture. Challenges industrial design's assumption that the designer controls all material, and suggests that the most radical move is designing less.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "The Ulm Stool represents total design control — every dimension calculated. Bey's bench represents designed surrender — the tree dictates form. Both are minimal, but from opposite philosophies of authorship"
+      },
+      {
+        "id": 11,
+        "type": "sameProblem",
+        "reason": "Both address public seating but Castiglioni repurposes an industrial object (tractor seat) while Bey repurposes a natural one (tree trunk) — two strategies for found-object design"
+      }
+    ],
+    "keywords": [
+      "Droog",
+      "conceptual design",
+      "found object",
+      "bronze casting",
+      "public furniture",
+      "Dutch design",
+      "site-specific",
+      "anti-industrial"
+    ],
+    "id": 589
+  },
+  {
+    "title": "Rover Chair",
+    "designer": "Ron Arad",
+    "year": 1981,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "One Off Ltd",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Creative Salvage",
+    "wikiTitle": "Rover_chair",
+    "description": "A leather seat salvaged from a scrapped Rover 2000 car, mounted on a tubular steel frame with Kee Klamp scaffold fittings. The industrial clamps allow height adjustment but are left deliberately raw — no attempt to disguise the assembly method. The car seat provides genuine ergonomic comfort that no designer could improve upon; Arad simply recontextualises it.",
+    "significance": "Launched the Creative Salvage movement and Arad's career simultaneously. Shows students that design intelligence can be curatorial — recognising that a car seat is already the result of millions of pounds of ergonomic research, and that reframing it is a more honest act than redesigning it. The Kee Klamp fittings are the design — the seat is the found art.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "lineage",
+        "reason": "Arad extends Castiglioni's ready-made principle from the Mezzadro (tractor seat on steel) but with punk economy — where Castiglioni aestheticised the found object, Arad celebrates its rawness"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "The Ulm Stool embodies HfG's belief that good design requires total intentionality. The Rover Chair argues that the best design is sometimes recognising what already works"
+      }
+    ],
+    "keywords": [
+      "creative salvage",
+      "found object",
+      "Rover 2000",
+      "Kee Klamp",
+      "scaffold",
+      "British design",
+      "punk design",
+      "ready-made"
+    ],
+    "id": 590
+  },
+  {
+    "title": "Bookworm Shelf",
+    "designer": "Ron Arad",
+    "year": 1993,
+    "discipline": "Furniture",
+    "origin": "United Kingdom / Italy",
+    "manufacturer": "Kartell",
+    "collection": "Various museum collections",
+    "movement": "Post-Industrial Design",
+    "wikiTitle": "Bookworm_(bookshelf)",
+    "description": "A continuous extruded PVC strip that can be bent into any sinuous wall-mounted form, held in place by steel bookend brackets at intervals. The shelf has no fixed shape — each installation is unique, determined by the owner. Originally conceived in steel for gallery editions, Arad worked with Kartell to translate the concept into injection-moulded thermoplastic for mass production.",
+    "significance": "Demonstrates the rare journey from gallery one-off to mass-market product without losing conceptual integrity. Shows students that the same idea can exist at two price points if the designer understands material translation. The user becomes co-designer — a democratic gesture from a designer known for exclusive editions.",
+    "connections": [
+      {
+        "id": 1,
+        "type": "argument",
+        "reason": "Rams designs shelving systems with precise modularity where every position is predetermined. Arad designs a shelf with infinite positions where nothing is predetermined — two philosophies of user agency"
+      },
+      {
+        "id": 3,
+        "type": "method",
+        "reason": "Both Colombo's Componibili and Arad's Bookworm use thermoplastic to democratise design, but Colombo standardises form while Arad liberates it"
+      }
+    ],
+    "keywords": [
+      "Kartell",
+      "PVC",
+      "flexible",
+      "wall-mounted",
+      "mass production",
+      "gallery to mass market",
+      "user-defined",
+      "parametric"
+    ],
+    "id": 591
+  },
+  {
+    "title": "UP5 Armchair",
+    "designer": "Gaetano Pesce",
+    "year": 1969,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "B&B Italia (C&B Italia)",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Radical Design / Anti-Design",
+    "wikiTitle": "Up_(chair)",
+    "description": "An anthropomorphic polyurethane foam armchair in the form of a voluptuous female body, sold vacuum-packed flat and expanding to full size when the packaging is opened. A spherical ottoman attached by a cord references a ball and chain. The foam is covered in stretch jersey fabric. The vacuum-packing reduced shipping volume by 90%, turning logistics into spectacle — the unboxing becomes performance.",
+    "significance": "Pesce described it as a political statement about women's captivity throughout history. Shows students that furniture can carry ideological content without being didactic — the form communicates before any explanation. The vacuum-packaging innovation predates flat-pack by decades and turns the moment of purchase into theatre.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "zeitgeist",
+        "reason": "Both Starck and Pesce inject narrative and provocation into domestic objects, but Pesce's politics are embodied in form while Starck's irony operates through naming and marketing"
+      },
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Ponti's Superleggera perfects the chair as pure function and proportion. Pesce's UP5 rejects function as the primary purpose of furniture — the chair exists to make an argument about gender politics"
+      }
+    ],
+    "keywords": [
+      "polyurethane foam",
+      "vacuum packed",
+      "feminist",
+      "anthropomorphic",
+      "anti-design",
+      "B&B Italia",
+      "political design",
+      "radical Italian"
+    ],
+    "id": 592
+  },
+  {
+    "title": "Multi Chair",
+    "designer": "Joe Colombo",
+    "year": 1970,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "B-Line (reissue)",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Space Age Design",
+    "wikiTitle": null,
+    "description": "Two padded cushions of different sizes connected by a central joint, allowing the chair to assume multiple configurations — upright seat, low lounge, bed. No frame, no mechanism — just the relationship between two soft geometric volumes and gravity. The user physically rearranges the components to switch between postures.",
+    "significance": "Colombo's domestic habitat research compressed into a single object. Shows students that adaptive furniture doesn't require technology — just intelligent geometry and trust in the user. The absence of a frame is the design decision: Colombo removes structure to create freedom.",
+    "connections": [
+      {
+        "id": 3,
+        "type": "lineage",
+        "reason": "The Multi Chair extends Colombo's modular philosophy from the Componibili — both use simple geometric forms that the user recombines, but here the body replaces the container"
+      },
+      {
+        "id": 10,
+        "type": "method",
+        "reason": "Both Colombo and Jacobsen design for total environments, but Colombo's furniture adapts to changing use while Jacobsen's remains fixed in its perfected form"
+      }
+    ],
+    "keywords": [
+      "modular",
+      "transformable",
+      "Space Age",
+      "no frame",
+      "multi-use",
+      "Italian design",
+      "polyurethane",
+      "adaptive furniture"
+    ],
+    "id": 593
+  },
+  {
+    "title": "Nobody's Perfect Chair",
+    "designer": "Gaetano Pesce",
+    "year": 2002,
+    "discipline": "Furniture",
+    "origin": "Italy / Brazil",
+    "manufacturer": "Zerodisegno",
+    "collection": "Various collections",
+    "movement": "Post-Industrial Craft",
+    "wikiTitle": null,
+    "description": "Each chair in this series is intentionally different — cast in polyurethane resin using a deliberately imprecise mould that allows material to overflow, pool, and set in unpredictable ways. Colours bleed into each other. No two are alike. Pesce instructed Brazilian workers to embrace error rather than correct it, embedding imperfection into the production method itself.",
+    "significance": "A direct challenge to industrial design's obsession with consistency. Shows students that serial production doesn't have to mean identical production — that variation can be a feature rather than a defect. Pesce asks: what if mass production celebrated the hand rather than erasing it?",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams's entire philosophy depends on consistency and precision in production. Pesce's entire philosophy depends on inconsistency and imprecision — both are systematic, but with opposite values"
+      },
+      {
+        "id": 3,
+        "type": "sameProblem",
+        "reason": "Both address the challenge of producing furniture at scale, but Colombo achieves democracy through standardisation while Pesce achieves individuality through deliberate error"
+      }
+    ],
+    "keywords": [
+      "resin casting",
+      "imperfection",
+      "deliberate error",
+      "variation",
+      "anti-industrial",
+      "Brazilian production",
+      "polyurethane",
+      "radical craft"
+    ],
+    "id": 594
+  },
+  {
+    "title": "Embryo Chair",
+    "designer": "Marc Newson",
+    "year": 1988,
+    "discipline": "Furniture",
+    "origin": "Australia / Japan",
+    "manufacturer": "Idée",
+    "collection": "Design Museum, London",
+    "movement": "Biomorphism",
+    "wikiTitle": null,
+    "description": "A moulded fibreglass shell covered in neoprene foam padding, resting on chromed tubular steel legs. The organic seat curves wrap around the sitter like a protective pod. Newson described it as the first piece where he identified a discernible personal style — the fusion of organic form with industrial finish that became his signature.",
+    "significance": "The piece that established Newson's design language before the Lockheed Lounge made him famous. Shows students the difference between a breakthrough object (Lockheed) and the developmental work that made it possible. The neoprene covering transfers wetsuit technology to furniture — a material leap that defines Newson's cross-disciplinary thinking.",
+    "connections": [
+      {
+        "id": 10,
+        "type": "method",
+        "reason": "Both Newson and Jacobsen use moulded shell construction to create enveloping seat forms, but Jacobsen works within Scandinavian manufacturing traditions while Newson draws from surfboard and wetsuit culture"
+      }
+    ],
+    "keywords": [
+      "fibreglass",
+      "neoprene",
+      "biomorphic",
+      "Australian design",
+      "Idée",
+      "organic form",
+      "chromed steel",
+      "Tokyo"
+    ],
+    "id": 595
+  },
+  {
+    "title": "Black Gold Chair",
+    "designer": "Ineke Hans",
+    "year": 2006,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Ineke Hans Studio",
+    "collection": "Stedelijk Museum, Amsterdam",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "A generic wooden chair form — the kind found in every school and church — rendered in high-gloss black lacquer that transforms the ordinary into the precious. Hans takes the most anonymous, overlooked furniture archetype and elevates it through surface treatment alone. The title references the alchemical transformation of base material into gold.",
+    "significance": "Demonstrates that design innovation doesn't require new form — it can operate through recontextualisation. Shows students that the 'ordinary' is itself a rich design territory. Hans's work consistently asks what happens when we pay attention to objects we've learned to ignore.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "The Ulm Stool designs an entirely new form to achieve universal seating. Hans takes an existing universal form and asks why we need to design anything new at all"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both address the chair as cultural object rather than merely functional one, but Ponti perfects form while Hans perfects attention"
+      }
+    ],
+    "keywords": [
+      "Dutch design",
+      "archetype",
+      "lacquer",
+      "ordinary",
+      "recontextualisation",
+      "Stedelijk",
+      "anonymous design",
+      "elevation"
+    ],
+    "id": 596
+  },
+  {
+    "title": "Showtime Armchair",
+    "designer": "Jaime Hayon",
+    "year": 2006,
+    "discipline": "Furniture",
+    "origin": "Spain",
+    "manufacturer": "BD Barcelona",
+    "collection": "Various collections",
+    "movement": "New Baroque / Contemporary Craft",
+    "wikiTitle": null,
+    "description": "A rotational-moulded polyethylene shell armchair with an optional fabric-covered interior and brass-finished turned wooden legs. The form references classical wingback chairs but is executed in playground-grade plastic, creating a deliberate collision between aristocratic silhouette and democratic material. Available with or without a canopy extension that frames the sitter like a stage.",
+    "significance": "Hayon's breakthrough piece that established his position between art, craft, and design. Shows students that historical references in contemporary design don't have to be ironic or postmodern — they can be celebratory. The rotational moulding makes baroque form accessible at non-baroque prices.",
+    "connections": [
+      {
+        "id": 3,
+        "type": "method",
+        "reason": "Both Colombo and Hayon use rotational moulding in plastic to create sculptural furniture forms, but Colombo pursues Space Age futurism while Hayon pursues historical fantasy"
+      },
+      {
+        "id": 9,
+        "type": "zeitgeist",
+        "reason": "Both Hayon and Starck bring theatrical personality to functional objects, treating furniture as performance — but Hayon's warmth contrasts with Starck's irony"
+      }
+    ],
+    "keywords": [
+      "BD Barcelona",
+      "rotational moulding",
+      "polyethylene",
+      "wingback",
+      "new baroque",
+      "Spanish design",
+      "theatrical",
+      "craft-industrial"
+    ],
+    "id": 597
+  },
+  {
+    "title": "Green Chicken",
+    "designer": "Jaime Hayon",
+    "year": 2004,
+    "discipline": "Ceramic",
+    "origin": "Spain",
+    "manufacturer": "Bosa",
+    "collection": "David Gill Gallery, London",
+    "movement": "Art-Design / Contemporary Craft",
+    "wikiTitle": null,
+    "description": "An oversized ceramic chicken sculpture finished in glossy emerald green glaze, standing roughly a metre tall. Part of Hayon's 'Mediterranean Digital Baroque' collection that merged traditional European ceramic craft with cartoon-like exaggeration. Hand-made in Bosa's Italian workshops using centuries-old ceramic techniques, then glazed in colours no traditional ceramicist would choose.",
+    "significance": "Blurred the boundary between design object, decorative art, and sculpture at a moment when contemporary design was dominated by minimalism. Shows students that humour and craft mastery aren't mutually exclusive — and that rejecting seriousness can itself be a serious design position.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "lineage",
+        "reason": "Hayon inherits Starck's permission to inject personality and humour into design objects, but grounds it in genuine material craft rather than conceptual provocation"
+      }
+    ],
+    "keywords": [
+      "ceramic",
+      "Bosa",
+      "humour",
+      "decorative art",
+      "Mediterranean",
+      "glaze",
+      "oversized",
+      "art-design boundary"
+    ],
+    "id": 598
+  },
+  {
+    "title": "Kokon Furniture",
+    "designer": "Jurgen Bey",
+    "year": 1997,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Droog",
+    "collection": "Centraal Museum, Utrecht",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "Discarded classical furniture — ornate chairs, settees, side tables — is coated in a translucent PVC skin that shrink-wraps around the existing form. The original furniture remains visible beneath the plastic membrane like objects in amber. The coating preserves the form while fundamentally changing the object's material presence and relationship to its own history.",
+    "significance": "Bey's most museum-collected work. Asks students to consider when an object stops being one thing and becomes another — is this still a chair, or is it now a comment about a chair? The PVC skin simultaneously preserves and erases identity, making visible the tension between heritage and contemporary intervention.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Ponti's Superleggera is the perfection of a traditional chair form. Bey's Kokon is the embalming of one — both treat furniture history with reverence, but one refines and the other fossilises"
+      },
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both Bey and Castiglioni recontextualise existing objects as design, but Castiglioni extracts function from industrial objects while Bey extracts narrative from domestic ones"
+      }
+    ],
+    "keywords": [
+      "PVC skin",
+      "shrink-wrap",
+      "found furniture",
+      "Droog",
+      "preservation",
+      "Dutch design",
+      "conceptual",
+      "Centraal Museum"
+    ],
+    "id": 599
+  },
+  {
+    "title": "Favela Chair",
+    "designer": "Fernando & Humberto Campana",
+    "year": 1991,
+    "discipline": "Furniture",
+    "origin": "Brazil",
+    "manufacturer": "Edra",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Brazilian Design / Design Art",
+    "wikiTitle": "Favela_Chair",
+    "description": "Hundreds of small irregular pieces of raw wood — offcuts, scraps, salvaged fragments — are nailed and glued together by hand to form the rough silhouette of a conventional armchair. No two pieces of wood are the same. The Campanas originally built them from wood collected in São Paulo's streets; Edra's Italian production uses hand-selected pine offcuts assembled by skilled craftspeople.",
+    "significance": "Brought Brazilian design to international attention and challenged the European assumption that good design requires precision. Shows students that vernacular building methods — the improvised construction of favela architecture — contain design intelligence that formal education overlooks.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams's design philosophy eliminates every unnecessary element. The Campanas' philosophy celebrates excess, accumulation, and the beauty of apparent chaos — two equally systematic approaches to material"
+      },
+      {
+        "id": 7,
+        "type": "sameProblem",
+        "reason": "Both solve seating through material economy, but the Ulm Stool achieves it through industrial reduction while the Favela Chair achieves it through resourceful accumulation of waste"
+      }
+    ],
+    "keywords": [
+      "scrap wood",
+      "Brazilian design",
+      "Edra",
+      "handmade",
+      "Campana Brothers",
+      "vernacular",
+      "MoMA",
+      "improvisation"
+    ],
+    "id": 600
+  },
+  {
+    "title": "Bubble Chair",
+    "designer": "Hussein Chalayan",
+    "year": 2000,
+    "discipline": "Furniture",
+    "origin": "United Kingdom / Turkey",
+    "manufacturer": "n/a (performance piece)",
+    "collection": "Design Museum, London",
+    "movement": "Fashion-Design Crossover",
+    "wikiTitle": null,
+    "description": "In Chalayan's Autumn/Winter 2000 show 'Afterwords', models removed the covers from furniture on stage and wore them as garments — a coffee table became a skirt, chair covers became dresses. The finale saw the set stripped bare as clothing and furniture merged into a single system. Not a product but a performed argument about the relationship between the body, clothing, and domestic space.",
+    "significance": "The most radical fusion of fashion and furniture design ever staged. Shows students that disciplinary boundaries are intellectual habits, not material realities — a chair cover and a dress solve the same problem of wrapping a body. Chalayan trained as a fashion designer but thinks as an architect.",
+    "connections": [
+      {
+        "id": 10,
+        "type": "argument",
+        "reason": "Jacobsen designed the SAS Royal Hotel as a total environment where every object served the architecture. Chalayan inverts this — his environment literally becomes the clothing, collapsing the hierarchy between architecture, furniture, and fashion"
+      }
+    ],
+    "keywords": [
+      "fashion design",
+      "performance",
+      "wearable furniture",
+      "Afterwords",
+      "Turkish-Cypriot",
+      "conceptual",
+      "Design Museum",
+      "disciplinary crossover"
+    ],
+    "id": 601
+  },
+  {
+    "title": "Body Meets Dress, Dress Meets Body",
+    "designer": "Rei Kawakubo / Comme des Garçons",
+    "year": 1997,
+    "discipline": "Textile",
+    "origin": "Japan",
+    "manufacturer": "Comme des Garçons",
+    "collection": "Metropolitan Museum of Art, New York",
+    "movement": "Deconstructionism / Anti-Fashion",
+    "wikiTitle": null,
+    "description": "Garments with padded protrusions sewn into unexpected locations — hips, shoulders, backs — that distort the natural body silhouette into unfamiliar organic forms. The padding uses stretch gingham and down-filled inserts that shift as the wearer moves, creating a body that is never the same shape twice. Kawakubo said the collection was about the space between the body and dress.",
+    "significance": "The Met devoted its 2017 Costume Institute exhibition to Kawakubo — only the second living designer so honoured after Yves Saint Laurent. Shows students that design can question the most fundamental assumption of all: the shape of the human body. If product design serves the body as it is, Kawakubo designs for the body as it could be.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "argument",
+        "reason": "Munari's Falkland lamp stretches a tube into an unexpected form through gravity and material tension. Kawakubo stretches the body into unexpected form through padding and gravity — both find beauty in structural distortion"
+      }
+    ],
+    "keywords": [
+      "Comme des Garçons",
+      "anti-fashion",
+      "body distortion",
+      "padding",
+      "gingham",
+      "Met",
+      "Japanese design",
+      "deconstructionism"
+    ],
+    "id": 602
+  },
+  {
+    "title": "Pratone",
+    "designer": "Giorgio Ceretti, Pietro Derossi & Riccardo Rosso",
+    "year": 1971,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Gufram",
+    "collection": "Centre Pompidou, Paris",
+    "movement": "Radical Design",
+    "wikiTitle": "Pratone_(furniture)",
+    "description": "A monumental block of flexible polyurethane foam sculpted into oversized blades of grass, painted green. Users nestle between the giant grass blades, which bend and support the body in unpredictable configurations. Standing nearly a metre tall, the piece transforms a room into a surreal landscape — domestic furniture as environmental sculpture.",
+    "significance": "The purest expression of Italian Radical Design's rejection of functionalism. Shows students that the line between furniture and art installation was being questioned fifty years before today's 'design art' market. Gufram's production of these pieces — serious industrial manufacturing of deliberately absurd objects — is itself a radical act.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "zeitgeist",
+        "reason": "Both Pratone and Starck's Juicy Salif prioritise conceptual provocation over functional efficiency, but Pratone emerged from collective political radicalism while Starck operates through individual celebrity"
+      }
+    ],
+    "keywords": [
+      "polyurethane foam",
+      "Gufram",
+      "Radical Design",
+      "oversized",
+      "Italian design",
+      "anti-functional",
+      "environmental sculpture",
+      "green"
+    ],
+    "id": 603
+  },
+  {
+    "title": "Autoprogettazione",
+    "designer": "Enzo Mari",
+    "year": 1974,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Self-produced (open-source)",
+    "collection": "Triennale Design Museum, Milan",
+    "movement": "Democratic Design / Political Design",
+    "wikiTitle": "Autoprogettazione",
+    "description": "A book of technical drawings for 19 pieces of furniture — tables, chairs, shelves, beds — that anyone can build using only rough-sawn planks and nails. No special tools, no skill required. Mari published the plans and invited people to send him photographs of their results. The designs are deliberately basic: the simplest possible construction that achieves each function.",
+    "significance": "Open-source design forty years before the term existed. Mari's political conviction was that people should understand how the objects in their lives are made — that mass production creates passive consumers. Shows students that the most radical design gesture might be giving away the design entirely.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams designs perfect objects for Braun's industrial production. Mari designs imperfect objects for anyone's production — both pursue democratic access to good design, but through opposite strategies"
+      },
+      {
+        "id": 7,
+        "type": "sameProblem",
+        "reason": "Both the Ulm Stool and Autoprogettazione address essential furniture through minimal means, but one emerges from institutional design education and the other rejects it"
+      }
+    ],
+    "keywords": [
+      "open source",
+      "DIY",
+      "political design",
+      "planks and nails",
+      "democratic",
+      "Italian design",
+      "Triennale",
+      "self-build"
+    ],
+    "id": 604
+  },
+  {
+    "title": "Miss Blanche",
+    "designer": "Shiro Kuramata",
+    "year": 1988,
+    "discipline": "Furniture",
+    "origin": "Japan",
+    "manufacturer": "Ishimaru",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Japanese Postmodernism / Design Art",
+    "wikiTitle": "Miss_Blanche",
+    "description": "An armchair cast in transparent acrylic resin with artificial red paper roses suspended within the clear material, appearing to float inside the chair's volume. The aluminium legs emerge from the resin block like stems. Named after Blanche DuBois from Tennessee Williams's A Streetcar Named Desire. Only 56 were made before Kuramata's death in 1991.",
+    "significance": "Possibly the most beautiful chair ever made. Shows students that furniture can be pure poetry — Kuramata said he wanted to capture 'the memory of a rose.' The limited production and Kuramata's early death give the piece a tragic resonance that transcends design into art. The resin technology was experimental and each casting unique.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Starck's Juicy Salif uses literary reference as marketing device. Kuramata's literary reference is material — the roses are literally inside the chair. Both blur design and narrative, but one is ironic and the other sincere"
+      }
+    ],
+    "keywords": [
+      "acrylic resin",
+      "roses",
+      "transparent",
+      "Blanche DuBois",
+      "Japanese design",
+      "limited edition",
+      "poetry",
+      "design art"
+    ],
+    "id": 605
+  },
+  {
+    "title": "Smoke Chair",
+    "designer": "Maarten Baas",
+    "year": 2002,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Maarten Baas Studio",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "Classical furniture is deliberately set on fire, then the burning is arrested at the precise moment when the form is charred but still structurally sound. The blackened remains are sealed with clear epoxy resin to preserve the fire-damaged state permanently. Baas's graduation project from Design Academy Eindhoven — he burned everything from ornate rococo chairs to simple children's furniture.",
+    "significance": "Baas's degree show sold out within hours and launched his career at 24. Shows students that destruction can be a design method — that burning a chair reveals something about its construction that no amount of refinement could. The moment of arresting the fire is the design decision, requiring extraordinary judgement about material behaviour.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams builds objects to last forever through material precision. Baas destroys existing objects and preserves the moment of their destruction — both are concerned with permanence, but from opposite directions"
+      },
+      {
+        "id": 7,
+        "type": "sameProblem",
+        "reason": "Both the Ulm Stool and the Smoke Chair are graduation projects that launched international careers, but one embodies systematic German pedagogy and the other embodies Dutch conceptual provocation"
+      }
+    ],
+    "keywords": [
+      "charred",
+      "burned",
+      "epoxy",
+      "Design Academy Eindhoven",
+      "destruction",
+      "graduation project",
+      "Dutch design",
+      "MoMA"
+    ],
+    "id": 606
+  },
+  {
+    "title": "Do Hit Chair",
+    "designer": "Marijn van der Poll",
+    "year": 2000,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "Droog",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Dutch Conceptual Design",
+    "wikiTitle": null,
+    "description": "A closed cube of 0.8mm stainless steel, delivered with a sledgehammer. The owner beats the cube into a chair shape of their own making. Each Do Hit is unique because each owner's violence, strength, and sense of form is different. The cube arrives as industrial perfection; it leaves as personal expression. The sledgehammer is part of the design.",
+    "significance": "The most extreme statement of user-as-designer in the Droog catalogue. Shows students that the 'user experience' can begin with physical violence — and that this violence is itself a form of creative expression. The piece asks who the designer really is: van der Poll who conceived it, or the owner who forms it.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Rams designs every detail so the user doesn't have to think. Van der Poll designs nothing so the user has to do everything — two extremes of the designer-user relationship"
+      },
+      {
+        "id": 1,
+        "type": "sameProblem",
+        "reason": "Both the 606 shelving and the Do Hit are metal objects the user configures, but Rams provides a system of choices while van der Poll provides a block of steel and a hammer"
+      }
+    ],
+    "keywords": [
+      "stainless steel",
+      "sledgehammer",
+      "user participation",
+      "Droog",
+      "MoMA",
+      "violence",
+      "Dutch design",
+      "co-creation"
+    ],
+    "id": 607
+  },
+  {
+    "title": "Salone del Mobile Chair",
+    "designer": "Martino Gamper",
+    "year": 2005,
+    "discipline": "Furniture",
+    "origin": "Italy / United Kingdom",
+    "manufacturer": "Martino Gamper Studio",
+    "collection": "Various collections",
+    "movement": "Design Art / Recombination",
+    "wikiTitle": null,
+    "description": "Part of Gamper's '100 Chairs in 100 Days' project: 100 unique chairs made by disassembling found chairs and recombining their parts into new hybrids. A Thonet leg meets a Windsor back meets a plastic seat. Each chair is a collision of furniture histories, functional and genuinely usable despite its Frankenstein assembly. The project took exactly 100 consecutive days.",
+    "significance": "Proves that the history of furniture is itself a material you can work with. Shows students that every chair contains the DNA of every chair before it — and that making this visible through physical recombination is a legitimate design method. Gamper trained as a carpenter under Michelangelo Pistoletto before studying with Ron Arad at the RCA.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Ponti spent years perfecting a single chair form. Gamper made 100 different chairs in 100 days — one values refinement, the other values proliferation and recombination"
+      },
+      {
+        "id": 11,
+        "type": "lineage",
+        "reason": "Gamper inherits Castiglioni's ready-made approach but applies it to design history itself — the found objects are other designers' chairs"
+      }
+    ],
+    "keywords": [
+      "100 chairs",
+      "recombination",
+      "found furniture",
+      "hybrid",
+      "RCA",
+      "Italian-British",
+      "daily practice",
+      "design history as material"
+    ],
+    "id": 608
+  },
+  {
+    "title": "Colour Porcelain",
+    "designer": "Scholten & Baijings",
+    "year": 2012,
+    "discipline": "Ceramic",
+    "origin": "Netherlands",
+    "manufacturer": "1616 / Arita Japan",
+    "collection": "Various museum collections",
+    "movement": "Dutch-Japanese Craft",
+    "wikiTitle": null,
+    "description": "A tableware collection produced in the 400-year-old porcelain workshops of Arita, Japan, applying Dutch colour sensibilities to traditional Japanese ceramic forms. Pastel gradients and delicate grids are hand-painted onto classical shapes. Each piece required the Arita craftsmen to develop new techniques to achieve the colour precision Scholten & Baijings specified — a genuine cross-cultural technical collaboration.",
+    "significance": "Shows students that cultural exchange in design can be genuinely reciprocal rather than extractive. The Dutch designers didn't impose their aesthetic on Japanese craft — they negotiated a hybrid that expanded both traditions. The project also demonstrates that 'innovation' in ceramics can mean new colour rather than new form.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both Scholten & Baijings and Munari work through systematic colour exploration, but Munari operates through solo experimentation while the Dutch pair operate through cross-cultural dialogue"
+      }
+    ],
+    "keywords": [
+      "Arita",
+      "porcelain",
+      "Dutch-Japanese",
+      "colour gradient",
+      "hand-painted",
+      "craft collaboration",
+      "tableware",
+      "cultural exchange"
+    ],
+    "id": 609
+  },
+  {
+    "title": "Dawn Light",
+    "designer": "Sabine Marcelis",
+    "year": 2017,
+    "discipline": "Lighting",
+    "origin": "Netherlands / New Zealand",
+    "manufacturer": "Sabine Marcelis Studio",
+    "collection": "Various collections",
+    "movement": "Material-Led Design",
+    "wikiTitle": null,
+    "description": "A cylindrical resin light that appears to glow from within, with colour graduating from opaque at the base to transparent at the top. The casting process — pouring pigmented resin in layers of decreasing saturation — creates the gradient. No visible light source; the LED is concealed in the base and the resin itself becomes the diffuser. Each piece is unique due to the unpredictability of resin curing.",
+    "significance": "Marcelis works with resin the way a painter works with pigment — the material IS the design. Shows students that when you understand a material deeply enough, form becomes secondary to material behaviour. Her Eindhoven graduation launched a practice now commissioned by Céline, OMA, and the Vitra Design Museum.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both Marcelis and Munari treat light as the primary design material rather than the object that contains it — the lamp disappears and what remains is illumination and colour"
+      }
+    ],
+    "keywords": [
+      "resin",
+      "gradient",
+      "cast",
+      "Eindhoven",
+      "material-led",
+      "New Zealand",
+      "Dutch design",
+      "monolithic"
+    ],
+    "id": 610
+  },
+  {
+    "title": "Chair_One",
+    "designer": "Konstantin Grcic",
+    "year": 2003,
+    "discipline": "Furniture",
+    "origin": "Germany",
+    "manufacturer": "Magis",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "Geometric Rationalism",
+    "wikiTitle": "Chair_One",
+    "description": "A die-cast aluminium chair composed of flat triangulated planes that form a faceted, almost crystalline shell. The geometric surface — resembling a football's panel structure — is both the aesthetic and the engineering. Each flat plane resists bending forces the way a folded sheet of paper becomes rigid. Available in concrete, aluminium, or with an upholstered seat pad.",
+    "significance": "Proves that algorithmic geometry can produce comfortable, beautiful furniture. Shows students that the triangulated surface is not decorative — it is structural. Grcic's background in cabinetmaking (trained with John Makepeace) grounds his computational thinking in physical material understanding.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both Ponti and Grcic engineer the chair to its structural minimum, but Ponti works with traditional carpentry while Grcic works with die-cast geometry — craft versus computation reaching similar lightness"
+      },
+      {
+        "id": 1,
+        "type": "lineage",
+        "reason": "Grcic inherits Rams's systematic rationalism but applies it to single objects rather than product systems, treating each chair as a complete geometric argument"
+      }
+    ],
+    "keywords": [
+      "die-cast aluminium",
+      "triangulated",
+      "Magis",
+      "MoMA",
+      "geometric",
+      "German design",
+      "structural surface",
+      "John Makepeace"
+    ],
+    "id": 611
   }
 ];
