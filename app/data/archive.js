@@ -3062,7 +3062,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Nordic Modernism",
     "wikiTitle": "Aalto Stool 60",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8599/full/800,/0/default.jpg",
     "description": "Three bent birch legs lock into a circular plywood seat through mortise-and-tenon joints, creating structural integrity without metal fasteners. The L-shaped leg profile, achieved through Aalto's steam-bending technique, transfers vertical loads through the wood grain while the cantilever distributes weight evenly. This stackable design reduces manufacturing complexity to just two components and minimal assembly.",
     "significance": "Demonstrates how material properties can drive form when designers work with, not against, natural characteristics. Shows students that structural innovation often emerges from production constraints — here, the need for mass-producible furniture that could be flat-packed and assembled without tools.",
     "connections": [
@@ -3096,7 +3095,8 @@ export const ARCHIVE = [
       "material logic",
       "Finnish design",
       "standardization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8599/full/800,/0/default.jpg"
   },
   {
     "id": 80,
@@ -3109,7 +3109,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Nordic Modernism",
     "wikiTitle": "Paimio Chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ7755/full/800,/0/default.jpg",
     "description": "A continuous bent birch plywood shell forms both seat and backrest, supported by a laminated birch frame that flows in unbroken curves from floor to armrest. The single-piece seat shell, cut from 15mm plywood and shaped through steam-pressing, eliminates joints where bacteria could accumulate. Originally designed for tuberculosis patients, the chair's smooth surfaces and organic form prioritize hygiene while providing ergonomic support for extended sitting.",
     "significance": "Proves that functional requirements can generate beautiful forms when designers think systematically about use contexts. Teaches students that medical or institutional briefs often push innovation harder than domestic furniture — constraints force creative solutions that later influence broader design culture.",
     "connections": [
@@ -3138,7 +3137,8 @@ export const ARCHIVE = [
       "steam pressing",
       "ergonomics",
       "institutional design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ7755/full/800,/0/default.jpg"
   },
   {
     "id": 81,
@@ -3151,7 +3151,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Nordic Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV0922/full/800,/0/default.jpg",
     "description": "A cantilevered armchair with bent birch frame and woven birch bark seat, using L-shaped laminated legs that spring from the floor without rear supports. The seat and backrest are woven from thin birch bark strips in a traditional Finnish technique, creating a flexible surface that responds to body weight. The frame's continuous curve eliminates the need for corner joints, distributing stress through the wood's natural grain structure.",
     "significance": "Teaches students how traditional craft knowledge can solve modern structural problems — the birch bark weaving isn't decorative but provides exactly the flexibility needed for cantilever seating. Shows that innovation often comes from combining industrial materials (laminated birch) with pre-industrial techniques (bark weaving).",
     "connections": [
@@ -3180,7 +3179,8 @@ export const ARCHIVE = [
       "Nordic techniques",
       "flexible seating",
       "craft modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV0922/full/800,/0/default.jpg"
   },
   {
     "id": 82,
@@ -3193,7 +3193,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Functionalism",
     "wikiTitle": "AJ cutlery",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ9570/full/800,/0/default.jpg",
     "description": "Jacobsen's cutlery reduces each implement to its essential geometric form: knife as blade-edge, fork as parallel tines, spoon as perfect ellipse. The handles flow continuously into functional heads without joints or transitions, achieved through precise die-stamping of stainless steel. Each piece balances in the hand at the exact point where grip meets function.",
     "significance": "Shows how systematic geometry can govern every detail of a product family while maintaining ergonomic performance. Demonstrates that functionalism isn't anti-aesthetic but discovers beauty through logical form-making.",
     "connections": [
@@ -3221,7 +3220,8 @@ export const ARCHIVE = [
       "Danish functionalism",
       "hotel commission",
       "systematic design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ9570/full/800,/0/default.jpg"
   },
   {
     "id": 83,
@@ -3234,7 +3234,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Functionalism",
     "wikiTitle": "Cylinda-line",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3951/full/800,/0/default.jpg",
     "description": "The Cylinda Line reduces every vessel to perfect cylindrical geometry, with proportions derived from mathematical relationships rather than decorative tradition. Each piece is spun from stainless steel in single operations, eliminating seams and creating continuous reflective surfaces. The black Bakelite handles interrupt the metal cylinders at precisely calculated points for optimal pouring and gripping.",
     "significance": "Demonstrates how industrial processes can achieve both functional perfection and visual coherence across an entire product family. Shows that modernist reduction isn't about removing ornament but about finding the most logical form.",
     "connections": [
@@ -3262,7 +3261,8 @@ export const ARCHIVE = [
       "mathematical proportions",
       "seamless construction",
       "product family"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3951/full/800,/0/default.jpg"
   },
   {
     "id": 84,
@@ -3275,7 +3275,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Northern Renaissance",
     "wikiTitle": "Matthes Gebel",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4781/full/800,/0/default.jpg",
     "description": "Gebel's portrait medal captures Hans Wegner and his wife Anna through precise relief modeling that balances individual character with ideal Renaissance proportions. The bronze casting preserves minute details of facial features and costume while maintaining the circular format's symbolic perfection. Inscriptions in Latin establish the subjects' civic status and the artist's signature within the medal's architectural framework.",
     "significance": "Shows how functional objects can simultaneously serve as portraits, status symbols, and artistic statements. Demonstrates that design thinking applies across centuries — how constraints of materials, processes, and cultural meaning shape form-making decisions.",
     "connections": [
@@ -3298,7 +3297,8 @@ export const ARCHIVE = [
       "civic status",
       "relief modeling",
       "circular format"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4781/full/800,/0/default.jpg"
   },
   {
     "id": 85,
@@ -3311,7 +3311,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5418/full/800,/0/default.jpg",
     "description": "Wegner's Shell Chair demonstrates how sculptural form can emerge from structural necessity. The steam-bent plywood seat shell cantilevers from a three-legged base, distributing load through the continuous curve rather than discrete joints. This integration of seat and back into a single surface eliminates upholstery while maintaining comfort through the shell's subtle flex and anthropometric shaping.",
     "significance": "The Shell Chair proves that reduction need not sacrifice comfort—it shows students how understanding material behaviour enables formal innovation. Wegner's method of letting wood's inherent properties drive form became fundamental to Danish furniture design, influencing generations of makers who prioritised craft logic over stylistic gesture.",
     "connections": [
@@ -3345,7 +3344,8 @@ export const ARCHIVE = [
       "anthropometric",
       "three-legged base",
       "material flexibility"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5418/full/800,/0/default.jpg"
   },
   {
     "id": 86,
@@ -3358,7 +3358,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ0846/full/800,/0/default.jpg",
     "description": "Chair 24 represents Wegner's most radical reduction of the plywood shell concept. The continuous bent plywood surface forms both seat and back in a single gesture, supported by a minimal steel rod frame. The joining method—where plywood meets steel through visible screws—celebrates rather than conceals the assembly logic, making the construction technique part of the aesthetic expression.",
     "significance": "This chair teaches students that honesty in construction can become decorative without applied ornament. Wegner shows how revealing assembly methods creates visual interest while maintaining functional clarity—a principle that influenced both Danish furniture and industrial design's approach to material expression.",
     "connections": [
@@ -3387,7 +3386,8 @@ export const ARCHIVE = [
       "construction aesthetic",
       "surface continuity",
       "Danish functionalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ0846/full/800,/0/default.jpg"
   },
   {
     "id": 87,
@@ -3400,7 +3400,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Craft Modernism",
     "wikiTitle": "Hans Wegner",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KX1604/full/800,/0/default.jpg",
     "description": "The 812 represents Wegner's late-career mastery of traditional joinery applied to modern proportions. Each joint is cut to tolerances that allow the wood to move seasonally without loosening, while the seat's woven paper cord distributes weight evenly across the frame. The arm supports curve both for comfort and to follow the wood grain's natural strength, demonstrating how craft knowledge informs contemporary design.",
     "significance": "This chair proves that traditional making methods remain relevant when applied with modern understanding of ergonomics and proportion. Students learn how deep material knowledge—gained through decades of practice—enables innovation within established techniques, showing craft as progressive rather than nostalgic.",
     "connections": [
@@ -3434,7 +3433,8 @@ export const ARCHIVE = [
       "ergonomic proportions",
       "hand-cut joints",
       "Danish craftsmanship"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KX1604/full/800,/0/default.jpg"
   },
   {
     "id": 88,
@@ -3447,7 +3447,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": "Dieter Rams",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3160/full/800,/0/default.jpg",
     "description": "The RT 20's compact cube proportions concentrate all controls on the front face, with the speaker grille forming a textural counterpoint to the smooth plastic surfaces. Rams organizes the interface hierarchically—power and tuning occupy prime positions while secondary functions retreat to smaller controls. The carrying handle integrates into the form as a recessed grip, maintaining the geometric purity while enabling portability.",
     "significance": "This radio demonstrates how systematic thinking about user interface can generate compelling form. Students see how Rams' hierarchy of controls creates visual order while improving usability—a method that became fundamental to electronic product design and later influenced digital interface design.",
     "connections": [
@@ -3476,7 +3475,8 @@ export const ARCHIVE = [
       "portable electronics",
       "systematic design",
       "functional clarity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3160/full/800,/0/default.jpg"
   },
   {
     "id": 89,
@@ -3489,7 +3489,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": "Dieter Rams",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA4478/full/800,/0/default.jpg",
     "description": "The HLD 31 transforms the hair dryer from a domestic appliance into a precision tool through its pistol grip and cylindrical barrel configuration. Rams locates all controls within thumb reach of the grip, while the motor housing's ribbed surface provides both cooling and secure handling. The barrel's perforated end cap protects the heating element while creating a regular pattern that signals the air flow direction.",
     "significance": "This hair dryer shows students how applying tool logic to domestic appliances can improve both function and form. Rams demonstrates that systematic design thinking works across product categories—the same principles that organized his radios create clarity in personal care products.",
     "connections": [
@@ -3523,7 +3522,8 @@ export const ARCHIVE = [
       "motor housing",
       "ergonomic handle",
       "precision appliance"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA4478/full/800,/0/default.jpg"
   },
   {
     "id": 90,
@@ -3536,7 +3536,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8620/full/800,/0/default.jpg",
     "description": "Rams' only furniture piece demonstrates his belief that good design should be unobtrusive. The chair's aluminum frame supports a single molded shell, avoiding visible joints or decorative elements. Its proportions follow the same geometric restraint as his electronic products, treating the human body as another technical specification to solve efficiently.",
     "significance": "Shows how systematic design thinking can cross disciplines — the same reduction principles that worked for radios apply to seating. Students learn that coherent design philosophy transcends object categories, creating recognizable authorship through method rather than style.",
     "connections": [
@@ -3570,7 +3569,8 @@ export const ARCHIVE = [
       "unobtrusive",
       "Braun",
       "Vitsœ"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8620/full/800,/0/default.jpg"
   },
   {
     "id": 91,
@@ -3583,7 +3583,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA6040/full/800,/0/default.jpg",
     "description": "The mixer's housing follows Rams' principle that form should emerge from function. The motor's cylindrical requirement dictates the overall shape, while the attachment system remains visible to communicate operation. White polystyrene eliminates color as distraction, focusing attention on the mechanical relationship between base, arm, and bowl.",
     "significance": "Demonstrates how systematic design can humanize industrial processes. Students learn that reducing visual noise doesn't mean hiding function — transparency in operation builds user confidence and extends product life through understanding.",
     "connections": [
@@ -3612,7 +3611,8 @@ export const ARCHIVE = [
       "systematic",
       "Braun",
       "kitchen"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA6040/full/800,/0/default.jpg"
   },
   {
     "id": 92,
@@ -3625,7 +3625,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA4432/full/800,/0/default.jpg",
     "description": "The juicer reduces citrus extraction to essential elements: conical reamer, collection vessel, and pouring spout. Transparent acrylic reveals the process while the weighted base provides stability during operation. Every component serves a specific function with no decorative additions, embodying Rams' maxim that good design is as little design as possible.",
     "significance": "Shows how reduction can enhance rather than diminish functionality. Students learn that stripping away non-essentials forces designers to perfect what remains, creating objects that perform better and last longer through focused problem-solving.",
     "connections": [
@@ -3654,7 +3653,8 @@ export const ARCHIVE = [
       "essential",
       "minimal",
       "Braun"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA4432/full/800,/0/default.jpg"
   },
   {
     "id": 93,
@@ -3667,7 +3667,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3164/full/800,/0/default.jpg",
     "description": "The portable radio's cylindrical form houses the antenna requirement while the control interface reduces tuning to essential elements. The telescoping antenna extends from the geometric center, maintaining visual balance during operation. White housing eliminates color distraction, focusing attention on the relationship between form and electromagnetic function.",
     "significance": "Demonstrates how technical constraints can generate compelling form when embraced rather than hidden. Students learn that understanding technology deeply enables designers to create objects that feel inevitable — where aesthetic and functional logic align perfectly.",
     "connections": [
@@ -3696,7 +3695,8 @@ export const ARCHIVE = [
       "reduction",
       "Braun",
       "technical"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3164/full/800,/0/default.jpg"
   },
   {
     "id": 94,
@@ -3709,7 +3709,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX8551/full/800,/0/default.jpg",
     "description": "The turntable eliminates the traditional furniture disguise of hi-fi equipment, presenting mechanical components as design elements. The platter, tonearm, and controls occupy a minimal rectangular housing that prioritizes operational clarity. Transparent dust cover protects the mechanism while maintaining visual access to the spinning record — function becomes the aesthetic.",
     "significance": "Marks the transition from furniture-styled electronics to honest technical expression. Students learn how revealing rather than concealing mechanical beauty can create new aesthetic categories — the beginning of electronics as visible, celebrated technology rather than hidden appliance.",
     "connections": [
@@ -3738,7 +3737,8 @@ export const ARCHIVE = [
       "minimal",
       "Braun",
       "hi-fi"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX8551/full/800,/0/default.jpg"
   },
   {
     "id": 95,
@@ -3751,7 +3751,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AC4504/full/800,/0/default.jpg",
     "description": "This radiogram strips away decorative furniture conventions to expose its technical function through clear geometric form. The white metal case with minimal black controls creates a visual hierarchy that guides operation while the proportions emphasize horizontal stability for the turntable mechanism. Rams eliminates the wooden cabinet tradition, treating the radio as a precision instrument rather than domestic ornament.",
     "significance": "Students learn how Rams established his systematic approach to product semantics—using form to communicate function before interface design existed as a discipline. This early work demonstrates how reducing visual complexity can increase operational clarity, a principle that would define digital product design decades later.",
     "connections": [
@@ -3780,7 +3779,8 @@ export const ARCHIVE = [
       "functional form",
       "domestic modernism",
       "German design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AC4504/full/800,/0/default.jpg"
   },
   {
     "id": 96,
@@ -3793,7 +3793,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JV2317/full/800,/0/default.jpg",
     "description": "The ET66 applies Rams' mature design language to electronic calculation, with a matte black case that recedes to emphasize the yellow function keys and white number pad. The asymmetric layout places mathematical operations logically while the angled form fits naturally in the hand. Each button's color coding creates an intuitive hierarchy that reduces cognitive load during complex calculations.",
     "significance": "Students see how consistent design principles scale across technologies—Rams' 1950s geometric clarity translates directly to 1980s electronics. This demonstrates how systematic design thinking creates coherent brand languages that transcend individual products, anticipating how software interface design would later adopt similar hierarchical clarity.",
     "connections": [
@@ -3822,7 +3821,8 @@ export const ARCHIVE = [
       "mathematical logic",
       "handheld devices",
       "interface design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JV2317/full/800,/0/default.jpg"
   },
   {
     "id": 97,
@@ -3835,7 +3835,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW4323/full/800,/0/default.jpg",
     "description": "This sun lamp transforms medical equipment into domestic object through precise geometric control of form and material. The white cylindrical housing contains UV bulbs behind a perforated metal screen that creates controlled light distribution while suggesting clinical precision. The minimal control interface and stable circular base emphasize the lamp's therapeutic function over decorative lighting.",
     "significance": "Students learn how Rams extended systematic design into specialized product categories, proving that consistent formal language can bridge medical and consumer contexts. This demonstrates how good design makes complex technology accessible without compromising functional requirements—a principle essential for today's health tech products.",
     "connections": [
@@ -3864,7 +3863,8 @@ export const ARCHIVE = [
       "functional lighting",
       "controlled illumination",
       "product families"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW4323/full/800,/0/default.jpg"
   },
   {
     "id": 98,
@@ -3877,7 +3877,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Corporate Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY5197/full/800,/0/default.jpg",
     "description": "This electric shaver continues Braun's systematic design approach into the 1990s, with a matte black housing that conceals complex rotary mechanisms behind smooth geometric surfaces. The ergonomic form curves to fit the hand while maintaining the brand's characteristic reductive aesthetic. Control elements remain minimal, focusing attention on the primary cutting surface and charging interface.",
     "significance": "Students see how design systems persist beyond their original creators—this shaver demonstrates institutional design thinking maintaining coherence across decades of technological change. It shows how strong systematic approaches become self-perpetuating corporate languages that can survive transitions in leadership and technology.",
     "connections": [
@@ -3906,7 +3905,8 @@ export const ARCHIVE = [
       "technological evolution",
       "geometric reduction",
       "design continuity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY5197/full/800,/0/default.jpg"
   },
   {
     "id": 99,
@@ -3919,7 +3919,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Concrete Art",
     "wikiTitle": "Max Bill",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BP8871/full/800,/0/default.jpg",
     "description": "Bill reduces timekeeping to its mathematical essence through pure geometric relationships. The white face eliminates all decoration, using only black linear markers and hands to create maximum contrast and legibility. Each hour marker's length follows precise mathematical ratios while the absence of numbers forces users to read time through spatial relationships rather than symbolic notation.",
     "significance": "Students learn how mathematical thinking can generate functional beauty—Bill proves that systematic proportional relationships create more effective communication than applied decoration. This clock demonstrates how Concrete Art principles translate directly into product design, influencing generations of minimal interface design.",
     "connections": [
@@ -3948,7 +3947,8 @@ export const ARCHIVE = [
       "geometric abstraction",
       "functional minimalism",
       "systematic thinking"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BP8871/full/800,/0/default.jpg"
   },
   {
     "id": 100,
@@ -3961,7 +3961,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Posthumous Eames",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010ED1385/full/800,/0/default.jpg",
     "description": "A child's chair shaped like an elephant, scaled down from Eames's original 1945 plywood prototype that was never mass-produced. The molded plywood construction uses the same forming techniques developed for the wartime leg splints, creating compound curves that follow the elephant's body while maintaining structural integrity. The playful zoomorphic form demonstrates how advanced manufacturing can serve symbolic rather than purely functional ends.",
     "significance": "Shows how industrial techniques can create meaning beyond efficiency—the elephant form makes sitting a narrative act rather than just physical support. Demonstrates the posthumous life of design ideas and how prototypes can find new markets decades later through improved manufacturing.",
     "connections": [
@@ -3985,7 +3984,8 @@ export const ARCHIVE = [
       "child furniture",
       "narrative objects",
       "wartime techniques"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010ED1385/full/800,/0/default.jpg"
   },
   {
     "id": 101,
@@ -3998,7 +3998,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames DCM",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JE0281/full/800,/0/default.jpg",
     "description": "A dining chair combining molded plywood seat and back with a welded steel rod base, connected by rubber shock mounts that allow controlled movement. The steel frame's continuous curves eliminate joints and create spring action, while the plywood components use the same forming techniques as the LCW but in dining proportions. The contrast between warm wood and cool metal creates visual interest while each material performs its optimal structural role.",
     "significance": "Proves how successful design solutions can be scaled and adapted—the LCW's shock mount innovation applied to a completely different structural system. Shows American design's systematic approach to furniture families, where technical innovations multiply across different typologies. Demonstrates mixed-material construction as a path to both efficiency and expression.",
     "connections": [
@@ -4032,7 +4031,8 @@ export const ARCHIVE = [
       "continuous welding",
       "systematic design",
       "material contrast"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JE0281/full/800,/0/default.jpg"
   },
   {
     "id": 102,
@@ -4045,7 +4045,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ7247/full/800,/0/default.jpg",
     "description": "Eames's design drawing demonstrates his method of thinking through form and function simultaneously on paper. The sketch reveals the systematic approach to problem-solving that characterized his furniture development, showing how mechanical joints and material properties were resolved before production. The drawing process itself became a design tool for exploring structural relationships.",
     "significance": "This drawing teaches how preliminary sketches function as design thinking made visible. Students learn that drawing is not decoration but a method for working through complex spatial and mechanical problems before committing to expensive prototyping.",
     "connections": [
@@ -4068,7 +4067,8 @@ export const ARCHIVE = [
       "modernist method",
       "systematic design",
       "furniture development"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ7247/full/800,/0/default.jpg"
   },
   {
     "id": 103,
@@ -4081,7 +4081,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames coffee table",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN4173/full/800,/0/default.jpg",
     "description": "The CTW uses a birch plywood top supported by a chromed steel rod base, creating maximum surface with minimal material. The wire base distributes weight through tension rather than mass, allowing the thin plywood top to span without sagging. This material efficiency reflects wartime resource constraints translated into peacetime furniture logic.",
     "significance": "Students learn how material properties drive form — the table demonstrates that understanding structural behavior enables radical material reduction. It shows how wartime innovation in plywood technology could be adapted for domestic furniture production.",
     "connections": [
@@ -4104,7 +4103,8 @@ export const ARCHIVE = [
       "wartime technology",
       "minimal support",
       "industrial design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN4173/full/800,/0/default.jpg"
   },
   {
     "id": 104,
@@ -4117,7 +4117,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames Storage Unit",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU4430/full/800,/0/default.jpg",
     "description": "The ESU system uses modular panels of different materials — wood, metal, masonite — within a standardized steel angle framework. Each panel type serves different storage needs while maintaining visual coherence through the grid structure. The system demonstrates industrial logic applied to domestic storage, where components can be reconfigured as needs change.",
     "significance": "This teaches students that modular design isn't just about efficiency but about adaptability over time. The ESU shows how systematic thinking can create furniture that responds to changing domestic patterns rather than imposing fixed arrangements.",
     "connections": [
@@ -4140,7 +4139,8 @@ export const ARCHIVE = [
       "industrial components",
       "domestic flexibility",
       "grid structure"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU4430/full/800,/0/default.jpg"
   },
   {
     "id": 105,
@@ -4153,7 +4153,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HP3589/full/800,/0/default.jpg",
     "description": "This educational toy uses spinning discs of different colors that blend when rotated, teaching color theory through direct manipulation. The mechanism transforms abstract optical principles into physical play, making complex concepts accessible through action. The toy embodies Eames's belief that learning happens through doing rather than being told.",
     "significance": "Students learn that good design can make complex ideas simple through appropriate mechanisms. The toy demonstrates how physical interaction can teach abstract concepts more effectively than explanation — a principle applicable to all interface design.",
     "connections": [
@@ -4181,7 +4180,8 @@ export const ARCHIVE = [
       "interactive mechanism",
       "pedagogical tool",
       "physical manipulation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HP3589/full/800,/0/default.jpg"
   },
   {
     "id": 106,
@@ -4194,7 +4194,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames DKR",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3079/full/800,/0/default.jpg",
     "description": "The DKR uses bent steel wire to create both structure and surface, eliminating the traditional distinction between frame and seat. The wire grid distributes body weight evenly while allowing air circulation, solving comfort through geometry rather than padding. The chair demonstrates how industrial wire-forming techniques could produce complex curves impossible with traditional furniture construction.",
     "significance": "This chair teaches students that materials have inherent formal possibilities that traditional techniques cannot access. The DKR shows how embracing industrial processes can reveal new solutions to fundamental furniture problems like support and comfort.",
     "connections": [
@@ -4222,7 +4221,8 @@ export const ARCHIVE = [
       "material unity",
       "geometric comfort",
       "bent steel"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3079/full/800,/0/default.jpg"
   },
   {
     "id": 107,
@@ -4235,7 +4235,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames Lounge Chair Metal",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX9538/full/800,/0/default.jpg",
     "description": "The LCM applies the Eameses' molded plywood seat technology to a tubular steel frame, creating their first production chair to separate structural and comfort functions. The shock mounts between seat and frame absorb stress while allowing slight movement, demonstrating industrial assembly methods applied to domestic furniture.",
     "significance": "Shows how wartime manufacturing innovations translate to peacetime production. The separation of frame and shell becomes foundational to modern seating systems, influencing decades of contract furniture design through its logical approach to structure and comfort.",
     "connections": [
@@ -4269,7 +4268,8 @@ export const ARCHIVE = [
       "separation of functions",
       "Herman Miller",
       "contract furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX9538/full/800,/0/default.jpg"
   },
   {
     "id": 108,
@@ -4282,7 +4282,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Corporate Modernism",
     "wikiTitle": "Eames Aluminum Group",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3084/full/800,/0/default.jpg",
     "description": "The Aluminium Group replaces the Eameses' earlier rigid seat shells with a flexible vinyl membrane stretched between aluminum ribs, creating continuous support that moves with the user. The die-cast aluminum frame uses aircraft manufacturing techniques, while the suspension system eliminates traditional upholstery in favor of engineered comfort.",
     "significance": "Demonstrates the evolution from molded forms to engineered systems in modern seating. Its membrane technology and material precision establish templates for high-end office furniture, showing how aerospace methods can humanize corporate environments.",
     "connections": [
@@ -4311,7 +4310,8 @@ export const ARCHIVE = [
       "engineered comfort",
       "systems design",
       "corporate modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3084/full/800,/0/default.jpg"
   },
   {
     "id": 109,
@@ -4324,7 +4324,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-Industrial",
     "wikiTitle": "S Chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8760/full/800,/0/default.jpg",
     "description": "Dixon's S Chair uses bent and welded steel rod to create a continuous cantilever seat that references Panton's formal innovation while rejecting plastic in favor of industrial metal construction. The chair emerges from Dixon's background in nightclub fabrication, applying improvised welding techniques to create furniture that celebrates rather than conceals its rough industrial making process.",
     "significance": "Shows how 1980s designers reinterpret modernist formal innovations through post-industrial aesthetics and alternative making methods. Its success demonstrates growing market acceptance of rough, maker-led design that prioritizes authentic construction over refined finish.",
     "connections": [
@@ -4358,7 +4357,8 @@ export const ARCHIVE = [
       "rough finish",
       "nightclub origins",
       "honest construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8760/full/800,/0/default.jpg"
   },
   {
     "id": 110,
@@ -4371,7 +4371,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": "Gerald Summers",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX7578/full/800,/0/default.jpg",
     "description": "Cut from a single sheet of birch plywood using steam-bent curves, this chair eliminates all joints, screws, and glue. The continuous form creates structural integrity through geometry alone, with the seat cantilevering from the back support. The manufacturing logic prioritizes material economy and production efficiency over decorative elements.",
     "significance": "Demonstrates how material constraints can drive formal innovation. Students learn how single-material construction creates both structural and aesthetic solutions, showing that limitation breeds creativity in industrial design.",
     "connections": [
@@ -4405,7 +4404,8 @@ export const ARCHIVE = [
       "British modernism",
       "economy",
       "joints"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX7578/full/800,/0/default.jpg"
   },
   {
     "id": 111,
@@ -4418,7 +4418,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU6703/full/800,/0/default.jpg",
     "description": "A padded armchair built from geometric planes in contrasting colors and patterns, using industrial laminates and primary forms. The design rejects functional optimization for symbolic communication, with each surface treated as an independent graphic element. The construction emphasizes visual discord over comfort hierarchy.",
     "significance": "Shows how furniture can function as cultural commentary rather than ergonomic solution. Students understand how Memphis challenged modernist assumptions about form following function, using domestic objects to question social values.",
     "connections": [
@@ -4447,7 +4446,8 @@ export const ARCHIVE = [
       "cultural critique",
       "anti-functional",
       "symbolic"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU6703/full/800,/0/default.jpg"
   },
   {
     "id": 112,
@@ -4460,7 +4460,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4646/full/800,/0/default.jpg",
     "description": "A table lamp composed of stacked geometric elements in contrasting colors, using industrial materials like metal and plastic laminates. Each component maintains its individual identity rather than dissolving into unified form. The light source becomes secondary to the object's function as a totemic presence.",
     "significance": "Demonstrates how lighting design can prioritize symbolic over functional performance. Students learn how Memphis used everyday objects to communicate cultural positions, challenging the primacy of technical efficiency in product design.",
     "connections": [
@@ -4489,7 +4488,8 @@ export const ARCHIVE = [
       "cultural object",
       "anti-rationalist",
       "domestic monument"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4646/full/800,/0/default.jpg"
   },
   {
     "id": 113,
@@ -4502,7 +4502,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG1015/full/800,/0/default.jpg",
     "description": "A sideboard constructed from geometric blocks in contrasting laminates, using primary colors and patterns that refuse visual harmony. Each component maintains its independence rather than serving overall unity. The storage function becomes subordinate to the object's role as domestic sculpture and cultural provocation.",
     "significance": "Exemplifies Memphis's challenge to functionalist orthodoxy, showing how furniture can prioritize cultural communication over efficiency. Students understand how design objects can embody ideological positions about consumption, domesticity, and social values.",
     "connections": [
@@ -4531,7 +4530,8 @@ export const ARCHIVE = [
       "domestic sculpture",
       "anti-functional",
       "cultural provocation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG1015/full/800,/0/default.jpg"
   },
   {
     "id": 114,
@@ -4544,7 +4544,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MV7661/full/800,/0/default.jpg",
     "description": "Working drawings that reveal Memphis's design process through geometric construction and color notation. The drawings show how Sottsass built complex forms through simple geometric relationships, using axonometric projection to communicate three-dimensional assembly. Pattern and color are specified as integral design elements, not applied decoration.",
     "significance": "Shows how design thinking translates from concept to production, revealing Memphis's systematic approach beneath apparent chaos. Students learn how drawings function as design tools, not just communication devices, embedding methodology within representation.",
     "connections": [
@@ -4573,7 +4572,8 @@ export const ARCHIVE = [
       "Memphis methodology",
       "systematic design",
       "production drawings"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MV7661/full/800,/0/default.jpg"
   },
   {
     "id": 115,
@@ -4586,7 +4586,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4650/full/800,/0/default.jpg",
     "description": "A laminated table that abandons structural honesty for expressive geometry. The angular form prioritizes visual impact over rational construction, treating furniture as sculptural statement rather than functional necessity. Its deliberate structural precariousness—suggested by the title 'The Structures Tremble'—challenges modernist faith in stability and permanence.",
     "significance": "Shows how Radical Design questioned modernist orthodoxies by making instability visible. Demonstrates the transition from function-first thinking to meaning-first design that would define postmodernism. Essential for understanding how Italian designers politicized domestic objects in the late 1970s.",
     "connections": [
@@ -4620,7 +4619,8 @@ export const ARCHIVE = [
       "anti-functionalism",
       "symbolic furniture",
       "Italian avant-garde"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4650/full/800,/0/default.jpg"
   },
   {
     "id": 116,
@@ -4633,7 +4633,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EM4883/full/800,/0/default.jpg",
     "description": "Working drawing that reveals Memphis objects as architectural compositions in miniature. Bold geometric forms are rendered with precise technical drafting that contradicts their seemingly playful character. The drawing demonstrates how Sottsass designed ceremonial objects as spatial experiences, using elevation and plan views to orchestrate color and form relationships.",
     "significance": "Exposes the serious architectural thinking behind apparently frivolous Memphis objects. Shows how postmodern designers used traditional technical drawing to plan radical formal experiments. Critical for understanding the relationship between Memphis graphics and three-dimensional design.",
     "connections": [
@@ -4667,7 +4666,8 @@ export const ARCHIVE = [
       "design process",
       "geometric planning",
       "postmodern graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EM4883/full/800,/0/default.jpg"
   },
   {
     "id": 117,
@@ -4680,7 +4680,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY1968/full/800,/0/default.jpg",
     "description": "Ceramic sculpture that transforms ancient ritual forms through industrial glazing and modular geometry. The totemic structure uses repetitive elements and bold color blocks to create presence without function. Its monumental scale and spiritual references reject the domestic utility that defined postwar Italian design, proposing objects as meditation aids rather than tools.",
     "significance": "Marks Sottsass's break from rationalist design toward objects that serve psychological rather than physical needs. Shows how 1960s counterculture influenced Italian designers to explore non-Western formal languages. Establishes the symbolic approach that would define his later Memphis work.",
     "connections": [
@@ -4714,7 +4713,8 @@ export const ARCHIVE = [
       "non-Western influence",
       "color blocking",
       "anti-utility"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY1968/full/800,/0/default.jpg"
   },
   {
     "id": 118,
@@ -4727,7 +4727,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EM3894/full/800,/0/default.jpg",
     "description": "Silver centrepiece that treats tableware as architectural landscape. Geometric volumes create a miniature cityscape that elevates the ritual of dining through spatial drama. The architectural massing and precious metal construction transform functional serving into ceremonial performance, making the table a stage for Memphis ideology about design as cultural provocation.",
     "significance": "Demonstrates Memphis strategy of turning everyday objects into cultural manifestos. Shows how postmodern design used precious materials and architectural thinking to restore ceremony to domestic life. Essential for understanding the Memphis critique of modernist functionalism.",
     "connections": [
@@ -4761,7 +4760,8 @@ export const ARCHIVE = [
       "domestic ritual",
       "precious materials",
       "cultural provocation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EM3894/full/800,/0/default.jpg"
   },
   {
     "id": 119,
@@ -4774,7 +4774,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HY0417/full/800,/0/default.jpg",
     "description": "Print that explores pure geometric relationships through color and form interaction. Bold shapes test visual hierarchies without serving communication or decoration, functioning as research into perception and meaning. The lithographic process allows precise color registration that supports Sottsass's investigation of how geometric forms create emotional and spatial effects.",
     "significance": "Shows how radical designers used traditional print media to explore visual ideas that would later inform product design. Demonstrates the experimental foundation behind Sottsass's later commercial work. Critical for understanding how 1970s graphics influenced postmodern object design.",
     "connections": [
@@ -4808,7 +4807,8 @@ export const ARCHIVE = [
       "experimental graphics",
       "form investigation",
       "radical printing"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HY0417/full/800,/0/default.jpg"
   },
   {
     "id": 120,
@@ -4821,7 +4821,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG6771/full/800,/0/default.jpg",
     "description": "Four conical ceramic forms in primary colours—red, blue, yellow, white—function as salt, pepper, oil and vinegar vessels. Each cone sits at a different angle, creating an unstable composition that rejects the symmetrical order of traditional table settings. The aggressive geometry and anti-functional tilts force users to engage consciously with the ritual of seasoning food.",
     "significance": "Demonstrates how Memphis designers weaponized everyday objects against bourgeois domesticity. Shows that functional objects can carry ideological weight—here arguing that even condiments should provoke rather than comfort. Essential for understanding how postmodern design challenged the neutrality of 'good design.'",
     "connections": [
@@ -4855,7 +4854,8 @@ export const ARCHIVE = [
       "anti-functional",
       "domesticity",
       "ritual"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG6771/full/800,/0/default.jpg"
   },
   {
     "id": 121,
@@ -4868,7 +4868,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pre-Memphis Radical",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4668/full/800,/0/default.jpg",
     "description": "Blown glass cylinder in saturated orange carries horizontal black stripes that circle the form like planetary rings. The colour combination—industrial orange with graphic black bands—transforms the classical vase typology into something between traffic cone and astronomical object. The stripes function as pure decoration, rejecting modernist integration of ornament and structure.",
     "significance": "Marks Sottsass's transition from 1960s radicalism toward Memphis's decorative rebellion. Proves that even traditional craft processes like glassblowing could carry avant-garde arguments about meaning versus function. Shows students how designers can subvert established typologies through colour and surface treatment alone.",
     "connections": [
@@ -4902,7 +4901,8 @@ export const ARCHIVE = [
       "vessel",
       "color",
       "radical design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4668/full/800,/0/default.jpg"
   },
   {
     "id": 122,
@@ -4915,7 +4915,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Marcel Breuer",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8258/full/800,/0/default.jpg",
     "description": "Three birch plywood tables of decreasing size nest concentrically, each supported by a continuous bent plywood frame that eliminates separate legs. The largest table's L-shaped profile creates a cantilever that appears to defy gravity. Steam-bending allows the single piece of wood to function as both structure and surface, demonstrating modernist integration of material and form.",
     "significance": "Shows how refugee Bauhaus masters adapted their material investigations to British manufacturing capabilities. Proves that systematic thinking about space efficiency and material economy can generate unexpected formal poetry. Essential for understanding how modernist furniture achieved both functional and sculptural ambitions through industrial processes.",
     "connections": [
@@ -4949,7 +4948,8 @@ export const ARCHIVE = [
       "efficiency",
       "systematic",
       "Isokon"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8258/full/800,/0/default.jpg"
   },
   {
     "id": 123,
@@ -4962,7 +4962,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Isokon Long Chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JR4490/full/800,/0/default.jpg",
     "description": "Single sheet of birch plywood bent into a continuous S-curve creates both seat and backrest without joints or separate structural elements. The form follows the human spine's natural curvature, with the material's spring providing ergonomic support. Black painted finish emphasizes the sculptural quality of the bent wood construction, making structure visible rather than concealed.",
     "significance": "Represents the apotheosis of modernist furniture thinking—form, structure, and comfort unified through material logic alone. Demonstrates how industrial processes can serve human comfort without sacrificing aesthetic purity. Shows students that the most radical design solutions often appear effortlessly simple while requiring sophisticated material understanding.",
     "connections": [
@@ -4996,7 +4995,8 @@ export const ARCHIVE = [
       "material logic",
       "modernist",
       "spine"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JR4490/full/800,/0/default.jpg"
   },
   {
     "id": 124,
@@ -5009,7 +5009,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Wassily Chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AC7448/full/800,/0/default.jpg",
     "description": "Continuous tubular steel frame bent into cantilever form supports leather seat and back slings without rear legs. The chrome-plated steel tube maintains its circular cross-section throughout, creating structural continuity while the leather pieces stretch between fixed points. This construction eliminates traditional furniture joinery, using industrial materials and processes to achieve unprecedented lightness and strength.",
     "significance": "Invented the cantilever chair principle that dominated modern furniture for decades. Proves that radical formal innovation can emerge from systematic material investigation rather than stylistic intention. Essential for understanding how Bauhaus designers transformed furniture from craft object to industrial product while achieving new levels of comfort and efficiency.",
     "connections": [
@@ -5043,7 +5042,8 @@ export const ARCHIVE = [
       "industrial",
       "Wassily",
       "chrome"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AC7448/full/800,/0/default.jpg"
   },
   {
     "id": 125,
@@ -5056,7 +5056,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Early Bauhaus",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA8970/full/800,/0/default.jpg",
     "description": "Breuer's earliest chair design uses traditional timber construction with a seat woven from jute cord. The frame employs mortise and tenon joints, revealing craft methods that would soon be abandoned. The proportions follow classical ratios, but the spare detailing hints at the reduction to come.",
     "significance": "Shows how modernism emerged from craft traditions rather than appearing fully formed. Students see the methodical process of stripping away ornament while retaining structural logic. Essential for understanding Breuer's later steel tube innovations as evolution, not revolution.",
     "connections": [
@@ -5090,7 +5089,8 @@ export const ARCHIVE = [
       "Bauhaus origins",
       "material honesty",
       "seat weaving"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA8970/full/800,/0/default.jpg"
   },
   {
     "id": 126,
@@ -5103,7 +5103,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Cesca chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU9915/full/800,/0/default.jpg",
     "description": "Breuer's first cantilevered chair uses continuous steel tubing bent into a structural frame that supports the sitter through spring action alone. The seat and back employ traditional cane weaving stretched over bentwood frames. This hybrid construction marries industrial production with craft techniques.",
     "significance": "Demonstrates the cantilever principle that revolutionized seating by eliminating back legs entirely. Students learn how structural innovation can create new formal possibilities. Shows modernism's pragmatic approach to mixing old and new techniques for optimal performance.",
     "connections": [
@@ -5137,7 +5136,8 @@ export const ARCHIVE = [
       "hybrid construction",
       "eliminative design",
       "industrial craft"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU9915/full/800,/0/default.jpg"
   },
   {
     "id": 127,
@@ -5150,7 +5150,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7420/full/800,/0/default.jpg",
     "description": "Breuer's armchair version of the cantilevered chair adds continuous tubular armrests to the basic B33 frame. The arms spring from the front legs and curve back to meet the seat frame, creating a unified structural loop. Canvas seat and back are slung between the steel framework.",
     "significance": "Shows how successful structural innovations can be extended into product families. Students see systematic design thinking—how a proven cantilever principle generates multiple furniture types. Reveals modernism's economic logic of developing platforms rather than isolated objects.",
     "connections": [
@@ -5184,7 +5183,8 @@ export const ARCHIVE = [
       "structural loop",
       "systematic design",
       "platform thinking"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7420/full/800,/0/default.jpg"
   },
   {
     "id": 128,
@@ -5197,7 +5197,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Emigré Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ7766/full/800,/0/default.jpg",
     "description": "Breuer's low lounge chair uses laminated birch plywood for the seat and back, mounted on a steel tube frame. The reduced height and angled back create a relaxed sitting position. The frame employs his cantilever principle but with a different material palette reflecting his move from Germany to Britain.",
     "significance": "Documents how designers adapt their methods to new manufacturing contexts and materials. Students see how emigration forced modernists to rethink their approaches while maintaining core principles. Essential for understanding modernism as adaptive methodology rather than fixed style.",
     "connections": [
@@ -5231,7 +5230,8 @@ export const ARCHIVE = [
       "relaxed posture",
       "British modernism",
       "material substitution"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ7766/full/800,/0/default.jpg"
   },
   {
     "id": 129,
@@ -5244,7 +5244,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Emigré Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7849/full/800,/0/default.jpg",
     "description": "Breuer's dining chair simplifies his cantilever system to its essential elements: a steel tube frame with plywood seat and back. The proportions are adjusted for table height, with an upright back angle for dining posture. The frame eliminates all decorative elements in favor of pure structural expression.",
     "significance": "Shows how functional requirements drive formal variation within a consistent structural system. Students learn to distinguish between essential and contingent design elements. Demonstrates modernism's capacity for systematic variation while maintaining design integrity.",
     "connections": [
@@ -5278,7 +5277,8 @@ export const ARCHIVE = [
       "material separation",
       "proportional systems",
       "eliminative refinement"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7849/full/800,/0/default.jpg"
   },
   {
     "id": 130,
@@ -5291,7 +5291,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Cesca chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8940/full/800,/0/default.jpg",
     "description": "A cantilever chair that eliminates back legs by using the spring tension of bent tubular steel to support the sitter. The continuous tube creates both structure and comfort through material properties rather than additional padding. Cane seat and back provide breathability and flex within the rigid steel frame.",
     "significance": "Demonstrates how structural innovation can solve comfort without ornament. Shows students that material understanding—not just formal reduction—drives modernist design. A key example of how cantilever construction challenged traditional chair logic.",
     "connections": [
@@ -5325,7 +5324,8 @@ export const ARCHIVE = [
       "mass production",
       "material logic",
       "spring tension"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8940/full/800,/0/default.jpg"
   },
   {
     "id": 131,
@@ -5338,7 +5338,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Early Bauhaus",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB5958/full/800,/0/default.jpg",
     "description": "Breuer's first experiment with tubular steel furniture, using a single continuous bent tube for the chair frame. The canvas seat and back are stretched across the steel structure, creating comfort through tension rather than padding. This chair established the formal vocabulary for all subsequent tubular steel furniture.",
     "significance": "The breakthrough object that launched industrial furniture design. Shows students how a single material innovation—applying bicycle technology to furniture—can transform an entire discipline. Essential for understanding the origins of modernist seating.",
     "connections": [
@@ -5372,7 +5371,8 @@ export const ARCHIVE = [
       "Bauhaus pioneering",
       "tension seating",
       "bicycle technology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB5958/full/800,/0/default.jpg"
   },
   {
     "id": 132,
@@ -5385,7 +5385,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Organic Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BU7078/full/800,/0/default.jpg",
     "description": "A companion piece to the Womb Chair that continues its organic vocabulary at floor level. The molded fiberglass form creates a soft landscape for the feet while maintaining the chair's sculptural unity. The ottoman demonstrates how accessories can extend a design concept rather than merely complement it.",
     "significance": "Shows students how furniture systems can be developed through consistent formal logic rather than just functional matching. Essential for understanding how design languages work across multiple objects to create environmental coherence.",
     "connections": [
@@ -5414,7 +5413,8 @@ export const ARCHIVE = [
       "environmental design",
       "formal consistency",
       "foot rest"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BU7078/full/800,/0/default.jpg"
   },
   {
     "id": 133,
@@ -5427,7 +5427,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Festival Style",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH0373/full/800,/0/default.jpg",
     "description": "Race's Flamingo uses bent steel rod construction with upholstered seat and back shells to create a chair that balances structural logic with comfort. The wire frame creates a cage-like structure that supports separate cushioned elements, allowing the metal framework to remain visible and express its load-bearing function. The proportions emphasize the horizontal spread of the armrests.",
     "significance": "Students should recognize how Race adapts American wire furniture innovations for British manufacturing capabilities and domestic comfort expectations. The chair demonstrates how structural expression can coexist with traditional upholstery rather than eliminating it entirely.",
     "connections": [
@@ -5456,7 +5455,8 @@ export const ARCHIVE = [
       "festival style",
       "domestic comfort",
       "cage construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH0373/full/800,/0/default.jpg"
   },
   {
     "id": 134,
@@ -5469,7 +5469,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Plywood Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JL3754/full/800,/0/default.jpg",
     "description": "Jacobs' Jason Chair uses bent plywood construction with a continuous seat and back shell supported by splayed wooden legs. The plywood shell creates compound curves that provide structural strength while conforming to body ergonomics. The leg attachment points transfer loads through the shell rather than requiring separate structural frames.",
     "significance": "Students need to understand how British designers adapted Scandinavian and American plywood techniques for local production capabilities. The chair shows how structural innovation can emerge from material limitations rather than technological abundance.",
     "connections": [
@@ -5498,7 +5497,8 @@ export const ARCHIVE = [
       "mass production",
       "ergonomic form",
       "material efficiency"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JL3754/full/800,/0/default.jpg"
   },
   {
     "id": 135,
@@ -5511,7 +5511,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "German Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW9699/full/800,/0/default.jpg",
     "description": "The Bofinger Chair uses injection-molded plastic construction to create a stackable chair with integrated seat, back, and legs in a single material. The chair's form follows the requirements of the injection molding process, with draft angles and uniform wall thickness enabling efficient production. The stacking feature maximizes storage density through interlocking profiles.",
     "significance": "Students should understand how injection molding demands formal discipline—the chair shows how manufacturing constraints can generate rather than limit design innovation. It demonstrates the shift from craft-based forming to industrial process-driven design in 1960s furniture.",
     "connections": [
@@ -5540,7 +5539,8 @@ export const ARCHIVE = [
       "plastic furniture",
       "German functionalism",
       "interlocking profiles"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW9699/full/800,/0/default.jpg"
   },
   {
     "id": 136,
@@ -5553,7 +5553,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": "Isamu Noguchi",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BV4993/full/800,/0/default.jpg",
     "description": "Noguchi's costume design reduces the human figure to essential geometric elements, using abstract forms to convey character relationships rather than literal representation. The drawing employs minimal lines to suggest volume and movement, treating the body as a sculptural armature for symbolic forms. The design prioritizes spatial relationships between figures over decorative detail.",
     "significance": "Students need to understand how sculptural thinking can inform two-dimensional design—Noguchi demonstrates how abstract art principles apply to functional design problems. The work shows how modernist reduction can serve theatrical narrative rather than opposing it.",
     "connections": [
@@ -5582,7 +5581,8 @@ export const ARCHIVE = [
       "spatial relationships",
       "symbolic form",
       "theatrical narrative"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BV4993/full/800,/0/default.jpg"
   },
   {
     "id": 137,
@@ -5595,7 +5595,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Organic Modernism",
     "wikiTitle": "Noguchi table",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK2512/full/800,/0/default.jpg",
     "description": "Two identical curved wood legs support a free-form glass top through precise joinery and counterbalanced tension. The asymmetrical top appears to float, held by sculptural legs that function as both structure and composition. Each element maintains its material identity while achieving structural unity through geometric relationships rather than mechanical fasteners.",
     "significance": "Demonstrates how furniture can be conceived as sculpture without abandoning function, using the transparency of glass to emphasize the sculptural qualities of the base. Shows students how biomorphic form can emerge from structural logic rather than applied decoration.",
     "connections": [
@@ -5629,7 +5628,8 @@ export const ARCHIVE = [
       "geometric abstraction",
       "material contrast",
       "cantilevered structure"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK2512/full/800,/0/default.jpg"
   },
   {
     "id": 138,
@@ -5642,7 +5642,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2236/full/800,/0/default.jpg",
     "description": "Angular fabric planes create architectural volumes around the human form, transforming the actor into a moving sculpture. Sharp geometric cuts eliminate decorative detail, using only essential lines to define character through abstract form. The costume functions as wearable architecture, where fabric becomes structural material defining space and movement.",
     "significance": "Shows how modernist sculpture principles can be applied to performance design, treating costume as spatial composition rather than historical reference. Teaches students how abstraction can convey narrative meaning more powerfully than literal representation.",
     "connections": [
@@ -5670,7 +5669,8 @@ export const ARCHIVE = [
       "architectural form",
       "character through abstraction",
       "spatial composition"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2236/full/800,/0/default.jpg"
   },
   {
     "id": 139,
@@ -5683,7 +5683,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2239/full/800,/0/default.jpg",
     "description": "Flowing curved panels create organic volumes that move with the body while maintaining sculptural integrity. The design balances structural definition with fluid movement, using continuous lines rather than angular breaks. Fabric becomes a medium for expressing character through pure form, with curves suggesting grace and vulnerability without literal costume elements.",
     "significance": "Demonstrates how the same designer can use contrasting formal languages within a unified system to differentiate character types. Shows students how abstract form can carry emotional and narrative content more effectively than representational imagery.",
     "connections": [
@@ -5711,7 +5710,8 @@ export const ARCHIVE = [
       "movement design",
       "abstract narrative",
       "fluid geometry"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2239/full/800,/0/default.jpg"
   },
   {
     "id": 140,
@@ -5724,7 +5724,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2240/full/800,/0/default.jpg",
     "description": "Fragmented geometric shapes create a deliberately unstable composition that reflects the Fool's role as disruptor. Multiple angular elements overlap and intersect without clear hierarchy, suggesting movement and unpredictability. The design uses formal chaos within geometric constraint to express character through pure visual means.",
     "significance": "Shows how formal composition can directly express narrative function, with visual instability communicating the Fool's disruptive role. Teaches students how systematic rule-breaking within a geometric system can be more effective than random decoration.",
     "connections": [
@@ -5752,7 +5751,8 @@ export const ARCHIVE = [
       "modernist critique",
       "compositional chaos",
       "theatrical abstraction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2240/full/800,/0/default.jpg"
   },
   {
     "id": 141,
@@ -5765,7 +5765,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2241/full/800,/0/default.jpg",
     "description": "Layered flowing elements create complex spatial relationships while maintaining the organic vocabulary established for Cordelia's character. The design adds structural complexity through overlapping planes that suggest both armor and drapery without representing either literally. Multiple layers create depth and movement while preserving the essential curved geometry of the character family.",
     "significance": "Demonstrates how a formal system can be developed across hierarchical relationships, with supporting characters extending rather than contradicting the primary character's visual language. Shows students how systematic variation creates coherent visual narratives.",
     "connections": [
@@ -5793,7 +5792,8 @@ export const ARCHIVE = [
       "modular costume",
       "spatial complexity",
       "material flexibility"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2241/full/800,/0/default.jpg"
   },
   {
     "id": 142,
@@ -5806,7 +5806,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2237/full/800,/0/default.jpg",
     "description": "Noguchi reduces character to geometric form, translating Shakespeare's duplicitous Albany into angular planes that suggest both armor and architectural structure. The design eliminates representational detail in favor of sculptural mass, treating costume as three-dimensional form that shapes the actor's movement. Lines define spatial relationships rather than decorative elements.",
     "significance": "Shows how modernist reduction can serve narrative function — the geometric abstraction doesn't abandon meaning but concentrates it into essential form. Demonstrates costume design as spatial design, where the body becomes architecture.",
     "connections": [
@@ -5840,7 +5839,8 @@ export const ARCHIVE = [
       "character reduction",
       "abstract narrative",
       "body architecture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2237/full/800,/0/default.jpg"
   },
   {
     "id": 143,
@@ -5853,7 +5853,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2238/full/800,/0/default.jpg",
     "description": "Noguchi transforms Cornwall into flowing geometric forms that suggest both drapery and landscape, using curved planes to create volume without representational detail. The design treats the body as an armature for abstract sculpture, where costume becomes environmental rather than decorative. Organic curves contrast with the rigid geometry elsewhere in his King Lear series.",
     "significance": "Demonstrates how abstraction can encode psychological difference — the fluid forms suggest Cornwall's moral flexibility versus other characters' geometric rigidity. Shows costume design as environmental design, where clothing shapes space around the body.",
     "connections": [
@@ -5887,7 +5886,8 @@ export const ARCHIVE = [
       "theatrical space",
       "moral visualization",
       "body architecture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2238/full/800,/0/default.jpg"
   },
   {
     "id": 144,
@@ -5900,7 +5900,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2242/full/800,/0/default.jpg",
     "description": "Noguchi fragments Edgar into broken geometric planes that suggest both madness and disguise, using jagged lines and interrupted forms to visualize the character's psychological fracture. The design abandons symmetry and wholeness, creating a costume that appears to be falling apart while maintaining structural integrity. Angular breaks encode Edgar's feigned madness as Poor Tom.",
     "significance": "Shows how formal fragmentation can serve narrative purpose — the broken geometry doesn't just represent madness but performs it through visual disruption. Demonstrates costume as psychological architecture, where form embodies mental state.",
     "connections": [
@@ -5929,7 +5928,8 @@ export const ARCHIVE = [
       "structural instability",
       "character psychology",
       "abstract narrative"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2242/full/800,/0/default.jpg"
   },
   {
     "id": 145,
@@ -5942,7 +5942,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Streamline Moderne",
     "wikiTitle": "Isamu Noguchi",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BW6814/full/800,/0/default.jpg",
     "description": "Noguchi transforms the baby monitor into biomorphic sculpture, using molded Bakelite to create organic curves that humanize electronic technology. The form suggests both ear and womb, making the mechanical act of remote listening feel natural and protective. Smooth surfaces eliminate mechanical details, presenting technology as seamless biological extension.",
     "significance": "Pioneering example of how sculptural form can make new technology emotionally acceptable to users. Shows students that industrial design must address psychological as well as functional needs, with form serving as interface between human anxiety and technological capability.",
     "connections": [
@@ -5976,7 +5975,8 @@ export const ARCHIVE = [
       "organic curves",
       "seamless housing",
       "psychological comfort"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BW6814/full/800,/0/default.jpg"
   },
   {
     "id": 146,
@@ -5989,7 +5989,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JU0825/full/800,/0/default.jpg",
     "description": "Large glass panels created through Murano's traditional blown glass techniques, scaled up to architectural dimensions. Ponti exploits the material's optical properties to create spatial dividers that maintain visual connection while defining separate zones. The panels demonstrate how craft traditions can be pushed to new scales and functions.",
     "significance": "Shows how designers can expand traditional craft techniques into new functional territories. Important for understanding how material properties can drive architectural innovation, and how Italian design maintains craft heritage while pursuing modern spatial concepts.",
     "connections": [
@@ -6018,7 +6017,8 @@ export const ARCHIVE = [
       "optical properties",
       "blown glass",
       "visual permeability"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JU0825/full/800,/0/default.jpg"
   },
   {
     "id": 147,
@@ -6031,7 +6031,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Industrial Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT9575/full/800,/0/default.jpg",
     "description": "A portable television that uses black ABS plastic housing to eliminate visual distraction from the screen content. Sapper reduces the form to essential geometric volumes while integrating the handle for true portability. The monolithic black finish treats the entire object as background to the illuminated screen.",
     "significance": "Demonstrates how electronic product design can prioritize content over container. Essential for understanding how Italian designers approached consumer electronics differently from German functionalism, emphasizing formal expression alongside technical performance.",
     "connections": [
@@ -6060,7 +6059,8 @@ export const ARCHIVE = [
       "geometric reduction",
       "Italian electronics",
       "black finish"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT9575/full/800,/0/default.jpg"
   },
   {
     "id": 148,
@@ -6073,7 +6073,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8989/full/800,/0/default.jpg",
     "description": "A flexible table lamp using chrome-plated metal segments connected by ball joints, allowing infinite positioning of the light source. The articulated arm references industrial equipment while the chrome finish gives domestic refinement. The lamp transforms from object to tool through user manipulation of its jointed structure.",
     "significance": "Shows how lighting design can emphasize user interaction and mechanical expression. Important for understanding how Italian designers imported industrial aesthetics into domestic contexts, and how furniture can embody behavioral possibilities rather than fixed forms.",
     "connections": [
@@ -6107,7 +6106,8 @@ export const ARCHIVE = [
       "flexible positioning",
       "behavioral design",
       "Italian radical"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8989/full/800,/0/default.jpg"
   },
   {
     "id": 149,
@@ -6120,7 +6120,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HN6772/full/800,/0/default.jpg",
     "description": "A steel frame chair where the seat and back are formed entirely from a single continuous cord wound through the structure. The cord creates both the surface and the suspension system, eliminating traditional upholstery. The design reduces the chair to its most essential components while creating comfort through tension rather than padding.",
     "significance": "Demonstrates how contemporary designers can strip furniture down to fundamental principles of structure and material. Shows how a single material can perform multiple functions simultaneously, teaching efficiency in design thinking and the poetics of reduction.",
     "connections": [
@@ -6154,7 +6153,8 @@ export const ARCHIVE = [
       "suspended surface",
       "construction visibility",
       "dematerialization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HN6772/full/800,/0/default.jpg"
   },
   {
     "id": 150,
@@ -6167,7 +6167,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Functionalism",
     "wikiTitle": "Poul Henningsen",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM2919/full/800,/0/default.jpg",
     "description": "Seventy-two copper leaves arranged in twelve rows create a pendant lamp that eliminates glare while distributing warm light. Each leaf is precisely angled to hide the light source from any viewing angle below 45 degrees. The mathematical progression of leaf sizes creates even light distribution while the copper finish warms the light quality.",
     "significance": "Represents the pinnacle of scientific lighting design, where every element serves optical function. Teaches students how complex engineering can be hidden within organic forms, and how functional requirements can generate unexpected beauty through systematic thinking.",
     "connections": [
@@ -6196,7 +6195,8 @@ export const ARCHIVE = [
       "Danish functionalism",
       "light distribution",
       "systematic design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM2919/full/800,/0/default.jpg"
   },
   {
     "id": 151,
@@ -6209,7 +6209,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernist Film Graphics",
     "wikiTitle": "Saul Bass",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3004/full/800,/0/default.jpg",
     "description": "A film poster using stark geometric abstraction to represent political conflict. Black and white shapes create visual tension through angular collision, avoiding literal representation of characters or plot. The typography integrates with the abstract forms, creating a unified graphic system that suggests the film's themes of political confrontation.",
     "significance": "Revolutionized film marketing by treating posters as abstract graphic design rather than photographic promotion. Teaches students how visual metaphor can be more powerful than literal representation, and how graphic elements can carry narrative meaning through pure form.",
     "connections": [
@@ -6243,7 +6242,8 @@ export const ARCHIVE = [
       "graphic narrative",
       "geometric typography",
       "American design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3004/full/800,/0/default.jpg"
   },
   {
     "id": 152,
@@ -6256,7 +6256,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Commercial Typography",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GX6809/full/800,/0/default.jpg",
     "description": "Popular music sheet covers adopting modernist typography and layout principles in mass market publishing. Clean sans-serif fonts replace decorative Victorian styles, with systematic use of hierarchy and white space. The design democratizes modernist graphic principles, applying them to commercial music publishing for broad public consumption.",
     "significance": "Shows how high design principles filter into mass culture and commercial applications. Demonstrates to students that modernist typography wasn't confined to elite design contexts but shaped everyday visual communication, making sophisticated design thinking accessible to popular audiences.",
     "connections": [
@@ -6290,7 +6289,8 @@ export const ARCHIVE = [
       "systematic layout",
       "popular culture",
       "accessible modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GX6809/full/800,/0/default.jpg"
   },
   {
     "id": 153,
@@ -6303,7 +6303,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Corporate Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AR8991/full/800,/0/default.jpg",
     "description": "A blown glass carafe that reduces the vessel to its essential geometric form — a perfect cylinder topped with a conical stopper. The Vignellis eliminated all decorative elements, creating a form that demonstrates their grid-based methodology applied to three-dimensional objects. The proportional relationship between cylinder and cone follows mathematical ratios derived from their graphic work.",
     "significance": "Students learn how systematic design thinking transfers across disciplines — the same grid logic that structures typography can organize product geometry. It demonstrates how reduction serves clarity: every formal decision has a functional justification.",
     "connections": [
@@ -6337,7 +6336,8 @@ export const ARCHIVE = [
       "systematic design",
       "grid methodology",
       "functional minimalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AR8991/full/800,/0/default.jpg"
   },
   {
     "id": 154,
@@ -6350,7 +6350,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Rationalist Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HR0548/full/800,/0/default.jpg",
     "description": "A theater poster that demonstrates Vignelli's grid-based approach to information hierarchy. Bold sans-serif type is arranged in strict geometric relationships, with each text element sized and positioned according to mathematical ratios. The monochromatic palette eliminates visual noise, forcing typography to carry all communicative weight through scale and placement alone.",
     "significance": "Students see how systematic methodology creates visual authority — the grid doesn't constrain creativity but enables it by providing logical structure. It shows that reduction amplifies meaning rather than diminishing it, a principle applicable across all design disciplines.",
     "connections": [
@@ -6384,7 +6383,8 @@ export const ARCHIVE = [
       "sans-serif typography",
       "systematic reduction",
       "Italian modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HR0548/full/800,/0/default.jpg"
   },
   {
     "id": 155,
@@ -6397,7 +6397,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Swiss International Style",
     "wikiTitle": "Josef Müller-Brockmann",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF3089/full/800,/0/default.jpg",
     "description": "A festival poster that codifies the principles of Swiss graphic design through mathematical grid organization. Type and image are integrated through geometric relationships rather than decorative arrangement. The sans-serif typography and asymmetrical layout create visual tension while maintaining perfect structural balance, demonstrating how systematic design can generate dynamic compositions.",
     "significance": "This poster established the methodological foundation for modern information design — students learn that grids enable rather than restrict creative expression. It proves that reducing visual elements to their essential functions amplifies rather than diminishes communicative power.",
     "connections": [
@@ -6431,7 +6430,8 @@ export const ARCHIVE = [
       "sans-serif",
       "geometric layout",
       "functional reduction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF3089/full/800,/0/default.jpg"
   },
   {
     "id": 156,
@@ -6444,7 +6444,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN5031/full/800,/0/default.jpg",
     "description": "A chair that explodes the conventions of seating through radical formal disruption. Shire combines geometric shapes — sphere, cylinder, pyramid — in impossible relationships that prioritize symbolic meaning over ergonomic logic. The vivid color palette and angular composition create visual tension rather than physical comfort, transforming furniture into sculptural statement.",
     "significance": "Students encounter furniture as conceptual argument rather than functional solution — the chair demonstrates how postmodern design challenges rather than serves user expectations. It shows that objects can communicate ideas about culture, identity, and artistic rebellion through pure formal language.",
     "connections": [
@@ -6478,7 +6477,8 @@ export const ARCHIVE = [
       "radical form",
       "cultural critique",
       "symbolic objects"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN5031/full/800,/0/default.jpg"
   },
   {
     "id": 157,
@@ -6491,7 +6491,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Javier Mariscal",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4647/full/800,/0/default.jpg",
     "description": "A serving trolley that transforms domestic service into theatrical performance through cartoon-like figuration. Mariscal's design anthropomorphizes the functional object — wheels become feet, the frame suggests a dancing figure, handles imply gesturing arms. The bright colors and expressive form reject the neutral efficiency of modernist service furniture, making hospitality into visual entertainment.",
     "significance": "Students see how postmodern design injects personality into anonymous objects — the trolley demonstrates that function can be enhanced rather than compromised by emotional engagement. It shows how cultural references and humor can make everyday objects memorable and meaningful.",
     "connections": [
@@ -6525,7 +6524,8 @@ export const ARCHIVE = [
       "expressive function",
       "cultural humor",
       "anti-modernist"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4647/full/800,/0/default.jpg"
   },
   {
     "id": 158,
@@ -6538,7 +6538,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3327/full/800,/0/default.jpg",
     "description": "Bedin's drawing transforms the lamp from functional object to narrative character, using cartoon-like forms and bright colors to challenge modernist rationalism. The drawing process itself becomes a form of design thinking, where anthropomorphic qualities emerge through gestural mark-making rather than technical specification.",
     "significance": "Shows how Memphis designers used drawing as both design tool and manifesto, proving that the conceptual phase can be as radical as the final object. Demonstrates the shift from problem-solving to storytelling in 1980s design.",
     "connections": [
@@ -6572,7 +6571,8 @@ export const ARCHIVE = [
       "conceptual development",
       "character-based design",
       "Italian radical design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3327/full/800,/0/default.jpg"
   },
   {
     "id": 159,
@@ -6585,7 +6585,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP7894/full/800,/0/default.jpg",
     "description": "Mendini's cocktail cabinet fragments classical architectural elements into a collision of historical references, using decorative laminate patterns to create deliberate visual chaos. The form operates as architectural collage, where each surface pattern contradicts its neighbors to prevent any single reading or hierarchy.",
     "significance": "Exemplifies Memphis's core strategy of using decoration as critique, proving that surface pattern could be as conceptually radical as structural innovation. Shows how postmodern designers weaponized ornament against modernist purity.",
     "connections": [
@@ -6619,7 +6618,8 @@ export const ARCHIVE = [
       "historical pastiche",
       "visual chaos",
       "cocktail cabinet"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP7894/full/800,/0/default.jpg"
   },
   {
     "id": 160,
@@ -6632,7 +6632,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM9621/full/800,/0/default.jpg",
     "description": "Sowden's bed design treats sleep furniture as architectural landscape, using bold geometric forms and contrasting patterns to transform the bedroom into a theatrical stage set. The drawing technique combines architectural plan with decorative surface, making the design process visible as part of the conceptual statement.",
     "significance": "Demonstrates how Memphis expanded beyond objects into environmental thinking, using domestic furniture as vehicles for spatial experimentation. Shows British contribution to Memphis's international decorative revolution.",
     "connections": [
@@ -6666,7 +6665,8 @@ export const ARCHIVE = [
       "domestic experimentation",
       "British Memphis",
       "sleep architecture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM9621/full/800,/0/default.jpg"
   },
   {
     "id": 161,
@@ -6679,7 +6679,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN2438/full/800,/0/default.jpg",
     "description": "Bedin's table lamp transforms lighting into anthropomorphic character, using bright colors and cartoon-like proportions to create a domestic companion rather than a functional tool. The wheeled base and upright posture suggest mobility and personality, making the lamp operate as both object and presence in domestic space.",
     "significance": "Pioneers the concept of lighting as character design, showing how Memphis designers used anthropomorphism to create emotional relationships with objects. Demonstrates the radical potential of treating functional objects as narrative protagonists.",
     "connections": [
@@ -6713,7 +6712,8 @@ export const ARCHIVE = [
       "wheeled mobility",
       "personality objects",
       "emotional furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN2438/full/800,/0/default.jpg"
   },
   {
     "id": 162,
@@ -6726,7 +6726,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0100/full/800,/0/default.jpg",
     "description": "De Lucchi's desk lamp uses geometric abstraction and bold color to transform task lighting into sculptural statement, with the adjustable arm becoming a formal element rather than purely functional mechanism. The lamp's marine-inspired forms suggest organic movement while maintaining geometric clarity, creating tension between natural reference and artificial construction.",
     "significance": "Shows Memphis's sophisticated approach to functional objects, using geometric abstraction to create emotional resonance without abandoning usability. Demonstrates how Italian designers balanced radical aesthetics with lighting performance.",
     "connections": [
@@ -6760,7 +6759,8 @@ export const ARCHIVE = [
       "adjustable mechanisms",
       "color blocking",
       "functional radicalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0100/full/800,/0/default.jpg"
   },
   {
     "id": 163,
@@ -6773,7 +6773,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LE5979/full/800,/0/default.jpg",
     "description": "A plastic wristwatch that applies Memphis design language to mass-produced timepieces. The case geometry abandons circular tradition for angular, architectural forms while bold pattern graphics transform the functional dial into a decorative surface. Unlike Swiss precision instruments, this watch declares time-telling secondary to cultural signaling.",
     "significance": "Shows how Postmodern design infiltrated consumer products, proving that radical aesthetics could achieve commercial success. Demonstrates Memphis's strategy of applying anti-functional decoration to the most functional objects.",
     "connections": [
@@ -6801,7 +6800,8 @@ export const ARCHIVE = [
       "cultural signaling",
       "mass production",
       "anti-functionalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LE5979/full/800,/0/default.jpg"
   },
   {
     "id": 164,
@@ -6814,7 +6814,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JP5905/full/800,/0/default.jpg",
     "description": "A glass vessel that abandons traditional vase proportions for an architectural composition of geometric volumes. Hand-blown in Murano using traditional techniques, but the form rejects organic curves for hard-edged modernist geometry. The asymmetrical stacking of cylindrical and conical forms creates visual instability that questions the vase's function as stable container.",
     "significance": "Demonstrates how Memphis applied architectural thinking to domestic objects, using traditional craft skills to produce anti-traditional forms. Shows the movement's method of combining high craft with conceptual provocation.",
     "connections": [
@@ -6842,7 +6841,8 @@ export const ARCHIVE = [
       "asymmetrical composition",
       "anti-functional form",
       "traditional techniques"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JP5905/full/800,/0/default.jpg"
   },
   {
     "id": 165,
@@ -6855,7 +6855,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pre-Memphis Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BV2873/full/800,/0/default.jpg",
     "description": "Design drawing that visualizes furniture as cartoon-like characters with anthropomorphic qualities. Uses simple line work and bold graphic shapes to present domestic objects as playful personalities rather than functional tools. The drawing technique deliberately avoids technical precision, instead using naive illustration to suggest emotional relationships between users and objects.",
     "significance": "Documents the conceptual development that led to Memphis, showing how radical designers used drawing to reimagine the designer-object relationship. Demonstrates graphic thinking as a tool for challenging functionalist orthodoxy.",
     "connections": [
@@ -6883,7 +6882,8 @@ export const ARCHIVE = [
       "anti-functionalism",
       "emotional design",
       "Italian avant-garde"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BV2873/full/800,/0/default.jpg"
   },
   {
     "id": 166,
@@ -6896,7 +6896,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HW0842/full/800,/0/default.jpg",
     "description": "A mantel clock that treats timekeeping as architectural spectacle. The stepped profile mimics Art Deco skyscrapers while bold color blocking divides functional elements into decorative zones. Digital display technology is housed within a form that celebrates mass over precision, transforming electronic efficiency into sculptural presence on the domestic shelf.",
     "significance": "Shows Memphis's strategy of applying metropolitan imagery to domestic scale, making the home a stage for urban symbolism. Demonstrates how digital technology was aestheticized through historical pastiche rather than expressed through functional minimalism.",
     "connections": [
@@ -6924,7 +6923,8 @@ export const ARCHIVE = [
       "decorative timekeeping",
       "urban symbolism",
       "domestic sculpture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HW0842/full/800,/0/default.jpg"
   },
   {
     "id": 167,
@@ -6937,7 +6937,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AA6521/full/800,/0/default.jpg",
     "description": "Textile pattern that fragments geometric shapes into scattered compositions across the floor plane. Abstract forms float without hierarchical organization, creating visual chaos that rejects traditional carpet design's symmetrical borders and central medallions. The pattern's apparent randomness actually follows Memphis principles of controlled disorder, using color and shape to create energy rather than harmony.",
     "significance": "Demonstrates Memphis's extension into environmental design, showing how Postmodern fragmentation could restructure domestic space itself. Proves the movement's understanding that floors, not just objects, could challenge modernist spatial order.",
     "connections": [
@@ -6965,7 +6964,8 @@ export const ARCHIVE = [
       "spatial disorder",
       "domestic subversion",
       "pattern design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AA6521/full/800,/0/default.jpg"
   },
   {
     "id": 168,
@@ -6978,7 +6978,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Typography",
     "wikiTitle": "Herbert Bayer",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB5930/full/800,/0/default.jpg",
     "description": "Bayer's promotional brochure for Marcel Breuer's tubular steel furniture demonstrates how sans-serif typography and asymmetrical composition could sell industrial products as lifestyle objects. The layout uses photomontage and geometric organization to argue that machine-made furniture represents social progress, not just functional efficiency. Typography becomes a tool for modernist ideology, transforming commercial material into cultural manifesto.",
     "significance": "Shows how graphic design shapes public reception of industrial objects. Students learn how typography can construct meaning around products, making functional arguments appear inevitable rather than chosen. Essential for understanding how Bauhaus visual language sold modernism to middle-class consumers.",
     "connections": [
@@ -7012,7 +7011,8 @@ export const ARCHIVE = [
       "commercial graphics",
       "asymmetrical layout",
       "steel furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB5930/full/800,/0/default.jpg"
   },
   {
     "id": 169,
@@ -7025,7 +7025,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-War Reconstruction",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT1804/full/800,/0/default.jpg",
     "description": "Selmanagic's chair demonstrates how Bauhaus tubular steel principles adapted to post-war material shortages and institutional needs. The simplified cantilever construction reduces Breuer's B32 model to essential structural elements while maintaining ergonomic performance. Chrome steel tubing supports a minimal seat and back, proving that modernist functionality could survive political disruption and resource constraints.",
     "significance": "Shows how design principles transfer across historical ruptures. Students see how formal reduction can result from ideological commitment and practical necessity equally. Critical for understanding how modernism reconstructed itself in post-fascist Europe.",
     "connections": [
@@ -7059,7 +7058,8 @@ export const ARCHIVE = [
       "reconstruction",
       "democratic design",
       "Bauhaus legacy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT1804/full/800,/0/default.jpg"
   },
   {
     "id": 170,
@@ -7072,7 +7072,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Pedagogy",
     "wikiTitle": "Alma Siedhoff-Buscher",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF3321/full/800,/0/default.jpg",
     "description": "Siedhoff-Buscher's wooden ship construction set applies Bauhaus educational theory to children's play. Primary geometric forms in bright colors can be assembled into multiple configurations, teaching spatial relationships and systematic thinking through manipulation. The toy embodies Bauhaus belief that design education should begin in childhood, using abstract form to develop analytical capabilities rather than representing specific objects.",
     "significance": "Demonstrates how design pedagogy shaped product development. Students learn how educational theory becomes material practice, and how abstract principles translate into concrete learning tools. Essential for understanding design's role in social formation.",
     "connections": [
@@ -7106,7 +7105,8 @@ export const ARCHIVE = [
       "childhood development",
       "systematic play",
       "design education"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF3321/full/800,/0/default.jpg"
   },
   {
     "id": 171,
@@ -7119,7 +7119,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM5679/full/800,/0/default.jpg",
     "description": "Morris's furnishing fabric demonstrates Arts and Crafts principles through complex hand-block printing that achieves naturalistic representation via stylized pattern. Birds and flowering plants interweave across the textile surface, creating continuous ornamental fields that deny machine production's geometric repetition. The indigo discharge printing process requires multiple stages of dyeing and bleaching, making each yard a demonstration of craft skill against industrial efficiency.",
     "significance": "Shows how ornamental complexity can function as political resistance to industrial standardization. Students understand how pattern design embeds social arguments about labor, beauty, and human value. Fundamental for grasping how decoration operates as critique.",
     "connections": [
@@ -7153,7 +7152,8 @@ export const ARCHIVE = [
       "craft resistance",
       "textile design",
       "anti-industrial"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM5679/full/800,/0/default.jpg"
   },
   {
     "id": 172,
@@ -7166,7 +7166,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NX3102/full/800,/0/default.jpg",
     "description": "Morris's most complex textile design requires multiple hand-block printing stages to achieve its naturalistic bird and fruit motifs. The pattern depicts thrushes stealing strawberries in Morris's garden at Kelmscott, transforming observed behavior into continuous ornamental narrative. Indigo discharge printing allows multiple colors while maintaining the deep blue ground, creating visual depth that mechanical printing cannot achieve. Each repeat demonstrates craft mastery over industrial efficiency.",
     "significance": "Exemplifies how ornamental design can encode social and political meaning through making processes. Students learn how pattern complexity functions as resistance to industrial rationalization. Critical for understanding decoration as ideological practice, not mere surface treatment.",
     "connections": [
@@ -7200,7 +7199,8 @@ export const ARCHIVE = [
       "anti-industrial design",
       "Kelmscott Press",
       "thrush motif"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NX3102/full/800,/0/default.jpg"
   },
   {
     "id": 173,
@@ -7213,7 +7213,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN1492/full/800,/0/default.jpg",
     "description": "Morris's Indian wallpaper employs dense, interlacing botanical forms derived from medieval manuscripts and Persian textiles. The pattern uses flat colour planes without perspective to create an all-over field that denies hierarchy between figure and ground. This approach rejects industrial wallpaper's mechanical repetition in favour of hand-drawn irregularities that reveal human craft.",
     "significance": "Students need to understand how Morris used pattern density to argue against industrial aesthetics — showing that visual complexity could embody moral complexity. The wallpaper demonstrates how Arts and Crafts designers weaponised historical reference against contemporary mass production.",
     "connections": [
@@ -7247,7 +7246,8 @@ export const ARCHIVE = [
       "ornament",
       "wallpaper",
       "moral design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN1492/full/800,/0/default.jpg"
   },
   {
     "id": 174,
@@ -7260,7 +7260,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR1694/full/800,/0/default.jpg",
     "description": "Morris's printer's notes reveal his systematic approach to colour registration and block printing techniques. The handwritten annotations specify exact colour mixing ratios and printing sequences, demonstrating how Arts and Crafts 'handwork' required precise technical documentation. These working documents expose the controlled methodology behind apparently spontaneous craft production.",
     "significance": "Students must see how Morris reconciled industrial precision with craft ideology — his 'medieval' patterns required modern documentation systems. The notes reveal that Arts and Crafts anti-industrialism was itself systematised, a crucial paradox in design reform movements.",
     "connections": [
@@ -7294,7 +7293,8 @@ export const ARCHIVE = [
       "handwork",
       "technical",
       "process"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR1694/full/800,/0/default.jpg"
   },
   {
     "id": 175,
@@ -7307,7 +7307,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FJ5557/full/800,/0/default.jpg",
     "description": "Lea fabric employs Morris's signature diagonal stem pattern with flowering branches that create rhythmic movement across the textile surface. The design uses indigo discharge printing on cotton to achieve white motifs against blue grounds, a technique Morris mastered at Merton Abbey. Each repeat shows slight variations that reveal the hand-guided printing process while maintaining overall pattern coherence.",
     "significance": "Students need to understand how Morris translated wallpaper patterns into textile production, adapting his botanical vocabulary to different manufacturing constraints. Lea demonstrates how Arts and Crafts designers maintained craft principles while scaling up production — a tension central to design reform.",
     "connections": [
@@ -7341,7 +7340,8 @@ export const ARCHIVE = [
       "craft",
       "pattern",
       "natural"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FJ5557/full/800,/0/default.jpg"
   },
   {
     "id": 176,
@@ -7354,7 +7354,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV1141/full/800,/0/default.jpg",
     "description": "Wreath wallpaper organises Morris's botanical motifs into circular formations that create geometric order within natural representation. The design employs a more controlled repeat structure than Morris's earlier patterns, with wreaths forming regular intervals across the wall surface. Each wreath contains carefully balanced asymmetries that prevent mechanical repetition while maintaining overall structural clarity.",
     "significance": "Students should recognise how Morris evolved toward geometric discipline without abandoning natural reference — Wreath shows Arts and Crafts design developing systematic approaches to pattern organisation. This evolution prefigures modernist concerns with structural clarity while maintaining decorative richness.",
     "connections": [
@@ -7388,7 +7387,8 @@ export const ARCHIVE = [
       "organisation",
       "wallpaper",
       "structure"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV1141/full/800,/0/default.jpg"
   },
   {
     "id": 177,
@@ -7401,7 +7401,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MT0057/full/800,/0/default.jpg",
     "description": "Wandle fabric features flowing river-like stems with large-scale floral motifs printed using madder root dyes on cotton. The pattern employs Morris's characteristic diagonal movement but at a larger scale than his wallpapers, adapted for textile draping and interior use. Named after the River Wandle near Morris's Merton Abbey workshop, the design embodies his connection between local landscape and craft production.",
     "significance": "Students must understand how Morris adapted his design vocabulary across different media and scales — Wandle shows how pattern designers must consider material behaviour and end use. The fabric demonstrates Arts and Crafts integration of place, process, and pattern in a single design philosophy.",
     "connections": [
@@ -7435,7 +7434,8 @@ export const ARCHIVE = [
       "craft",
       "dye",
       "flowing"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MT0057/full/800,/0/default.jpg"
   },
   {
     "id": 178,
@@ -7448,7 +7448,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PH7687/full/800,/0/default.jpg",
     "description": "Morris's first wallpaper design uses a simple lattice structure of rose stems to create infinite repeat without visible joins. The naturalistic drawing is constrained by geometric logic — each intersection point anchors the pattern's mathematical progression while botanical accuracy maintains visual believability. Block-printed by hand using traditional methods, it rejected machine production's mechanical perfection for craft irregularities.",
     "significance": "This establishes the Arts and Crafts method of reconciling industrial pattern requirements with pre-industrial making processes. Students learn how systematic thinking can coexist with handcraft values, and how geometric structure enables rather than constrains natural representation.",
     "connections": [
@@ -7481,7 +7480,8 @@ export const ARCHIVE = [
       "infinite extension",
       "botanical accuracy",
       "systematic decoration"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PH7687/full/800,/0/default.jpg"
   },
   {
     "id": 179,
@@ -7494,7 +7494,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM6728/full/800,/0/default.jpg",
     "description": "Morris's mature wallpaper technique layers multiple visual depths — background texture, mid-ground foliage, and foreground branch structure create spatial complexity within a flat medium. The willow branches follow naturalistic growth patterns while conforming to repeat requirements, with each element sized to read clearly at domestic scale. Machine printing enables finer detail than earlier block printing while retaining craft-based drawing methods.",
     "significance": "This demonstrates how traditional naturalistic representation can be systematized without losing organic believability. Students see advanced pattern-making where biological logic and manufacturing constraints produce mutual enrichment rather than compromise.",
     "connections": [
@@ -7527,7 +7526,8 @@ export const ARCHIVE = [
       "botanical accuracy",
       "systematic naturalism",
       "craft modernization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM6728/full/800,/0/default.jpg"
   },
   {
     "id": 180,
@@ -7540,7 +7540,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7303/full/800,/0/default.jpg",
     "description": "Morris combines two distinct botanical elements — architectural tulips and flowing willow branches — into a unified textile pattern through careful scale relationships and shared linear rhythm. The design uses traditional block printing on heavy furnishing fabric, with indigo discharge dyeing creating white figures against dark ground. Each botanical element retains its identifying characteristics while serving the overall pattern logic.",
     "significance": "This teaches how multiple visual elements can be integrated through systematic design thinking without losing individual identity. Students learn that pattern unity comes from structural relationships, not formal similarity.",
     "connections": [
@@ -7573,7 +7572,8 @@ export const ARCHIVE = [
       "pattern integration",
       "traditional dyeing",
       "scale relationships"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7303/full/800,/0/default.jpg"
   },
   {
     "id": 181,
@@ -7586,7 +7586,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "Philip Webb",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AH8812/full/800,/0/default.jpg",
     "description": "Webb's cabinet construction follows medieval joinery principles with visible mortise and tenon joints, hand-forged iron hinges, and solid oak construction. The painted decoration by Morris depicts the St. George legend across multiple panels, integrating narrative painting with architectural structure. Each decorative element — hinges, lock plates, painted scenes — contributes to both functional operation and artistic program.",
     "significance": "This demonstrates how Arts and Crafts designers integrated multiple craft disciplines into unified objects. Students see furniture as architecture in miniature, where structural logic, decorative program, and making processes must work together rather than being applied separately.",
     "connections": [
@@ -7619,7 +7618,8 @@ export const ARCHIVE = [
       "hand-forged hardware",
       "collaborative craft",
       "architectural furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AH8812/full/800,/0/default.jpg"
   },
   {
     "id": 182,
@@ -7632,7 +7632,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Finnish Modernism",
     "wikiTitle": "Alvar Aalto",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MP4933/full/800,/0/default.jpg",
     "description": "Aalto's glass forming technique creates organic curves through controlled heat manipulation rather than geometric molding. The asymmetrical flower shape emerges from the material properties of molten glass while serving the functional requirements of display and arrangement. Multiple sizes can be combined systematically while each piece retains individual character through the semi-random nature of the forming process.",
     "significance": "This shows how modernist designers could achieve systematic production without geometric regularity. Students learn that industrial methods can incorporate controlled randomness, and that functional objects can express organic principles through making processes rather than applied decoration.",
     "connections": [
@@ -7665,7 +7664,8 @@ export const ARCHIVE = [
       "combinable vessels",
       "material expression",
       "industrial organicism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MP4933/full/800,/0/default.jpg"
   },
   {
     "id": 183,
@@ -7678,7 +7678,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Industrial Functionalism",
     "wikiTitle": "Anglepoise lamp",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ1317/full/800,/0/default.jpg",
     "description": "Carwardine's automotive engineering background produced a task light using spring-loaded arms that maintain balance through constant tension rather than clamping mechanisms. The articulated steel construction borrows from car suspension systems, creating infinite positioning possibilities within a compact footprint. Each joint's spring resistance exactly counteracts the weight distribution, allowing effortless repositioning with fingertip pressure.",
     "significance": "Students learn how cross-disciplinary expertise generates breakthrough solutions — automotive engineering principles solving domestic lighting problems. The lamp demonstrates how mechanical logic can drive aesthetic outcomes, producing a form that expresses its function through visible structural honesty rather than decorative concealment.",
     "connections": [
@@ -7712,7 +7711,8 @@ export const ARCHIVE = [
       "functional expression",
       "adjustable positioning",
       "industrial design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ1317/full/800,/0/default.jpg"
   },
   {
     "id": 184,
@@ -7725,7 +7725,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Toy Modernism",
     "wikiTitle": "Dinky Toys",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NC2737/full/800,/0/default.jpg",
     "description": "Meccano's die-cast Routemaster reduces London's double-decker icon to essential geometric planes and proportions while maintaining recognizable civic character. The toy's simplified detailing — flush windows, minimal surface modeling, solid color blocking — translates the bus's utilitarian architecture into child-scaled abstraction. Manufacturing constraints produce cleaner lines than the original, creating a Platonic ideal of the Routemaster form.",
     "significance": "Students discover how manufacturing limitations can improve design clarity — die-casting's technical restrictions forcing essential form over decorative detail. The toy demonstrates how reduction and abstraction can distill complex civic objects into more powerful symbolic representations than literal reproduction.",
     "connections": [
@@ -7754,7 +7753,8 @@ export const ARCHIVE = [
       "miniaturization",
       "geometric simplification",
       "cultural symbolism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NC2737/full/800,/0/default.jpg"
   },
   {
     "id": 185,
@@ -7767,7 +7767,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Heritage Nostalgia",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FK0340/full/800,/0/default.jpg",
     "description": "Hornby's detailed replica prioritizes historical accuracy over the geometric abstraction of earlier die-cast models. Digital manufacturing enables surface textures, authentic color schemes, and precise proportional scaling that recreates the Routemaster's utilitarian aesthetic rather than interpreting it. The model functions as cultural preservation, documenting design details that disappeared when London's original fleet was retired.",
     "significance": "Students examine how advanced manufacturing changes the relationship between original and reproduction — digital precision enabling literal documentation while losing the interpretive power of earlier toy abstraction. The model raises questions about whether exact replication or creative reduction better serves design education and cultural memory.",
     "connections": [
@@ -7796,7 +7795,8 @@ export const ARCHIVE = [
       "British iconography",
       "collectible models",
       "historical reproduction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FK0340/full/800,/0/default.jpg"
   },
   {
     "id": 186,
@@ -7809,7 +7809,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Design Democracy",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GU3419/full/800,/0/default.jpg",
     "description": "The project democratizes urban communication by distributing blank poster templates across London for public completion and redistribution. Unlike traditional top-down civic messaging, this system creates a feedback loop where citizens become both content creators and distribution network. The standardized format provides just enough structure to ensure legibility while maximizing creative freedom within established urban poster conventions.",
     "significance": "Students learn how graphic design can enable participation rather than just communication — the template system showing how constraints can empower rather than limit creative expression. The project demonstrates graphic design's potential to build communities of practice around shared visual languages and distribution systems.",
     "connections": [
@@ -7838,7 +7837,8 @@ export const ARCHIVE = [
       "distributed creation",
       "poster design",
       "community building"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GU3419/full/800,/0/default.jpg"
   },
   {
     "id": 187,
@@ -7851,7 +7851,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Educational Toys",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PH2343/full/800,/0/default.jpg",
     "description": "The Abbatts' puzzle reduces complex transportation scenes to bold, interlocking shapes that teach spatial relationships through physical manipulation. Unlike decorative jigsaws, the educational design prioritizes cognitive development — simplified graphics and large pieces enabling young children to understand part-to-whole relationships. The cutting pattern follows logical boundaries rather than arbitrary curves, making assembly success dependent on understanding rather than trial and error.",
     "significance": "Students examine how educational constraints can improve design effectiveness — the pedagogical brief forcing clearer visual hierarchy and more logical construction than entertainment-focused alternatives. The puzzle demonstrates how reducing complexity can increase learning potential, showing design's capacity to build cognitive skills through guided discovery.",
     "connections": [
@@ -7880,7 +7879,8 @@ export const ARCHIVE = [
       "childhood education",
       "geometric simplification",
       "hands-on learning"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PH2343/full/800,/0/default.jpg"
   },
   {
     "id": 188,
@@ -7893,7 +7893,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Industrial Production",
     "wikiTitle": "Singer Corporation",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH1510/full/800,/0/default.jpg",
     "description": "Singer's 'New Family' established the industrial template for domestic sewing machines through standardized iron casting and precision mechanical assembly. The treadle mechanism converts foot motion into rotary drive, demonstrating how complex mechanical systems could be made reliable enough for untrained users. Its ornate cast-iron frame uses decorative elements to domesticate industrial machinery for middle-class homes.",
     "significance": "Shows how industrial manufacturers translated complex mechanisms into consumer products through systematic standardization. Demonstrates the marriage of functional engineering with decorative styling to make technology socially acceptable in domestic spaces.",
     "connections": [
@@ -7927,7 +7926,8 @@ export const ARCHIVE = [
       "textile machinery",
       "treadle mechanism",
       "cast iron"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH1510/full/800,/0/default.jpg"
   },
   {
     "id": 189,
@@ -7940,7 +7940,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9384/full/800,/0/default.jpg",
     "description": "Crompton's panel translates modernist abstraction into hand-stitched embroidery, using traditional needlework techniques to create geometric compositions. The work demonstrates how craft traditions could engage with contemporary art movements without abandoning their material specificity. Her approach maintains the temporal rhythm of hand-making while adopting modernist visual language.",
     "significance": "Reveals how traditional crafts negotiated modernism by adapting new visual languages to established making processes. Shows embroidery as a legitimate medium for artistic experiment, not merely decorative application.",
     "connections": [
@@ -7969,7 +7968,8 @@ export const ARCHIVE = [
       "traditional techniques",
       "artistic needlework",
       "textile art"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9384/full/800,/0/default.jpg"
   },
   {
     "id": 190,
@@ -7982,7 +7982,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9372/full/800,/0/default.jpg",
     "description": "This functional textile demonstrates Crompton's integration of modernist design principles with domestic utility. The embroidered surface pattern uses systematic repetition and geometric reduction typical of 1930s design reform, while maintaining the craft tradition of decorating functional linens. The work shows how modernist aesthetics could be applied to everyday domestic objects through traditional making processes.",
     "significance": "Exemplifies how craft practitioners could contribute to modernist design reform through traditional techniques. Shows the potential for decorative arts to carry modernist ideas into domestic spaces through functional objects.",
     "connections": [
@@ -8006,7 +8005,8 @@ export const ARCHIVE = [
       "decorative utility",
       "hand-stitching",
       "systematic ornament"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9372/full/800,/0/default.jpg"
   },
   {
     "id": 191,
@@ -8019,7 +8019,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9376/full/800,/0/default.jpg",
     "description": "This embroidered panel shows Crompton's approach to figurative representation within modernist constraints. The horse is rendered through simplified forms and controlled color, demonstrating how traditional embroidery subjects could be interpreted through contemporary design principles. The work maintains recognizable imagery while adopting the formal reduction characteristic of 1930s applied arts.",
     "significance": "Shows how craft practitioners could maintain figurative traditions while engaging with modernist formal language. Demonstrates embroidery's capacity for artistic interpretation beyond purely decorative application.",
     "connections": [
@@ -8048,7 +8047,8 @@ export const ARCHIVE = [
       "traditional subjects",
       "hand-stitching",
       "applied modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9376/full/800,/0/default.jpg"
   },
   {
     "id": 192,
@@ -8061,7 +8061,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9359/full/800,/0/default.jpg",
     "description": "Crompton's geometric sampler transforms traditional needlework pedagogy into modernist pattern-making. The radiating composition demonstrates systematic color relationships while teaching technical stitching skills through abstracted forms rather than naturalistic motifs.",
     "significance": "Shows how craft traditions adapted modernist visual language while maintaining their educational function. Demonstrates the intersection of pedagogy, pattern, and modernist reduction in domestic craft practice.",
     "connections": [
@@ -8095,7 +8094,8 @@ export const ARCHIVE = [
       "systematic composition",
       "domestic craft",
       "modernist reduction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MG9359/full/800,/0/default.jpg"
   },
   {
     "id": 193,
@@ -8108,7 +8108,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Haute Couture",
     "wikiTitle": "Charles Frederick Worth",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6114/full/800,/0/default.jpg",
     "description": "Worth's evening dress establishes couture's industrial logic through systematic construction methods and seasonal collections. The structured silhouette demonstrates how luxury fashion adopted manufacturing principles while maintaining handcraft finishes.",
     "significance": "Foundational to understanding fashion as designed system rather than individual craft. Shows how luxury production industrialized while preserving artisanal status through branding and seasonal renewal.",
     "connections": [
@@ -8142,7 +8141,8 @@ export const ARCHIVE = [
       "fashion branding",
       "artisanal manufacturing",
       "systematic tailoring"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6114/full/800,/0/default.jpg"
   },
   {
     "id": 194,
@@ -8155,7 +8155,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Ready-to-wear Fashion",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN5147/full/800,/0/default.jpg",
     "description": "Berketex's wedding dress democratizes bridal fashion through standardized sizing and simplified construction. The design eliminates couture's bespoke fitting in favor of ready-to-wear efficiency while maintaining ceremonial formality through volume and material choice.",
     "significance": "Demonstrates fashion's shift from craft-based to industrial production systems. Shows how standardization enables access while requiring new approaches to ceremonial significance through design rather than exclusivity.",
     "connections": [
@@ -8189,7 +8188,8 @@ export const ARCHIVE = [
       "ceremonial design",
       "simplified construction",
       "accessible formality"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EN5147/full/800,/0/default.jpg"
   },
   {
     "id": 195,
@@ -8202,7 +8202,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Fashion",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NX0632/full/800,/0/default.jpg",
     "description": "Cadwallader's costume for Dua Lipa uses digital fabrication to create impossible geometries that exist only in performance. The garment's structure emerges from parametric design software, producing forms that traditional tailoring cannot achieve. Its surface treatment reflects light through embedded LED matrices, making the body itself a display medium.",
     "significance": "Shows how digital tools fundamentally change what clothing can be — not just decoration but active interface. Demonstrates how performance costume pushes material boundaries that eventually filter into everyday design. Essential for understanding how digital fabrication creates new formal vocabularies.",
     "connections": [
@@ -8236,7 +8235,8 @@ export const ARCHIVE = [
       "light",
       "digital fashion",
       "interface"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NX0632/full/800,/0/default.jpg"
   },
   {
     "id": 196,
@@ -8249,7 +8249,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Performance Stagecraft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6993/full/800,/0/default.jpg",
     "description": "Jowett's costume uses retroreflective tape applied in precise patterns to make Martin visible across stadium distances. The tape's microsphere technology returns light directly to its source, creating intense visibility under stage lighting. The geometric application turns functional necessity into decorative system, making the performer a human light fixture.",
     "significance": "Demonstrates how technical requirements drive aesthetic innovation in performance design. Shows the crossover between industrial safety materials and creative application. Important for understanding how visibility and recognition function in mass media contexts.",
     "connections": [
@@ -8283,7 +8282,8 @@ export const ARCHIVE = [
       "geometric pattern",
       "stadium design",
       "recognition"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6993/full/800,/0/default.jpg"
   },
   {
     "id": 197,
@@ -8296,7 +8296,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Deco Modernism",
     "wikiTitle": "Eileen Gray",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8092/full/800,/0/default.jpg",
     "description": "Gray's chair uses bent tubular steel to create a continuous line from armrest through seat support to base. The upholstery is suspended within the steel frame rather than applied to it, creating a hammock-like seating surface. The design emerges from ship furniture constraints — it must be lightweight, stackable, and resistant to sea motion.",
     "significance": "Pioneers the use of industrial materials in luxury contexts, predating and influencing Bauhaus steel furniture. Shows how transportation design requirements can generate new domestic typologies. Essential for understanding how functional constraints drive formal innovation.",
     "connections": [
@@ -8330,7 +8329,8 @@ export const ARCHIVE = [
       "transport design",
       "hammock principle",
       "stackable"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8092/full/800,/0/default.jpg"
   },
   {
     "id": 198,
@@ -8343,7 +8343,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Late Modernism",
     "wikiTitle": "Eileen Gray",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JY5695/full/800,/0/default.jpg",
     "description": "Gray bends a single length of tubular steel into a continuous S-curve that functions as both structure and seat. The tube diameter and bend radii are calculated to provide spring action under load while maintaining structural integrity. No joints or welds interrupt the flow, making the chair a single continuous element that can be mass-produced from one piece of material.",
     "significance": "Demonstrates advanced understanding of material behavior in structural design — the steel tube works as both frame and spring. Shows how reduction to essential elements can create more complex performance. Important for understanding how industrial processes enable new formal possibilities.",
     "connections": [
@@ -8377,7 +8376,8 @@ export const ARCHIVE = [
       "mass production",
       "material behavior",
       "reduction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JY5695/full/800,/0/default.jpg"
   },
   {
     "id": 199,
@@ -8390,7 +8390,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modernist Documentation",
     "wikiTitle": "Eileen Gray",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6807/full/800,/0/default.jpg",
     "description": "Gray's technical drawing shows the Transatlantique chair through orthographic projection, revealing the precise geometry required for bent steel tube construction. The drawing includes bend radii, tube dimensions, and upholstery attachment points — information essential for manufacturing. Unlike architectural drawings, it focuses on material behavior and production constraints rather than spatial relationships.",
     "significance": "Shows how designers communicated complex material requirements before CAD systems. Demonstrates the relationship between drawing conventions and manufacturing processes. Essential for understanding how technical representation enables industrial production.",
     "connections": [
@@ -8424,7 +8423,8 @@ export const ARCHIVE = [
       "industrial communication",
       "material requirements",
       "precision"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6807/full/800,/0/default.jpg"
   },
   {
     "id": 200,
@@ -8437,7 +8437,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Deco",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6688/full/800,/0/default.jpg",
     "description": "Gray's geometric carpet design employs a strict grid of interlocking rectangles that function as both decorative pattern and spatial organizer. The design logic transforms the carpet from mere surface ornament into an architectural element that defines zones within a room through visual weight distribution. Each geometric unit maintains individual clarity while contributing to a larger systematic rhythm.",
     "significance": "This design demonstrates how modernist reduction can create complexity through systematic repetition rather than ornamental accumulation. Students learn how geometric abstraction in applied arts prefigured digital design's modular thinking, showing pattern as programmable logic rather than decorative afterthought.",
     "connections": [
@@ -8471,7 +8470,8 @@ export const ARCHIVE = [
       "Art Deco",
       "carpet design",
       "systematic repetition"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6688/full/800,/0/default.jpg"
   },
   {
     "id": 201,
@@ -8484,7 +8484,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Deco",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY6438/full/800,/0/default.jpg",
     "description": "This carpet design demonstrates Gray's evolution from geometric rigidity toward organic abstraction, using overlapping circular forms that create visual depth through transparency effects. The circles operate as both individual elements and parts of larger compositional relationships, suggesting movement through static geometry. The design logic prioritizes visual flow over pattern repetition.",
     "significance": "Students see how a designer develops their formal language — Gray's progression from grid-based to circular compositions shows design thinking as iterative evolution rather than stylistic jumping. The transparency effects anticipate digital design's layering capabilities, demonstrating how analog techniques prefigured screen-based composition methods.",
     "connections": [
@@ -8518,7 +8517,8 @@ export const ARCHIVE = [
       "Art Deco evolution",
       "non-repeating pattern",
       "depth illusion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY6438/full/800,/0/default.jpg"
   },
   {
     "id": 202,
@@ -8531,7 +8531,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Late Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6670/full/800,/0/default.jpg",
     "description": "Gray's articulated chair design proposes a modular seating system where individual elements can be reconfigured according to user needs and spatial constraints. The design logic treats the chair not as a fixed object but as a kit of parts that users assemble and modify. Each component maintains its structural integrity while participating in multiple possible configurations.",
     "significance": "This design anticipates contemporary modular furniture and user-centered design thinking by forty years. Students learn how Gray's systematic approach to furniture components prefigures today's flat-pack and customizable furniture, showing modernism's potential for flexibility rather than dogmatic standardization.",
     "connections": [
@@ -8565,7 +8564,8 @@ export const ARCHIVE = [
       "systematic thinking",
       "Late Modernism",
       "reconfigurable"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6670/full/800,/0/default.jpg"
   },
   {
     "id": 203,
@@ -8578,7 +8578,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Late Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6801/full/800,/0/default.jpg",
     "description": "This geometric study demonstrates Gray's investigation of pure form relationships, using intersecting linear elements to create spatial depth without perspective. The composition operates through systematic logic where each line's placement affects the overall visual structure. Gray treats the drawing as both aesthetic object and research tool for understanding geometric relationships.",
     "significance": "Students see how designers use drawing as thinking tool rather than just presentation medium. Gray's systematic investigation of geometric relationships shows design research in action, demonstrating how formal studies inform practical applications across different media and scales.",
     "connections": [
@@ -8612,7 +8611,8 @@ export const ARCHIVE = [
       "spatial depth",
       "drawing as thinking",
       "abstract geometry"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6801/full/800,/0/default.jpg"
   },
   {
     "id": 204,
@@ -8625,7 +8625,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "International Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6613/full/800,/0/default.jpg",
     "description": "Gray's metal frame chair design employs tubular steel construction with cantilevered support, demonstrating her engagement with International Style structural innovations. The design logic emphasizes material honesty — the steel frame provides both structural support and visual lightness while the seat and back components attach without concealing the frame's logic. The cantilever principle eliminates rear legs for spatial efficiency.",
     "significance": "This chair shows Gray's dialogue with Bauhaus innovations while maintaining her distinctive approach to comfort and proportion. Students learn how designers adapt shared technological possibilities — tubular steel, cantilever engineering — while developing individual formal languages, demonstrating modernism as conversation rather than monolith.",
     "connections": [
@@ -8659,7 +8658,8 @@ export const ARCHIVE = [
       "spatial lightness",
       "modern materials",
       "systematic construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6613/full/800,/0/default.jpg"
   },
   {
     "id": 205,
@@ -8672,7 +8672,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modernism",
     "wikiTitle": "Charlotte Perriand",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB1583/full/800,/0/default.jpg",
     "description": "A tubular steel swivel armchair that reduces the support mechanism to its functional essence. The continuous steel frame eliminates distinction between structure and ornament, while the pivoting base transforms the static chair into a dynamic response to modern work patterns. The leather seat and back are suspended within the frame rather than applied to it.",
     "significance": "Shows how industrial materials could redefine furniture typologies rather than simply replacing traditional materials. Demonstrates the modernist principle that new production methods should generate new forms, not imitate old ones in different materials.",
     "connections": [
@@ -8701,7 +8700,8 @@ export const ARCHIVE = [
       "structural clarity",
       "functional geometry",
       "workplace design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB1583/full/800,/0/default.jpg"
   },
   {
     "id": 206,
@@ -8714,7 +8714,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Modernism",
     "wikiTitle": "Sori Yanagi",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JL5230/full/800,/0/default.jpg",
     "description": "Two identical curved plywood shells joined only at their touching edges, creating a seat through tension rather than traditional joinery. The organic curves distribute the user's weight across the plywood's grain structure while the central gap provides visual and physical lightness. The form emerges from plywood's natural bending properties rather than imposed geometric constraints.",
     "significance": "Demonstrates how traditional Japanese material sensitivity could inform modern production methods. Shows students that modernist reduction doesn't require geometric abstraction - organic forms can achieve equal structural and visual efficiency while maintaining cultural resonance.",
     "connections": [
@@ -8748,7 +8747,8 @@ export const ARCHIVE = [
       "minimal joinery",
       "natural curves",
       "cultural modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JL5230/full/800,/0/default.jpg"
   },
   {
     "id": 207,
@@ -8761,7 +8761,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Postmodernism",
     "wikiTitle": "Shiro Kuramata",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP7890/full/800,/0/default.jpg",
     "description": "A transparent acrylic cabinet that dissolves the boundary between interior and exterior, making stored objects appear to float in space. The clear construction eliminates visual hierarchy between container and contents, while the precision joints reveal industrial fabrication methods. The cabinet's transparency transforms display into spatial arrangement rather than protective storage.",
     "significance": "Shows how Japanese designers reinterpreted postmodern concerns through material innovation rather than symbolic reference. Demonstrates that questioning modernist functionality doesn't require decorative excess - transparency and dematerialization can be equally radical strategies.",
     "connections": [
@@ -8795,7 +8794,8 @@ export const ARCHIVE = [
       "material innovation",
       "invisible structure",
       "poetic functionalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP7890/full/800,/0/default.jpg"
   },
   {
     "id": 208,
@@ -8808,7 +8808,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Postmodernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7451/full/800,/0/default.jpg",
     "description": "This armchair consists of expanded steel mesh welded into a traditional club chair form, creating a paradox where industrial material assumes domestic comfort. The mesh appears to dematerialise the chair's volume while maintaining its structural integrity. Kuramata's technique dissolves the boundary between object and space, making the chair simultaneously present and absent.",
     "significance": "Students learn how material choice can fundamentally alter an object's relationship to space and perception. This demonstrates how postmodern designers questioned modernist assumptions about material honesty by using industrial materials to create poetic rather than functional effects.",
     "connections": [
@@ -8842,7 +8841,8 @@ export const ARCHIVE = [
       "industrial materials",
       "club chair typology",
       "Japanese design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7451/full/800,/0/default.jpg"
   },
   {
     "id": 209,
@@ -8855,7 +8855,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Radical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5472/full/800,/0/default.jpg",
     "description": "These drawers abandon orthogonal geometry for curved, organic forms that seem to bulge and contract like living tissue. Each drawer operates independently with no visible hardware, creating the illusion that they emerge from and disappear into the cabinet body. The piece functions as storage while questioning the rational organisation principles that typically govern furniture.",
     "significance": "Students see how radical designers challenged the modernist equation of function with geometric rationality. This piece demonstrates how furniture can maintain utility while completely rejecting the visual language of efficiency and order.",
     "connections": [
@@ -8889,7 +8888,8 @@ export const ARCHIVE = [
       "Japanese modernism",
       "1970s counterculture",
       "furniture as sculpture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5472/full/800,/0/default.jpg"
   },
   {
     "id": 210,
@@ -8902,7 +8902,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Neoclassical",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BU2163/full/800,/0/default.jpg",
     "description": "This gold snuffbox employs engine-turned decoration and precise hinged mechanisms typical of imperial Vienna's luxury crafts. The surface patterns are created through mechanical engraving that produces geometrically perfect repetitive motifs. The object demonstrates how industrial precision tools were applied to luxury goods before mass production.",
     "significance": "Students understand how mechanised decoration preceded industrial design, showing that the marriage of machine precision with luxury objects established aesthetic principles later adopted by modernist designers. This reveals the deep historical roots of machine aesthetics.",
     "connections": [
@@ -8931,7 +8930,8 @@ export const ARCHIVE = [
       "neoclassical",
       "Vienna",
       "machine aesthetics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BU2163/full/800,/0/default.jpg"
   },
   {
     "id": 211,
@@ -8944,7 +8944,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Rococo",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL7621/full/800,/0/default.jpg",
     "description": "This commode uses exotic wood veneering and ormolu bronze mounts to create a piece that prioritises visual richness over structural honesty. The curved form follows rococo aesthetic principles while concealing the underlying construction. Complex joinery techniques allow the decorative veneer to appear continuous across the undulating surface.",
     "significance": "Students see how pre-industrial luxury furniture solved the storage problem through ornamental excess rather than functional expression. This provides essential context for understanding why modernist designers later rejected such decorative approaches in favour of structural honesty.",
     "connections": [
@@ -8973,7 +8972,8 @@ export const ARCHIVE = [
       "French cabinetmaking",
       "decorative excess",
       "traditional craft"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL7621/full/800,/0/default.jpg"
   },
   {
     "id": 212,
@@ -8986,7 +8986,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT8207/full/800,/0/default.jpg",
     "description": "A repeat pattern design that demonstrates systematic thinking about textile production. The geometric motifs are arranged to create seamless continuity when printed on fabric, requiring mathematical precision in spacing and alignment. The drawing method shows how designers translate individual marks into industrial reproducibility.",
     "significance": "Reveals the design process behind mass-produced textiles — how hand-drawn concepts become mechanical repeats. Shows students the relationship between artistic expression and manufacturing constraints.",
     "connections": [
@@ -9020,7 +9019,8 @@ export const ARCHIVE = [
       "systematic design",
       "printing",
       "pattern"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT8207/full/800,/0/default.jpg"
   },
   {
     "id": 213,
@@ -9033,7 +9033,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Postmodern Textile",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF0595/full/800,/0/default.jpg",
     "description": "A furnishing fabric that uses digital technology to create patterns impossible through traditional weaving methods. The design exploits computer-controlled printing to layer transparent effects and complex color gradations. The 'tracer' name references both the visual effect and the technological process that enables it.",
     "significance": "Demonstrates how digital tools expand design possibilities beyond mechanical constraints. Shows students how technology creates new aesthetic territories while maintaining functional requirements like durability and washability.",
     "connections": [
@@ -9067,7 +9066,8 @@ export const ARCHIVE = [
       "1990s design",
       "layering",
       "gradation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF0595/full/800,/0/default.jpg"
   },
   {
     "id": 214,
@@ -9080,7 +9080,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Pop",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MF5576/full/800,/0/default.jpg",
     "description": "A fabric pattern that applies Pop Art sensibilities to domestic textiles. The design uses bold, simplified forms and high-contrast colors that remain readable when printed on fabric and viewed from various distances. The motifs are scaled to work effectively on both small accessories and large furnishing applications.",
     "significance": "Shows how Pop Art principles translate to functional objects — bold graphics that work at domestic scales. Teaches students about designing across multiple applications while maintaining visual coherence.",
     "connections": [
@@ -9114,7 +9113,8 @@ export const ARCHIVE = [
       "British design",
       "high contrast",
       "scalability"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MF5576/full/800,/0/default.jpg"
   },
   {
     "id": 215,
@@ -9127,7 +9127,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Orientalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG8696/full/800,/0/default.jpg",
     "description": "A carpet design that commodifies colonial imagery for British domestic consumption during the Indian Rebellion. The pattern transforms military conflict into decorative motifs, using traditional carpet-making techniques to reproduce orientalist fantasies. The Halifax manufacturer adapts Eastern visual languages to Western production methods and market demands.",
     "significance": "Reveals how design participates in colonial ideology — transforming political domination into consumable decoration. Shows students how manufacturers adapt foreign visual cultures to domestic markets, raising questions about cultural appropriation and representation.",
     "connections": [
@@ -9161,7 +9160,8 @@ export const ARCHIVE = [
       "cultural appropriation",
       "Halifax manufacturing",
       "imperial decoration"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG8696/full/800,/0/default.jpg"
   },
   {
     "id": 216,
@@ -9174,7 +9174,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Orientalism",
     "wikiTitle": "Owen Jones (architect)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AP3540/full/800,/0/default.jpg",
     "description": "Jones abstracts Islamic geometric patterns into modular tile designs that could be manufactured using industrial printing methods. The drawings systematise complex ornamental systems into repeatable units, translating hand-crafted tradition into mechanised production. Each design demonstrates how mathematical principles underlying Islamic art could be adapted for Victorian commercial decoration.",
     "significance": "Shows how 19th-century designers appropriated and systematised non-Western design languages for industrial production. Students learn how pattern design bridges cultural analysis and manufacturing constraints, and how geometric abstraction enables mass reproduction of complex ornamental systems.",
     "connections": [
@@ -9208,7 +9207,8 @@ export const ARCHIVE = [
       "modular repetition",
       "cultural appropriation",
       "manufacturing translation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AP3540/full/800,/0/default.jpg"
   },
   {
     "id": 217,
@@ -9221,7 +9221,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Orientalism",
     "wikiTitle": "Owen Jones (architect)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EH9476/full/800,/0/default.jpg",
     "description": "Jones develops interlocking geometric motifs derived from Moorish sources, creating patterns that work both as individual tiles and continuous surfaces. The design demonstrates how complex Islamic geometries can be broken down into manufacturable components while maintaining their mathematical logic. Each element contains the information needed to generate infinite extension.",
     "significance": "Demonstrates how design research into historical precedents gets translated into commercial products. Students see how pattern design requires understanding both source material and production constraints, and how modular thinking enables scalable decoration systems.",
     "connections": [
@@ -9255,7 +9254,8 @@ export const ARCHIVE = [
       "systematic repetition",
       "decorative industrialisation",
       "architectural ornament"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EH9476/full/800,/0/default.jpg"
   },
   {
     "id": 218,
@@ -9268,7 +9268,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Orientalism",
     "wikiTitle": "Owen Jones (architect)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016HY8666/full/800,/0/default.jpg",
     "description": "Jones orchestrates individual tile patterns into large-scale pavement compositions, demonstrating how modular elements create architectural environments. The design shows Islamic geometric principles operating at multiple scales - from individual tile to room-sized installation. Colour coding indicates different tile types and their placement logic within the overall system.",
     "significance": "Shows how pattern design scales from product to architecture, requiring designers to think systematically about part-to-whole relationships. Students learn how modular systems enable both standardisation and variation, and how historical research informs contemporary spatial design.",
     "connections": [
@@ -9302,7 +9301,8 @@ export const ARCHIVE = [
       "systematic colour",
       "ornamental scaling",
       "environmental design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016HY8666/full/800,/0/default.jpg"
   },
   {
     "id": 219,
@@ -9315,7 +9315,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": "Robin Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH5485/full/800,/0/default.jpg",
     "description": "Day develops his earlier polypropylene chair research into an armchair variant, demonstrating how a single material and forming process can generate multiple furniture typologies. The injection-moulded shell integrates seat, back, and armrests into one structural element, eliminating joints and reducing manufacturing complexity. The design proves polypropylene's versatility beyond basic seating.",
     "significance": "Shows how material research drives design development and product family thinking. Students learn how a single technological breakthrough enables systematic exploration of formal and functional variations, and how industrial processes shape design possibilities.",
     "connections": [
@@ -9349,7 +9348,8 @@ export const ARCHIVE = [
       "industrial manufacture",
       "integrated construction",
       "synthetic materials"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH5485/full/800,/0/default.jpg"
   },
   {
     "id": 220,
@@ -9362,7 +9362,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": "Robin Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT1231/full/800,/0/default.jpg",
     "description": "Day pioneers the use of polypropylene for furniture, creating the first successful injection-moulded plastic chair. The single-shell construction eliminates traditional joinery, with the material's flexibility providing structural resilience. The design exploits polypropylene's ability to be moulded into complex curves while maintaining strength, creating a chair that is both lightweight and durable.",
     "significance": "Demonstrates how new materials enable new design possibilities and manufacturing methods. Students learn how material properties directly influence form and construction logic, and how breakthrough designs often result from matching innovative materials with appropriate manufacturing processes.",
     "connections": [
@@ -9396,7 +9395,8 @@ export const ARCHIVE = [
       "manufacturing revolution",
       "lightweight design",
       "structural flexibility"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT1231/full/800,/0/default.jpg"
   },
   {
     "id": 221,
@@ -9409,7 +9409,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ3247/full/800,/0/default.jpg",
     "description": "Day's stacking chair uses bent plywood construction with a continuous seat-back form, demonstrating how British makers adapted Scandinavian plywood techniques for institutional use. The chair's geometry prioritizes storage efficiency—its tapered profile allows multiple units to nest compactly. The design proves that functional stacking doesn't require sacrificing the flowing lines of organic modernism.",
     "significance": "Shows students how constraint-driven design (the stacking requirement) can generate formal innovation rather than compromise it. Demonstrates the British approach to democratizing Scandinavian modernism through institutional furniture.",
     "connections": [
@@ -9443,7 +9442,8 @@ export const ARCHIVE = [
       "bent wood",
       "modular",
       "efficiency"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ3247/full/800,/0/default.jpg"
   },
   {
     "id": 222,
@@ -9456,7 +9456,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Consumer Electronics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5001/full/800,/0/default.jpg",
     "description": "Day's television cabinet transforms the domestic TV from technical appliance to furniture object through careful proportioning and material choice. The wooden case uses traditional joinery methods to domesticate new electronic technology. The design deliberately emphasizes the screen as window rather than highlighting the technical apparatus, making television viewing feel like looking through furniture rather than at machinery.",
     "significance": "Teaches students how designers mediate between new technology and existing domestic culture. Shows the importance of casing design in making radical technologies socially acceptable through familiar material languages.",
     "connections": [
@@ -9490,7 +9489,8 @@ export const ARCHIVE = [
       "British design",
       "domestic technology",
       "mediation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5001/full/800,/0/default.jpg"
   },
   {
     "id": 223,
@@ -9503,7 +9503,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Consumer Electronics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5003/full/800,/0/default.jpg",
     "description": "Day's portable radio uses clean geometric forms and restrained detailing that align with 1960s functionalist aesthetics while maintaining accessibility. The control layout prioritizes intuitive operation over technical display. Unlike German functionalism, Day's approach retains warmth through material choice and proportioning, making modern design principles palatable to British consumers who remained skeptical of stark minimalism.",
     "significance": "Demonstrates how designers adapt international modernist principles to local market preferences. Shows students the difference between ideological functionalism and commercial functionalism—both modern, but serving different cultural purposes.",
     "connections": [
@@ -9537,7 +9536,8 @@ export const ARCHIVE = [
       "transistor technology",
       "accessibility",
       "modernist adaptation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5003/full/800,/0/default.jpg"
   },
   {
     "id": 224,
@@ -9550,7 +9550,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5000/full/800,/0/default.jpg",
     "description": "Day's modular storage system uses standardized components that combine into multiple configurations, addressing post-war housing's demand for flexible, space-efficient furniture. The design employs industrial materials and construction methods to achieve economy while maintaining clean modernist aesthetics. Each component serves multiple functions—shelves become room dividers, units stack or extend horizontally—demonstrating systematic thinking applied to domestic storage.",
     "significance": "Shows students how social conditions (housing shortage, changing lifestyles) drive design innovation. Demonstrates early application of systems thinking to furniture—predating but paralleling German approaches like Rams' 606 system.",
     "connections": [
@@ -9584,7 +9583,8 @@ export const ARCHIVE = [
       "standardization",
       "space efficiency",
       "room dividers"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5000/full/800,/0/default.jpg"
   },
   {
     "id": 225,
@@ -9597,7 +9597,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Textile Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MB1799/full/800,/0/default.jpg",
     "description": "Day's carpet pattern uses controlled geometric abstraction with organic influences, balancing modernist principles with domestic warmth. The design employs a limited color palette and systematic repetition that creates visual rhythm without overwhelming interior spaces. Unlike purely geometric patterns, Leo's forms suggest natural growth while maintaining the clarity required for machine production.",
     "significance": "Shows students how modernist abstraction translates to textiles—requiring different formal strategies than furniture or product design. Demonstrates the British approach to pattern-making that mediates between continental geometric severity and traditional floral decoration.",
     "connections": [
@@ -9631,7 +9630,8 @@ export const ARCHIVE = [
       "organic geometry",
       "domestic modernism",
       "machine production"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MB1799/full/800,/0/default.jpg"
   },
   {
     "id": 226,
@@ -9644,7 +9644,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2521/full/800,/0/default.jpg",
     "description": "A steel rod chair with upholstered seat and back, demonstrating how minimal structural frames can support comfort elements. The chrome-plated steel rod construction creates a continuous loop that eliminates the need for separate back legs, reducing material while maintaining stability. Day's design applies industrial wire-forming techniques to furniture, creating a chair that stacks efficiently for contract use.",
     "significance": "Shows how post-war British designers adapted continental modernist principles to domestic manufacturing capabilities and market needs. Demonstrates the shift from craft-based furniture making to industrial production methods that could compete with Scandinavian and Italian imports.",
     "connections": [
@@ -9678,7 +9677,8 @@ export const ARCHIVE = [
       "British modernism",
       "efficiency",
       "mass production"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2521/full/800,/0/default.jpg"
   },
   {
     "id": 227,
@@ -9691,7 +9691,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5002/full/800,/0/default.jpg",
     "description": "A geometric carpet pattern using interlocking circular forms that create optical depth through overlapping relationships. The design employs a limited color palette to emphasize the mathematical precision of the circular geometry rather than decorative surface effects. Day translates his furniture design principles of structural clarity into textile patterning, treating the carpet as an architectural element that organizes space through repetitive geometry.",
     "significance": "Demonstrates how modernist designers extended systematic design thinking from furniture to textiles, treating pattern as a spatial organizing principle rather than mere decoration. Shows the influence of Op Art and kinetic design on domestic objects in 1960s Britain.",
     "connections": [
@@ -9725,7 +9724,8 @@ export const ARCHIVE = [
       "spatial organization",
       "repetitive structure",
       "architectural"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL5002/full/800,/0/default.jpg"
   },
   {
     "id": 228,
@@ -9738,7 +9738,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2520/full/800,/0/default.jpg",
     "description": "An early geometric carpet design featuring angular interlocking shapes in muted colors, demonstrating Day's transition from organic post-war patterns to systematic geometric abstraction. The design uses overlapping triangular and diamond forms to create visual depth while maintaining the flat plane essential for carpet function. This represents Day's application of Bauhaus geometric principles to British textile production.",
     "significance": "Documents the evolution of British design from Arts and Crafts romanticism toward Continental modernist abstraction in the 1950s. Shows how designers adapted systematic geometric thinking for domestic markets while maintaining commercial viability.",
     "connections": [
@@ -9772,7 +9771,8 @@ export const ARCHIVE = [
       "Bauhaus influence",
       "overlapping shapes",
       "domestic modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2520/full/800,/0/default.jpg"
   },
   {
     "id": 229,
@@ -9785,7 +9785,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GD3736/full/800,/0/default.jpg",
     "description": "A dual-function seating and sleeping unit with a mechanical transformation system that converts from sofa to bed through folding components. The steel frame and foam cushioning demonstrate Day's application of industrial materials and mechanisms to domestic furniture problems. The design addresses post-war housing shortages by maximizing functional density in minimal living spaces through engineered transformation rather than stylistic compromise.",
     "significance": "Represents the British modernist response to housing crisis through functional innovation rather than aesthetic reduction. Shows how designers used mechanical engineering principles to solve social problems, influencing later space-saving furniture systems.",
     "connections": [
@@ -9819,7 +9818,8 @@ export const ARCHIVE = [
       "industrial materials",
       "folding mechanism",
       "post-war innovation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GD3736/full/800,/0/default.jpg"
   },
   {
     "id": 230,
@@ -9832,7 +9832,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Textile Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LH9731/full/800,/0/default.jpg",
     "description": "A linen glass towel featuring abstract geometric patterns that demonstrate Lucienne Day's translation of fine art abstraction into functional domestic textiles. The design uses contrasting light and dark areas to create visual rhythm while maintaining the flat weave structure essential for glass polishing function. Day's pattern integrates aesthetic sophistication with practical performance, elevating utilitarian objects through systematic design thinking.",
     "significance": "Exemplifies the British approach to democratizing modern design through everyday objects, showing how abstract art principles could enhance rather than compromise functional performance. Influenced the integration of fine art sensibilities into mass-produced domestic goods.",
     "connections": [
@@ -9866,7 +9865,8 @@ export const ARCHIVE = [
       "rhythm",
       "systematic design",
       "British textile"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LH9731/full/800,/0/default.jpg"
   },
   {
     "id": 231,
@@ -9879,7 +9879,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FT6855/full/800,/0/default.jpg",
     "description": "Cast aluminum frame with plywood seat and back, designed for mass production using aircraft industry materials surplus from wartime. The structural logic separates frame from seating surface, allowing efficient manufacturing and material economy. Perforated back provides flex and visual lightness while maintaining structural integrity.",
     "significance": "Shows how post-war designers transformed military-industrial materials into civilian furniture. Demonstrates the shift from craft to industrial production methods in British modernism. Essential for understanding how material constraints drive formal innovation.",
     "connections": [
@@ -9913,7 +9912,8 @@ export const ARCHIVE = [
       "material economy",
       "industrial modernism",
       "British design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FT6855/full/800,/0/default.jpg"
   },
   {
     "id": 232,
@@ -9926,7 +9926,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8528/full/800,/0/default.jpg",
     "description": "Dining armchair version of the BA3 using identical aluminum casting technology but with enclosed armrests. The frame geometry accommodates arm support while maintaining the same manufacturing efficiencies. Spring-mounted seat provides comfort within the industrial aesthetic.",
     "significance": "Demonstrates how a single manufacturing system can generate multiple typologies. Shows Race's systematic approach to furniture families based on shared production methods. Illustrates the post-war ideal of rational design extending across product ranges.",
     "connections": [
@@ -9960,7 +9959,8 @@ export const ARCHIVE = [
       "post-war materials",
       "industrial construction",
       "furniture families"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8528/full/800,/0/default.jpg"
   },
   {
     "id": 233,
@@ -9973,7 +9973,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0499/full/800,/0/default.jpg",
     "description": "Steel rod construction with ball feet creates a skeletal frame supporting molded plywood seat and back. The thin profile maximizes seating density for outdoor events while the tapering legs suggest organic movement. Designed specifically for the Festival of Britain's temporary architecture.",
     "significance": "Epitomizes the Festival of Britain's optimistic modernism and new British identity. Shows how event-specific design requirements can produce lasting formal innovations. Demonstrates the transition from wartime utility to celebratory design language.",
     "connections": [
@@ -10007,7 +10006,8 @@ export const ARCHIVE = [
       "skeletal structure",
       "event furniture",
       "British optimism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0499/full/800,/0/default.jpg"
   },
   {
     "id": 234,
@@ -10020,7 +10020,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX2325/full/800,/0/default.jpg",
     "description": "Rocking chair with laminated wood construction and continuous curved profile. The single-piece back and seat shell rocks on a separate base frame, isolating the rocking mechanism from the seating surface. Upholstery provides comfort while the wood structure remains visible.",
     "significance": "Shows Race's expansion beyond metal into wood construction while maintaining industrial production methods. Demonstrates how traditional furniture typologies can be reimagined through modernist structural logic. Represents the domestication of modernist principles in British homes.",
     "connections": [
@@ -10054,7 +10053,8 @@ export const ARCHIVE = [
       "upholstery integration",
       "British furniture",
       "wood construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX2325/full/800,/0/default.jpg"
   },
   {
     "id": 235,
@@ -10067,7 +10067,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Reconstruction Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HN9586/full/800,/0/default.jpg",
     "description": "Cast aluminium frame with plywood seat demonstrates Race's solution to post-war material shortages. The one-piece cast frame eliminates complex joinery while the thin plywood seat provides comfort through flex. Aluminium's structural properties allow minimal thickness while maintaining strength.",
     "significance": "Shows how material constraints drive formal innovation. Race's casting technique created a new vocabulary for British furniture that balanced industrial efficiency with human comfort. Essential for understanding how wartime technologies transferred to civilian design.",
     "connections": [
@@ -10101,7 +10100,8 @@ export const ARCHIVE = [
       "structural efficiency",
       "British modernism",
       "wartime innovation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HN9586/full/800,/0/default.jpg"
   },
   {
     "id": 236,
@@ -10114,7 +10114,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Late Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA4724/full/800,/0/default.jpg",
     "description": "Injection-molded polystyrene shell demonstrates Race's adaptation to plastics technology in the 1960s. The single-material construction eliminates joints and finishing processes while the sculptural form exploits plastic's molding capabilities. Stackable geometry addresses contract furniture needs.",
     "significance": "Represents the transition from craft-based to fully industrial furniture production. Race's understanding of how each material demands its own formal language shows why some designers successfully navigated technological change while others didn't. Critical for understanding 1960s plastic furniture development.",
     "connections": [
@@ -10148,7 +10147,8 @@ export const ARCHIVE = [
       "industrial production",
       "material transition",
       "British modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA4724/full/800,/0/default.jpg"
   },
   {
     "id": 237,
@@ -10161,7 +10161,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Functionalism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0469/full/800,/0/default.jpg",
     "description": "Aluminum folding mechanism with canvas seat creates portable seating through precise engineering. The scissor-action frame locks into position while distributing weight through triangulated geometry. Canvas provides comfort while folding flat for storage and transport.",
     "significance": "Demonstrates how functional requirements can generate elegant mechanical solutions. Race's engineering background shows in the precise tolerances needed for smooth folding action. Essential for understanding how portable furniture addressed changing lifestyle patterns in the 1960s.",
     "connections": [
@@ -10195,7 +10194,8 @@ export const ARCHIVE = [
       "triangulated structure",
       "functional design",
       "British engineering"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0469/full/800,/0/default.jpg"
   },
   {
     "id": 238,
@@ -10208,7 +10208,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Domestic Modernism",
     "wikiTitle": "Ernest Race",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7441/full/800,/0/default.jpg",
     "description": "Rotating cylindrical cabinet conceals and reveals bottle storage through mechanical rotation. The timber construction uses precise joinery while the circular plan maximizes storage efficiency. Internal fittings secure bottles during rotation while maintaining easy access.",
     "significance": "Shows how mechanical ingenuity can solve domestic storage problems while creating architectural presence. Race's engineering approach to furniture demonstrates how functional requirements can drive formal innovation. Important for understanding how modernist designers addressed lifestyle changes.",
     "connections": [
@@ -10242,7 +10241,8 @@ export const ARCHIVE = [
       "timber construction",
       "functional innovation",
       "British design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7441/full/800,/0/default.jpg"
   },
   {
     "id": 239,
@@ -10255,7 +10255,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Illustration",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM1967/full/800,/0/default.jpg",
     "description": "Line drawing depicts figures navigating barriers through dynamic composition and gestural mark-making. The illustration uses cross-hatching and contour lines to suggest movement and spatial depth. Sequential narrative elements guide the viewer's eye through the obstacle course.",
     "significance": "Represents the transition from static Victorian illustration to dynamic visual storytelling that would influence modern graphic design. Thompson's economical line work shows how minimal means can convey complex action. Essential for understanding how illustration techniques evolved into information design.",
     "connections": [
@@ -10289,7 +10288,8 @@ export const ARCHIVE = [
       "spatial depth",
       "obstacle course",
       "dynamic composition"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM1967/full/800,/0/default.jpg"
   },
   {
     "id": 240,
@@ -10302,7 +10302,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Documentary Photography",
     "wikiTitle": "Ernest Cole",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY9325/full/800,/0/default.jpg",
     "description": "Cole's documentary photograph captures the systemic overcrowding of apartheid-era South African schools through precise framing that transforms architectural inadequacy into political evidence. The image's power emerges from its formal restraint — no editorial flourishes, just the brutal arithmetic of too many bodies in too small a space. The photograph functions as both documentation and indictment, using the camera's supposed objectivity to expose institutional violence.",
     "significance": "Students learn how graphic design can serve social justice through strategic deployment of documentary aesthetics. The work demonstrates that the most powerful political graphics often emerge from systematic observation rather than symbolic manipulation.",
     "connections": [
@@ -10330,7 +10329,8 @@ export const ARCHIVE = [
       "systematic observation",
       "architectural inadequacy",
       "political evidence"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY9325/full/800,/0/default.jpg"
   },
   {
     "id": 241,
@@ -10343,7 +10343,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4109/full/800,/0/default.jpg",
     "description": "Day's ceramic plate design translates botanical observation into abstracted surface pattern through selective color reduction and rhythmic repetition. The columbine flowers become geometric scaffolding for exploring positive-negative space relationships on the circular format. Her approach demonstrates how natural forms can be systematically processed into modern decorative schemes without losing organic vitality.",
     "significance": "Students understand how pattern design mediates between natural observation and industrial production. Day's work shows that decorative arts can advance modernist formal investigations while remaining commercially viable and domestically functional.",
     "connections": [
@@ -10371,7 +10370,8 @@ export const ARCHIVE = [
       "British Contemporary Style",
       "domestic modernism",
       "commercial viability"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4109/full/800,/0/default.jpg"
   },
   {
     "id": 242,
@@ -10384,7 +10384,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4087/full/800,/0/default.jpg",
     "description": "Day organizes summer flora into a hierarchical composition that balances botanical accuracy with decorative abstraction. The design demonstrates how seasonal themes can structure pattern organization while maintaining the circular plate format's visual coherence. Her systematic approach to natural motifs creates rhythmic density without compositional chaos.",
     "significance": "Students learn how thematic constraints can generate formal innovation in pattern design. The work shows how seasonal cycles provide both conceptual framework and marketing logic for decorative arts production.",
     "connections": [
@@ -10412,7 +10411,8 @@ export const ARCHIVE = [
       "circular format",
       "systematic variation",
       "domestic function"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4087/full/800,/0/default.jpg"
   },
   {
     "id": 243,
@@ -10425,7 +10425,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4089/full/800,/0/default.jpg",
     "description": "Day's spring plate employs delicate line work and sparse composition to evoke seasonal emergence through visual restraint. The design demonstrates how botanical selection and spacing can create temporal associations without literal representation. Her approach shows pattern design as a system of visual codes that reference natural cycles through formal relationships rather than pictorial accuracy.",
     "significance": "Students understand how decorative arts can encode temporal experience through formal means. Day's seasonal series demonstrates that pattern design operates as a sophisticated visual language capable of complex cultural communication.",
     "connections": [
@@ -10453,7 +10452,8 @@ export const ARCHIVE = [
       "visual codes",
       "cultural communication",
       "delicate line work"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4089/full/800,/0/default.jpg"
   },
   {
     "id": 244,
@@ -10466,7 +10466,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4091/full/800,/0/default.jpg",
     "description": "Day's winter plate employs stark linear structures and reduced botanical forms to evoke seasonal dormancy through compositional clarity. The design demonstrates how pattern density and structural emphasis can reference natural cycles without seasonal clichés. Her systematic reduction of organic forms to essential structural relationships creates decorative meaning through formal restraint rather than symbolic representation.",
     "significance": "Students learn how pattern design can achieve conceptual sophistication through formal reduction. Day's approach shows that decorative arts can engage with complex themes while maintaining commercial viability and functional clarity.",
     "connections": [
@@ -10494,7 +10493,8 @@ export const ARCHIVE = [
       "systematic reduction",
       "organic reference",
       "decorative meaning"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4091/full/800,/0/default.jpg"
   },
   {
     "id": 245,
@@ -10507,7 +10507,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4106/full/800,/0/default.jpg",
     "description": "Day's ceramic pattern translates her textile vocabulary of abstracted natural forms onto the circular format of a plate. The design works within the constraints of ceramic production, using simplified organic motifs that read clearly against the white porcelain ground. The pattern demonstrates how contemporary British design adapted American Abstract Expressionist painting for domestic application.",
     "significance": "Shows how mid-century designers translated avant-garde art movements into commercial products. Day's work demonstrates the Festival of Britain generation's belief that good design could democratize modernist aesthetics through everyday objects.",
     "connections": [
@@ -10541,7 +10540,8 @@ export const ARCHIVE = [
       "Festival generation",
       "commercial art",
       "Rosenthal"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4106/full/800,/0/default.jpg"
   },
   {
     "id": 246,
@@ -10554,7 +10554,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4101/full/800,/0/default.jpg",
     "description": "Day's later ceramic work shows increased geometric confidence, with bold intersecting circles creating dynamic visual tension. The pattern demonstrates sophisticated understanding of how positive and negative space work on curved ceramic surfaces. The design moves away from her earlier naturalistic tendencies toward pure abstraction.",
     "significance": "Represents the evolution of British textile designers into three-dimensional thinking. Shows how 1960s design moved toward bolder, more geometric vocabularies while maintaining commercial viability through considered production methods.",
     "connections": [
@@ -10588,7 +10587,8 @@ export const ARCHIVE = [
       "commercial ceramics",
       "Rosenthal",
       "visual dynamics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4101/full/800,/0/default.jpg"
   },
   {
     "id": 247,
@@ -10601,7 +10601,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4103/full/800,/0/default.jpg",
     "description": "Part of Day's seasonal series, this plate captures autumn through abstracted leaf forms and earth tones. The design works with ceramic glazing techniques to create subtle color gradations that suggest seasonal change. Day's approach translates the essence of autumn into modernist visual language without literal representation.",
     "significance": "Demonstrates how mid-century designers created narrative through abstract form. The seasonal series shows Day's systematic approach to design problems, developing coherent visual families that could work as both individual pieces and coordinated collections.",
     "connections": [
@@ -10635,7 +10634,8 @@ export const ARCHIVE = [
       "natural forms",
       "modernist narrative",
       "Rosenthal"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4103/full/800,/0/default.jpg"
   },
   {
     "id": 248,
@@ -10648,7 +10648,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT2399/full/800,/0/default.jpg",
     "description": "Day's breakthrough textile design establishes her signature vocabulary of stylized plant forms reduced to essential linear elements. The pattern uses contemporary screen printing to achieve crisp edges and flat color areas that modernize traditional botanical motifs. Calyx demonstrates how Festival designers translated organic forms into contemporary visual language.",
     "significance": "Launched Day's career and defined British Contemporary style in textiles. Shows how post-war designers rejected both Victorian naturalism and continental geometric severity for a distinctly British approach to organic modernism that influenced domestic design through the 1960s.",
     "connections": [
@@ -10682,7 +10681,8 @@ export const ARCHIVE = [
       "organic modernism",
       "Heal Fabrics",
       "stylized nature"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT2399/full/800,/0/default.jpg"
   },
   {
     "id": 249,
@@ -10695,7 +10695,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4755/full/800,/0/default.jpg",
     "description": "Day's exploration of pure geometric abstraction moves beyond her botanical origins toward hard-edged modernist pattern. The design uses intersecting linear elements and contrasting scales to create visual depth through two-dimensional means. Graphica demonstrates Day's versatility beyond organic forms and her engagement with international modernist vocabularies.",
     "significance": "Shows Day's evolution toward geometric sophistication and her ability to work across different modernist approaches. Demonstrates how British designers in the 1950s moved beyond Festival organicism to engage with broader European design languages while maintaining commercial viability.",
     "connections": [
@@ -10729,7 +10728,8 @@ export const ARCHIVE = [
       "Edinburgh Weavers",
       "linear elements",
       "decorative geometry"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4755/full/800,/0/default.jpg"
   },
   {
     "id": 250,
@@ -10742,7 +10742,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3036/full/800,/0/default.jpg",
     "description": "A furnishing fabric featuring an abstract pattern of intersecting lines and geometric forms printed on cotton. The design uses a restricted palette to create rhythmic visual movement through the repetition of angular motifs. Day's approach eliminates traditional floral decoration in favor of contemporary graphic abstraction.",
     "significance": "Demonstrates how post-war British design synthesized modernist abstraction with domestic comfort. Shows students how pattern design can communicate cultural optimism through formal innovation rather than nostalgic reference.",
     "connections": [
@@ -10776,7 +10775,8 @@ export const ARCHIVE = [
       "graphic abstraction",
       "cotton printing",
       "contemporary decoration"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3036/full/800,/0/default.jpg"
   },
   {
     "id": 251,
@@ -10789,7 +10789,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT6766/full/800,/0/default.jpg",
     "description": "A wallpaper design employing abstract linear motifs arranged in a loose grid structure. The pattern uses fine black lines on white ground to create spatial ambiguity through overlapping geometric forms. Day's approach transforms wall covering from decorative backdrop to active visual element.",
     "significance": "Establishes how modernist abstraction could be domesticated for middle-class interiors without losing its radical formal properties. Teaches students that pattern design operates as spatial architecture, not mere surface decoration.",
     "connections": [
@@ -10823,7 +10822,8 @@ export const ARCHIVE = [
       "grid structure",
       "contemporary decoration",
       "visual ambiguity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT6766/full/800,/0/default.jpg"
   },
   {
     "id": 252,
@@ -10836,7 +10836,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Late Career Craft Revival",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KA9233/full/800,/0/default.jpg",
     "description": "A large-scale textile hanging employing screen printing and hand-painting techniques to create flowing abstract forms. The work abandons Day's earlier geometric precision for gestural, painterly marks that suggest natural movement. Blue pigments dominate the composition, creating atmospheric depth through tonal variation.",
     "significance": "Documents how established modernist designers responded to 1980s craft revival by abandoning systematic pattern for expressive gesture. Shows students the tension between commercial design logic and artistic expression within a single career.",
     "connections": [
@@ -10870,7 +10869,8 @@ export const ARCHIVE = [
       "artistic expression",
       "postmodern craft",
       "blue pigments"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KA9233/full/800,/0/default.jpg"
   },
   {
     "id": 253,
@@ -10883,7 +10883,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pre-war Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF2799/full/800,/0/default.jpg",
     "description": "An early textile design featuring simplified floral motifs arranged in regular repeat. The pattern reduces natural forms to essential geometric shapes while maintaining recognizable botanical reference. Day's approach bridges traditional English textile decoration with emerging modernist simplification.",
     "significance": "Documents the evolution of British pattern design from Arts and Crafts naturalism toward modernist abstraction. Demonstrates to students how designers develop visual languages through gradual formal reduction rather than sudden stylistic breaks.",
     "connections": [
@@ -10917,7 +10916,8 @@ export const ARCHIVE = [
       "Arts and Crafts evolution",
       "simplified forms",
       "regular repeat"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF2799/full/800,/0/default.jpg"
   },
   {
     "id": 254,
@@ -10930,7 +10930,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary British Design",
     "wikiTitle": "Kenneth Grange",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB6092/full/800,/0/default.jpg",
     "description": "A cylindrical door handle machined from solid aluminum with a brushed finish. The form reduces the door handle to its essential functional requirements: grip diameter, leverage mechanics, and material durability. Grange eliminates decorative elements in favor of precise engineering and tactile quality.",
     "significance": "Demonstrates how industrial design thinking applies to architectural hardware, prioritizing ergonomics and manufacturing logic over decorative tradition. Shows students that even mundane objects can embody sophisticated design philosophy through material choice and formal precision.",
     "connections": [
@@ -10964,7 +10963,8 @@ export const ARCHIVE = [
       "industrial precision",
       "functional reduction",
       "material durability"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB6092/full/800,/0/default.jpg"
   },
   {
     "id": 255,
@@ -10977,7 +10977,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Industrial Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM7783/full/800,/0/default.jpg",
     "description": "Grange stripped the food processor to essential functional elements, housing the motor in a simple cylindrical form that prioritizes grip and stability. The white ABS plastic casing eliminates decorative details, focusing attention on the tool's working relationship with ingredients. Attachment points are designed for quick, intuitive connection without fumbling.",
     "significance": "Shows how British designers translated Continental functionalism into domestic products that regular consumers could understand and use. Demonstrates the shift from kitchen as craft space to kitchen as efficient system, arguing that good design makes complex technology transparent.",
     "connections": [
@@ -11011,7 +11010,8 @@ export const ARCHIVE = [
       "kitchen systems",
       "motor housing",
       "ergonomics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM7783/full/800,/0/default.jpg"
   },
   {
     "id": 256,
@@ -11024,7 +11024,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Industrial Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LY8880/full/800,/0/default.jpg",
     "description": "Grange redesigned Kodak's slide projector as a precise optical instrument, using a rectilinear aluminum housing that reflects the internal mechanism's geometry. The form follows the path of light from lamp to lens, with controls positioned according to the operator's workflow. Heat dissipation vents become integral design elements rather than afterthoughts.",
     "significance": "Demonstrates how British designers could compete with German functionalism by applying systematic thinking to mass-produced consumer electronics. Shows the designer's role in translating technical requirements into coherent visual language that users can understand.",
     "connections": [
@@ -11058,7 +11057,8 @@ export const ARCHIVE = [
       "workflow",
       "light path",
       "British functionalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LY8880/full/800,/0/default.jpg"
   },
   {
     "id": 257,
@@ -11071,7 +11071,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Systems Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA2806/full/800,/0/default.jpg",
     "description": "Grange developed a modular wardrobe hook using precision-cast aluminum components that connect without tools or fixings. Each element serves multiple functions - the mounting bracket doubles as a stop, the hook rotates to optimize hanging angle. The system scales from single hooks to complex organizational arrays through identical components.",
     "significance": "Exemplifies 1970s systems thinking applied to domestic hardware, showing how modular design principles could democratize customization. Argues that good design should adapt to user needs rather than imposing fixed solutions, anticipating contemporary interest in flexible living systems.",
     "connections": [
@@ -11105,7 +11104,8 @@ export const ARCHIVE = [
       "systems design",
       "British functionalism",
       "flexible storage"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA2806/full/800,/0/default.jpg"
   },
   {
     "id": 258,
@@ -11118,7 +11118,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Systems Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1761/full/800,/0/default.jpg",
     "description": "Extended version of Grange's modular hook system, demonstrating how the basic components combine to create larger organizational units. The casting process allows complex geometries that would be impossible in bent wire or pressed steel, creating secure connections that feel solid despite minimal material use. Each hook position can be individually adjusted without affecting others.",
     "significance": "Shows how systematic design thinking enables infinite customization through finite components. Demonstrates British design's practical approach to modularity - prioritizing user agency over aesthetic consistency, contrasting with more rigid Continental systems approaches.",
     "connections": [
@@ -11152,7 +11151,8 @@ export const ARCHIVE = [
       "British functionalism",
       "wardrobe hardware",
       "systematic design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1761/full/800,/0/default.jpg"
   },
   {
     "id": 259,
@@ -11165,7 +11165,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Systems Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1804/full/800,/0/default.jpg",
     "description": "Specialized application of Grange's modular system designed for heavier garments, with reinforced connections and extended reach. The same casting process produces differentiated hook profiles optimized for coats versus hats, demonstrating how systematic design can generate functional variety. Wall-mounting remains invisible, creating the impression of objects floating in space.",
     "significance": "Demonstrates how systems design enables specialization without proliferation - the same manufacturing process serves multiple use cases through intelligent variation. Shows British design's pragmatic approach to modularity, prioritizing functional differentiation over formal consistency.",
     "connections": [
@@ -11199,7 +11198,8 @@ export const ARCHIVE = [
       "modular system",
       "wall mounting",
       "British systems design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1804/full/800,/0/default.jpg"
   },
   {
     "id": 260,
@@ -11212,7 +11212,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Systems Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1786/full/800,/0/default.jpg",
     "description": "Three hook variants demonstrate modular thinking: W1's single point, WH's extended arm, and W75's multiple mounting system share identical manufacturing logic but address different spatial requirements. Each uses die-cast aluminium construction with consistent formal vocabulary, proving that systematic design can accommodate functional diversity without aesthetic compromise.",
     "significance": "Shows students how constraint-based design generates coherent product families. Demonstrates that systems thinking applies at micro scale — even simple hooks can embody rational design methodology.",
     "connections": [
@@ -11246,7 +11245,8 @@ export const ARCHIVE = [
       "British functionalism",
       "component logic",
       "spatial solutions"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA1786/full/800,/0/default.jpg"
   },
   {
     "id": 261,
@@ -11259,7 +11259,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Reflection",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY2194/full/800,/0/default.jpg",
     "description": "Retrospective page demonstrating Grange's mature reflection on design practice, combining text and image to articulate his philosophy of systematic industrial design. The layout itself embodies his rational approach, using clear hierarchies and precise alignments to structure information.",
     "significance": "Shows students how experienced designers articulate their methods and philosophy. Demonstrates that design thinking can be applied reflexively to explain design thinking itself.",
     "connections": [
@@ -11288,7 +11287,8 @@ export const ARCHIVE = [
       "rational methodology",
       "industrial design legacy",
       "institutional memory"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY2194/full/800,/0/default.jpg"
   },
   {
     "id": 262,
@@ -11301,7 +11301,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Social Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT5737/full/800,/0/default.jpg",
     "description": "Screen print updating road signage iconography to challenge gender assumptions in public space. Uses the visual authority of standardized transport graphics to make political argument about workplace equality, demonstrating how established design systems can be critically appropriated.",
     "significance": "Teaches students that information design is never neutral — even the most systematic graphics encode social assumptions. Shows how designers can use established visual languages critically to challenge their embedded biases.",
     "connections": [
@@ -11335,7 +11334,8 @@ export const ARCHIVE = [
       "iconography",
       "transport design",
       "institutional critique"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT5737/full/800,/0/default.jpg"
   },
   {
     "id": 263,
@@ -11348,7 +11348,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": "Festival of Britain",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK5149/full/800,/0/default.jpg",
     "description": "Games employs a symbolic language of reconstruction through geometric forms that celebrate Britain's technological optimism. The poster's crystalline structure and atomic imagery position modern design as both scientific and celebratory, using abstraction to communicate national renewal.",
     "significance": "Students learn how state patronage shaped modernist visual language in post-war Britain, demonstrating design's role in constructing collective identity. The poster shows how geometric abstraction became a tool for communicating progress and social reconstruction.",
     "connections": [
@@ -11377,7 +11376,8 @@ export const ARCHIVE = [
       "festival style",
       "British identity",
       "post-war optimism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK5149/full/800,/0/default.jpg"
   },
   {
     "id": 264,
@@ -11390,7 +11390,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF2804/full/800,/0/default.jpg",
     "description": "Clissold translates the Festival's architectural and graphic vocabulary into textile form, demonstrating how modernist abstraction could function across scales from buildings to accessories. The design system creates pattern through repetition while maintaining geometric clarity.",
     "significance": "Shows students how design movements establish consistent visual languages across disciplines and scales. This scarf demonstrates the democratisation of modernist aesthetics through consumer goods during post-war reconstruction.",
     "connections": [
@@ -11424,7 +11423,8 @@ export const ARCHIVE = [
       "reconstruction",
       "democratic design",
       "abstraction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF2804/full/800,/0/default.jpg"
   },
   {
     "id": 265,
@@ -11437,7 +11437,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT8951/full/800,/0/default.jpg",
     "description": "Odell transforms molecular diagrams into decorative pattern, demonstrating how scientific imagery became a source for modernist design vocabulary. The wallpaper makes visible the atomic structure underlying post-war optimism about technology and progress.",
     "significance": "Students see how designers translated scientific knowledge into domestic decoration, showing design's role in popularising technological literacy. The pattern demonstrates modernism's faith in making the invisible structures of modernity aesthetically available.",
     "connections": [
@@ -11471,7 +11470,8 @@ export const ARCHIVE = [
       "wallpaper design",
       "progress imagery",
       "post-war science"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT8951/full/800,/0/default.jpg"
   },
   {
     "id": 266,
@@ -11484,7 +11484,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BC3166/full/800,/0/default.jpg",
     "description": "Fraser combines commercial advertising with Festival iconography, demonstrating how corporate communications adapted to modernist visual languages. The poster integrates brand identity with architectural and cultural celebration, showing design's role in connecting commerce to collective experience.",
     "significance": "Students learn how advertising design negotiates between commercial imperatives and cultural movements. The poster shows how brands positioned themselves within moments of national celebration and modernist transformation.",
     "connections": [
@@ -11518,7 +11517,8 @@ export const ARCHIVE = [
       "commercial art",
       "post-war advertising",
       "integrated design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BC3166/full/800,/0/default.jpg"
   },
   {
     "id": 267,
@@ -11531,7 +11531,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH4242/full/800,/0/default.jpg",
     "description": "Webster creates pattern through systematic repetition of organic forms, balancing modernist geometric logic with naturalistic motifs. The design demonstrates how Festival-era textiles maintained connection to British landscape traditions while embracing contemporary production methods.",
     "significance": "Students understand how designers navigate between traditional craft patterns and modernist systematic thinking. The fabric shows how Festival style created uniquely British modernism by synthesising geometric order with organic reference.",
     "connections": [
@@ -11565,7 +11564,8 @@ export const ARCHIVE = [
       "systematic pattern",
       "domestic modernism",
       "geometric nature"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH4242/full/800,/0/default.jpg"
   },
   {
     "id": 268,
@@ -11578,7 +11578,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF7895/full/800,/0/default.jpg",
     "description": "A wallpaper pattern that translates the molecular structure of boric acid into decorative form through geometric abstraction. The design demonstrates how scientific visualization can become domestic ornament, using atomic diagrams as the basis for repeating patterns. The molecular bonds create a network of connections that naturally tessellates across the wall surface.",
     "significance": "Shows how Festival of Britain designers democratized scientific knowledge by making complex molecular structures accessible through pattern design. Demonstrates the period's faith in science as a source of beauty and the designer's role in translating specialized knowledge into popular culture.",
     "connections": [
@@ -11607,7 +11606,8 @@ export const ARCHIVE = [
       "wallpaper",
       "geometric abstraction",
       "educational design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF7895/full/800,/0/default.jpg"
   },
   {
     "id": 269,
@@ -11620,7 +11620,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Arts Photography",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PL1618/full/800,/0/default.jpg",
     "description": "A ballet poster that uses dramatic dance photography to communicate the energy and spectacle of performance. The design relies on the expressive power of the human form in motion rather than decorative illustration. The typography works in service of the photographic image, allowing the dancer's gesture to carry the visual message.",
     "significance": "Demonstrates how photography replaced illustration in cultural advertising during the 1970s, showing the medium's power to capture authentic movement and emotion. Important for understanding how graphic design shifted from constructed imagery to documentary approaches.",
     "connections": [
@@ -11644,7 +11643,8 @@ export const ARCHIVE = [
       "movement",
       "1970s graphics",
       "theatrical promotion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PL1618/full/800,/0/default.jpg"
   },
   {
     "id": 270,
@@ -11657,7 +11657,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4787/full/800,/0/default.jpg",
     "description": "A furnishing fabric that reduces the complexity of leaf forms to essential graphic elements through bold color contrasts and simplified shapes. Conran's design demonstrates how natural observation can be translated into modern pattern through systematic abstraction. The large-scale repeat creates dramatic interior environments while maintaining production efficiency.",
     "significance": "Shows Conran's early development of the design philosophy that would later define Habitat — making sophisticated modern design accessible through clear formal principles. Demonstrates how careful observation of nature could generate contemporary domestic environments.",
     "connections": [
@@ -11686,7 +11685,8 @@ export const ARCHIVE = [
       "contemporary style",
       "Habitat philosophy",
       "domestic modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4787/full/800,/0/default.jpg"
   },
   {
     "id": 271,
@@ -11699,7 +11699,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP9491/full/800,/0/default.jpg",
     "description": "A textile pattern based on cross-sectional views of tree growth rings, translating botanical structure into geometric pattern. The design demonstrates Conran's method of finding decorative potential in functional natural forms, using the tree's growth pattern as a systematic basis for repetition. The concentric circles create optical rhythm while referencing the time-based process of organic growth.",
     "significance": "Reveals Conran's analytical approach to pattern generation — finding systematic principles in natural phenomena that could be applied to industrial textile production. Important for understanding how mid-century designers balanced organic inspiration with geometric rationality.",
     "connections": [
@@ -11728,7 +11727,8 @@ export const ARCHIVE = [
       "natural geometry",
       "systematic observation",
       "botanical abstraction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP9491/full/800,/0/default.jpg"
   },
   {
     "id": 272,
@@ -11741,7 +11741,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP9488/full/800,/0/default.jpg",
     "description": "A furnishing fabric that reduces decoration to its essential geometric components through precise stripe patterns. The design demonstrates how systematic repetition can create visual impact without figurative imagery. The mechanical precision of the stripes reflects post-war British design's embrace of industrial aesthetics.",
     "significance": "Shows how geometric abstraction became a viable alternative to traditional pattern-making in 1950s Britain. Students learn how systematic repetition can create sophisticated visual effects while remaining economically producible through industrial processes.",
     "connections": [
@@ -11775,7 +11774,8 @@ export const ARCHIVE = [
       "decorative reduction",
       "stripe pattern",
       "contemporary style"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP9488/full/800,/0/default.jpg"
   },
   {
     "id": 273,
@@ -11788,7 +11788,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011FC0498/full/800,/0/default.jpg",
     "description": "A ceramic bowl that demonstrates Conran's approach to modernizing British tableware through simplified forms and restrained decoration. The design balances functional requirements with contemporary aesthetic sensibilities. The bowl shows how industrial pottery could embrace modernist principles while remaining commercially viable.",
     "significance": "Illustrates how British designers adapted Scandinavian functionalism for mass production in Staffordshire potteries. Students learn how modernist principles were translated into accessible domestic objects during Britain's economic recovery.",
     "connections": [
@@ -11822,7 +11821,8 @@ export const ARCHIVE = [
       "functional design",
       "contemporary British style",
       "mass production"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011FC0498/full/800,/0/default.jpg"
   },
   {
     "id": 274,
@@ -11835,7 +11835,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EE0377/full/800,/0/default.jpg",
     "description": "A ceramic plate featuring stylized botanical motifs that demonstrate Conran's approach to decorative modernism. The design abstracts natural forms into simplified patterns suitable for ceramic production. This work shows how British designers maintained decorative traditions while embracing modernist reduction principles.",
     "significance": "Shows how organic ornament was modernized for post-war British manufacture, balancing popular appeal with contemporary aesthetics. Students see how designers negotiated between decorative tradition and modernist reduction in mass-produced ceramics.",
     "connections": [
@@ -11869,7 +11868,8 @@ export const ARCHIVE = [
       "decorative modernism",
       "industrial ceramics",
       "pattern abstraction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EE0377/full/800,/0/default.jpg"
   },
   {
     "id": 275,
@@ -11882,7 +11882,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism Design",
     "wikiTitle": "Buckminster Fuller",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3366/full/800,/0/default.jpg",
     "description": "A poster that uses Fuller's geodesic dome imagery to communicate environmental urgency through systematic geometric patterns. The design demonstrates how architectural thinking can be applied to graphic communication. Fuller's approach treats the poster as a visual system rather than decorative surface.",
     "significance": "Shows how architectural designers approached graphic communication through systematic rather than stylistic methods. Students learn how design thinking can transfer between disciplines when based on fundamental principles rather than surface aesthetics.",
     "connections": [
@@ -11916,7 +11915,8 @@ export const ARCHIVE = [
       "geometric communication",
       "Fuller's principles",
       "environmental poster"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3366/full/800,/0/default.jpg"
   },
   {
     "id": 276,
@@ -11929,7 +11929,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT6186/full/800,/0/default.jpg",
     "description": "Calder reduces his sculptural vocabulary to bold, gestural forms that function as both environmental warning and artistic statement. The poster employs his signature biomorphic shapes and primary colors to create urgency without sacrificing aesthetic coherence. The design demonstrates how modernist abstraction can carry political content while maintaining visual impact.",
     "significance": "Shows how established artists adapted their visual language for activist communication. Demonstrates the period when environmental awareness entered mainstream design discourse, requiring new strategies for persuasive messaging.",
     "connections": [
@@ -11958,7 +11957,8 @@ export const ARCHIVE = [
       "1970s activism",
       "visual persuasion",
       "sculptural graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT6186/full/800,/0/default.jpg"
   },
   {
     "id": 277,
@@ -11971,7 +11971,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Educational Systems Design",
     "wikiTitle": "Zometool",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NJ1575/full/800,/0/default.jpg",
     "description": "A construction system based on precise mathematical relationships found in natural forms, using color-coded plastic nodes and struts. The geometry derives from the golden ratio and Platonic solids, allowing users to build complex three-dimensional structures while learning spatial mathematics. Each connection point maintains strict angular relationships that reveal underlying mathematical principles through hands-on manipulation.",
     "significance": "Demonstrates how educational toys can embody sophisticated mathematical concepts through systematic design. Shows the evolution from simple building blocks to tools that teach geometric relationships and spatial reasoning through direct manipulation.",
     "connections": [
@@ -12000,7 +11999,8 @@ export const ARCHIVE = [
       "spatial reasoning",
       "systematic design",
       "golden ratio"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NJ1575/full/800,/0/default.jpg"
   },
   {
     "id": 278,
@@ -12013,7 +12013,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pop Art Environmental Activism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK7644/full/800,/0/default.jpg",
     "description": "Lichtenstein applies his signature Ben-Day dot technique and comic book aesthetics to environmental messaging, transforming water conservation into pop art vocabulary. The poster uses commercial printing processes and mass media visual language to reach broader audiences beyond gallery walls. The irony lies in using consumer culture's visual tools to critique consumption's environmental impact.",
     "significance": "Shows how pop artists extended commercial visual languages into political messaging. Demonstrates the period when fine art techniques were adapted for mass communication, revealing tensions between artistic method and activist content.",
     "connections": [
@@ -12042,7 +12041,8 @@ export const ARCHIVE = [
       "activist design",
       "comic book aesthetics",
       "1970s environmentalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK7644/full/800,/0/default.jpg"
   },
   {
     "id": 279,
@@ -12055,7 +12055,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Psychedelic Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT5930/full/800,/0/default.jpg",
     "description": "A psychedelic poster that employs airbrushed gradients, fluorescent colors, and surreal imagery to visualize Cold War paranoia and UFO conspiracy theories. The design uses commercial illustration techniques borrowed from advertising but subverts them toward counterculture content. Typography becomes sculptural, integrating with imagery to create immersive visual experiences that mirror altered states of consciousness.",
     "significance": "Shows how commercial design techniques were appropriated by counterculture movements to communicate alternative worldviews. Demonstrates the period when graphic design began exploring psychological and perceptual effects rather than purely informational functions.",
     "connections": [
@@ -12084,7 +12083,8 @@ export const ARCHIVE = [
       "fluorescent colors",
       "1960s alternative culture",
       "commercial subversion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT5930/full/800,/0/default.jpg"
   },
   {
     "id": 280,
@@ -12097,7 +12097,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Northern Renaissance",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0464/full/800,/0/default.jpg",
     "description": "A bronze relief portrait that demonstrates Renaissance court portraiture's transition from medieval flatness to classical three-dimensionality. Abondio employs subtle modeling and precise casting to create psychological depth while maintaining the formal constraints of royal representation. The relief technique allows for multiple reproduction while preserving sculptural quality, serving both artistic and diplomatic functions.",
     "significance": "Shows how Renaissance artisans adapted classical techniques for modern political communication. Demonstrates the role of reproducible objects in creating consistent royal imagery across European courts, establishing design's relationship to power and identity.",
     "connections": [
@@ -12126,7 +12125,8 @@ export const ARCHIVE = [
       "commemorative objects",
       "royal imagery",
       "diplomatic art"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0464/full/800,/0/default.jpg"
   },
   {
     "id": 281,
@@ -12139,7 +12139,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Northern Renaissance",
     "wikiTitle": "Antonio Abondio",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0465/full/800,/0/default.jpg",
     "description": "This bronze relief demonstrates the Renaissance medallion's function as portable propaganda, using precise cast detail to project royal authority. Abondio's technique compresses three-dimensional portraiture into a format that could be reproduced and distributed across Habsburg territories. The relief's shallow depth creates maximum visual impact while remaining economically producible through bronze casting.",
     "significance": "Students learn how design serves political communication through material constraint. The relief shows how Renaissance makers balanced artistic ambition with technical limitation, creating a template for mass-produced authority that prefigures modern corporate identity systems.",
     "connections": [
@@ -12173,7 +12172,8 @@ export const ARCHIVE = [
       "Habsburg court",
       "medallion design",
       "authority systems"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE0465/full/800,/0/default.jpg"
   },
   {
     "id": 282,
@@ -12186,7 +12186,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7145/full/800,/0/default.jpg",
     "description": "This printing block revives traditional relief printing for urgent political messaging, using the physical resistance of carved material to match the movement's confrontational stance. The block's crude materiality deliberately contrasts with digital perfection, asserting authenticity through visible making processes. Its design prioritizes rapid reproduction over refined aesthetics, enabling grassroots distribution networks.",
     "significance": "Students see how activist design deliberately chooses 'primitive' technology to communicate authenticity and resistance to corporate media. The block demonstrates how material choice becomes ideological argument, teaching that technical limitation can be strategic advantage.",
     "connections": [
@@ -12220,7 +12219,8 @@ export const ARCHIVE = [
       "material authenticity",
       "political urgency",
       "DIY aesthetics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7145/full/800,/0/default.jpg"
   },
   {
     "id": 283,
@@ -12233,7 +12233,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7140/full/800,/0/default.jpg",
     "description": "This placard uses deliberately crude letterforms to communicate environmental urgency, rejecting polished typography as inappropriate to existential crisis. The irregular printing surface creates visual texture that mirrors the movement's disruptive tactics. Its handheld scale enables individual agency within mass demonstration, turning personal gesture into collective statement.",
     "significance": "Students learn how crisis communication requires abandoning conventional design polish for emotional immediacy. The placard shows how activist graphics prioritize authenticity over professionalism, teaching that appropriate design depends on social context and political purpose.",
     "connections": [
@@ -12262,7 +12261,8 @@ export const ARCHIVE = [
       "existential messaging",
       "grassroots communication",
       "handheld media"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7140/full/800,/0/default.jpg"
   },
   {
     "id": 284,
@@ -12275,7 +12275,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7144/full/800,/0/default.jpg",
     "description": "This printing block demonstrates how activist collectives adapt traditional relief printing for contemporary protest, using carved material to create reproducible yet authentic messaging. The block's physical weight and texture embody the movement's emphasis on material reality over digital abstraction. Its design allows for rapid deployment across multiple protest contexts while maintaining visual consistency.",
     "significance": "Students understand how activist design balances authenticity with reproducibility, using traditional techniques to resist digital corporate control. The block teaches how material processes can embody political values, showing design as ideological practice rather than neutral service.",
     "connections": [
@@ -12304,7 +12303,8 @@ export const ARCHIVE = [
       "protest tools",
       "anti-corporate design",
       "environmental messaging"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7144/full/800,/0/default.jpg"
   },
   {
     "id": 285,
@@ -12317,7 +12317,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB8480/full/800,/0/default.jpg",
     "description": "This flag transforms the traditional symbol of national identity into environmental protest, using fabric's capacity for movement and visibility in mass demonstration. The flag's portable scale enables individual participation within collective action, creating visual unity across diverse protest contexts. Its design prioritizes symbolic recognition over decorative refinement, functioning as identifier rather than artwork.",
     "significance": "Students learn how activist design appropriates and subverts traditional formats, turning patriotic symbolism into environmental resistance. The flag demonstrates how design objects coordinate collective action, teaching that visual identity systems extend beyond corporate branding into social movement organization.",
     "connections": [
@@ -12346,7 +12345,8 @@ export const ARCHIVE = [
       "mass demonstration",
       "movement branding",
       "activist appropriation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB8480/full/800,/0/default.jpg"
   },
   {
     "id": 286,
@@ -12359,7 +12359,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND5310/full/800,/0/default.jpg",
     "description": "A high-visibility vest appropriated from safety workwear as protest uniform. The vest transforms industrial safety signaling into political messaging, using the visual authority of institutional clothing to legitimize civil disobedience. Its fluorescent material ensures visibility both for safety and symbolic presence in public space.",
     "significance": "Students learn how design objects can be repurposed to carry new meanings while retaining their functional authority. It demonstrates how activists co-opt existing visual languages rather than creating entirely new ones, showing design's role in political communication.",
     "connections": [
@@ -12393,7 +12392,8 @@ export const ARCHIVE = [
       "civil disobedience",
       "institutional clothing",
       "activism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND5310/full/800,/0/default.jpg"
   },
   {
     "id": 287,
@@ -12406,7 +12406,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK7641/full/800,/0/default.jpg",
     "description": "A protest leaflet using stark typographic hierarchy and urgent messaging to communicate climate crisis. The design employs high-contrast text and direct language to cut through information overload. Its format follows traditional pamphlet structures while updating the visual urgency for contemporary environmental activism.",
     "significance": "Shows students how graphic design serves political mobilization through accessible visual communication. It demonstrates how activists must balance aesthetic sophistication with broad readability, and how traditional print formats remain relevant for grassroots organizing.",
     "connections": [
@@ -12440,7 +12439,8 @@ export const ARCHIVE = [
       "grassroots design",
       "political messaging",
       "leaflet"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK7641/full/800,/0/default.jpg"
   },
   {
     "id": 288,
@@ -12453,7 +12453,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Social Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3997/full/800,/0/default.jpg",
     "description": "Initial concept sketches for modular construction components aimed at emergency shelter or self-build housing. The drawings explore interlocking geometries that allow unskilled builders to create stable structures. The system prioritizes material efficiency and assembly simplicity over architectural expression.",
     "significance": "Students see how design addresses housing crisis through systematic thinking about assembly and access. It demonstrates how designers must consider not just formal outcomes but the social and economic contexts of production and use.",
     "connections": [
@@ -12487,7 +12486,8 @@ export const ARCHIVE = [
       "housing crisis",
       "systematic design",
       "construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3997/full/800,/0/default.jpg"
   },
   {
     "id": 289,
@@ -12500,7 +12500,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Social Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4001/full/800,/0/default.jpg",
     "description": "Refined technical drawings showing developed structural details and connection methods for the U-Build system. The ink drawings demonstrate resolved joining mechanisms and dimensional relationships between components. This iteration shows clearer construction logic and improved structural stability.",
     "significance": "Shows students the design development process from concept to technical resolution. It demonstrates how social design projects require the same rigorous technical development as commercial products, and how drawing remains essential for working through complex spatial relationships.",
     "connections": [
@@ -12534,7 +12533,8 @@ export const ARCHIVE = [
       "humanitarian design",
       "assembly logic",
       "joint design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4001/full/800,/0/default.jpg"
   },
   {
     "id": 290,
@@ -12547,7 +12547,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Documentary Drawing",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4002/full/800,/0/default.jpg",
     "description": "Observational sketch documenting Extinction Rebellion protesters near Trafalgar Square during October 2019 demonstrations. The drawing captures the spatial dynamics of public protest and the visual relationship between protesters and urban architecture. It records both individual participants and collective action within London's civic space.",
     "significance": "Students learn how design documentation extends beyond commercial objects to social movements. It shows drawing's role in recording contemporary history and how graphic representation can capture the spatial politics of public space occupation.",
     "connections": [
@@ -12581,7 +12580,8 @@ export const ARCHIVE = [
       "social documentation",
       "civic space",
       "demonstration"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4002/full/800,/0/default.jpg"
   },
   {
     "id": 291,
@@ -12594,7 +12594,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Information Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY5233/full/800,/0/default.jpg",
     "description": "A wayfinding leaflet that reduces Heathrow Airport's complexity into navigable information hierarchies. The design uses systematic typography and clear spatial organization to guide users through one of the world's busiest transport hubs. Information architecture becomes the primary design tool, prioritizing function over aesthetic flourish.",
     "significance": "Shows how information design serves public utility in complex environments. Demonstrates that clarity and systematic thinking can solve real navigational problems where decorative approaches would fail. Essential for understanding how graphic design functions as infrastructure.",
     "connections": [
@@ -12628,7 +12627,8 @@ export const ARCHIVE = [
       "transport design",
       "clarity",
       "institutional graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY5233/full/800,/0/default.jpg"
   },
   {
     "id": 292,
@@ -12641,7 +12641,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Political Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LX8826/full/800,/0/default.jpg",
     "description": "A protest poster that uses bold typography and stark contrast to communicate political resistance. The design employs minimal visual elements to maximum effect, creating urgent visual impact through typographic weight and spatial tension. Form reinforces message through visual aggression and clarity.",
     "significance": "Demonstrates how contemporary political graphics build on modernist reduction while serving activist communication needs. Shows typography as a weapon of political expression. Critical for understanding design's role in social movements and public discourse.",
     "connections": [
@@ -12675,7 +12674,8 @@ export const ARCHIVE = [
       "bold type",
       "public messaging",
       "contemporary activism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LX8826/full/800,/0/default.jpg"
   },
   {
     "id": 293,
@@ -12688,7 +12688,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Political Poster Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV2129/full/800,/0/default.jpg",
     "description": "A political campaign poster that uses illustrative imagery and typographic hierarchy to argue against centralized government control of London. The design combines visual metaphor with direct text to create persuasive political communication. Layout and imagery work together to reinforce the anti-bureaucratic message.",
     "significance": "Exemplifies how graphic design functions in democratic political discourse, using visual rhetoric to shape public opinion. Shows the balance between illustration and typography in persuasive communication. Essential for understanding design's role in political campaigns and civic engagement.",
     "connections": [
@@ -12722,7 +12721,8 @@ export const ARCHIVE = [
       "illustration-typography",
       "democratic discourse",
       "civic graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV2129/full/800,/0/default.jpg"
   },
   {
     "id": 294,
@@ -12735,7 +12735,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG9201/full/800,/0/default.jpg",
     "description": "A geometric carpet pattern that applies Vorticist angular abstraction to domestic textile design. The composition uses bold geometric forms and contrasting tones to create dynamic visual movement within a functional floor covering. Abstract art principles are translated into applied design through systematic geometric organization.",
     "significance": "Demonstrates the transition from Arts and Crafts naturalism to modernist abstraction in British design. Shows how avant-garde art movements influence domestic objects. Critical for understanding how geometric abstraction enters everyday life through applied arts.",
     "connections": [
@@ -12769,7 +12768,8 @@ export const ARCHIVE = [
       "angular composition",
       "domestic modernism",
       "art-into-design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG9201/full/800,/0/default.jpg"
   },
   {
     "id": 295,
@@ -12782,7 +12782,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Northern Renaissance",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HR7944/full/800,/0/default.jpg",
     "description": "A stained glass design that combines heraldic symbolism with Renaissance architectural framing. The composition balances figurative elements within geometric borders, using color and line to create hierarchical visual organization. Design thinking applies systematic proportion and symbolic programming to architectural decoration.",
     "significance": "Shows how systematic design thinking operated before industrialization, using geometric proportion and symbolic programming to organize complex visual information. Demonstrates design as cultural communication system. Essential for understanding pre-modern design methodology and visual hierarchy.",
     "connections": [
@@ -12816,7 +12815,8 @@ export const ARCHIVE = [
       "visual hierarchy",
       "cultural communication",
       "symbolic programming"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HR7944/full/800,/0/default.jpg"
   },
   {
     "id": 296,
@@ -12829,7 +12829,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Political Poster Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH9970/full/800,/0/default.jpg",
     "description": "This poster uses stark black typography on white background to communicate urgency about local government abolition. The repetitive 'No' structure creates visual rhythm while the phrase 'Say No To No Say' employs wordplay to highlight democratic participation. The minimal aesthetic prioritizes message clarity over decorative elements.",
     "significance": "Students learn how typography alone can carry political argument through structure and repetition. It demonstrates how graphic design operates as political discourse, using visual rhetoric to frame complex governance issues in accessible terms.",
     "connections": [
@@ -12863,7 +12862,8 @@ export const ARCHIVE = [
       "minimal design",
       "institutional critique",
       "visual rhetoric"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH9970/full/800,/0/default.jpg"
   },
   {
     "id": 297,
@@ -12876,7 +12876,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "English Silver",
     "wikiTitle": "Paten",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AD0680/full/800,/0/default.jpg",
     "description": "This silver communion plate demonstrates early 17th-century English silversmithing's balance between ceremonial function and material craft. The raised foot creates hierarchical presentation while the broad surface maximizes the display area for consecrated bread. The hammered silver construction shows how precious materials communicate sacred purpose through weight and reflectivity.",
     "significance": "Students see how functional objects carry symbolic meaning through material choice and proportional relationships. It shows how craft traditions encode religious and social hierarchies into everyday ritual objects, making abstract concepts tangible through form.",
     "connections": [
@@ -12905,7 +12904,8 @@ export const ARCHIVE = [
       "religious symbolism",
       "craft tradition",
       "hierarchical form"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AD0680/full/800,/0/default.jpg"
   },
   {
     "id": 298,
@@ -12918,7 +12918,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Political Poster Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG8274/full/800,/0/default.jpg",
     "description": "This poster combines photographic imagery with bold typography to advocate for women's political representation within European socialist movements. The design juxtaposes documentary-style photography with constructed graphic elements, creating tension between authentic representation and designed persuasion. The layout demonstrates how feminist political graphics negotiate between accessibility and artistic sophistication.",
     "significance": "Students learn how graphic design mediates between documentary truth and political advocacy. It shows how European design in the 1990s was grappling with gender representation within established political structures, using visual rhetoric to expand institutional participation.",
     "connections": [
@@ -12952,7 +12951,8 @@ export const ARCHIVE = [
       "gender politics",
       "persuasive design",
       "democratic participation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG8274/full/800,/0/default.jpg"
   },
   {
     "id": 299,
@@ -12965,7 +12965,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Political Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT4101/full/800,/0/default.jpg",
     "description": "This poster appropriates William Morris's decorative patterns as background for contemporary political text, creating deliberate tension between 19th-century craft aesthetics and 21st-century economic critique. The overlay technique suggests how historical socialist ideals persist within current political discourse. The design demonstrates how pattern and typography can create conceptual collision between different historical moments.",
     "significance": "Students see how designers use appropriation to create historical dialogue and political commentary. It demonstrates how graphic design can make theoretical economic arguments accessible through visual metaphor, connecting abstract policy to material culture traditions.",
     "connections": [
@@ -12999,7 +12998,8 @@ export const ARCHIVE = [
       "economic theory",
       "William Morris",
       "contemporary activism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT4101/full/800,/0/default.jpg"
   },
   {
     "id": 300,
@@ -13012,7 +13012,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": "Tomáš Garrigue Masaryk",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2082/full/800,/0/default.jpg",
     "description": "This commemorative poster uses restrained typography and photographic portraiture to honor Czechoslovakia's first president during the 1990 democratic transition. The design balances institutional authority with democratic accessibility, using serif typography to suggest historical continuity while maintaining modern clarity. The quote placement emphasizes moral leadership over political pragmatism.",
     "significance": "Students learn how graphic design mediates between historical memory and contemporary political transition. It demonstrates how typography and image hierarchy can construct democratic legitimacy by connecting new institutions to respected historical figures and moral principles.",
     "connections": [
@@ -13046,7 +13045,8 @@ export const ARCHIVE = [
       "moral leadership",
       "Czech democracy",
       "post-communist graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2082/full/800,/0/default.jpg"
   },
   {
     "id": 301,
@@ -13059,7 +13059,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Soviet Constructivism",
     "wikiTitle": "Gustav Klutsis",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU1419/full/800,/0/default.jpg",
     "description": "Klucis employs photomontage to layer heroic worker imagery with industrial symbols and Lenin's portrait, creating visual hierarchy through scale and diagonal composition. The poster uses high contrast photography and bold typography to communicate socialist progress as inevitable forward motion. Dynamic angles and overlapping elements create spatial depth while maintaining legible propaganda messaging.",
     "significance": "Demonstrates how photomontage serves political communication by combining documentary photography with graphic abstraction. Shows students how compositional techniques can embody ideological positions — the diagonal thrust literally represents revolutionary momentum.",
     "connections": [
@@ -13093,7 +13092,8 @@ export const ARCHIVE = [
       "Lenin",
       "socialist realism",
       "diagonal composition"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU1419/full/800,/0/default.jpg"
   },
   {
     "id": 302,
@@ -13106,7 +13106,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Commercial Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT6189/full/800,/0/default.jpg",
     "description": "Houston creates romantic nostalgia through soft-focus imagery and classical typography, emphasizing the film's period setting over its narrative complexity. The poster uses sepia toning and flowing script to evoke antebellum romanticism while obscuring the film's problematic racial politics. Compositional elements frame the central figures in golden light to suggest timeless romance.",
     "significance": "Shows how graphic design can sanitize controversial content for commercial purposes. Teaches students about the relationship between aesthetic choices and ideological messaging in film marketing.",
     "connections": [
@@ -13135,7 +13134,8 @@ export const ARCHIVE = [
       "typography",
       "marketing",
       "antebellum"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT6189/full/800,/0/default.jpg"
   },
   {
     "id": 303,
@@ -13148,7 +13148,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Cuban Revolutionary Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG6795/full/800,/0/default.jpg",
     "description": "De Oraá employs bold geometric forms and high contrast imagery to critique capitalist wealth accumulation, using visual irony to juxtapose socialist messaging with bourgeois symbols. The poster combines photographic elements with graphic illustration, creating tension between documentary realism and political caricature. Typography and imagery work together to expose contradictions in capitalist ideology.",
     "significance": "Demonstrates how revolutionary graphics can use visual contradiction as a political tool. Shows students how combining photographic and illustrated elements can create critical commentary on social systems.",
     "connections": [
@@ -13177,7 +13176,8 @@ export const ARCHIVE = [
       "geometric forms",
       "visual irony",
       "revolutionary poster"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG6795/full/800,/0/default.jpg"
   },
   {
     "id": 304,
@@ -13190,7 +13190,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "Walter Crane",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA1427/full/800,/0/default.jpg",
     "description": "Crane systematizes wallpaper patterns through methodical illustration, documenting design variations with precise draftsmanship that reveals the underlying geometric structures of decorative motifs. The illustrations function as both commercial catalogue and design manual, showing how individual patterns can be adapted across different scales and applications. Each design demonstrates Crane's integration of medieval revival imagery with industrial production methods.",
     "significance": "Shows how design documentation can serve both commercial and educational purposes. Teaches students about the relationship between pattern design, industrial production, and Arts and Crafts ideology of honest materials and processes.",
     "connections": [
@@ -13224,7 +13223,8 @@ export const ARCHIVE = [
       "design manual",
       "industrial production",
       "medieval revival"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA1427/full/800,/0/default.jpg"
   },
   {
     "id": 305,
@@ -13237,7 +13237,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Historicism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9068/full/800,/0/default.jpg",
     "description": "Richardson creates detailed architectural drawings that systematically document Elizabethan design elements for Victorian revival use, emphasizing precise proportional relationships and decorative details. The elevation drawing functions as both historical record and practical template, showing how Tudor and Elizabethan motifs can be adapted for contemporary construction. Technical precision serves romantic historicism, making past architectural styles available for modern application.",
     "significance": "Demonstrates how architectural drawing serves both documentation and design generation. Shows students how historical revival movements used systematic drawing to make past styles available for contemporary use.",
     "connections": [
@@ -13266,7 +13265,8 @@ export const ARCHIVE = [
       "architectural documentation",
       "historical revival",
       "proportional systems"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9068/full/800,/0/default.jpg"
   },
   {
     "id": 306,
@@ -13279,7 +13279,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Victorian Historicism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9067/full/800,/0/default.jpg",
     "description": "Richardson's drawing documents vernacular architectural details with archaeological precision, treating domestic elements as historical specimens. The chimney piece represents Gothic Revival methodology — not copying medieval forms but understanding their structural logic. Richardson's approach demonstrates how Victorian architects studied regional building traditions to establish national architectural character.",
     "significance": "Shows how documentation became design methodology in the Gothic Revival. Students learn that architectural drawing wasn't just representation but analysis — understanding how vernacular forms carried cultural meaning. Essential for understanding how national style was constructed through selective historical interpretation.",
     "connections": [
@@ -13302,7 +13301,8 @@ export const ARCHIVE = [
       "domestic architecture",
       "cultural nationalism",
       "drawing methodology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE9067/full/800,/0/default.jpg"
   },
   {
     "id": 307,
@@ -13315,7 +13315,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2306/full/800,/0/default.jpg",
     "description": "Farkas employs clean modernist typography and optimistic color to reframe socialist politics for democratic transition. The poster uses International Style rationality to distance itself from communist propaganda aesthetics while maintaining progressive political content. Typography becomes the visual argument for reformed socialism — systematic, rational, European rather than revolutionary.",
     "significance": "Demonstrates how graphic design mediates political transformation. Students see how style carries ideological meaning — modernist clarity suggests democratic rationality versus revolutionary rhetoric. Essential for understanding how visual language shapes political discourse during systemic change.",
     "connections": [
@@ -13348,7 +13347,8 @@ export const ARCHIVE = [
       "International Style",
       "Eastern European graphics",
       "typographic politics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2306/full/800,/0/default.jpg"
   },
   {
     "id": 308,
@@ -13361,7 +13361,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernist Typography",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW5325/full/800,/0/default.jpg",
     "description": "Hollis applies Swiss International Style grid systems to radical political content, using typographic rationality to give authority to fringe socialist theory. The cover design employs systematic layout and restrained color to suggest serious scholarship rather than agitational propaganda. Modernist methodology becomes the visual argument for rigorous political analysis.",
     "significance": "Demonstrates how International Style techniques could serve radical politics beyond corporate clients. Students learn that modernist rationality wasn't ideologically neutral — systematic design could legitimize anti-establishment content. Essential for understanding how style carries political meaning independent of content.",
     "connections": [
@@ -13395,7 +13394,8 @@ export const ARCHIVE = [
       "radical publishing",
       "typographic authority",
       "systematic layout"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW5325/full/800,/0/default.jpg"
   },
   {
     "id": 309,
@@ -13408,7 +13408,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2078/full/800,/0/default.jpg",
     "description": "Jirásek employs minimal typography and symbolic imagery to communicate democratic values during Czechoslovakia's Velvet Revolution. The poster uses restraint and clarity to signal rejection of communist propaganda aesthetics — truth through simplicity rather than bombast. Typography becomes political statement — readable, rational, democratic rather than agitational.",
     "significance": "Shows how graphic design mediates political revolution through aesthetic choices. Students learn that political posters work through style as much as content — visual restraint communicates political restraint. Essential for understanding how design languages carry ideological meaning during systemic change.",
     "connections": [
@@ -13442,7 +13441,8 @@ export const ARCHIVE = [
       "symbolic communication",
       "Czech design",
       "revolutionary graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2078/full/800,/0/default.jpg"
   },
   {
     "id": 310,
@@ -13455,7 +13455,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": "Marcel Wanders",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3291/full/800,/0/default.jpg",
     "description": "Uses a rope soaked in epoxy resin, shaped around an inflatable mold, then hardened to create a structural chair form. The manufacturing process transforms a flexible material into rigid furniture through chemical transformation rather than traditional joinery or molding. The knotted rope pattern remains visible as both decorative element and structural logic.",
     "significance": "Demonstrates how digital-age designers can subvert traditional material hierarchies by making soft materials hard. Shows process-driven design where the making method becomes the aesthetic language, influencing a generation of conceptual furniture designers.",
     "connections": [
@@ -13489,7 +13488,8 @@ export const ARCHIVE = [
       "dutch design",
       "material",
       "structure"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3291/full/800,/0/default.jpg"
   },
   {
     "id": 311,
@@ -13502,7 +13502,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Circular Design",
     "wikiTitle": "Emeco",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NP2083/full/800,/0/default.jpg",
     "description": "Manufactured from 111 recycled plastic bottles using injection molding to create a stackable chair. The material choice responds to ocean plastic waste while maintaining Emeco's Navy Chair proportions established in 1944. Each chair diverts specific quantities of waste from environmental systems, making sustainability quantifiable.",
     "significance": "Represents the shift from form-follows-function to form-follows-environment in 21st-century design. Shows how established manufacturers adapt historic typologies to address contemporary ecological concerns while maintaining commercial viability.",
     "connections": [
@@ -13536,7 +13535,8 @@ export const ARCHIVE = [
       "navy",
       "circular",
       "waste"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NP2083/full/800,/0/default.jpg"
   },
   {
     "id": 312,
@@ -13549,7 +13549,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HF5524/full/800,/0/default.jpg",
     "description": "Uses motion capture technology to record hand movements drawing a chair in 3D space, then materializes these gestures as a physical object through rapid prototyping. The process collapses the distance between concept and object, making the designer's thinking process visible in the final form. Each 'sketch' retains the imperfections and spontaneity of drawing.",
     "significance": "Pioneered the use of digital fabrication to capture human gesture as form-generating data. Influenced a generation of designers using parametric tools to translate intangible processes into material objects, questioning authorship in digital design.",
     "connections": [
@@ -13583,7 +13582,8 @@ export const ARCHIVE = [
       "process",
       "rapid prototyping",
       "sketch"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HF5524/full/800,/0/default.jpg"
   },
   {
     "id": 313,
@@ -13596,7 +13596,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "DIY Bio",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2933/full/800,/0/default.jpg",
     "description": "Open-source medical device designed for self-examination, downloadable and printable using consumer 3D printers. Challenges medical gatekeeping by democratizing access to gynecological tools through distributed manufacturing. The design optimizes for printability while meeting functional requirements for safe self-use.",
     "significance": "Demonstrates design's potential for healthcare democratization and bodily autonomy. Shows how digital fabrication can bypass institutional control systems, establishing design as a tool for social justice and medical equity.",
     "connections": [
@@ -13630,7 +13629,8 @@ export const ARCHIVE = [
       "accessibility",
       "feminist",
       "healthcare"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY2933/full/800,/0/default.jpg"
   },
   {
     "id": 314,
@@ -13643,7 +13643,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Fabrication",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY7895/full/800,/0/default.jpg",
     "description": "Demonstrates layered additive manufacturing process through visible stratification in the printed object. The form explores the aesthetic possibilities unique to 3D printing technology rather than mimicking traditional manufacturing processes. Each visible layer becomes both structural necessity and decorative element.",
     "significance": "Documents the maturation of 3D printing from rapid prototyping tool to legitimate manufacturing process. Shows how new technologies develop their own formal languages rather than simply replicating existing ones, influencing contemporary approaches to digital craft.",
     "connections": [
@@ -13677,7 +13676,8 @@ export const ARCHIVE = [
       "technology",
       "stratification",
       "process"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY7895/full/800,/0/default.jpg"
   },
   {
     "id": 315,
@@ -13690,7 +13690,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Fabrication",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NF0961/full/800,/0/default.jpg",
     "description": "A door handle manufactured using selective laser sintering, demonstrating how 3D printing enables complex geometries impossible with traditional casting or machining. The handle's organic form exploits additive manufacturing's freedom from tooling constraints, creating ergonomic surfaces that follow hand contact patterns. Material properties remain consistent throughout despite the intricate internal structure.",
     "significance": "Shows how digital fabrication changes design possibility space — form follows manufacturing capability rather than function alone. Demonstrates the democratization of complex geometry production and challenges traditional material-process relationships in industrial design.",
     "connections": [
@@ -13724,7 +13723,8 @@ export const ARCHIVE = [
       "ergonomics",
       "industrial design",
       "process-led design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NF0961/full/800,/0/default.jpg"
   },
   {
     "id": 316,
@@ -13737,7 +13737,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Anarchism",
     "wikiTitle": "Liberator (gun)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY2818/full/800,/0/default.jpg",
     "description": "A single-shot pistol designed for 3D printing using fused deposition modeling, with only the firing pin requiring metal fabrication. The design deliberately uses minimal material and simple geometries to test legal and regulatory boundaries around distributed manufacturing. Its crude functionality prioritizes printability and assembly simplicity over performance or durability.",
     "significance": "Demonstrates how digital fabrication disrupts regulatory control over manufacturing — design files become more significant than physical objects. Forces students to consider design's political dimensions and the responsibility that comes with democratized production capability.",
     "connections": [
@@ -13771,7 +13770,8 @@ export const ARCHIVE = [
       "digital anarchism",
       "FDM printing",
       "manufacturing democracy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY2818/full/800,/0/default.jpg"
   },
   {
     "id": 317,
@@ -13784,7 +13784,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7104/full/800,/0/default.jpg",
     "description": "A personal grooming tool fabricated using stereolithography, exploiting the process's precision to create teeth with gradually varying spacing and thickness. The comb's performance relies on computational control of material distribution, using algorithms to optimize tooth flexibility and spacing for different hair types. Each tooth's cross-section is individually calculated rather than repeated.",
     "significance": "Illustrates how digital fabrication enables mass customization at the scale of individual products. Demonstrates that computational design can improve functional performance, not just create complex aesthetics — algorithm becomes design tool.",
     "connections": [
@@ -13818,7 +13817,8 @@ export const ARCHIVE = [
       "functional variation",
       "performance design",
       "individual optimization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7104/full/800,/0/default.jpg"
   },
   {
     "id": 318,
@@ -13831,7 +13831,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7109/full/800,/0/default.jpg",
     "description": "A serving tray created through selective laser sintering, using the process's layer-by-layer construction to create integrated drainage channels and textural variations impossible with conventional forming. The surface combines smooth serving areas with textured grip zones, all fabricated as a single component. Internal voids reduce weight while maintaining structural integrity.",
     "significance": "Shows how digital fabrication can integrate multiple functions into single components, challenging traditional assembly logic. Demonstrates that 3D printing's real advantage lies in functional integration rather than just complex aesthetics.",
     "connections": [
@@ -13865,7 +13864,8 @@ export const ARCHIVE = [
       "serving vessel",
       "material efficiency",
       "integrated design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7109/full/800,/0/default.jpg"
   },
   {
     "id": 319,
@@ -13878,7 +13878,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7102/full/800,/0/default.jpg",
     "description": "A fire-starting tool fabricated using selective laser sintering, reinterpreting the archetypal flint through contemporary digital processes. The object maintains the essential functional geometry of traditional fire-making implements while exploiting 3D printing's capability for surface texturing and ergonomic optimization. Material choice prioritizes functionality over traditional craft aesthetics.",
     "significance": "Demonstrates how digital fabrication can reinterpret fundamental human tools, connecting contemporary technology with prehistoric function. Challenges students to consider how new manufacturing processes can honor essential functions while enabling formal innovation.",
     "connections": [
@@ -13912,7 +13911,8 @@ export const ARCHIVE = [
       "tool design",
       "manufacturing evolution",
       "essential function"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7102/full/800,/0/default.jpg"
   },
   {
     "id": 320,
@@ -13925,7 +13925,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Swiss Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7110/full/800,/0/default.jpg",
     "description": "Noh's scissors reduce the archetypal form to its functional essence, eliminating the traditional finger loops in favor of a pinch grip that requires users to actively engage with the cutting mechanism. The gesture becomes part of the design logic — compression activates the blades while release opens them. This removal of conventional handles forces a more conscious relationship between hand and tool.",
     "significance": "Students learn how removing expected features can intensify function rather than diminish it. The design demonstrates that ergonomics isn't about comfort but about creating meaningful physical dialogue between user and object.",
     "connections": [
@@ -13954,7 +13953,8 @@ export const ARCHIVE = [
       "tool design",
       "embodied interaction",
       "contemporary craft"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW7110/full/800,/0/default.jpg"
   },
   {
     "id": 321,
@@ -13967,7 +13967,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Open Source Manufacturing",
     "wikiTitle": "MakerBot Thing-O-Matic",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH2453/full/800,/0/default.jpg",
     "description": "The Thing-O-Matic democratized 3D printing by making the technology accessible to non-experts through kit assembly and open-source design files. Its deliberately crude aesthetic — exposed mechanisms, visible wiring, plywood frame — signals its position as a tool for making rather than a finished consumer product. The name itself reflects the playful, experimental culture of early desktop manufacturing.",
     "significance": "Students encounter the moment when manufacturing tools became consumer products, demonstrating how open-source methodology can challenge industrial production hierarchies. The design shows how aesthetic rawness can communicate accessibility and transparency.",
     "connections": [
@@ -13996,7 +13995,8 @@ export const ARCHIVE = [
       "desktop fabrication",
       "maker culture",
       "accessible technology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH2453/full/800,/0/default.jpg"
   },
   {
     "id": 322,
@@ -14009,7 +14009,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Op Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX5015/full/800,/0/default.jpg",
     "description": "Robbins uses lithographic precision to create an impossible spatial paradox — a checkerboard that appears simultaneously flat and three-dimensional. The pattern exploits the eye's attempt to resolve contradictory depth cues, creating unstable visual space that shifts between interpretation as surface decoration and architectural structure. Each square reads as both tile and void.",
     "significance": "Students learn how systematic geometric patterns can generate complex perceptual effects, demonstrating that graphic design can manipulate space without perspective or modeling. The work shows how repetition becomes a tool for creating visual instability rather than order.",
     "connections": [
@@ -14038,7 +14037,8 @@ export const ARCHIVE = [
       "spatial paradox",
       "visual instability",
       "op art"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX5015/full/800,/0/default.jpg"
   },
   {
     "id": 323,
@@ -14051,7 +14051,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Jewelry",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3834/full/800,/0/default.jpg",
     "description": "Balashova's earring exploits 3D printing's capacity for geometric complexity impossible in traditional jewelry making — interlocking forms that could never be cast or fabricated by hand. The design exists only because of the specific capabilities of additive manufacturing, where complex internal geometries cost no more than simple ones. The prototype status signals ongoing investigation rather than resolved product.",
     "significance": "Students see how new manufacturing technologies enable new formal languages that couldn't exist otherwise. The work demonstrates how prototyping becomes a design methodology for exploring technological possibilities rather than just testing marketable products.",
     "connections": [
@@ -14080,7 +14079,8 @@ export const ARCHIVE = [
       "prototyping",
       "technological form-finding",
       "parametric design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3834/full/800,/0/default.jpg"
   },
   {
     "id": 324,
@@ -14093,7 +14093,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG6278/full/800,/0/default.jpg",
     "description": "Studio Drift embeds real dandelion seeds in LED-lit glass tubes, creating a chandelier that combines natural fragility with technological permanence. Each tube preserves a moment of dispersal — the seeds appear suspended mid-flight, frozen between growth and decay. The LEDs illuminate both the technical infrastructure and the organic specimens, making visible the usually hidden relationship between nature and artificial lighting.",
     "significance": "Students encounter how contemporary design can interrogate the boundary between natural and artificial materials. The work demonstrates that lighting design can function as environmental commentary, using the domestic chandelier format to explore larger questions of preservation and loss.",
     "connections": [
@@ -14122,7 +14121,8 @@ export const ARCHIVE = [
       "fragility",
       "Dutch design",
       "organic forms"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG6278/full/800,/0/default.jpg"
   },
   {
     "id": 325,
@@ -14135,7 +14135,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-Industrial",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG0970/full/800,/0/default.jpg",
     "description": "Dixon's self-portrait reveals his transition from art to design through material manipulation. The painting documents his interest in transformation—the same conceptual approach he would later apply to welding salvaged metal into furniture. This work captures the designer as bricoleur, establishing his methodology of remaking found objects into new functional forms.",
     "significance": "This demonstrates how designers develop their material philosophy before establishing their practice. Dixon's artistic background explains his approach to design as transformation rather than creation from scratch, showing students how personal methodology can emerge from other disciplines.",
     "connections": [
@@ -14163,7 +14162,8 @@ export const ARCHIVE = [
       "post-industrial",
       "found objects",
       "welding methodology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG0970/full/800,/0/default.jpg"
   },
   {
     "id": 326,
@@ -14176,7 +14176,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Social Architecture",
     "wikiTitle": "Assemble (collective)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8667/full/800,/0/default.jpg",
     "description": "Assemble's bookends demonstrate their approach to design as social intervention through everyday objects. The rough, unfinished aesthetic reflects their architectural practice of community engagement—rejecting polished design in favor of accessible, democratic forms. These objects embody their philosophy that good design emerges from collective making rather than individual authorship.",
     "significance": "These bookends teach students how design can carry political intent through material choices. Assemble's deliberately rough aesthetic argues that democratic design should reject exclusivity, showing how formal decisions can embody social values.",
     "connections": [
@@ -14204,7 +14203,8 @@ export const ARCHIVE = [
       "craft imperfection",
       "community engagement",
       "unfinished surfaces"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8667/full/800,/0/default.jpg"
   },
   {
     "id": 327,
@@ -14217,7 +14217,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Functionalism",
     "wikiTitle": "Konstantin Grcic",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7432/full/800,/0/default.jpg",
     "description": "Grcic's Chair One reduces sitting to its structural essentials through angular concrete-like geometry. The chair's faceted planes eliminate curves, creating a form that appears digitally generated but maintains human ergonomics. This mathematical approach to furniture demonstrates how computational thinking can inform physical design without losing functional performance.",
     "significance": "Chair One shows students how digital aesthetics can be applied to analog manufacturing. Grcic proves that geometric reduction doesn't require sacrificing comfort, teaching how contemporary designers balance formal innovation with functional requirements.",
     "connections": [
@@ -14245,7 +14244,8 @@ export const ARCHIVE = [
       "contemporary functionalism",
       "angular geometry",
       "ergonomic mathematics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7432/full/800,/0/default.jpg"
   },
   {
     "id": 328,
@@ -14258,7 +14258,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Pop Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GD3739/full/800,/0/default.jpg",
     "description": "Holdaway's Tomotom side table embodies 1960s British design's playful modernism through its sculptural white form. The table's organic geometry references space-age aesthetics while maintaining domestic functionality. Its molded construction demonstrates how new manufacturing processes enabled designers to create furniture that looked futuristic yet remained practical for everyday use.",
     "significance": "Tomotom teaches students how cultural zeitgeist influences formal language. The table shows how 1960s optimism about technology and space exploration translated into domestic objects, demonstrating design's role as cultural barometer.",
     "connections": [
@@ -14286,7 +14285,8 @@ export const ARCHIVE = [
       "British pop",
       "organic geometry",
       "futuristic domesticity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GD3739/full/800,/0/default.jpg"
   },
   {
     "id": 329,
@@ -14299,7 +14299,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Social Architecture",
     "wikiTitle": "Assemble (collective)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8672/full/800,/0/default.jpg",
     "description": "Assemble's Rock Table Lamp demonstrates lighting as found object, using raw stone as both base and conceptual statement. The lamp's minimal intervention—inserting electrical components into natural material—reflects their architectural practice of working with existing conditions rather than imposing new forms. This approach questions the necessity of design transformation, proposing that good lighting can emerge from simple material honesty.",
     "significance": "This lamp teaches students that design intervention can be minimal yet meaningful. Assemble shows how restraint can be more powerful than elaboration, demonstrating that contemporary practice can embrace rawness over refinement.",
     "connections": [
@@ -14327,7 +14326,8 @@ export const ARCHIVE = [
       "raw materials",
       "anti-industrial",
       "social architecture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8672/full/800,/0/default.jpg"
   },
   {
     "id": 330,
@@ -14340,7 +14340,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Defensive Architecture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC9457/full/800,/0/default.jpg",
     "description": "These stainless steel spikes mount onto surfaces to prevent human occupation or bird perching. The design reduces architecture to its most aggressive function — exclusion through physical deterrent. Each spike is precisely engineered for maximum discomfort while maintaining legal defensibility, creating a landscape of micro-hostilities.",
     "significance": "Demonstrates how design serves power structures through spatial control and social exclusion. Students must understand that functional design extends beyond user comfort to include designed hostility — architecture as social engineering rather than shelter.",
     "connections": [
@@ -14369,7 +14368,8 @@ export const ARCHIVE = [
       "deterrent",
       "public space",
       "institutional violence"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC9457/full/800,/0/default.jpg"
   },
   {
     "id": 331,
@@ -14382,7 +14382,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Organic Architecture",
     "wikiTitle": "Frank Lloyd Wright",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU0674/full/800,/0/default.jpg",
     "description": "Wright extends his architectural principles to furniture scale, creating chairs as spatial architecture rather than seating. The high back functions as room divider and spatial definer, making each chair a micro-building. The geometric composition reflects Wright's Prairie School vocabulary translated to human-scale objects.",
     "significance": "Shows how architectural thinking transforms furniture from objects into spatial systems. Students learn that furniture can organize space architecturally, not just accommodate bodies, demonstrating scale-jumping between disciplines.",
     "connections": [
@@ -14411,7 +14410,8 @@ export const ARCHIVE = [
       "room divider",
       "micro-building",
       "spatial hierarchy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU0674/full/800,/0/default.jpg"
   },
   {
     "id": 332,
@@ -14424,7 +14424,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "New Brutalism",
     "wikiTitle": "Peter Smithson",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3570/full/800,/0/default.jpg",
     "description": "Smithson's chair abandons comfort for structural honesty, exposing construction methods and material properties as the design language. The name 'Pogo' suggests movement and instability, challenging furniture's traditional role as stable support. Each joint and connection becomes visible architectural detail rather than hidden joinery.",
     "significance": "Demonstrates New Brutalist principles at furniture scale — material honesty, structural expression, and rejection of bourgeois comfort. Teaches students that architectural ideologies can be tested through furniture before building, using domestic objects as manifestos.",
     "connections": [
@@ -14453,7 +14452,8 @@ export const ARCHIVE = [
       "construction visibility",
       "anti-comfort",
       "manifesto objects"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3570/full/800,/0/default.jpg"
   },
   {
     "id": 333,
@@ -14466,7 +14466,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Street Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JF9206/full/800,/0/default.jpg",
     "description": "Small transforms urban portraiture through layered stencil techniques that reference both street art and fine art printing methods. The work builds facial features through multiple spray applications, creating depth through color separation rather than line drawing. This process mirrors screen printing's registration system but applies it to aerosol media.",
     "significance": "Shows how street art develops its own sophisticated production methods that parallel traditional printmaking. Students learn that graphic design techniques can emerge from unofficial practices and challenge institutional definitions of legitimate design process.",
     "connections": [
@@ -14495,7 +14494,8 @@ export const ARCHIVE = [
       "color separation",
       "unofficial practice",
       "alternative printmaking"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JF9206/full/800,/0/default.jpg"
   },
   {
     "id": 334,
@@ -14508,7 +14508,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pop Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT4902/full/800,/0/default.jpg",
     "description": "This inflatable pillow exploits PVC's dual properties — rigid when inflated, collapsible when empty — to create furniture that stores flat but inflates to full volume. The printed circles transform the industrial material's surface into decorative patterning, making cheapness readable as Pop playfulness. Air pressure alone maintains structural integrity, eliminating traditional framework.",
     "significance": "Shows how 1960s designers used industrial materials to challenge furniture conventions. The air-filled structure demonstrates how function can emerge from material properties rather than imposed frameworks. Essential for understanding how Pop design made industrial cheapness into cultural value.",
     "connections": [
@@ -14542,7 +14541,8 @@ export const ARCHIVE = [
       "material properties",
       "1960s",
       "American design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT4902/full/800,/0/default.jpg"
   },
   {
     "id": 335,
@@ -14555,7 +14555,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Pop Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT4901/full/800,/0/default.jpg",
     "description": "The metallic silver stripes create visual tension with the inflated orange form, making the pillow appear both space-age and handmade. Unlike traditional upholstery that hides its construction, the heat-welded seams become decorative elements. The striping pattern works with the pillow's geometry to create optical effects when the surface curves under air pressure.",
     "significance": "Demonstrates how surface graphics can work with three-dimensional form to create visual complexity from simple manufacturing processes. The silver stripes show how reflective materials can make cheap objects appear technologically advanced. Key for understanding Pop design's relationship between appearance and manufacturing economy.",
     "connections": [
@@ -14589,7 +14588,8 @@ export const ARCHIVE = [
       "air structure",
       "space age",
       "surface graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NT4901/full/800,/0/default.jpg"
   },
   {
     "id": 336,
@@ -14602,7 +14602,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": "Blow (chair)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP3752/full/800,/0/default.jpg",
     "description": "The first mass-produced inflatable chair uses clear PVC to make its air-filled structure completely visible. Four cylindrical chambers distribute weight while the transparency dematerializes the object — users appear to float on compressed air. The welded seams create the only structural lines, making manufacturing process into decorative element.",
     "significance": "Revolutionary for making furniture disappear while remaining functional. The transparent material questions the boundary between object and space, while air replaces all traditional structural materials. Essential for understanding how Radical Design used industrial materials to critique furniture conventions.",
     "connections": [
@@ -14636,7 +14635,8 @@ export const ARCHIVE = [
       "dematerialization",
       "Italian design",
       "1967"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP3752/full/800,/0/default.jpg"
   },
   {
     "id": 337,
@@ -14649,7 +14649,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Design Innovation",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LK7808/full/800,/0/default.jpg",
     "description": "This backpack inflates from a flat pack using a small pump, creating structured compartments from air pressure alone. The inflatable chambers provide both padding and organization, while the pump integrates into the design as both tool and component. When deflated, the entire backpack folds to envelope size, solving the storage problem that traditional rigid frames create.",
     "significance": "Shows how inflatable principles evolved from 1960s furniture experiments into practical applications. The pump-integrated design demonstrates how tools can become integral design elements. Important for understanding how speculative 1960s concepts became viable consumer products through technological refinement.",
     "connections": [
@@ -14683,7 +14682,8 @@ export const ARCHIVE = [
       "storage solution",
       "pump",
       "modular"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LK7808/full/800,/0/default.jpg"
   },
   {
     "id": 338,
@@ -14696,7 +14696,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Pop Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6687/full/800,/0/default.jpg",
     "description": "Colwell's chair exploits injection-molded fiberglass to create a single-shell seat that follows the body's contours without traditional upholstery. The material's structural properties allow for a cantilevered form that distributes weight through the shell itself. Its bright orange finish demonstrates how new plastics could express optimism through color rather than craft tradition.",
     "significance": "Shows how 1960s British designers used industrial materials to challenge furniture conventions. Demonstrates the shift from craft-based seating to industrial molding processes that would define contemporary chair design.",
     "connections": [
@@ -14730,7 +14729,8 @@ export const ARCHIVE = [
       "structural color",
       "industrial furniture",
       "1960s optimism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6687/full/800,/0/default.jpg"
   },
   {
     "id": 339,
@@ -14743,7 +14743,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Space Age Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8584/full/800,/0/default.jpg",
     "description": "Quarmby's pouffe employs molded foam construction to create a seamless, upholstered form that appears to float above the ground. The geometric simplicity masks complex internal structure where the foam core provides both support and shape. Its white finish and curved edges embody 1960s fascination with spacecraft aesthetics translated to domestic furniture.",
     "significance": "Demonstrates how British designers applied space-age visual language to everyday objects. Shows the transition from traditional sprung upholstery to synthetic foam technologies that enabled new furniture typologies.",
     "connections": [
@@ -14777,7 +14776,8 @@ export const ARCHIVE = [
       "floating furniture",
       "1960s modernism",
       "domestic sculpture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8584/full/800,/0/default.jpg"
   },
   {
     "id": 340,
@@ -14790,7 +14790,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Vernacular Documentation",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BC3371/full/800,/0/default.jpg",
     "description": "Squires' scrapbook employs systematic collection and arrangement of found graphic materials to document cultural moments. The book functions as both archive and creative practice, where the act of selection and juxtaposition becomes a form of authorship. Its pages reveal how ordinary citizens could participate in design discourse through curatorial assembly rather than original creation.",
     "significance": "Shows how design thinking operates outside professional practice through everyday curation. Demonstrates that arrangement and selection are valid forms of visual communication that students can learn from non-designers.",
     "connections": [
@@ -14824,7 +14823,8 @@ export const ARCHIVE = [
       "visual archive",
       "amateur practice",
       "cultural collection"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BC3371/full/800,/0/default.jpg"
   },
   {
     "id": 341,
@@ -14837,7 +14837,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "1960s DIY Fashion",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MU8162/full/800,/0/default.jpg",
     "description": "Incadinc's kit reduces dress-making to a modular system where pre-cut components can be assembled without traditional sewing skills. The packaging presents fashion as a constructor set, democratizing garment creation through systematic simplification. Each element is designed for easy manipulation, transforming couture techniques into accessible domestic craft.",
     "significance": "Demonstrates how 1960s designers applied systems thinking to personal expression. Shows the intersection of fashion, product design, and social change where DIY culture challenged professional expertise through accessible tools.",
     "connections": [
@@ -14871,7 +14870,8 @@ export const ARCHIVE = [
       "systematic design",
       "domestic craft",
       "accessible making"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MU8162/full/800,/0/default.jpg"
   },
   {
     "id": 342,
@@ -14884,7 +14884,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FN4906/full/800,/0/default.jpg",
     "description": "Morrison's chair exploits plywood's structural properties to create a minimal form where material logic dictates aesthetic outcome. The bent plywood shell demonstrates how industrial materials can achieve both strength and elegance through precise engineering. Its unadorned surface celebrates the wood grain as integral ornament rather than applied decoration.",
     "significance": "Shows how late 20th-century British designers returned to material honesty after postmodern excess. Demonstrates that functionalist principles remained relevant by focusing on essential chair requirements rather than stylistic gesture.",
     "connections": [
@@ -14918,7 +14917,8 @@ export const ARCHIVE = [
       "post-postmodern",
       "minimal form",
       "wood technology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FN4906/full/800,/0/default.jpg"
   },
   {
     "id": 343,
@@ -14931,7 +14931,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Super Normal",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KB0935/full/800,/0/default.jpg",
     "description": "A plywood chair that reduces seating to its essential geometric components — seat, back, and legs — without visible joints or unnecessary details. Morrison uses minimal material and a monochromatic finish to create an anonymous object that performs its function without demanding attention. The chair's proportions and angles are calibrated for extended use, embodying Morrison's philosophy that good design should be 'super normal' rather than spectacular.",
     "significance": "Shows students how reduction can be a form of sophistication, not simplification. Demonstrates that contemporary design can critique both modernist functionalism and postmodern expressiveness by proposing a third way: objects that work perfectly but remain culturally neutral. Essential for understanding how design can be simultaneously contemporary and timeless.",
     "connections": [
@@ -14965,7 +14964,8 @@ export const ARCHIVE = [
       "proportions",
       "minimalism",
       "contemporary"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KB0935/full/800,/0/default.jpg"
   },
   {
     "id": 344,
@@ -14978,7 +14978,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Super Normal",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY2038/full/800,/0/default.jpg",
     "description": "A minimal wire bottle rack that references Duchamp's readymade while functioning as genuine kitchen storage. Morrison strips the form to a simple grid of wire loops that hold bottles by their necks, using industrial wire-bending techniques to create clean, repetitive geometry. The design deliberately echoes vernacular bottle storage while refining the proportions and finish to gallery-standard quality.",
     "significance": "Teaches students how contemporary design can reference art history while remaining functionally grounded. Shows how the readymade concept can be reversed — instead of making everyday objects into art, Morrison makes art references into better everyday objects. Demonstrates that conceptual sophistication doesn't require formal complexity.",
     "connections": [
@@ -15012,7 +15011,8 @@ export const ARCHIVE = [
       "industrial",
       "Duchamp",
       "vernacular"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KY2038/full/800,/0/default.jpg"
   },
   {
     "id": 345,
@@ -15025,7 +15025,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Super Normal",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM4261/full/800,/0/default.jpg",
     "description": "A glass tumbler designed specifically for Swedish Falcon beer, with proportions calibrated to the volume and foam characteristics of the brew. Morrison creates a simple cylindrical form with a slight taper that feels natural in the hand and stacks efficiently for commercial use. The glass thickness and rim are optimized for the sensory experience of drinking beer — the weight, the feel against the lips, and the way foam settles.",
     "significance": "Teaches students that good design extends to the most mundane objects and that understanding use context is crucial. Shows how functional optimization can create objects that feel 'right' without dramatic formal gestures. Demonstrates that commercial design briefs can produce work as sophisticated as gallery pieces.",
     "connections": [
@@ -15059,7 +15058,8 @@ export const ARCHIVE = [
       "Nordic",
       "optimization",
       "everyday"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM4261/full/800,/0/default.jpg"
   },
   {
     "id": 346,
@@ -15072,7 +15072,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Super Normal",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP3674/full/800,/0/default.jpg",
     "description": "Morrison's Pill Stool reduces seating to its essential geometric form — a perfect cylinder. The solid beech construction eliminates all decorative elements, achieving structural clarity through material honesty. Its proportions derive from ergonomic requirements rather than formal preferences, creating a stool that functions equally as seat, side table, or sculptural object.",
     "significance": "Students learn how radical simplification can produce maximum functional flexibility. The stool demonstrates Morrison's 'Super Normal' philosophy — that good design disappears into everyday use. It shows how geometric reduction can create archetypal rather than minimalist forms.",
     "connections": [
@@ -15106,7 +15105,8 @@ export const ARCHIVE = [
       "cylindrical geometry",
       "solid wood construction",
       "Morrison philosophy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP3674/full/800,/0/default.jpg"
   },
   {
     "id": 347,
@@ -15119,7 +15119,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Scandinavian Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY4269/full/800,/0/default.jpg",
     "description": "Dahlström's BD:1 chair employs bent steel tube construction with a minimal plywood seat and back. The design reduces the chair to its structural essentials — continuous steel frame providing both support and cantilever spring action. The proportions follow Scandinavian restraint principles, avoiding formal excess while maintaining ergonomic comfort.",
     "significance": "Students understand how 1990s Scandinavian design continued modernist reduction principles while incorporating new manufacturing techniques. The chair demonstrates how traditional bent-tube construction can be refined for contemporary production. It shows Swedish design's commitment to democratic accessibility through material economy.",
     "connections": [
@@ -15153,7 +15152,8 @@ export const ARCHIVE = [
       "structural honesty",
       "plywood insertion",
       "contemporary functionalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY4269/full/800,/0/default.jpg"
   },
   {
     "id": 348,
@@ -15166,7 +15166,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU5098/full/800,/0/default.jpg",
     "description": "Jongerius combines traditional Delft pottery techniques with contemporary formal language, creating a jug that references historical ceramics while asserting modern identity. The blue and white color palette maintains cultural continuity, but the simplified geometric form and deliberate imperfections challenge craft perfection ideals. Hand-thrown construction preserves artisanal methods within conceptual design frameworks.",
     "significance": "Students learn how contemporary designers negotiate between tradition and innovation without pastiche or rejection. The jug demonstrates post-industrial design's reengagement with craft methods. It shows how cultural memory can inform rather than constrain design development.",
     "connections": [
@@ -15200,7 +15199,8 @@ export const ARCHIVE = [
       "contemporary ceramics",
       "Dutch design",
       "tradition innovation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU5098/full/800,/0/default.jpg"
   },
   {
     "id": 349,
@@ -15213,7 +15213,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH5492/full/800,/0/default.jpg",
     "description": "Jongerius designed this lounge chair for the UN's renovation, combining institutional durability requirements with human comfort needs. The upholstery employs multiple textile techniques — weaving, knitting, embroidery — creating surface complexity that softens corporate environments. Color gradations and pattern variations across the textile prevent institutional uniformity while maintaining professional appropriateness.",
     "significance": "Students understand how designers address institutional briefs without sacrificing human-centered design principles. The chair demonstrates textile innovation as architectural strategy. It shows how craft techniques can humanize corporate spaces while meeting institutional durability standards.",
     "connections": [
@@ -15247,7 +15246,8 @@ export const ARCHIVE = [
       "color gradation",
       "pattern variation",
       "psychological comfort"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH5492/full/800,/0/default.jpg"
   },
   {
     "id": 350,
@@ -15260,7 +15260,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3737/full/800,/0/default.jpg",
     "description": "Jongerius constructs domestic textiles as archaeological fragments, embedding synthetic materials within traditional weaving structures to question craft authenticity. The wall hanging deliberately displays its making process through visible seams and material transitions. Her hybrid approach treats industrial and handmade techniques as equal contributors to contemporary material culture.",
     "significance": "Shows how post-industrial designers critique the craft/industry divide by making process visible rather than concealed. Demonstrates methods for embedding conceptual arguments about authenticity directly into material choices and construction techniques.",
     "connections": [
@@ -15294,7 +15293,8 @@ export const ARCHIVE = [
       "domestic textiles",
       "making visible",
       "post-industrial craft"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3737/full/800,/0/default.jpg"
   },
   {
     "id": 351,
@@ -15307,7 +15307,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2922/full/800,/0/default.jpg",
     "description": "Four ceramic beakers where each displays a different 'flaw' — cracks, bumps, discoloration, and rough texture — challenging perfection as design goal. Jongerius programs deliberate imperfections into industrial processes, questioning whether flawlessness equals quality. The set demonstrates how designers can embed critique of mass production within mass production itself.",
     "significance": "Teaches students that design arguments can be made through manufacturing choices, not just form. Shows how Dutch Design challenged 1990s assumptions about digital perfection by reintroducing controlled randomness and human trace into industrial processes.",
     "connections": [
@@ -15341,7 +15340,8 @@ export const ARCHIVE = [
       "human trace",
       "manufacturing arguments",
       "Dutch Design philosophy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2922/full/800,/0/default.jpg"
   },
   {
     "id": 352,
@@ -15354,7 +15354,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3577/full/800,/0/default.jpg",
     "description": "A flat pattern that folds into a three-dimensional cube, existing simultaneously as surface design and spatial object. The pattern's graphics change meaning when folded — abstract motifs become architectural elements. Jongerius explores how the same visual information can function differently in two and three dimensions.",
     "significance": "Demonstrates how contemporary designers think across dimensional boundaries rather than within single disciplines. Shows students that pattern, product, and spatial design can be unified through systematic thinking about transformation and state changes.",
     "connections": [
@@ -15388,7 +15387,8 @@ export const ARCHIVE = [
       "two-dimensional three-dimensional",
       "disciplinary boundaries",
       "systematic transformation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW3577/full/800,/0/default.jpg"
   },
   {
     "id": 353,
@@ -15401,7 +15401,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW2669/full/800,/0/default.jpg",
     "description": "Textile that integrates digital imagery into traditional weaving structures, creating windows within fabric that reveal photographic landscapes. The work questions whether textiles can function as both material boundary and visual portal. Jongerius embeds contemporary image culture within ancient craft techniques to create hybrid media objects.",
     "significance": "Shows how contemporary designers integrate digital culture with traditional craft methods rather than replacing them. Teaches students to think about textiles as information carriers, not just decorative surfaces, expanding what domestic materials can communicate.",
     "connections": [
@@ -15435,7 +15434,8 @@ export const ARCHIVE = [
       "image culture",
       "craft technology",
       "visual windows"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW2669/full/800,/0/default.jpg"
   },
   {
     "id": 354,
@@ -15448,7 +15448,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5305/full/800,/0/default.jpg",
     "description": "Emergency-style work lamp adapted for domestic use through refined proportions and quality materials while retaining industrial functionality. The pivoting head, robust construction, and bright LED make it equally suited to workshop and living room. Grcic demonstrates how industrial archetypes can be domesticated without losing their essential character or performance.",
     "significance": "Shows students how contemporary functionalism refines rather than abandons industrial references, proving that domestic objects can maintain working credibility. Demonstrates that good design emerges from understanding and improving existing typologies rather than inventing new ones.",
     "connections": [
@@ -15482,7 +15481,8 @@ export const ARCHIVE = [
       "pivot mechanisms",
       "contemporary functionalism",
       "typological improvement"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5305/full/800,/0/default.jpg"
   },
   {
     "id": 355,
@@ -15495,7 +15495,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY4272/full/800,/0/default.jpg",
     "description": "A cast aluminum table reduced to essential geometric forms, with a single central pedestal supporting a circular top. The casting process allows for structural integrity while maintaining visual lightness through material honesty. The monolithic base contrasts with the floating appearance of the thin tabletop.",
     "significance": "Demonstrates how industrial casting can create furniture that appears structurally impossible—teaching students about the relationship between manufacturing processes and formal expression. Shows how contemporary functionalism can achieve poetry through reduction rather than decoration.",
     "connections": [
@@ -15523,7 +15522,8 @@ export const ARCHIVE = [
       "structural minimalism",
       "contemporary functionalism",
       "material honesty"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY4272/full/800,/0/default.jpg"
   },
   {
     "id": 356,
@@ -15536,7 +15536,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MU2045/full/800,/0/default.jpg",
     "description": "A stackable plastic chair that rotates 360 degrees on its base, combining mobility with storage efficiency. The injection-molded seat shell sits on a metal swivel mechanism, allowing users to orient themselves without moving the chair. The design prioritizes functional behavior over formal expression.",
     "significance": "Shows students how to embed behavioral intelligence into furniture design—the swivel function anticipates user needs rather than imposing formal constraints. Demonstrates that contemporary functionalism can innovate through use patterns, not just visual reduction.",
     "connections": [
@@ -15564,7 +15563,8 @@ export const ARCHIVE = [
       "plastic furniture",
       "office furniture",
       "functional rotation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MU2045/full/800,/0/default.jpg"
   },
   {
     "id": 357,
@@ -15577,7 +15577,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Domesticity",
     "wikiTitle": "Samsung Serif",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE2380/full/800,/0/default.jpg",
     "description": "A television designed as furniture rather than technology, with a distinctive frame that creates visual weight and domestic presence. The thick border references traditional picture frames, while the detachable legs allow it to function as floor or table object. The design domesticates screen technology through familiar furniture typologies.",
     "significance": "Teaches students how to humanize digital technology by borrowing from furniture design languages. Demonstrates that industrial design can challenge the invisibility imperative of consumer electronics—showing how to make technology feel at home rather than alien.",
     "connections": [
@@ -15605,7 +15604,8 @@ export const ARCHIVE = [
       "frame reference",
       "consumer electronics",
       "living room furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE2380/full/800,/0/default.jpg"
   },
   {
     "id": 358,
@@ -15618,7 +15618,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NH6272/full/800,/0/default.jpg",
     "description": "A laser-cut wooden tray with interlocking joints that assembles without hardware or glue. The design exploits digital fabrication precision to create traditional joinery, with slots and tabs that lock together through material tension. Each compartment is sized for specific office supplies, creating functional hierarchy through geometry.",
     "significance": "Shows students how digital tools can revive traditional craft techniques with contemporary precision. Demonstrates that sustainability can drive formal innovation—the flat-pack assembly reduces shipping volume while the joint system eliminates adhesives and fasteners.",
     "connections": [
@@ -15646,7 +15645,8 @@ export const ARCHIVE = [
       "office organization",
       "sustainable design",
       "modular system"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NH6272/full/800,/0/default.jpg"
   },
   {
     "id": 359,
@@ -15659,7 +15659,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modular Systems Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY5247/full/800,/0/default.jpg",
     "description": "A modular room divider system made from injection-molded plastic elements that link together like seaweed fronds. Each identical unit clips to others through integral fasteners, creating organic-looking screens from repeated geometric components. The system grows through user assembly rather than predetermined configurations.",
     "significance": "Teaches students how biological growth patterns can inspire modular design systems—showing that complexity can emerge from simple rules rather than complicated forms. Demonstrates how injection molding can create both structural and decorative functions in a single operation.",
     "connections": [
@@ -15687,7 +15686,8 @@ export const ARCHIVE = [
       "clip assembly",
       "spatial organization",
       "biomimetic design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY5247/full/800,/0/default.jpg"
   },
   {
     "id": 360,
@@ -15700,7 +15700,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0370/full/800,/0/default.jpg",
     "description": "Made by pleating a single sheet of recycled paper into structural folds that mimic cabbage leaves, this chair transforms waste material into functional seating through origami-inspired techniques. The manufacturing process requires no adhesives, joints, or frames — the paper's folded geometry provides all necessary structural integrity. The design demonstrates how biomimicry and material efficiency can converge in furniture production.",
     "significance": "Shows students how conceptual rigor can drive material innovation, proving that sustainable design need not compromise structural performance. Essential for understanding how Japanese design philosophy applies systems thinking to everyday objects.",
     "connections": [
@@ -15734,7 +15733,8 @@ export const ARCHIVE = [
       "waste material",
       "conceptual furniture",
       "Japanese minimalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0370/full/800,/0/default.jpg"
   },
   {
     "id": 361,
@@ -15747,7 +15747,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JD9518/full/800,/0/default.jpg",
     "description": "A series of chair models that copy and distort the proportions of existing chair types, creating familiar-yet-strange forms that question our assumptions about seating typologies. Each piece maintains the essential function of a chair while subtly altering scale, proportion, or material to create cognitive dissonance. The design process involves systematic analysis and reinterpretation of archetypal furniture forms.",
     "significance": "Teaches students how design research can become design method — showing how analytical processes of copying and variation can generate new formal possibilities. Demonstrates the value of typological thinking in contemporary practice.",
     "connections": [
@@ -15781,7 +15780,8 @@ export const ARCHIVE = [
       "furniture archetypes",
       "cognitive dissonance",
       "systematic variation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JD9518/full/800,/0/default.jpg"
   },
   {
     "id": 362,
@@ -15794,7 +15794,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HK1290/full/800,/0/default.jpg",
     "description": "Constructed from a continuous 21.4-meter length of aluminum bent into chair form without cutting or joining, this piece demonstrates how single-material continuity can create structural furniture. The precise title quantifies the exact material input, making the design process transparent while challenging assumptions about furniture assembly. The aluminum's inherent properties — strength, flexibility, and workability — drive every formal decision.",
     "significance": "Shows students how material constraints can become generative design parameters, proving that limitations often produce more innovative solutions than unlimited options. Essential for understanding how process transparency can become part of design meaning.",
     "connections": [
@@ -15828,7 +15827,8 @@ export const ARCHIVE = [
       "structural continuity",
       "material constraints",
       "Japanese precision"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HK1290/full/800,/0/default.jpg"
   },
   {
     "id": 363,
@@ -15841,7 +15841,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HX9943/full/800,/0/default.jpg",
     "description": "Combines traditional Japanese joinery with contemporary production methods, using precise wood connections that eliminate the need for visible hardware. The chair's form emerges from the structural logic of its joints, with each connection point carefully engineered to distribute loads while maintaining visual simplicity. The design demonstrates how traditional craft knowledge can inform industrial production without sacrificing cultural authenticity.",
     "significance": "Teaches students how cultural design traditions can evolve through contemporary manufacturing while maintaining their essential logic. Critical for understanding how regional expertise can compete globally through technical excellence rather than formal novelty.",
     "connections": [
@@ -15875,7 +15874,8 @@ export const ARCHIVE = [
       "cultural authenticity",
       "minimal details",
       "contemporary craft"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HX9943/full/800,/0/default.jpg"
   },
   {
     "id": 364,
@@ -15888,7 +15888,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "French Haute Couture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN7065/full/800,/0/default.jpg",
     "description": "Saint Laurent's scarf transforms haute couture logic into textile format through precise pattern registration and calculated colour relationships. The silk substrate carries complex graphic information while maintaining the drape and tactility essential to luxury accessories. Pattern elements align with fabric grain to prevent distortion during wear.",
     "significance": "Shows how high fashion principles translate across media — pattern, colour, and material quality create luxury through systematic design decisions rather than arbitrary decoration. Demonstrates the design challenge of maintaining visual coherence across a flexible, deformable surface.",
     "connections": [
@@ -15917,7 +15916,8 @@ export const ARCHIVE = [
       "haute couture",
       "surface graphics",
       "wearable design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN7065/full/800,/0/default.jpg"
   },
   {
     "id": 365,
@@ -15930,7 +15930,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Print Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX6201/full/800,/0/default.jpg",
     "description": "This millennium greeting card employs digital printing to achieve colour precision impossible with traditional offset methods. The design logic prioritizes immediate visual impact through high contrast and simplified forms. Typography and imagery integrate through shared geometric principles rather than decorative overlay.",
     "significance": "Demonstrates how digital printing democratized complex colour reproduction, allowing small-run graphics to achieve previously exclusive visual effects. Shows the shift from craft-based to data-driven design processes at the century's turn.",
     "connections": [
@@ -15959,7 +15958,8 @@ export const ARCHIVE = [
       "greeting cards",
       "visual communication",
       "digital graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX6201/full/800,/0/default.jpg"
   },
   {
     "id": 366,
@@ -15972,7 +15972,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Conceptual Fashion",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU1689/full/800,/0/default.jpg",
     "description": "Casely-Hayford's wedding dress interrogates the marriage ceremony through architectural silhouette and material contradiction. The structured bodice references military tailoring while the skirt volume suggests ceremonial robes. Surface treatments layer cultural symbols that question rather than celebrate matrimonial traditions.",
     "significance": "Demonstrates fashion's capacity for social critique through formal design decisions. Shows how traditional garment types can carry oppositional meaning when designers manipulate familiar elements to create cognitive dissonance rather than comfort.",
     "connections": [
@@ -16001,7 +16000,8 @@ export const ARCHIVE = [
       "British fashion",
       "ceremonial clothing",
       "material contradiction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU1689/full/800,/0/default.jpg"
   },
   {
     "id": 367,
@@ -16014,7 +16014,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Industrial Design",
     "wikiTitle": "Levi's 501",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LJ7446/full/800,/0/default.jpg",
     "description": "The 501's design logic prioritizes durability through strategic material placement and construction methods refined over decades. Copper rivets reinforce stress points while the cotton denim weave provides flexibility without compromising strength. The fit balances mobility requirements with material economy.",
     "significance": "Represents democratic design through mass production — functional excellence achieved through systematic improvement rather than aesthetic innovation. Demonstrates how industrial methods can create products that improve through use rather than deteriorate.",
     "connections": [
@@ -16043,7 +16042,8 @@ export const ARCHIVE = [
       "democratic design",
       "American manufacturing",
       "workwear"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LJ7446/full/800,/0/default.jpg"
   },
   {
     "id": 368,
@@ -16056,7 +16056,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "English Tailoring Tradition",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH8053/full/800,/0/default.jpg",
     "description": "Hemsley's breeches employ traditional tailoring methods adapted for equestrian requirements. The cut maximizes mobility through strategic seam placement while reinforced panels address specific stress points. Material selection balances durability with flexibility essential for mounted activity.",
     "significance": "Shows how specialized function drives design refinement within traditional craft frameworks. Demonstrates the relationship between body mechanics, activity requirements, and garment construction in pre-industrial design methods.",
     "connections": [
@@ -16085,7 +16084,8 @@ export const ARCHIVE = [
       "traditional crafts",
       "specialized design",
       "pre-war menswear"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH8053/full/800,/0/default.jpg"
   },
   {
     "id": 369,
@@ -16098,7 +16098,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Studio Glass Movement",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT3716/full/800,/0/default.jpg",
     "description": "Cast glass sculpture exploiting the material's optical properties through precise control of thickness and curvature. The form channels light through its translucent mass, creating internal reflections that shift with viewing angle. Libensky's mastery of glass chemistry allows for gradual opacity transitions that sculpt light itself.",
     "significance": "Demonstrates how material understanding drives form in studio craft. Shows students that functional boundaries dissolve when designers pursue material logic to its conclusion — here, glass becomes both structure and content.",
     "connections": [
@@ -16132,7 +16131,8 @@ export const ARCHIVE = [
       "Czech glass tradition",
       "postmodern craft",
       "sculptural function"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT3716/full/800,/0/default.jpg"
   },
   {
     "id": 370,
@@ -16145,7 +16145,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "New British Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY6101/full/800,/0/default.jpg",
     "description": "Fish slice that transforms utilitarian serving into narrative gesture. The handle's fishing rod form and 'line' connecting to the perforated blade creates functional metaphor — the tool becomes the story of its purpose. Clarke's silversmithing expertise enables precise execution of conceptual wit.",
     "significance": "Shows students how narrative can drive functional form without compromising performance. Demonstrates that craft traditions survive by embracing conceptual innovation, not just technical excellence.",
     "connections": [
@@ -16179,7 +16178,8 @@ export const ARCHIVE = [
       "millennium design",
       "storytelling objects",
       "serving tools"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY6101/full/800,/0/default.jpg"
   },
   {
     "id": 371,
@@ -16192,7 +16192,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Impressionist Theater",
     "wikiTitle": "Maurice Utrillo",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KD2627/full/800,/0/default.jpg",
     "description": "Stage costume translating Utrillo's painterly vision into wearable form. The fabric treatment and color palette directly reference his street scenes, making the performer a living extension of his artistic world. Three-dimensional design becomes spatial painting, where movement activates the composition.",
     "significance": "Teaches students how artistic vision transfers across disciplines while respecting material constraints. Shows that successful translation requires understanding both source medium and target application.",
     "connections": [
@@ -16226,7 +16225,8 @@ export const ARCHIVE = [
       "disciplinary translation",
       "1920s avant-garde",
       "wearable art"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KD2627/full/800,/0/default.jpg"
   },
   {
     "id": 372,
@@ -16239,7 +16239,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Critical Design",
     "wikiTitle": "Dunne & Raby",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX5817/full/800,/0/default.jpg",
     "description": "Aluminum chair incorporating Faraday cage principles to shield users from electromagnetic radiation. The mesh construction functions as both seating surface and electromagnetic barrier, making invisible technological anxieties physically manifest. Design speculation becomes functional prototype.",
     "significance": "Pioneering example of critical design methodology — using functional objects to materialize social questions about technology. Shows students how design research can question assumptions through making rather than just analysis.",
     "connections": [
@@ -16273,7 +16272,8 @@ export const ARCHIVE = [
       "protective furniture",
       "speculative design",
       "invisible function"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX5817/full/800,/0/default.jpg"
   },
   {
     "id": 373,
@@ -16286,7 +16286,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Minimalism",
     "wikiTitle": "Michael Anastassiades",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PD8552/full/800,/0/default.jpg",
     "description": "Glass table supported by structure mimicking layered sandwich construction. The transparent surfaces create visual lightness while the 'filling' layer provides structural integrity. Anastassiades transforms domestic ritual into architectural metaphor through material precision.",
     "significance": "Demonstrates how everyday references can drive sophisticated structural solutions. Teaches students that conceptual wit and engineering logic can coexist when material understanding guides both narrative and performance.",
     "connections": [
@@ -16320,7 +16319,8 @@ export const ARCHIVE = [
       "architectural furniture",
       "material precision",
       "narrative engineering"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PD8552/full/800,/0/default.jpg"
   },
   {
     "id": 374,
@@ -16333,7 +16333,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3731/full/800,/0/default.jpg",
     "description": "This conceptual furniture piece uses organic forms and alien-like protrusions to challenge conventional notions of domestic comfort. Vinci creates furniture that appears to have evolved rather than been designed, with surface textures and forms that suggest biological growth patterns. The piece functions as both seating and sculptural intervention, forcing users to negotiate unfamiliar tactile experiences.",
     "significance": "Students must understand how furniture can critique domesticity itself — this piece demonstrates that seating doesn't have to conform to human expectations but can actively reshape our relationship with objects. It shows how conceptual design uses discomfort as a tool for questioning assumptions about function and form.",
     "connections": [
@@ -16367,7 +16366,8 @@ export const ARCHIVE = [
       "alien aesthetics",
       "functional subversion",
       "millennium design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3731/full/800,/0/default.jpg"
   },
   {
     "id": 375,
@@ -16380,7 +16380,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3729/full/800,/0/default.jpg",
     "description": "The second piece in Vinci's series extends his exploration of furniture as biological entity, featuring more pronounced growth-like appendages and surface treatments that suggest contamination or mutation. The piece challenges the boundary between functional object and parasitic growth, creating seating that appears to have infected domestic space. Its form resists categorization, functioning somewhere between chair, sculpture, and organism.",
     "significance": "This work teaches students that furniture can be a critique of hygiene, domesticity, and human control over objects. It demonstrates how design can make users conscious of their relationship with materials and forms by deliberately creating uncomfortable encounters with familiar typologies.",
     "connections": [
@@ -16414,7 +16413,8 @@ export const ARCHIVE = [
       "hygiene critique",
       "uncomfortable seating",
       "post-millennial anxiety"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3729/full/800,/0/default.jpg"
   },
   {
     "id": 376,
@@ -16427,7 +16427,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3733/full/800,/0/default.jpg",
     "description": "The third iteration develops Vinci's concept toward more explicit alien morphology, with forms that suggest both plant-like growth and technological implants. The piece creates a hybrid between organic and mechanical aesthetics, as if furniture has been colonized by some form of bio-technology. Its surface treatments and protrusions create multiple scales of detail, demanding close inspection while resisting comfortable use.",
     "significance": "Students learn how furniture can embody anxieties about technology, biology, and human agency. This piece demonstrates that design can function as speculative fiction, imagining futures where objects have their own evolutionary agenda independent of human needs or desires.",
     "connections": [
@@ -16461,7 +16460,8 @@ export const ARCHIVE = [
       "evolutionary independence",
       "multi-scale detail",
       "future anxiety"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3733/full/800,/0/default.jpg"
   },
   {
     "id": 377,
@@ -16474,7 +16474,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3738/full/800,/0/default.jpg",
     "description": "Number Six in the series presents perhaps the most aggressive interpretation of Vinci's concept, with sharp, angular protrusions that suggest both organic spines and technological antennae. The piece actively repels conventional use through its hostile surface treatments and unpredictable geometry. It functions as furniture that has developed its own defensive mechanisms, protecting itself from human interaction rather than facilitating it.",
     "significance": "This work shows students how furniture can embody resistance to human dominance over objects. It demonstrates that design can critique anthropocentrism by creating objects that appear to have their own agency and defensive strategies, challenging the assumption that all designed objects exist solely for human benefit.",
     "connections": [
@@ -16508,7 +16507,8 @@ export const ARCHIVE = [
       "evolutionary defense",
       "sharp protrusions",
       "resistant objects"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3738/full/800,/0/default.jpg"
   },
   {
     "id": 378,
@@ -16521,7 +16521,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3737/full/800,/0/default.jpg",
     "description": "The final piece in the series achieves full alien transformation, presenting furniture that has completely abandoned human-centered design logic. Its forms suggest complete evolutionary independence, with structures that appear to serve the object's own mysterious purposes rather than any recognizable human function. The piece functions as a monument to post-human design possibilities, imagining furniture after human civilization.",
     "significance": "Students encounter here the ultimate challenge to anthropocentric design thinking. This piece demonstrates how conceptual design can imagine post-human futures, using furniture as a vehicle for considering what objects might become if freed from serving human needs and desires.",
     "connections": [
@@ -16555,7 +16554,8 @@ export const ARCHIVE = [
       "design transcendence",
       "object autonomy",
       "evolutionary completion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3737/full/800,/0/default.jpg"
   },
   {
     "id": 379,
@@ -16568,7 +16568,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Conceptual Documentation",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3736/full/800,/0/default.jpg",
     "description": "This photograph documents Vinci's investigation into furniture as psychological architecture, capturing how domestic objects can embody narratives of alienation and belonging. The image serves as both documentation and conceptual statement, questioning the boundary between furniture and sculpture, function and meaning.",
     "significance": "Students need to understand how documentation becomes part of the design argument itself. This work demonstrates how contemporary designers use photography not just to record objects but to construct critical narratives about design's role in shaping psychological space.",
     "connections": [
@@ -16602,7 +16601,8 @@ export const ARCHIVE = [
       "furniture theory",
       "spatial psychology",
       "design documentation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3736/full/800,/0/default.jpg"
   },
   {
     "id": 380,
@@ -16615,7 +16615,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Critical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HW0517/full/800,/0/default.jpg",
     "description": "This vessel explores the relationship between natural materials and industrial processes, questioning how design mediates our connection to botanical origins. The form emerges from Studio Formafantasma's investigation into material genealogies, making visible the industrial transformation of organic matter.",
     "significance": "Students must understand how critical design uses material investigation to question assumptions about production and consumption. This work demonstrates how contemporary designers employ vessels as vehicles for material speculation rather than mere containers.",
     "connections": [
@@ -16649,7 +16648,8 @@ export const ARCHIVE = [
       "organic form",
       "Studio Formafantasma",
       "Dutch design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HW0517/full/800,/0/default.jpg"
   },
   {
     "id": 381,
@@ -16662,7 +16662,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NH6269/full/800,/0/default.jpg",
     "description": "This smartphone cover interrogates the relationship between protection and ornament in digital accessories, transforming a utilitarian object into a statement about contemporary material culture. The design questions how industrial objects can carry personal meaning through surface treatment and form modification.",
     "significance": "Students need to understand how digital-age accessories function as sites of personal expression within mass production systems. This work demonstrates how contemporary designers negotiate between industrial standardization and individual identity through surface and form.",
     "connections": [
@@ -16696,7 +16695,8 @@ export const ARCHIVE = [
       "contemporary ornament",
       "Swiss design",
       "mobile technology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NH6269/full/800,/0/default.jpg"
   },
   {
     "id": 382,
@@ -16709,7 +16709,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Ceramics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3606/full/800,/0/default.jpg",
     "description": "This vase employs reduction as a design strategy, using black glazing to eliminate surface decoration and focus attention on pure form. The work represents 1882 Ltd's investigation into how traditional ceramic techniques can produce contemporary expressions of minimalism.",
     "significance": "Students must understand how contemporary ceramics negotiates between craft tradition and minimalist aesthetics. This work demonstrates how reduction can be a positive design strategy, creating presence through absence of ornament.",
     "connections": [
@@ -16743,7 +16742,8 @@ export const ARCHIVE = [
       "material presence",
       "traditional craft",
       "geometric form"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3606/full/800,/0/default.jpg"
   },
   {
     "id": 383,
@@ -16756,7 +16756,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Ceramics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3607/full/800,/0/default.jpg",
     "description": "This bowl demonstrates 1882 Ltd's commitment to functional minimalism, using traditional ceramic techniques to achieve contemporary expressions of utility. The form eliminates decorative elements to focus on the essential relationship between material, making, and use.",
     "significance": "Students need to understand how contemporary craft can maintain traditional making processes while expressing current aesthetic values. This work shows how functional objects can embody design philosophy through material choice and formal reduction.",
     "connections": [
@@ -16790,7 +16789,8 @@ export const ARCHIVE = [
       "Stoke-on-Trent pottery",
       "utilitarian design",
       "craft modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3607/full/800,/0/default.jpg"
   },
   {
     "id": 384,
@@ -16803,7 +16803,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Northern Renaissance",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6537/full/800,/0/default.jpg",
     "description": "A ceremonial drawing that constructs royal power through visual hierarchy and symbolic iconography. The composition uses architectural framing and figural arrangement to elevate Henry VIII above earthly concerns into divine association. This propaganda technique demonstrates how graphic design has always served political communication, using formal devices to make abstract concepts of authority tangible and persuasive.",
     "significance": "Students need to understand how visual rhetoric functions through compositional strategies, not just aesthetic choice. This work reveals design as a technology of power — showing how arrangement, scale, and symbolic reference create meaning that serves specific political functions.",
     "connections": [
@@ -16831,7 +16830,8 @@ export const ARCHIVE = [
       "ceremonial design",
       "Tudor period",
       "graphic communication"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6537/full/800,/0/default.jpg"
   },
   {
     "id": 385,
@@ -16844,7 +16844,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR5724/full/800,/0/default.jpg",
     "description": "A luxury handbag that mimics the form and graphics of a toothpaste tube, questioning the boundaries between high fashion and everyday objects. Wood's design uses precise Italian leather craftsmanship to elevate mundane packaging into a commentary on consumer culture and value systems. The bag functions perfectly as luxury goods while maintaining its conceptual critique of what we consider worth carrying.",
     "significance": "This teaches students how contemporary design operates through conceptual frameworks rather than pure function. It demonstrates how designers can use familiar forms to create cognitive dissonance, making viewers question assumptions about value, luxury, and appropriateness in design.",
     "connections": [
@@ -16872,7 +16871,8 @@ export const ARCHIVE = [
       "Italian craftsmanship",
       "contextual reframing",
       "contemporary commentary"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR5724/full/800,/0/default.jpg"
   },
   {
     "id": 386,
@@ -16885,7 +16885,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Craft",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR9518/full/800,/0/default.jpg",
     "description": "A development prototype that reveals the iterative process behind the Toothpaste bag concept. This handle component demonstrates how designers work through material and ergonomic challenges while maintaining conceptual integrity. The visible construction methods and unfinished quality provide insight into creative problem-solving in luxury goods development.",
     "significance": "Students learn that even conceptual design requires rigorous technical development. This prototype shows how ideas must be tested, refined, and engineered to function in the real world — revealing design as both creative and systematic practice.",
     "connections": [
@@ -16913,7 +16912,8 @@ export const ARCHIVE = [
       "technical refinement",
       "luxury engineering",
       "conceptual realization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MR9518/full/800,/0/default.jpg"
   },
   {
     "id": 387,
@@ -16926,7 +16926,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary British Design",
     "wikiTitle": "2012 Summer Olympics cauldron",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC9730/full/800,/0/default.jpg",
     "description": "A scale model of the Olympic cauldron that transformed from 204 individual copper petals into a unified flame bowl through mechanical choreography. Heatherwick's design rejected the typical monumental approach, instead creating a kinetic sculpture that literally brought together participating nations through synchronized movement. The copper petals, each representing a competing country, rose from ground level to form the cauldron — making the lighting ceremony about collective participation rather than singular spectacle.",
     "significance": "This demonstrates how public design can embody political and cultural messages through mechanical systems. Students learn that architecture and ceremony design can argue for specific values — here, democratic participation over hierarchical display — through the behavior of objects, not just their appearance.",
     "connections": [
@@ -16955,7 +16954,8 @@ export const ARCHIVE = [
       "Olympic design",
       "copper fabrication",
       "collective participation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC9730/full/800,/0/default.jpg"
   },
   {
     "id": 388,
@@ -16968,7 +16968,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary British Design",
     "wikiTitle": "Spun chair",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3552/full/800,/0/default.jpg",
     "description": "A rotating chair created by spinning molten metal around a form, resulting in a seamless shell that can rock and spin on its base. The manufacturing process generates both the chair's form and its kinetic behavior — the spinning motion used in production becomes the spinning motion of use. Heatherwick eliminates traditional chair components (legs, back, arms) in favor of a single continuous surface that defines sitting through physics rather than convention.",
     "significance": "Students see how manufacturing processes can become design concepts. This chair teaches that makers can question fundamental assumptions about what chairs must look like by focusing on how bodies interact with objects through movement and balance.",
     "connections": [
@@ -16996,7 +16995,8 @@ export const ARCHIVE = [
       "process-driven design",
       "contemporary craft",
       "unconventional seating"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3552/full/800,/0/default.jpg"
   },
   {
     "id": 389,
@@ -17009,7 +17009,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Critical Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK4056/full/800,/0/default.jpg",
     "description": "This speculative design publication operates as both documentation and manifesto for critical futures thinking. The work functions through narrative construction rather than traditional graphic design, using editorial structure to present alternative scenarios for technological and social development. Each page operates as a speculative artifact, demonstrating how graphic design can become a tool for critical inquiry rather than commercial communication.",
     "significance": "Students learn how graphic design can function as speculative methodology, using publication format to explore critical futures rather than promote existing products. The work shows design's capacity to generate debate about technological trajectories rather than merely visualize them.",
     "connections": [
@@ -17038,7 +17037,8 @@ export const ARCHIVE = [
       "alternative scenarios",
       "design fiction",
       "Critical Design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PK4056/full/800,/0/default.jpg"
   },
   {
     "id": 390,
@@ -17051,7 +17051,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Consumer Robotics",
     "wikiTitle": "DJI Phantom",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ6274/full/800,/0/default.jpg",
     "description": "The Phantom democratizes aerial photography through systematic simplification of professional drone technology. Its white plastic housing conceals complex flight control systems behind consumer-friendly interfaces, making previously specialist equipment accessible to general users. The design operates through radical miniaturization and automation, transforming military surveillance technology into creative tools through careful human-machine interface design.",
     "significance": "Students understand how consumer product design can democratize advanced technologies by hiding complexity behind intuitive interfaces. The work demonstrates design's role in transforming professional tools into mass-market products while maintaining technical sophistication.",
     "connections": [
@@ -17080,7 +17079,8 @@ export const ARCHIVE = [
       "automation",
       "human-machine interface",
       "mass market"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ6274/full/800,/0/default.jpg"
   },
   {
     "id": 391,
@@ -17093,7 +17093,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Film Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU9052/full/800,/0/default.jpg",
     "description": "Chantrell's poster constructs horror through strategic color relationships and compositional tension rather than literal representation. The design operates through cinematic logic, using graphic elements to build psychological atmosphere that mirrors the film's narrative structure. Bold typography and saturated colors create visual impact designed for maximum street-level visibility while maintaining the gothic aesthetic requirements of the horror genre.",
     "significance": "Students see how commercial graphics must balance artistic expression with marketing effectiveness, creating visual systems that communicate genre expectations while attracting audiences. The work demonstrates graphic design's role in shaping cultural understanding of film genres.",
     "connections": [
@@ -17122,7 +17121,8 @@ export const ARCHIVE = [
       "gothic aesthetic",
       "film marketing",
       "British Film Graphics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU9052/full/800,/0/default.jpg"
   },
   {
     "id": 392,
@@ -17135,7 +17135,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Neoclassicism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY4362/full/800,/0/default.jpg",
     "description": "Adam's doorcase demonstrates how architectural details can transform functional elements into decorative statements about social status and cultural sophistication. The design operates through classical proportional systems applied to domestic scale, using carved ornament and material richness to signal wealth and education. Each molding profile and decorative element follows established hierarchies that communicate the owner's understanding of proper architectural grammar.",
     "significance": "Students learn how architectural design encodes social and cultural information through formal language, demonstrating design's role in constructing and communicating class distinctions. The work shows how functional elements become carriers of cultural meaning through decorative treatment.",
     "connections": [
@@ -17164,7 +17163,8 @@ export const ARCHIVE = [
       "cultural sophistication",
       "decorative hierarchy",
       "Neoclassicism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY4362/full/800,/0/default.jpg"
   },
   {
     "id": 393,
@@ -17177,7 +17177,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Constructivism",
     "wikiTitle": "Varvara Stepanova",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5308/full/800,/0/default.jpg",
     "description": "Stepanova's textile design applies Constructivist principles to mass production, using geometric forms and industrial motifs to transform everyday flannel into revolutionary propaganda. The pattern integrates abstract shapes with mechanistic imagery, rejecting bourgeois decoration in favor of ideological content. The design functions as both clothing and political statement, embedding Soviet values into the fabric of daily life.",
     "significance": "Students must understand how political movements use design to reshape society at the most intimate level. This textile demonstrates how avant-garde artists moved from gallery to factory, making design a tool of social transformation rather than mere decoration.",
     "connections": [
@@ -17211,7 +17210,8 @@ export const ARCHIVE = [
       "flannel",
       "revolutionary aesthetics",
       "mass production"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5308/full/800,/0/default.jpg"
   },
   {
     "id": 394,
@@ -17224,7 +17224,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE7523/full/800,/0/default.jpg",
     "description": "ZEITGUISED's film explores digital materiality through hyper-realistic simulations of impossible physics, using CGI to create substances that behave according to their own internal logic rather than natural laws. The work questions the relationship between digital representation and physical reality by making virtual materials more convincing than their real counterparts. Each surface texture and movement is carefully constructed to suggest new forms of matter that exist only in computational space.",
     "significance": "Essential for understanding how contemporary designers work with purely digital materials that have no physical equivalent. This demonstrates how computation creates new design possibilities that exist beyond traditional material constraints.",
     "connections": [
@@ -17253,7 +17252,8 @@ export const ARCHIVE = [
       "digital film",
       "material impossibility",
       "rendering"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE7523/full/800,/0/default.jpg"
   },
   {
     "id": 395,
@@ -17266,7 +17266,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Nouveau",
     "wikiTitle": "Aubrey Beardsley",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AG2224/full/800,/0/default.jpg",
     "description": "Beardsley's illustration for Wilde's Salome reduces complex psychological drama to stark black and white patterns, using the elimination of half-tones to create maximum visual impact. The design organizes the composition around flowing organic forms that echo Art Nouveau's natural motifs while maintaining graphic clarity through extreme contrast. Line becomes both decorative element and narrative device, carrying erotic tension through its sinuous movement.",
     "significance": "Students must grasp how Beardsley's reduction technique influenced modern graphic design's use of simplified forms for mass reproduction. His work shows how illustration can carry complex literary and psychological content through purely visual means.",
     "connections": [
@@ -17295,7 +17294,8 @@ export const ARCHIVE = [
       "literary illustration",
       "decorative graphics",
       "erotic imagery"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AG2224/full/800,/0/default.jpg"
   },
   {
     "id": 396,
@@ -17308,7 +17308,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Arts and Crafts",
     "wikiTitle": "Beggarstaff Brothers",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3301/full/800,/0/default.jpg",
     "description": "The Beggarstaff Brothers' poster revolutionizes commercial graphics by applying Japanese woodblock principles to Western advertising, using flat color areas and minimal detail to create maximum impact at reading distance. Their technique eliminates unnecessary information while maintaining strong figural recognition through simplified silhouettes. The design demonstrates how artistic reduction can serve commercial communication more effectively than realistic detail.",
     "significance": "This poster is crucial for understanding how modern advertising graphics developed from fine art principles. It shows students how artistic movements translate into commercial practice, creating new visual languages for mass communication.",
     "connections": [
@@ -17342,7 +17341,8 @@ export const ARCHIVE = [
       "Arts and Crafts",
       "visual reduction",
       "mass communication"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3301/full/800,/0/default.jpg"
   },
   {
     "id": 397,
@@ -17355,7 +17355,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Deco",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL2561/full/800,/0/default.jpg",
     "description": "This architectural panel demonstrates the synthesis of modernist reduction with decorative surface treatment typical of 1930s commercial architecture. The panel's geometric patterning creates visual rhythm through repetitive modular elements, showing how industrial materials could carry symbolic and ornamental meaning. Its integration of structure and surface decoration reflects the period's attempt to humanize mechanized production.",
     "significance": "Students need to understand how architects in the 1930s negotiated between functionalist doctrine and public expectation for visual richness. This panel shows that modernism wasn't monolithically austere — designers found ways to embed decoration within systematic approaches, prefiguring postmodern debates about meaning in architecture.",
     "connections": [
@@ -17389,7 +17388,8 @@ export const ARCHIVE = [
       "commercial modernism",
       "1930s design",
       "industrial aesthetics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AL2561/full/800,/0/default.jpg"
   },
   {
     "id": 398,
@@ -17402,7 +17402,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Beggarstaff Brothers",
     "wikiTitle": "James Pryde",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4076/full/800,/0/default.jpg",
     "description": "This poster employs radical reduction of pictorial elements to create maximum visual impact in urban environments. Pryde uses bold, flat color areas and simplified forms to cut through visual noise, demonstrating how commercial graphics could adopt avant-garde techniques for mass communication. The design's economy of means anticipates modernist graphic principles while serving purely commercial ends.",
     "significance": "This poster teaches students how avant-garde reduction techniques emerged from commercial necessity rather than aesthetic theory. It shows the symbiotic relationship between artistic innovation and market demands, proving that modernist graphic principles developed through practical problem-solving in consumer culture.",
     "connections": [
@@ -17436,7 +17435,8 @@ export const ARCHIVE = [
       "visual communication",
       "mass culture",
       "pictorial simplification"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4076/full/800,/0/default.jpg"
   },
   {
     "id": 399,
@@ -17449,7 +17449,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HM7289/full/800,/0/default.jpg",
     "description": "This radio demonstrates how British manufacturers adapted continental modernist principles to domestic consumer products in the immediate post-war period. The casing's simplified geometry and honest material expression reflect functionalist ideology while accommodating British preferences for domestic warmth. Its design reveals how international modernism was localized through manufacturing constraints and cultural expectations.",
     "significance": "Students should understand how modernist principles were domesticated and commercialized in post-war Britain. This radio shows that modernism wasn't simply imported but actively translated, revealing how design movements adapt to local conditions and consumer expectations.",
     "connections": [
@@ -17483,7 +17482,8 @@ export const ARCHIVE = [
       "functionalist housing",
       "cultural adaptation",
       "mass production"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HM7289/full/800,/0/default.jpg"
   },
   {
     "id": 400,
@@ -17496,7 +17496,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Theater Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND6590/full/800,/0/default.jpg",
     "description": "This costume design demonstrates how contemporary theater design synthesizes digital and analog methods to create performative identity. Christie's approach combines traditional costume construction principles with digitally-informed aesthetic languages, creating garments that function both as clothing and as scenographic elements. The design shows how contemporary practice integrates multiple media to serve dramatic narrative.",
     "significance": "Students need to understand how digital culture has transformed traditional design disciplines without eliminating their core functions. This costume design teaches how contemporary designers must navigate between physical craft knowledge and digital aesthetic languages to create meaningful cultural objects.",
     "connections": [
@@ -17530,7 +17529,8 @@ export const ARCHIVE = [
       "multimedia design",
       "dramatic narrative",
       "cultural synthesis"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND6590/full/800,/0/default.jpg"
   },
   {
     "id": 401,
@@ -17543,7 +17543,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Toy Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FG8497/full/800,/0/default.jpg",
     "description": "This leaflet demonstrates how commercial toy graphics adopted military and technical graphic conventions to create authenticity and narrative engagement for children. The design uses systematic information organization, technical drawing conventions, and institutional typography to simulate real military communications. Its graphic authority transforms play into role-playing, showing how design shapes behavioral expectations.",
     "significance": "Students should understand how graphic design constructs social roles and behavioral scripts, particularly for children. This mission brief shows how commercial design borrows authority from institutional contexts, revealing design's role in cultural reproduction and identity formation.",
     "connections": [
@@ -17577,7 +17576,8 @@ export const ARCHIVE = [
       "behavioral scripting",
       "technical illustration",
       "cultural reproduction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FG8497/full/800,/0/default.jpg"
   },
   {
     "id": 402,
@@ -17590,7 +17590,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Radical Architecture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KL1820/full/800,/0/default.jpg",
     "description": "Silver's Ad Hoc chair proposal demonstrates radical architecture's embrace of improvisation and anti-design. The design rejects fixed formal solutions in favor of situational responses, embodying the architectural philosophy that buildings and objects should emerge from immediate conditions rather than predetermined aesthetic principles.",
     "significance": "Students learn how 1960s counter-culture challenged modernism's universal solutions. The design demonstrates how architects can question the very premise of designed objects, proposing instead frameworks for user-determined outcomes.",
     "connections": [
@@ -17618,7 +17617,8 @@ export const ARCHIVE = [
       "counter-culture",
       "user agency",
       "improvised construction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KL1820/full/800,/0/default.jpg"
   },
   {
     "id": 403,
@@ -17631,7 +17631,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Wartime Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG0969/full/800,/0/default.jpg",
     "description": "Kestelman's wartime design work demonstrates how graphic designers adapted modernist principles to serve national communication needs. The design employs simplified forms and direct visual communication, stripping away decorative elements in favor of immediate legibility and emotional impact during a period of material scarcity and urgent messaging.",
     "significance": "Students understand how external pressures reshape design language — war forcing economy of means that paralleled modernist aesthetics for different reasons. This shows design responding to social necessity rather than stylistic preference.",
     "connections": [
@@ -17659,7 +17658,8 @@ export const ARCHIVE = [
       "British graphics",
       "social necessity",
       "material constraint"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG0969/full/800,/0/default.jpg"
   },
   {
     "id": 404,
@@ -17672,7 +17672,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY6810/full/800,/0/default.jpg",
     "description": "Remy's chest of drawers binds found furniture drawers with a canvas strap, creating functional storage while preserving individual histories. Each drawer retains its original character — different woods, handles, wear patterns — while the strap provides structural unity. The design argues that memory cannot be systematized or standardized.",
     "significance": "Students learn how conceptual design challenges modernism's universal solutions by celebrating individual histories and imperfection. The work demonstrates how designers can create systems that accommodate rather than eliminate difference, making storage functional while keeping memory visible.",
     "connections": [
@@ -17701,7 +17700,8 @@ export const ARCHIVE = [
       "individual history",
       "binding",
       "accumulation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY6810/full/800,/0/default.jpg"
   },
   {
     "id": 405,
@@ -17714,7 +17714,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Picturesque Architecture",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB2580/full/800,/0/default.jpg",
     "description": "Richards' theatrical set design for 'Ramah Droog' creates exotic architectural fantasy through Orientalist imagery and dramatic perspective. The design constructs an imagined Indian fortress using European conventions of the picturesque, demonstrating how architectural representation served colonial imagination rather than accurate documentation.",
     "significance": "Students understand how architectural drawings construct cultural fantasies and political narratives. The design shows representation as ideological tool — architecture used to visualize imperial relationships through invented exotic imagery.",
     "connections": [
@@ -17742,7 +17741,8 @@ export const ARCHIVE = [
       "exotic fantasy",
       "architectural representation",
       "imperial design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB2580/full/800,/0/default.jpg"
   },
   {
     "id": 406,
@@ -17755,7 +17755,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2881/full/800,/0/default.jpg",
     "description": "Wanders' eggshell vase transforms fragile waste material into precious vessel through careful preservation of natural form. The design maintains the egg's original shape while creating functional interior space, celebrating organic geometry over manufactured perfection. The vase questions assumptions about valuable materials and manufacturing processes.",
     "significance": "Students learn how Dutch design challenges material hierarchies by elevating humble origins. The work demonstrates conceptual sophistication through material transformation — making waste precious through careful attention rather than expensive processes.",
     "connections": [
@@ -17784,7 +17783,8 @@ export const ARCHIVE = [
       "fragility",
       "natural geometry",
       "precious waste"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2881/full/800,/0/default.jpg"
   },
   {
     "id": 407,
@@ -17797,7 +17797,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE1630/full/800,/0/default.jpg",
     "description": "A ceramic bowl created by soaking a synthetic sponge in liquid porcelain slip, then firing it to burn away the sponge structure, leaving only the hardened ceramic shell that preserves every bubble and pore of the original foam. The manufacturing process transforms an industrial cleaning object into a luxury vessel through direct material translation. The bowl's surface texture records the exact cellular structure of industrial foam, making visible the hidden architecture of mass-produced materials.",
     "significance": "Demonstrates how Dutch Design challenged manufacturing orthodoxy by using everyday objects as forming tools rather than traditional molds. Shows students how process innovation can create new aesthetic languages by embracing accident and material logic rather than controlling them.",
     "connections": [
@@ -17831,7 +17830,8 @@ export const ARCHIVE = [
       "texture",
       "found object",
       "manufacturing"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CE1630/full/800,/0/default.jpg"
   },
   {
     "id": 408,
@@ -17844,7 +17844,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2880/full/800,/0/default.jpg",
     "description": "Like the Foam Bowl, this vase uses synthetic sponge as a forming matrix for liquid porcelain, creating a vessel whose surface records every cellular detail of the original foam structure. The firing process burns away the organic binder in the sponge while preserving the ceramic shell, resulting in a functional object that bears the exact textural imprint of industrial foam. The technique demonstrates how mass-production materials can become the tools for creating unique, high-value objects.",
     "significance": "Shows students how a single process innovation can generate multiple typologies while maintaining consistent material logic. Demonstrates the Dutch Design principle of finding beauty in industrial waste materials and manufacturing accidents.",
     "connections": [
@@ -17878,7 +17877,8 @@ export const ARCHIVE = [
       "texture",
       "industrial",
       "manufacturing"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2880/full/800,/0/default.jpg"
   },
   {
     "id": 409,
@@ -17891,7 +17891,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX5777/full/800,/0/default.jpg",
     "description": "A floor lamp constructed from multiple translucent fabric shades arranged in a vertical stack, creating layers of diffused light that can be adjusted by repositioning individual elements. The modular system allows users to configure the light output and visual composition according to need, with each shade acting as both functional diffuser and sculptural element. The soft, organic forms contrast with the rational stacking principle, creating tension between systematic organization and natural shapes.",
     "significance": "Demonstrates early exploration of modular lighting systems that prioritize user agency over fixed designer intention. Shows students how systematic thinking can accommodate organic forms and variable configurations rather than determining single solutions.",
     "connections": [
@@ -17925,7 +17924,8 @@ export const ARCHIVE = [
       "diffusion",
       "stacking",
       "floor lamp"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX5777/full/800,/0/default.jpg"
   },
   {
     "id": 410,
@@ -17938,7 +17938,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0368/full/800,/0/default.jpg",
     "description": "A lounge chair that exaggerates conventional seating proportions to create an oversized, enveloping form that emphasizes comfort and relaxation through its generous dimensions. The chair's simple geometric profile is inflated to accommodate multiple sitting positions, with deep cushioning and wide armrests that support both formal and casual use. The straightforward construction uses standard upholstery techniques applied to unconventional proportions.",
     "significance": "Shows students how Dutch Design questioned conventional furniture scale and propriety, using humor and exaggeration to challenge assumptions about appropriate domestic objects. Demonstrates how proportional manipulation can transform familiar typologies into new experiences.",
     "connections": [
@@ -17972,7 +17971,8 @@ export const ARCHIVE = [
       "relaxation",
       "seating",
       "scale"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0368/full/800,/0/default.jpg"
   },
   {
     "id": 411,
@@ -17985,7 +17985,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0367/full/800,/0/default.jpg",
     "description": "A dining chair that references the geometric vocabulary of Dutch architect H.P. Berlage through simplified rectangular forms and right-angled construction. The chair reduces seating to essential geometric elements—seat, back, and legs—arranged in orthogonal relationships that echo Berlage's architectural rationalism. Despite its minimal appearance, the proportions and angles are carefully calibrated for ergonomic comfort within the geometric constraints.",
     "significance": "Demonstrates how contemporary Dutch designers engaged with their modernist architectural heritage, translating spatial principles into furniture design. Shows students how historical reference can be structural rather than merely stylistic, informing design logic rather than surface appearance.",
     "connections": [
@@ -18019,7 +18018,8 @@ export const ARCHIVE = [
       "rectangular",
       "orthogonal",
       "dining"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0367/full/800,/0/default.jpg"
   },
   {
     "id": 412,
@@ -18032,7 +18032,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Conceptual Jewelry",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BP6969/full/800,/0/default.jpg",
     "description": "Bakker strips jewelry to its essential function — marking the body — using minimal material to maximum effect. The piece challenges precious material traditions by using industrial processes to create precise geometric forms that frame rather than decorate the wearer. Its reductive approach transforms jewelry from ornament into spatial sculpture that exists in dialogue with the body.",
     "significance": "Students learn how conceptual rigor can redefine entire disciplines. Bakker demonstrates that questioning fundamental assumptions — what makes jewelry valuable, decorative, or wearable — can produce radical new forms. The piece shows how Dutch design thinking applies systematic reduction to traditional craft practices.",
     "connections": [
@@ -18066,7 +18065,8 @@ export const ARCHIVE = [
       "spatial framing",
       "craft critique",
       "geometric minimalism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BP6969/full/800,/0/default.jpg"
   },
   {
     "id": 413,
@@ -18079,7 +18079,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Material Research",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4581/full/800,/0/default.jpg",
     "description": "Jongerius creates textile samples that blur boundaries between natural and synthetic through controlled material experiments. Her process combines traditional weaving techniques with industrial fibers to produce unexpected surface qualities that reference organic growth patterns. The work demonstrates how systematic material research can generate new aesthetic possibilities from familiar production methods.",
     "significance": "Students see how contemporary designers use material research as primary design methodology. Jongerius shows that innovation often comes from patient experimentation with making processes rather than dramatic formal gestures. The work demonstrates how textile design can function as speculative research into future material possibilities.",
     "connections": [
@@ -18113,7 +18112,8 @@ export const ARCHIVE = [
       "fiber experimentation",
       "surface quality",
       "systematic methodology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW4581/full/800,/0/default.jpg"
   },
   {
     "id": 414,
@@ -18126,7 +18126,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Material Research",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW1341/full/800,/0/default.jpg",
     "description": "Jongerius translates ceramic glazing effects into textile surfaces through advanced fiber treatment and weaving structures. The fabric creates optical depth through layered materials that shift between matte and reflective qualities, mimicking the unpredictable surface variations found in ceramic glazes. Her systematic exploration of material translation demonstrates how traditional craft knowledge can inform contemporary industrial processes.",
     "significance": "Students learn how cross-disciplinary material research can generate entirely new product categories. Jongerius demonstrates that innovation comes from translating knowledge between different making traditions rather than inventing from scratch. The work shows how contemporary textile design can function as applied materials science.",
     "connections": [
@@ -18160,7 +18159,8 @@ export const ARCHIVE = [
       "craft knowledge",
       "textile innovation",
       "systematic research"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW1341/full/800,/0/default.jpg"
   },
   {
     "id": 415,
@@ -18173,7 +18173,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ3815/full/800,/0/default.jpg",
     "description": "Baas hand-carves wood to perfectly mimic mass-produced plastic chair forms, creating uncanny material contradictions. The piece requires extraordinary craft skill to achieve machine-like precision, inverting normal production hierarchies where plastic mimics natural materials. His meticulous carving process transforms cheap industrial design into precious handmade object while maintaining identical visual form.",
     "significance": "Students understand how contemporary designers use conceptual contradiction to critique industrial production. Baas demonstrates that formal copying can be radical when it exposes assumptions about material value and making processes. The work teaches that conceptual art strategies can revitalize furniture design practice.",
     "connections": [
@@ -18207,7 +18206,8 @@ export const ARCHIVE = [
       "production hierarchy",
       "handmade mimicry",
       "value inversion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ3815/full/800,/0/default.jpg"
   },
   {
     "id": 416,
@@ -18220,7 +18220,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BW2342/full/800,/0/default.jpg",
     "description": "Baas creates mirrors through controlled charring of wooden frames, using fire as precise design tool rather than destructive force. The burning process produces unique surface textures that cannot be replicated through conventional manufacturing, making each piece singular despite systematic production method. His technique transforms destruction into creation, questioning boundaries between making and unmaking.",
     "significance": "Students learn how unconventional processes can generate entirely new aesthetic categories. Baas demonstrates that design innovation often comes from embracing rather than controlling unpredictable material behaviors. The work shows how conceptual art's process-based thinking can revitalize traditional object categories like mirrors.",
     "connections": [
@@ -18254,7 +18253,8 @@ export const ARCHIVE = [
       "Dutch design",
       "surface texture",
       "making/unmaking"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BW2342/full/800,/0/default.jpg"
   },
   {
     "id": 417,
@@ -18267,7 +18267,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Chinese Industrial Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JX4872/full/800,/0/default.jpg",
     "description": "A stackable polypropylene chair designed for mass production, demonstrating how Chinese manufacturers adapt Western modernist forms through cost-optimized tooling and material choices. The simplified geometry eliminates non-structural elements while maintaining ergonomic requirements. Its anonymous corporate authorship reflects China's role as global furniture manufacturer.",
     "significance": "Shows how modernist chair typologies migrate through global manufacturing networks, losing authorial identity but gaining economic accessibility. Demonstrates the tension between design attribution and industrial production in contemporary furniture markets.",
     "connections": [
@@ -18301,7 +18300,8 @@ export const ARCHIVE = [
       "cost optimization",
       "injection molding",
       "global furniture"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JX4872/full/800,/0/default.jpg"
   },
   {
     "id": 418,
@@ -18314,7 +18314,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0369/full/800,/0/default.jpg",
     "description": "A conceptual furniture piece that questions traditional typologies by literally placing one table upon another to create seating. The design challenges functional expectations while maintaining structural logic, using irony to examine how we categorize and use domestic objects. Its absurd simplicity reveals the arbitrary nature of furniture conventions.",
     "significance": "Teaches students to question assumed relationships between form and function, demonstrating how conceptual approaches can reveal hidden assumptions in design thinking. Shows how Dutch design uses intellectual provocation rather than aesthetic innovation.",
     "connections": [
@@ -18348,7 +18347,8 @@ export const ARCHIVE = [
       "functional questioning",
       "appropriation",
       "categorical ambiguity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HE0369/full/800,/0/default.jpg"
   },
   {
     "id": 419,
@@ -18361,7 +18361,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Design",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2912/full/800,/0/default.jpg",
     "description": "A ceramic cow figure that demonstrates Wanders' approach to emotional design through traditional craft techniques applied to contemporary forms. The piece combines Dutch ceramic heritage with conceptual storytelling, creating objects that function as both decorative items and cultural commentary. Its deliberate sentimentality challenges modernist functionalism's emotional restraint.",
     "significance": "Shows students how contemporary designers can reclaim decorative traditions while maintaining critical distance. Demonstrates the role of emotion and narrative in post-functionalist design approaches, particularly in Dutch design culture.",
     "connections": [
@@ -18395,7 +18394,8 @@ export const ARCHIVE = [
       "post-functionalism",
       "cultural commentary",
       "decorative arts"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP2912/full/800,/0/default.jpg"
   },
   {
     "id": 420,
@@ -18408,7 +18408,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY5822/full/800,/0/default.jpg",
     "description": "A wall-mounted CD player that eliminates the traditional box housing by integrating the disc mechanism directly into a minimal circular form. The design reduces the product to its essential function - spinning the disc - while the pull-cord activation references familiar domestic appliances. This 'without thought' design philosophy makes technology feel intuitive and unobtrusive.",
     "significance": "Demonstrates Fukasawa's 'Super Normal' approach that makes complex technology feel natural through familiar interaction patterns. Teaches students how reduction can enhance rather than diminish user experience by removing cognitive barriers.",
     "connections": [
@@ -18442,7 +18441,8 @@ export const ARCHIVE = [
       "intuitive interaction",
       "without thought",
       "domestic appliances"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY5822/full/800,/0/default.jpg"
   },
   {
     "id": 421,
@@ -18455,7 +18455,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT9234/full/800,/0/default.jpg",
     "description": "Another iteration of Fukasawa's CD player concept, exploring alternative approaches to technology integration through different formal strategies. Like his wall-mounted version, it prioritizes intuitive operation over technological display, making the complex mechanics of digital playback feel natural and unforced. The design philosophy remains consistent: technology should feel inevitable rather than impressive.",
     "significance": "Shows students how designers can explore the same functional brief through multiple formal approaches while maintaining consistent design philosophy. Demonstrates the Japanese concept of 'appropriateness' in technology design.",
     "connections": [
@@ -18489,7 +18488,8 @@ export const ARCHIVE = [
       "appropriateness",
       "invisible technology",
       "audio equipment"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT9234/full/800,/0/default.jpg"
   },
   {
     "id": 422,
@@ -18502,7 +18502,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg",
     "description": "Fukasawa's flip phone reduces the mobile interface to essential elements through precise surface articulation and intuitive button placement. The clamshell mechanism becomes a ritual of opening and closing that defines the user's relationship to communication. Its matt finish and subtle proportions demonstrate Fukasawa's 'without thought' design philosophy.",
     "significance": "Shows how interface reduction can create more meaningful user relationships. Demonstrates the Japanese approach to technology as extension of natural behavior rather than display of capability.",
     "connections": [
@@ -18536,7 +18535,8 @@ export const ARCHIVE = [
       "clamshell",
       "behavioral design",
       "mobile communication"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg"
   },
   {
     "id": 423,
@@ -18549,7 +18549,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg",
     "description": "The W11K refines the mobile phone toward pure rectangular geometry while maintaining intuitive button hierarchy. Fukasawa eliminates decorative elements in favor of precise surface transitions and logical control placement. The design achieves visual calm through systematic proportion and restrained material choices.",
     "significance": "Demonstrates how systematic reduction can enhance rather than diminish functionality. Shows the difference between minimalism as visual style versus minimalism as behavioral logic.",
     "connections": [
@@ -18583,7 +18582,8 @@ export const ARCHIVE = [
       "Japanese design",
       "interface",
       "systematic proportion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg"
   },
   {
     "id": 424,
@@ -18596,7 +18596,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg",
     "description": "Fukasawa's breakthrough mobile phone design treats the interface as landscape rather than machine. The button arrangement follows natural thumb movement patterns while the overall form suggests a smooth river stone. Surface textures and color choices create emotional rather than purely functional relationships with the user.",
     "significance": "Pioneered the concept of 'super normal' design in consumer electronics where the object's presence comes from behavioral rightness rather than visual novelty. Established templates for intuitive interface design that influenced a generation of mobile devices.",
     "connections": [
@@ -18630,7 +18629,8 @@ export const ARCHIVE = [
       "emotional design",
       "button layout",
       "river stone"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU1287/full/800,/0/default.jpg"
   },
   {
     "id": 425,
@@ -18643,7 +18643,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FG1564/full/800,/0/default.jpg",
     "description": "Hohmann's basin reduces the washbasin to pure geometric form through precise ceramic molding and integrated overflow design. The circular form eliminates corners where dirt accumulates while the thin rim creates the impression of a water-filled vessel floating in space. The integrated tap mounting demonstrates systematic approach to plumbing infrastructure.",
     "significance": "Shows how hygiene products can achieve dignity through geometric discipline rather than decorative concealment. Demonstrates the intersection between modernist ideology and public health infrastructure in 1960s Britain.",
     "connections": [
@@ -18677,7 +18676,8 @@ export const ARCHIVE = [
       "circular",
       "integrated design",
       "public health"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FG1564/full/800,/0/default.jpg"
   },
   {
     "id": 426,
@@ -18690,7 +18690,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Functionalism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8205/full/800,/0/default.jpg",
     "description": "Wagenfeld's nesting storage system demonstrates systematic thinking applied to domestic organization. Each box follows identical proportional relationships while the clear glass construction reveals contents and stacking logic. The simple rectangular forms stack efficiently while rounded corners ease handling and cleaning.",
     "significance": "Establishes the template for systematic storage design that prioritizes both visual order and practical function. Shows how Bauhaus principles could be applied to everyday domestic problems rather than remaining purely architectural.",
     "connections": [
@@ -18724,7 +18723,8 @@ export const ARCHIVE = [
       "domestic organization",
       "modular",
       "transparency"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8205/full/800,/0/default.jpg"
   },
   {
     "id": 427,
@@ -18737,7 +18737,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": "Joe Colombo (designer)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0095/full/800,/0/default.jpg",
     "description": "A modular storage trolley constructed from ABS plastic injection-molded components that stack and rotate on a central spine. Each drawer can be removed and reconfigured, with the entire unit rolling on four casters. The system demonstrates how industrial materials and manufacturing processes can create flexible domestic storage that adapts to user needs rather than dictating fixed arrangements.",
     "significance": "Teaches students how modular design thinking translates abstract systems theory into practical objects. Shows how Italian designers used industrial plastics not just for cost reduction but to enable new kinds of user interaction and spatial flexibility.",
     "connections": [
@@ -18771,7 +18770,8 @@ export const ARCHIVE = [
       "Italian radical design",
       "user flexibility",
       "industrial materials"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0095/full/800,/0/default.jpg"
   },
   {
     "id": 428,
@@ -18784,7 +18784,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": "Tokujin Yoshioka",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LA4839/full/800,/0/default.jpg",
     "description": "A chair constructed from hundreds of layers of honeycomb paper that transforms from a flat-packed block into seating through the user's body weight and movements. The material deforms to create a unique impression for each user, permanently recording their physical interaction. The piece exploits paper's structural honeycomb geometry to create furniture that is simultaneously lightweight, strong, and personally adaptive.",
     "significance": "Demonstrates how understanding material properties at a structural level enables radical rethinking of manufacturing and user relationships. Shows students how Japanese design philosophy applies natural principles to create objects that respond and adapt rather than impose fixed forms.",
     "connections": [
@@ -18818,7 +18817,8 @@ export const ARCHIVE = [
       "Japanese minimalism",
       "structural geometry",
       "interactive design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LA4839/full/800,/0/default.jpg"
   },
   {
     "id": 429,
@@ -18831,7 +18831,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Peter Saville",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3541/full/800,/0/default.jpg",
     "description": "A record sleeve that appropriates Henri Fantin-Latour's 1890 painting 'A Basket of Roses' as the entire cover, with only a small color-coded identification system on the back. The design removes all conventional music industry signage, requiring viewers to decode meaning through art historical knowledge and Factory Records' systematic color coding. This strategy transforms commercial packaging into cultural critique about art, commerce, and meaning-making.",
     "significance": "Teaches students how appropriation functions as design methodology, not just aesthetic choice. Demonstrates how graphic design can critique its own commercial context by refusing conventional promotional language and requiring active interpretation from audiences.",
     "connections": [
@@ -18865,7 +18864,8 @@ export const ARCHIVE = [
       "anti-design",
       "meaning concealment",
       "Factory Records"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3541/full/800,/0/default.jpg"
   },
   {
     "id": 430,
@@ -18878,7 +18878,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Malcolm Garrett",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP0386/full/800,/0/default.jpg",
     "description": "A record sleeve using geometric fragmentation and digital typography to reference WWI naval camouflage patterns and early computer graphics. The design layers sharp angular shapes with precise letterforms to create visual disruption that mirrors the album's electronic sound. Garrett employs military camouflage logic—breaking up recognizable forms—to challenge conventional record packaging hierarchy and rock music imagery.",
     "significance": "Shows students how military and technological references can function as design methodology, not just aesthetic inspiration. Demonstrates how graphic design can embody music's conceptual content through visual strategy rather than literal illustration.",
     "connections": [
@@ -18912,7 +18911,8 @@ export const ARCHIVE = [
       "visual disruption",
       "post-punk",
       "technological aesthetic"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP0386/full/800,/0/default.jpg"
   },
   {
     "id": 431,
@@ -18925,7 +18925,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Digital Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF3358/full/800,/0/default.jpg",
     "description": "Saville transforms rejected commercial design work into gallery pieces, recontextualizing graphic design's relationship to failure and value. The piece operates as both critique and documentation, presenting discarded ideas as archaeological evidence of the design process. This transformation from waste to art challenges hierarchies between applied and fine art.",
     "significance": "Students learn how designers can reflect on their own practice, turning process documentation into critical work. It demonstrates how the same visual language operates differently in commercial and gallery contexts, making visible the usually hidden labor of design iteration.",
     "connections": [
@@ -18959,7 +18958,8 @@ export const ARCHIVE = [
       "documentation",
       "commercial design",
       "fine art"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF3358/full/800,/0/default.jpg"
   },
   {
     "id": 432,
@@ -18972,7 +18972,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KX6853/full/800,/0/default.jpg",
     "description": "The cover for Ultravox's final studio album uses restrained typography and muted color to communicate both musical sophistication and cultural melancholy. Saville's design reflects the band's transition from punk energy to electronic introspection. The minimal approach contrasts with earlier punk graphics, suggesting design maturity paralleling musical evolution.",
     "significance": "Students see how graphic design can embody cultural transition, moving beyond simple promotional function to express complex emotional states. It demonstrates how restraint and reduction can communicate meaning as effectively as bold gesture, especially in conveying endings and loss.",
     "connections": [
@@ -19006,7 +19005,8 @@ export const ARCHIVE = [
       "sophistication",
       "typography",
       "emotion"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KX6853/full/800,/0/default.jpg"
   },
   {
     "id": 433,
@@ -19019,7 +19019,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Unknown Pleasures",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6759/full/800,/0/default.jpg",
     "description": "Saville transforms scientific data from a pulsar radio telescope into Joy Division's debut album cover, creating one of graphic design's most recognizable images. The white lines on black background visualize radio waves from a dying star, matching the band's themes of isolation and cosmic insignificance. This appropriation of scientific visualization for cultural communication demonstrates how design can translate between knowledge systems.",
     "significance": "Students learn how designers can source imagery from unexpected domains, transforming scientific data into emotional communication. It shows how the same image can function as objective measurement and subjective expression, teaching the power of context in determining meaning.",
     "connections": [
@@ -19053,7 +19052,8 @@ export const ARCHIVE = [
       "isolation",
       "cultural translation",
       "pulsar"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6759/full/800,/0/default.jpg"
   },
   {
     "id": 434,
@@ -19066,7 +19066,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3540/full/800,/0/default.jpg",
     "description": "Kelly applies his architectural approach to record sleeve design, treating the album cover as spatial rather than purely graphic problem. The design considers how typography and image create architectural relationships on the flat surface. This crossover between environmental and graphic design reflects Manchester's integrated creative scene of the 1980s.",
     "significance": "Students see how designers can apply thinking from one discipline to another, bringing spatial awareness to flat graphics. It demonstrates the value of interdisciplinary approaches in design, showing how architectural training can inform graphic solutions.",
     "connections": [
@@ -19100,7 +19099,8 @@ export const ARCHIVE = [
       "typography",
       "cultural integration",
       "crossover"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3540/full/800,/0/default.jpg"
   },
   {
     "id": 435,
@@ -19113,7 +19113,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Digital Art",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY9994/full/800,/0/default.jpg",
     "description": "This specific Waste Painting transforms discarded luxury fashion graphics into gallery art, using the visual language of British heritage and status symbols. The title's reference to crown jewels makes explicit the transformation of commercial design waste into cultural treasure. Saville questions what gives design value beyond its original commercial purpose.",
     "significance": "Students learn how designers can critique luxury culture while participating in it, using irony to examine their own complicity in status-driven design. It shows how the gallery context can transform meaning, making commercial graphics function as social commentary about design's relationship to power and prestige.",
     "connections": [
@@ -19147,7 +19146,8 @@ export const ARCHIVE = [
       "gallery context",
       "commercial critique",
       "British identity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY9994/full/800,/0/default.jpg"
   },
   {
     "id": 436,
@@ -19160,7 +19160,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF3693/full/800,/0/default.jpg",
     "description": "This sleeve design extends Saville's investigation into the relationship between high and low culture, using photographic imagery that operates simultaneously as fashion photography and cultural commentary. The work demonstrates how graphic design can function as a form of social critique, questioning boundaries between commercial and artistic practice through deliberate ambiguity. The typography and layout create tension between readable information and aesthetic statement, forcing viewers to navigate between functional and conceptual reading.",
     "significance": "Students learn how established design methodologies can be developed and refined over time, showing how a designer's signature approach can evolve while maintaining conceptual consistency. The work demonstrates graphic design's capacity to engage with complex cultural subjects through formal means rather than explicit messaging.",
     "connections": [
@@ -19189,7 +19188,8 @@ export const ARCHIVE = [
       "conceptual typography",
       "social critique",
       "visual methodology"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF3693/full/800,/0/default.jpg"
   },
   {
     "id": 437,
@@ -19202,7 +19202,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Critical Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NC9731/full/800,/0/default.jpg",
     "description": "Barnbrook's panel work demonstrates his approach to typography as political and cultural critique, using letterform design and layout to create meaning that extends beyond mere textual communication. His methodology involves systematic manipulation of typographic elements to generate visual arguments about power, authority, and cultural control. The work shows how graphic design can function as a form of cultural resistance through formal strategies that question conventional approaches to information hierarchy and readability.",
     "significance": "Students need to understand how typography can operate as a critical practice that questions cultural assumptions rather than simply organizing information. The work demonstrates how systematic approaches to letterform and layout can generate political meaning, teaching design's capacity for cultural critique through formal means.",
     "connections": [
@@ -19226,7 +19225,8 @@ export const ARCHIVE = [
       "information hierarchy",
       "formal argumentation",
       "British experimental design"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NC9731/full/800,/0/default.jpg"
   },
   {
     "id": 438,
@@ -19239,7 +19239,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Critical Graphics",
     "wikiTitle": "Jonathan Barnbrook",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024PB0204/full/800,/0/default.jpg",
     "description": "Barnbrook's award design uses typography as ideological critique, employing deliberately aggressive letterforms to challenge the sanitized aesthetics of corporate recognition. The frame becomes part of the argument, containing and institutionalizing dissent. Typography functions as both message and medium, with formal decisions carrying political weight.",
     "significance": "Students learn how graphic design can embed critique within institutional contexts, demonstrating that even ceremonial objects can carry subversive content. It shows how typography becomes a weapon of cultural resistance.",
     "connections": [
@@ -19267,7 +19266,8 @@ export const ARCHIVE = [
       "recognition",
       "subversion",
       "politics"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024PB0204/full/800,/0/default.jpg"
   },
   {
     "id": 439,
@@ -19280,7 +19280,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Critical Consumerism",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PC3319/full/800,/0/default.jpg",
     "description": "This merchandise item functions as meta-critique of design commodification, using the very mechanisms of consumer culture to question them. The Honduras origin explicitly highlights global production inequalities. The object exists simultaneously as commodity and commentary, collapsing the distance between critique and complicity.",
     "significance": "Students understand how contemporary design must address its own complicity in global production systems. It demonstrates design's capacity for self-reflexive critique while remaining embedded in the systems it questions.",
     "connections": [
@@ -19308,7 +19307,8 @@ export const ARCHIVE = [
       "consumerism",
       "meta-design",
       "Honduras"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PC3319/full/800,/0/default.jpg"
   },
   {
     "id": 440,
@@ -19321,7 +19321,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Feminist Activism Graphics",
     "wikiTitle": "Guerrilla Girls",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3000/full/800,/0/default.jpg",
     "description": "The poster weaponizes the museum poster format to expose institutional bias, using statistical data as visual ammunition. The anonymous collective identity amplifies the message while protecting individual makers. Typography and layout mimic museum authority to subvert it from within.",
     "significance": "Students see how design can expose institutional power structures by adopting their visual languages. It demonstrates the strategic use of anonymity and data in activist graphics, showing design as a tool for institutional accountability.",
     "connections": [
@@ -19349,7 +19348,8 @@ export const ARCHIVE = [
       "anonymity",
       "museum",
       "activism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3000/full/800,/0/default.jpg"
   },
   {
     "id": 441,
@@ -19362,7 +19362,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Feminist Activism Graphics",
     "wikiTitle": "Guerrilla Girls",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG2671/full/800,/0/default.jpg",
     "description": "The poster uses bitter irony to expose systemic disadvantage, formatting genuine discrimination as fake benefits. Each 'advantage' reveals institutional barriers while maintaining the authoritative tone of career advice literature. The list format weaponizes bureaucratic neutrality to devastating effect.",
     "significance": "Students learn how irony and mimicry can expose power structures more effectively than direct confrontation. It shows how adopting institutional voice can reveal institutional failure, demonstrating design's capacity for strategic subversion.",
     "connections": [
@@ -19390,7 +19389,8 @@ export const ARCHIVE = [
       "disadvantage",
       "mimicry",
       "systemic"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG2671/full/800,/0/default.jpg"
   },
   {
     "id": 442,
@@ -19403,7 +19403,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Street Art Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5612/full/800,/0/default.jpg",
     "description": "The sticker exploits urban infrastructure as distribution network, using the city itself as gallery space. Its small scale enables stealth deployment while maintaining visual impact through repetition. The format democratizes both production and consumption, requiring neither institutional approval nor audience commitment.",
     "significance": "Students understand how scale and distribution method become fundamental design decisions. It demonstrates how democratic media can challenge institutional gatekeeping, showing design's capacity to operate outside traditional cultural channels.",
     "connections": [
@@ -19431,7 +19430,8 @@ export const ARCHIVE = [
       "distribution",
       "democratic",
       "guerrilla"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5612/full/800,/0/default.jpg"
   },
   {
     "id": 443,
@@ -19444,7 +19444,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5609/full/800,/0/default.jpg",
     "description": "Confrontational typographic statement using bold capitals to challenge art world exclusivity. The question format forces viewer engagement while the stark presentation amplifies the political urgency. Typography becomes activism through directness and scale.",
     "significance": "Shows how graphic design can function as direct political intervention. Demonstrates that typography alone can carry radical messages when content and form align. Essential for understanding design's role in social justice movements.",
     "connections": [
@@ -19478,7 +19477,8 @@ export const ARCHIVE = [
       "politics",
       "exclusion",
       "directness"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5609/full/800,/0/default.jpg"
   },
   {
     "id": 444,
@@ -19491,7 +19491,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5607/full/800,/0/default.jpg",
     "description": "Systematic documentation presenting data about gallery representation through stark listing format. The bureaucratic presentation style ironically highlights institutional bias through clinical objectivity. Form mimics official documentation to expose unofficial discrimination.",
     "significance": "Demonstrates how design methodology can reveal hidden patterns in cultural institutions. Shows students how information design principles can serve activist purposes when data becomes evidence of systemic problems.",
     "connections": [
@@ -19525,7 +19524,8 @@ export const ARCHIVE = [
       "evidence",
       "systematic",
       "objectivity"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5607/full/800,/0/default.jpg"
   },
   {
     "id": 445,
@@ -19538,7 +19538,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5608/full/800,/0/default.jpg",
     "description": "Low-cost distribution format using accessible printing methods to spread activist messages. The ephemeral nature suits guerrilla tactics while democratic production methods enable grassroots circulation. Design stripped to essential message delivery.",
     "significance": "Shows how production constraints can strengthen political communication by forcing clarity and accessibility. Teaches students that radical design often emerges from material limitations rather than expensive production.",
     "connections": [
@@ -19572,7 +19571,8 @@ export const ARCHIVE = [
       "circulation",
       "economy",
       "democracy"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5608/full/800,/0/default.jpg"
   },
   {
     "id": 446,
@@ -19585,7 +19585,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5614/full/800,/0/default.jpg",
     "description": "Photocopy appropriation of segregation-era signage applied to contemporary art institutions. The historical reference exposes ongoing exclusion through visual parallel. Low-fi reproduction method suits the guerrilla intervention strategy.",
     "significance": "Demonstrates how historical design languages can be recontextualized to critique present conditions. Shows students that appropriation becomes radical when it reveals continuities between past and present discrimination.",
     "connections": [
@@ -19619,7 +19618,8 @@ export const ARCHIVE = [
       "exclusion",
       "provocation",
       "recontextualization"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FV5614/full/800,/0/default.jpg"
   },
   {
     "id": 447,
@@ -19632,7 +19632,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Corporate Identity Design",
     "wikiTitle": "Waldi (mascot)",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW4361/full/800,/0/default.jpg",
     "description": "Geometric reduction of dachshund form using systematic color application and modular construction. The striped pattern creates movement while maintaining visual consistency across applications. Reduces complex organic form to essential geometric components.",
     "significance": "Shows how systematic design thinking can transform complex forms into memorable symbols. Teaches students that effective identity design requires both reduction to essentials and systematic application across media.",
     "connections": [
@@ -19666,7 +19665,8 @@ export const ARCHIVE = [
       "reduction",
       "Olympics",
       "branding"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW4361/full/800,/0/default.jpg"
   },
   {
     "id": 448,
@@ -19679,7 +19679,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Protest Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP0058/full/800,/0/default.jpg",
     "description": "Garland's march poster strips away all ornament to deliver pure information: route, date, purpose. The typography is deliberately functional—sans-serif, hierarchical, urgent. This is graphics as organizing tool, not persuasion device.",
     "significance": "Students learn how reduction can amplify political urgency. The poster demonstrates that effective protest graphics prioritize clarity over decoration, using typography as direct action rather than aesthetic statement.",
     "connections": [
@@ -19713,7 +19712,8 @@ export const ARCHIVE = [
       "activism",
       "British design",
       "sans-serif"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP0058/full/800,/0/default.jpg"
   },
   {
     "id": 449,
@@ -19726,7 +19726,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Political Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NC1174/full/800,/0/default.jpg",
     "description": "Garland's election poster applies systematic grid structure to political messaging. The typography creates visual hierarchy through scale and weight rather than decoration, organizing complex policy information into digestible units. The design logic prioritizes readability over persuasion.",
     "significance": "Students see how systematic design can serve political communication without compromising clarity. The poster shows that effective political graphics require the same rigorous information architecture as any other design problem.",
     "connections": [
@@ -19760,7 +19759,8 @@ export const ARCHIVE = [
       "grid system",
       "modernist graphics",
       "policy communication"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NC1174/full/800,/0/default.jpg"
   },
   {
     "id": 450,
@@ -19773,7 +19773,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Film Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG8850/full/800,/0/default.jpg",
     "description": "Bragg's film poster reduces narrative to pure visual impact through extreme typographic scale and dramatic cropping. The single word 'KEN' dominates the composition, functioning as both title and visual element. The design eliminates explanatory text, trusting image and typography alone to communicate story.",
     "significance": "Students learn how reduction can create psychological intensity. The poster demonstrates that effective communication sometimes requires eliminating rather than adding information, using scale and cropping to generate emotional response.",
     "connections": [
@@ -19807,7 +19806,8 @@ export const ARCHIVE = [
       "British cinema",
       "poster design",
       "emotional communication"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG8850/full/800,/0/default.jpg"
   },
   {
     "id": 451,
@@ -19820,7 +19820,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Information Design",
     "wikiTitle": "London Underground map",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH1728/full/800,/0/default.jpg",
     "description": "Beck's working sketch reveals the intellectual process behind the world's most influential transit diagram. He abstracts London's geography into a electrical circuit diagram, using only horizontal, vertical, and 45-degree lines. The sketch shows how he prioritizes topological relationships over geographic accuracy.",
     "significance": "Students see the design process that created modern information graphics. The sketch demonstrates how abstraction can clarify complex systems by eliminating irrelevant detail and emphasizing functional relationships.",
     "connections": [
@@ -19854,7 +19853,8 @@ export const ARCHIVE = [
       "functional reduction",
       "design process",
       "wayfinding"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH1728/full/800,/0/default.jpg"
   },
   {
     "id": 452,
@@ -19867,7 +19867,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Political Graphics",
     "wikiTitle": null,
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA6577/full/800,/0/default.jpg",
     "description": "Oldham's austerity critique uses memorial typography to frame unemployment as death. The poster applies funeral announcement conventions to political protest, creating cognitive dissonance through inappropriate context. Black typography on white ground emphasizes the starkness of economic loss.",
     "significance": "Students learn how existing typographic conventions can be subverted for political critique. The poster shows that effective protest graphics can appropriate familiar formats to make unfamiliar arguments about economic policy.",
     "connections": [
@@ -19901,7 +19900,8 @@ export const ARCHIVE = [
       "economic critique",
       "typographic appropriation",
       "contemporary activism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA6577/full/800,/0/default.jpg"
   },
   {
     "id": 453,
@@ -19914,7 +19914,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF9883/full/800,/0/default.jpg",
     "description": "This early Wegner armchair demonstrates his synthesis of Chinese Ming furniture joints with Danish craft traditions. The steam-bent ash frame uses traditional woodworking techniques while achieving the structural lightness that would define Danish Modern. Wegner eliminates all unnecessary material while maintaining the chair's essential comfort and dignity.",
     "significance": "Shows how designers can revitalize traditional craft methods through reductive thinking. Demonstrates that functionalism doesn't require abandoning cultural heritage—it can distill it to essentials. Essential for understanding how Danish Modern evolved from Arts and Crafts principles.",
     "connections": [
@@ -19948,7 +19947,8 @@ export const ARCHIVE = [
       "Ming influence",
       "reduction",
       "woodworking"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF9883/full/800,/0/default.jpg"
   },
   {
     "id": 454,
@@ -19961,7 +19961,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "LCW",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5942/full/800,/0/default.jpg",
     "description": "Eames applies wartime plywood molding technology to civilian furniture, creating compound curves that follow the body's contours. The chair's seat and back shells are formed from five layers of molded plywood, joined to a separate bent plywood frame through rubber shock mounts. This separation of structural and comfort functions revolutionizes chair design.",
     "significance": "Demonstrates how military R&D can transform domestic objects when designers understand material properties. Shows the importance of manufacturing process in determining form—the molded curves exist because of the technique, not despite it. Critical for understanding how American design diverged from European modernism through industrial innovation.",
     "connections": [
@@ -19995,7 +19994,8 @@ export const ARCHIVE = [
       "American modernism",
       "Evans Products",
       "material innovation"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5942/full/800,/0/default.jpg"
   },
   {
     "id": 455,
@@ -20008,7 +20008,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Marcel Breuer",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK3248/full/800,/0/default.jpg",
     "description": "Steel tube frame supports a wooden desktop, demonstrating Breuer's systematic approach to industrial materials. The cantilever principle eliminates rear legs, creating visual lightness while structural steel provides stability. Precise welded joints and standardized tube dimensions enable mass production.",
     "significance": "Shows how Bauhaus principles translated to office furniture, proving modernist ideology could serve corporate needs. Demonstrates the marriage of industrial materials with functional requirements that defined mid-century workplace design.",
     "connections": [
@@ -20042,7 +20041,8 @@ export const ARCHIVE = [
       "mass production",
       "workplace design",
       "functional modernism"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK3248/full/800,/0/default.jpg"
   },
   {
     "id": 456,
@@ -20055,7 +20055,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Modernism",
     "wikiTitle": "Gio Ponti",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH5994/full/800,/0/default.jpg",
     "description": "Geometric compartments divide storage space according to rational principles, while maintaining visual lightness through careful proportioning. Clean lines eliminate decorative elements in favor of functional clarity. Material choices emphasize surface quality over ornamental detail.",
     "significance": "Represents Italian modernism's synthesis of rational planning with Mediterranean sensibility. Shows how storage furniture could embody modernist ideology while serving domestic rather than institutional needs.",
     "connections": [
@@ -20088,7 +20087,8 @@ export const ARCHIVE = [
       "functional clarity",
       "material reduction",
       "proportional system"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH5994/full/800,/0/default.jpg"
   },
   {
     "id": 457,
@@ -20101,7 +20101,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Art Deco Modernism",
     "wikiTitle": "Eileen Gray",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ8625/full/800,/0/default.jpg",
     "description": "Lacquered wood panels pivot on metal hinges to create flexible spatial divisions within modernist interiors. The geometric composition of solid and void areas demonstrates Gray's understanding of both Japanese screen traditions and European avant-garde aesthetics. Each panel functions as an autonomous composition while contributing to the screen's overall architectural presence.",
     "significance": "Shows students how traditional building elements can be reconceived through modernist formal language. Demonstrates the importance of movable elements in creating flexible interior spaces. Critical for understanding how gender and cultural identity influenced modernist design development outside mainstream movements.",
     "connections": [
@@ -20135,7 +20134,8 @@ export const ARCHIVE = [
       "geometric composition",
       "modernist interiors",
       "cultural synthesis"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ8625/full/800,/0/default.jpg"
   },
   {
     "id": 458,
@@ -20148,7 +20148,6 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": "Gae Aulenti",
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8972/full/800,/0/default.jpg",
     "description": "A telescoping stainless steel stem supports a wing-like white methacrylate shade that can be adjusted for height and angle. The biomorphic form references a bat in flight while the technical mechanism allows precise light direction. The combination of organic aesthetics with mechanical function demonstrates Italian design's ability to merge poetic references with utilitarian performance.",
     "significance": "Shows students how zoomorphic references can enhance rather than compromise functional performance. Demonstrates the Italian approach to lighting design that treats lamps as sculptural objects with technical capabilities. Essential for understanding how 1970s radical design challenged the austere modernist aesthetic while maintaining functional logic.",
     "connections": [
@@ -20182,6 +20181,5382 @@ export const ARCHIVE = [
       "mechanical poetry",
       "directional illumination",
       "organic abstraction"
-    ]
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8972/full/800,/0/default.jpg"
+  },
+  {
+    "id": 459,
+    "title": "Laser Chair",
+    "designer": "Ineke Hans",
+    "year": 2002,
+    "discipline": "Furniture",
+    "origin": "Netherlands",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Dutch Design",
+    "wikiTitle": null,
+    "description": "A chair fabricated using laser-cutting technology to achieve precise geometric forms impossible through traditional woodworking. The manufacturing method becomes the formal language, with clean edges and minimal material waste defining the aesthetic. Digital fabrication enables complex joinery without hardware, creating structural integrity through engineered form rather than additional components.",
+    "significance": "Demonstrates how production technology can become the primary design determinant, moving beyond ornamental application of new methods. Shows students how constraints of digital fabrication — precision, material efficiency, flat-pack logic — can generate new formal vocabularies in furniture design.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both use systematic approaches to eliminate unnecessary elements, but Hans achieves reduction through digital precision while Rams used modular standardization"
+      },
+      {
+        "id": 410,
+        "type": "zeitgeist",
+        "reason": "Both emerge from the same 2002 Dutch design moment but Hans pursues technological precision while Hutten embraces conceptual playfulness"
+      }
+    ],
+    "keywords": [
+      "laser-cutting",
+      "digital fabrication",
+      "material efficiency",
+      "Dutch Design",
+      "precision manufacturing",
+      "geometric form",
+      "flat-pack",
+      "technology-driven design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7434/full/800,/0/default.jpg"
+  },
+  {
+    "id": 460,
+    "title": "High Tea Pot",
+    "designer": "Wieki Somers",
+    "year": 2003,
+    "discipline": "Product",
+    "origin": "Netherlands",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Dutch Design",
+    "wikiTitle": null,
+    "description": "Somers creates a teapot where the ceramic body is suspended within a knitted cozy that becomes the primary structural element. The soft textile framework holds the hard ceramic vessel, inverting traditional object hierarchies where decoration serves structure. The knitted skin functions as both insulation and suspension system, making the cozy essential rather than optional.",
+    "significance": "This teapot demonstrates how Dutch designers interrogate material hierarchies and functional assumptions. Students learn how questioning which material should be primary can generate entirely new formal languages. It shows that innovation often comes from reversing established object logics.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "zeitgeist",
+        "reason": "Both 2003 Dutch objects question material hierarchies — Somers makes textile structural while Hutten makes hard foam appear soft, revealing a shared interest in material paradox"
+      },
+      {
+        "id": 2,
+        "type": "argument",
+        "reason": "Where Castiglioni preserves the tractor seat's original function within new context, Somers completely inverts the cozy-teapot relationship, showing two approaches to functional recontextualization"
+      },
+      {
+        "id": 5,
+        "type": "method",
+        "reason": "Both Dutch designers use narrative to drive material choices — Remy's drawers tell stories of accumulation while Somers' inverted hierarchy tells of protection and vulnerability"
+      }
+    ],
+    "keywords": [
+      "material hierarchy",
+      "textile structure",
+      "functional inversion",
+      "Dutch conceptualism",
+      "ceramic suspension",
+      "protection narrative",
+      "soft architecture",
+      "object paradox"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK3842/full/800,/0/default.jpg"
+  },
+  {
+    "id": 461,
+    "title": "Photograph of J.J. Jennings",
+    "designer": "Walter Barnett Studios",
+    "year": 1930,
+    "discipline": "Graphic",
+    "origin": "France",
+    "manufacturer": "Walter Barnett Studios",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Commercial Portrait Photography",
+    "wikiTitle": null,
+    "description": "Barnett's studio portrait uses controlled lighting and formal composition to construct a professional theatrical identity. The photograph employs studio techniques — backdrop, directional lighting, careful pose — to create a commercial image that sells both the subject's persona and the photographer's technical skill. The formal language borrows from painted portraiture while exploiting photography's mechanical reproducibility.",
+    "significance": "This work shows students how commercial photography developed its own visual conventions separate from art photography. Understanding how studios systematized portrait-making reveals photography's role in constructing public identity and professional image.",
+    "connections": [
+      {
+        "id": 462,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of theatrical documentation but Barnett's 1930 approach emphasizes professional glamour while the 1867 version prioritizes character documentation, showing photography's evolution from record to marketing tool"
+      },
+      {
+        "id": 14,
+        "type": "method",
+        "reason": "Both establish systematic approaches to visual communication — Barnett's studio develops repeatable portrait formulas while Tschichold systematizes book typography, showing parallel standardization of visual practices"
+      }
+    ],
+    "keywords": [
+      "studio portraiture",
+      "commercial photography",
+      "identity construction",
+      "lighting technique",
+      "professional image",
+      "mechanical reproduction",
+      "theatrical documentation",
+      "visual standardization"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4444/full/800,/0/default.jpg"
+  },
+  {
+    "id": 462,
+    "title": "Guy Little Theatrical Photograph",
+    "designer": "London Stereoscopic Company",
+    "year": 1867,
+    "discipline": "Graphic",
+    "origin": "England",
+    "manufacturer": "London Stereoscopic Company",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Victorian Commercial Photography",
+    "wikiTitle": null,
+    "description": "The London Stereoscopic Company's theatrical photograph prioritizes character documentation over glamour, using photography to record specific dramatic personas for commercial distribution. The composition treats the subject as specimen — full figure, neutral background, clear lighting — creating a visual catalogue entry. This approach reflects photography's early role as objective documentation rather than interpretive portraiture.",
+    "significance": "Students see how early commercial photography developed systematic approaches to documentation that influenced later design thinking. The catalog-like approach shows photography's relationship to classification and systems of visual organization.",
+    "connections": [
+      {
+        "id": 462,
+        "type": "method",
+        "reason": "Both Fradelle & Marshall and London Stereoscopic Company use systematic documentation approaches but the 1867 version emphasizes specimen-like recording while the 1873 approach begins incorporating more theatrical atmosphere"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both use systematic reduction to aid identification — the theatrical photograph strips away distracting elements to isolate character information, while Beck reduces geographic complexity to clarify journey logic"
+      }
+    ],
+    "keywords": [
+      "documentary photography",
+      "character documentation",
+      "systematic cataloging",
+      "specimen approach",
+      "Victorian commerce",
+      "theatrical archive",
+      "neutral composition",
+      "commercial distribution"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX7725/full/800,/0/default.jpg"
+  },
+  {
+    "id": 463,
+    "title": "Circuit",
+    "designer": "Eddie Squires",
+    "year": 1967,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Pop Art Textile Design",
+    "wikiTitle": null,
+    "description": "Squires translates electronic circuit diagrams into furnishing fabric, making technological infrastructure visible in domestic space. The pattern uses circuit board aesthetics — linear connections, component symbols, systematic organization — as decorative language. Rather than hiding technology, the design celebrates electronic logic as the new vernacular of modern life.",
+    "significance": "This fabric shows how Pop designers made emerging technologies culturally visible by translating technical languages into domestic objects. Students learn how design can make abstract systems comprehensible and how decorative patterns can carry cultural arguments about technological progress.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both 1960s/70s works make technological infrastructure visible rather than hidden — Squires brings circuit aesthetics into domestic fabric while Piano & Rogers expose mechanical systems in public architecture"
+      },
+      {
+        "id": 13,
+        "type": "material",
+        "reason": "Both translate complex systematic information into comprehensible visual language — Beck simplifies transport networks while Squires domesticates electronic circuit logic, showing design's role in making systems legible"
+      }
+    ],
+    "keywords": [
+      "circuit aesthetics",
+      "technological visibility",
+      "systematic pattern",
+      "Pop textile",
+      "electronic vernacular",
+      "infrastructure decoration",
+      "domestic technology",
+      "cultural translation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LF1120/full/800,/0/default.jpg"
+  },
+  {
+    "id": 464,
+    "title": "Colourtron",
+    "designer": "Eddie Squires",
+    "year": 1967,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "Hull Traders",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Pop Art Textile Design",
+    "wikiTitle": null,
+    "description": "Squires transforms the domestic interior through psychedelic pattern repetition that makes optical colour interactions the primary content. The fabric operates as environmental wallpaper, using high-contrast geometric forms to create perceptual afterimages that shift as viewers move through the space. Its synthetic colour palette — electric blues, acidic yellows, fluorescent pinks — exploits new chemical dyes that had no precedent in natural materials.",
+    "significance": "Students learn how pattern can function as spatial architecture rather than decoration. The work demonstrates how Pop designers weaponised commercial printing techniques to assault bourgeois domestic taste, turning homes into consciousness-altering environments.",
+    "connections": [
+      {
+        "id": 10,
+        "type": "argument",
+        "reason": "Where Circuit uses electrical metaphors to suggest technological optimism, Colourtron deploys pure optical sensation to overwhelm rational perception — two approaches to 1960s futurism through pattern"
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both emerge from movements that rejected Modernist restraint, but Squires achieves sensory assault through repetitive pattern while Sottsass uses sculptural anti-functionality"
+      }
+    ],
+    "keywords": [
+      "optical illusion",
+      "psychedelic design",
+      "synthetic dyes",
+      "pattern repetition",
+      "Pop interior",
+      "perceptual design",
+      "environmental graphics",
+      "domestic revolution"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LA1059/full/800,/0/default.jpg"
+  },
+  {
+    "id": 465,
+    "title": "Mise en page",
+    "designer": "Alfred Tolmer",
+    "year": 1931,
+    "discipline": "Typography",
+    "origin": "France",
+    "manufacturer": "The Studio Ltd",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Commercial Modernism",
+    "wikiTitle": null,
+    "description": "Tolmer codifies asymmetrical layout as a commercial tool, arguing that dynamic composition generates sales through visual shock. His grid systems prioritise hierarchy and movement over the static balance of classical typography, using photography, bold sans-serifs, and diagonal compositions to capture the pace of modern commerce. The book functions as both manual and manifesto, proving avant-garde techniques could serve capitalist communication.",
+    "significance": "Students understand how Modernist typography entered mainstream practice through commercial necessity rather than aesthetic theory. Tolmer bridges the gap between Bauhaus experiment and Madison Avenue reality, showing how formal innovation serves persuasive function.",
+    "connections": [
+      {
+        "id": 14,
+        "type": "argument",
+        "reason": "Tolmer advocates dynamic asymmetry to create commercial impact, while Tschichold systematises restrained balance for literary communication — two applications of Modernist typography serving different masters"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both designers strip away decorative elements to focus on functional hierarchy, using geometric abstraction and systematic colour to organise complex information for rapid comprehension"
+      }
+    ],
+    "keywords": [
+      "layout theory",
+      "commercial typography",
+      "asymmetrical composition",
+      "grid systems",
+      "photography integration",
+      "sans-serif",
+      "visual hierarchy",
+      "Modernist commerce"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FK5516/full/800,/0/default.jpg"
+  },
+  {
+    "id": 466,
+    "title": "High Flyer, Low Profile",
+    "designer": "Sue Coffey",
+    "year": 1989,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Postmodern Graphic Design",
+    "wikiTitle": null,
+    "description": "Coffey layers photomontage, typography, and geometric shapes to create visual complexity that mirrors the information overload of late capitalism. The poster abandons singular messaging for simultaneous narratives, using collage techniques that force viewers to construct meaning from fragmented elements. Her approach treats the poster plane as archaeological site where different media and temporal references accumulate rather than resolve into unified communication.",
+    "significance": "Students see how Postmodern design rejects Modernist clarity in favour of interpretive ambiguity. Coffey demonstrates that effective communication can emerge from complexity rather than reduction, anticipating the multi-layered media environment of digital culture.",
+    "connections": [
+      {
+        "id": 465,
+        "type": "argument",
+        "reason": "Where Tolmer uses dynamic layout to clarify commercial messages, Coffey employs layered complexity to resist singular interpretation — opposing approaches to the relationship between form and meaning"
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both works from the 1980s reject Modernist unity through deliberate fragmentation, but Coffey achieves this through media collage while Sottsass uses sculptural anti-logic"
+      }
+    ],
+    "keywords": [
+      "photomontage",
+      "information overload",
+      "visual complexity",
+      "collage technique",
+      "Postmodern communication",
+      "layered narrative",
+      "media archaeology",
+      "interpretive ambiguity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3723/full/800,/0/default.jpg"
+  },
+  {
+    "id": 467,
+    "title": "Photograph of Nellie Briercliffe",
+    "designer": "Bassano Ltd., Royal Photographers",
+    "year": 1915,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Commercial Portrait Photography",
+    "wikiTitle": "Bassano Ltd.",
+    "description": "Bassano's studio lighting creates theatrical character through controlled shadow and highlight, transforming the sitter into a marketable persona rather than documentary record. The photograph uses professional lighting equipment and posed composition to manufacture celebrity, treating the human subject as material for commercial image construction. Soft focus and dramatic lighting angles reference fine art painting traditions while serving the publicity machinery of early entertainment industry.",
+    "significance": "Students learn how commercial photography established the visual grammar of celebrity, creating templates for personal branding that persist in social media. The work reveals photography's role in constructing rather than capturing identity.",
+    "connections": [
+      {
+        "id": 468,
+        "type": "method",
+        "reason": "Both portraits use identical studio lighting setups and compositional formulas to manufacture theatrical personality, demonstrating how Bassano systematised celebrity image production through repeatable techniques"
+      },
+      {
+        "id": 7,
+        "type": "lineage",
+        "reason": "Bassano's commercial portrait formulas directly influence later theatrical photographers like Barnett, establishing the visual conventions that define professional entertainment photography"
+      }
+    ],
+    "keywords": [
+      "studio lighting",
+      "celebrity photography",
+      "theatrical portraiture",
+      "commercial identity",
+      "entertainment industry",
+      "soft focus",
+      "manufactured persona",
+      "publicity photography"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4464/full/800,/0/default.jpg"
+  },
+  {
+    "id": 468,
+    "title": "Photograph of Sylvia Cecil",
+    "designer": "Bassano Ltd., Royal Photographers",
+    "year": 1920,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Commercial Portrait Photography",
+    "wikiTitle": "Bassano Ltd.",
+    "description": "The photograph demonstrates Bassano's systematic approach to celebrity construction, using consistent lighting and posing to create theatrical glamour. Professional equipment — arc lights, reflectors, painted backdrops — transforms the studio into a factory for manufacturing public personas. The composition balances documentary accuracy with romantic idealization, serving the dual commercial needs of recognition and aspiration that drive entertainment marketing.",
+    "significance": "Students understand how standardised photographic techniques create the illusion of unique personality. The work shows early mass media's role in transforming private individuals into public commodities through repeatable visual formulas.",
+    "connections": [
+      {
+        "id": 467,
+        "type": "method",
+        "reason": "Identical studio systems and lighting setups reveal Bassano's industrial approach to celebrity photography, where individual identity becomes secondary to branded visual consistency"
+      },
+      {
+        "id": 8,
+        "type": "lineage",
+        "reason": "Bassano's commercial portrait studio builds directly on Victorian theatrical photography traditions established by studios like London Stereoscopic Company, professionalising celebrity image production"
+      }
+    ],
+    "keywords": [
+      "celebrity factory",
+      "studio system",
+      "commercial glamour",
+      "entertainment marketing",
+      "professional lighting",
+      "standardised portraiture",
+      "public persona",
+      "mass media identity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB4466/full/800,/0/default.jpg"
+  },
+  {
+    "id": 469,
+    "title": "V&A 150th Anniversary Album Page",
+    "designer": "Ron Arad",
+    "year": 2007,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Institutional Design",
+    "wikiTitle": null,
+    "description": "Arad's contribution transforms the conventional album page into a sculptural document, employing his characteristic material manipulation to collapse the boundary between two and three dimensions. The page operates as both graphic surface and spatial object, questioning whether institutional commemoration requires traditional flatness or can embrace the dimensional thinking that defines his furniture practice.",
+    "significance": "Shows how designers extend their core methodologies across disciplines, demonstrating that material thinking transcends object categories. Students learn that conceptual consistency can bridge graphic and spatial design, challenging the boundaries between design disciplines.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "argument",
+        "reason": "Where Sottsass uses color and form to reject functional storage as neutral backdrop, Arad rejects the album page as neutral documentation, both insisting that institutional objects must embody conceptual positions rather than disappear into service."
+      },
+      {
+        "id": 109,
+        "type": "method",
+        "reason": "Both demonstrate Arad's consistent approach of treating expected materials as sculptural mediums—whether steel rod in furniture or paper in graphic design—to question the assumed properties and behaviors of conventional typologies."
+      }
+    ],
+    "keywords": [
+      "institutional design",
+      "dimensional graphic",
+      "material thinking",
+      "disciplinary boundaries",
+      "commemorative design",
+      "sculptural documentation",
+      "typological questioning"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HP1518/full/800,/0/default.jpg"
+  },
+  {
+    "id": 470,
+    "title": "Kaleidoscope House Living Room Set",
+    "designer": "Laurie Simmons",
+    "year": 2001,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Conceptual Art Product",
+    "wikiTitle": "Laurie Simmons",
+    "description": "Simmons scales down domestic furniture to dollhouse proportions while maintaining adult sophistication in form and material choices, creating objects that function simultaneously as children's toys and art objects. The pieces operate in the uncanny valley between representation and reality, where familiar domestic typologies become estranged through radical scale reduction while retaining their essential formal characteristics.",
+    "significance": "Demonstrates how scale transformation can critique rather than simply miniaturize, teaching students that changing one variable—size—can completely alter an object's meaning and cultural function. Essential for understanding how context shapes interpretation in design.",
+    "connections": [
+      {
+        "id": 472,
+        "type": "argument",
+        "reason": "While Dixon inflates furniture beyond comfortable human scale to question function through excess, Simmons deflates domestic objects below human use to question domesticity through removal—both use scale distortion to make familiar objects conceptually strange."
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both transform functional domestic objects into conversation pieces that question use versus display, though Simmons achieves this through scale reduction while Starck uses formal exaggeration—different methods for making everyday objects conceptually productive."
+      }
+    ],
+    "keywords": [
+      "scale transformation",
+      "domestic critique",
+      "toy design",
+      "conceptual product",
+      "miniaturization",
+      "uncanny valley",
+      "context shifting",
+      "art object"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC2720/full/800,/0/default.jpg"
+  },
+  {
+    "id": 471,
+    "title": "Jack Light",
+    "designer": "Tom Dixon",
+    "year": 1996,
+    "discipline": "Lighting",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Hybrid Typology Design",
+    "wikiTitle": "Tom Dixon",
+    "description": "Dixon creates a hybrid object that functions simultaneously as floor light and occasional seating through a molded polyethylene form that diffuses light while supporting human weight. The single material and manufacturing process—rotational molding—produces both structural strength and optical properties, eliminating the need for separate technical and aesthetic components. The form's geometric simplicity masks sophisticated understanding of how plastic behaves under rotational molding constraints.",
+    "significance": "Students learn how single manufacturing processes can solve multiple functional requirements, demonstrating that efficiency in production can generate rather than limit formal possibilities. Essential for understanding how material properties can be leveraged to create hybrid typologies.",
+    "connections": [
+      {
+        "id": 4,
+        "type": "sameProblem",
+        "reason": "Both create hybrid furniture-lighting objects, though the Castiglionis achieve this through assembling disparate components while Dixon integrates multiple functions within a single molded form—different approaches to typological hybridization."
+      },
+      {
+        "id": 8,
+        "type": "argument",
+        "reason": "Where the Castiglionis use precious materials and precise detailing to create lighting as refined technical object, Dixon uses industrial molding and synthetic materials to create lighting as casual everyday object—opposing positions on how light fixtures should relate to domestic space."
+      }
+    ],
+    "keywords": [
+      "hybrid typology",
+      "rotational molding",
+      "polyethylene",
+      "dual function",
+      "single material",
+      "manufacturing efficiency",
+      "light diffusion",
+      "casual lighting"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3458/full/800,/0/default.jpg"
+  },
+  {
+    "id": 472,
+    "title": "Fat Chair",
+    "designer": "Tom Dixon",
+    "year": 1991,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Inflated Minimalism",
+    "wikiTitle": "Tom Dixon",
+    "description": "Dixon inflates the traditional upholstered armchair to cartoonish proportions, using exaggerated scale to question the relationship between comfort and form. The chair's bloated geometry maintains recognizable armchair elements—arms, back, seat—while pushing each beyond functional necessity into pure formal gesture. The inflation process becomes a design method that transforms familiar domestic typology into sculptural object while retaining essential use patterns.",
+    "significance": "Demonstrates how formal exaggeration can critique design conventions, teaching students that distortion can be a legitimate design strategy for questioning assumptions about scale, comfort, and domestic objects. Shows how recognizable typologies can be pushed toward sculpture while maintaining function.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both emerge from late 20th-century postmodern questioning of functionalist restraint, using formal excess to critique modernist reduction—though Sottsass employs color and geometry while Dixon uses scale inflation."
+      },
+      {
+        "id": 9,
+        "type": "method",
+        "reason": "Both use formal exaggeration as design strategy to transform utilitarian objects into conversation pieces, though Dixon inflates familiar forms while Starck attenuates them—shared commitment to making functional objects formally provocative."
+      }
+    ],
+    "keywords": [
+      "scale exaggeration",
+      "inflated form",
+      "domestic critique",
+      "sculptural furniture",
+      "comfort questioning",
+      "typological distortion",
+      "postmodern furniture",
+      "formal excess"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7754/full/800,/0/default.jpg"
+  },
+  {
+    "id": 473,
+    "title": "Design for Pylon Chair",
+    "designer": "Tom Dixon",
+    "year": 1991,
+    "discipline": "Furniture",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "British Craft Revival",
+    "wikiTitle": null,
+    "description": "Dixon's technical drawing systematizes his intuitive welding practice into reproducible geometry, translating the S Chair's curved steel rod logic into electrical transmission tower aesthetics. The drawing reveals how he codifies craft knowledge into industrial production methods. The pylon reference connects domestic furniture to infrastructure scale, suggesting furniture as architectural miniature.",
+    "significance": "Students learn how designers move from craft prototyping to systematic production through technical drawing. This shows the translation process between intuitive making and documented methodology — essential for scaling craft-based ideas into commercial products.",
+    "connections": [
+      {
+        "id": 20,
+        "type": "lineage",
+        "reason": "The Pylon Chair drawing documents Dixon's transition from welded steel construction to inflatable polymer systems — both structural approaches to lightweight furniture through different material logics"
+      },
+      {
+        "id": 18,
+        "type": "method",
+        "reason": "Both use technical drawing to systematize curved steel rod construction, but the Pylon design scales up the domestic chair logic to reference industrial infrastructure"
+      },
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "Dixon's drawing emphasizes expressive structural form while Rams prioritizes invisible systematic logic — opposing approaches to how technical documentation should communicate design intent"
+      }
+    ],
+    "keywords": [
+      "technical drawing",
+      "craft systematization",
+      "steel rod construction",
+      "infrastructure reference",
+      "production transition",
+      "systematic geometry",
+      "structural expression"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG9208/full/800,/0/default.jpg"
+  },
+  {
+    "id": 474,
+    "title": "Fresh Fat Plastic",
+    "designer": "Tom Dixon",
+    "year": 2002,
+    "discipline": "Product",
+    "origin": "Britain",
+    "manufacturer": "Victoria and Albert Museum",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Experimental Making",
+    "wikiTitle": null,
+    "description": "Dixon rotomoulded recycled plastic waste into bowls during a live V&A demonstration, making visible the transformation of consumer plastic waste into new functional objects. The process reveals polymer behavior under heat and rotation, creating forms impossible through other making methods. Each bowl differs because waste plastic composition varies, making inconsistency the design feature rather than production flaw.",
+    "significance": "This teaches students how process visibility can become the product's primary value. It demonstrates how manufacturing demonstration transforms making from hidden industrial process into public performance, questioning where design thinking ends and production begins.",
+    "connections": [
+      {
+        "id": 20,
+        "type": "material",
+        "reason": "Both explore plastic's capacity for volumetric form through heat, but rotomoulding creates variable thickness while inflation requires uniform wall thickness — different approaches to polymer expansion"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Both challenge conventional object functionality but Dixon emphasizes making process while Starck prioritizes formal gesture — process demonstration versus aesthetic provocation as design strategy"
+      },
+      {
+        "id": 6,
+        "type": "zeitgeist",
+        "reason": "Both made around 2002 when designers were investigating plastic waste as luxury material source, transforming environmental concern into high-end making methodology"
+      }
+    ],
+    "keywords": [
+      "rotomoulding",
+      "plastic waste",
+      "live demonstration",
+      "process visibility",
+      "material transformation",
+      "variable production",
+      "environmental making",
+      "public performance"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MX7473/full/800,/0/default.jpg"
+  },
+  {
+    "id": 475,
+    "title": "De La Warr Pavilion Chair",
+    "designer": "Edward Barber",
+    "year": 2005,
+    "discipline": "Furniture",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contextual Design",
+    "wikiTitle": "Barber & Osgerby",
+    "description": "Barber designed this chair specifically for Mendelsohn and Chermayeff's 1935 Modernist pavilion, using bent plywood to echo the building's curved concrete forms and horizontal emphasis. The chair's proportions respond to the pavilion's interior scale and seaside context, creating furniture that functions as architectural interpretation rather than generic seating. The plywood's grain direction follows the structural logic of the chair's cantilever, making material behavior visible.",
+    "significance": "Students learn how site-specific design creates meaning through architectural dialogue rather than autonomous object-making. This demonstrates how furniture can function as architectural criticism, responding to and interpreting existing spatial conditions through material and form.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both designers solve the lightweight chair brief through different structural approaches — Ponti uses traditional wood joinery while Barber uses bent plywood cantilever, same goal through opposing material logics"
+      },
+      {
+        "id": 474,
+        "type": "argument",
+        "reason": "Barber creates architectural continuity through material precision while Dixon emphasizes material transformation through process — ordered integration versus experimental making as design approaches"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both projects use material systems to interpret architectural context, but Barber harmonizes with existing Modernist language while Piano & Rogers create technological contrast — different strategies for contextual response"
+      }
+    ],
+    "keywords": [
+      "contextual design",
+      "bent plywood",
+      "architectural dialogue",
+      "site-specific furniture",
+      "Modernist interpretation",
+      "cantilever structure",
+      "material grain",
+      "seaside context"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0474/full/800,/0/default.jpg"
+  },
+  {
+    "id": 476,
+    "title": "Loop Coffee Table",
+    "designer": "Edward Barber & Jay Osgerby",
+    "year": 1999,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "Cappellini",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "British Minimalism",
+    "wikiTitle": "Barber Osgerby",
+    "description": "A single bent steel tube forms both structure and surface, creating a continuous loop that eliminates the distinction between legs and tabletop. The manufacturing process—cold-rolled steel bent into a precise radius—determines the form, with no added joints or connections. The table exists as pure structural logic made visible.",
+    "significance": "Demonstrates how manufacturing constraints can generate form rather than limit it. Shows students that structural honesty doesn't require exposing complexity—sometimes the most sophisticated engineering appears effortless.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Both achieve structural clarity through different philosophies: Bill's stool exposes construction logic through visible joints, while Barber Osgerby conceals complexity in seamless continuity"
+      },
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both apply systems thinking to furniture, but Rams creates modularity through standardized components while Barber Osgerby achieves versatility through singular geometric perfection"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both pursue maximum structural efficiency with minimum material, but Ponti's chair celebrates traditional craftsmanship while the Loop table embraces industrial precision"
+      }
+    ],
+    "keywords": [
+      "continuous form",
+      "bent steel",
+      "structural minimalism",
+      "manufacturing logic",
+      "seamless construction",
+      "British design",
+      "geometric purity",
+      "material efficiency"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG5421/full/800,/0/default.jpg"
+  },
+  {
+    "id": 477,
+    "title": "London 2012 Olympic Torch",
+    "designer": "Edward Barber & Jay Osgerby",
+    "year": 2011,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "Premier Farnell",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Olympic Design",
+    "wikiTitle": "2012 Summer Olympics torch",
+    "description": "Eight thousand gold-anodized aluminum triangular sections pierce a conical aluminum body, each hole representing one torchbearer in the relay. The perforations serve dual functions: reducing weight to 800 grams and creating the visual metaphor of collective participation. CNC machining allows precise control over hole placement while maintaining structural integrity.",
+    "significance": "Teaches how symbolic meaning can emerge from functional decisions rather than decorative application. Demonstrates that contemporary ceremonial objects can embody democratic values through design logic rather than historical reference.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both use industrial processes and materials to create public symbols, but Piano & Rogers expose building systems as architectural language while Barber Osgerby integrate manufacturing marks into symbolic meaning"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Rams pursues anonymous functionality while the Olympic torch celebrates visible identity—both use aluminum and precision manufacturing but toward opposite symbolic ends"
+      },
+      {
+        "id": 25,
+        "type": "lineage",
+        "reason": "Barber's later chair develops the torch's method of integrating symbolic meaning with functional performance, both using perforation patterns to unite structure with cultural narrative"
+      }
+    ],
+    "keywords": [
+      "perforated aluminum",
+      "CNC machining",
+      "symbolic functionality",
+      "lightweight structure",
+      "democratic symbolism",
+      "ceremonial design",
+      "collective representation",
+      "manufacturing precision"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY2210/full/800,/0/default.jpg"
+  },
+  {
+    "id": 478,
+    "title": "V&A 150th Anniversary Album Design",
+    "designer": "Edward Barber",
+    "year": 2007,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Institutional Graphic Design",
+    "wikiTitle": null,
+    "description": "Abstract geometric forms in metallic print create a visual system that references both the museum's decorative arts collection and contemporary design practice. The layout uses negative space as actively as printed elements, allowing institutional identity to emerge through restraint rather than explicit branding.",
+    "significance": "Demonstrates how graphic designers can honor institutional heritage without resorting to historical pastiche. Shows students that contemporary design languages can respect cultural authority while maintaining visual independence.",
+    "connections": [
+      {
+        "id": 16,
+        "type": "zeitgeist",
+        "reason": "Both respond to the same institutional commission but Arad uses sculptural expressionism while Barber applies geometric restraint—revealing how the same brief can generate opposing design philosophies"
+      },
+      {
+        "id": 14,
+        "type": "method",
+        "reason": "Both create institutional identity through systematic approaches, but Tschichold's rules prioritize typographic clarity while Barber's system balances geometric abstraction with institutional dignity"
+      },
+      {
+        "id": 13,
+        "type": "argument",
+        "reason": "Beck reduces geographic complexity to essential information while Barber adds visual complexity to communicate institutional sophistication—opposite strategies for different public communication needs"
+      }
+    ],
+    "keywords": [
+      "institutional identity",
+      "metallic printing",
+      "geometric abstraction",
+      "negative space",
+      "museum graphics",
+      "contemporary classicism",
+      "visual restraint",
+      "cultural authority"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW5119/full/800,/0/default.jpg"
+  },
+  {
+    "id": 479,
+    "title": "Experimental Design Study",
+    "designer": "Edward Barber",
+    "year": 2011,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Design Research",
+    "wikiTitle": null,
+    "description": "Material and formal investigations explore the boundaries between functional objects and sculptural forms. The study uses physical modeling to test how subtle changes in proportion and surface treatment affect both practical performance and visual impact.",
+    "significance": "Shows students that established designers continue experimental practice alongside commercial work. Demonstrates that design research through making remains essential for developing new formal languages and understanding material behavior.",
+    "connections": [
+      {
+        "id": 24,
+        "type": "method",
+        "reason": "Both designers use experimental making to explore material possibilities, but Dixon's molten plastic celebrates accident while Barber's studies pursue controlled formal investigation"
+      },
+      {
+        "id": 18,
+        "type": "argument",
+        "reason": "Dixon's raw welding celebrates visible process while Barber's studies refine forms toward industrial precision—opposite approaches to experimental furniture making"
+      }
+    ],
+    "keywords": [
+      "design research",
+      "experimental making",
+      "formal investigation",
+      "material studies",
+      "sculptural objects",
+      "design process",
+      "physical modeling",
+      "proportional studies"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2013GH8708/full/800,/0/default.jpg"
+  },
+  {
+    "id": 480,
+    "title": "Loop Shelf",
+    "designer": "Edward Barber & Jay Osgerby",
+    "year": 1996,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "British Minimalism",
+    "wikiTitle": null,
+    "description": "A continuous loop of bent plywood that serves as both structural frame and storage surface. The single material curve eliminates joints and hardware, creating a shelf through pure geometric manipulation. The loop's tension distributes load evenly while the bend creates natural compartments.",
+    "significance": "Demonstrates how formal reduction can generate function — the shelf works because of its shape, not despite it. Shows early Barber Osgerby's approach to eliminating assembly through intelligent forming, a principle they would refine across their career.",
+    "connections": [
+      {
+        "id": 26,
+        "type": "lineage",
+        "reason": "Both use continuous loops as structural solutions, but the shelf's vertical orientation reveals how the same geometric principle can create storage versus display surfaces"
+      },
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "Rams uses modular components to create infinite configurations while Barber Osgerby use a single continuous form — opposing approaches to shelving flexibility"
+      },
+      {
+        "id": 7,
+        "type": "material",
+        "reason": "Both use bent plywood's structural properties to eliminate joints, but the shelf's loop creates storage through geometric manipulation rather than the stool's pure structural efficiency"
+      }
+    ],
+    "keywords": [
+      "bent plywood",
+      "continuous form",
+      "structural geometry",
+      "minimal assembly",
+      "load distribution",
+      "British minimalism",
+      "early career work",
+      "geometric function"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7468/full/800,/0/default.jpg"
+  },
+  {
+    "id": 481,
+    "title": "Magic Tape Dispenser",
+    "designer": "Camille Blin",
+    "year": 2018,
+    "discipline": "Product",
+    "origin": "Switzerland",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Swiss Design",
+    "wikiTitle": null,
+    "description": "A tape dispenser that reveals the mechanical action of cutting through transparent materials and precise geometry. The clear housing exposes the tape roll and cutting mechanism, transforming utility into demonstration. Angular facets catch light and fragment the view, making the mundane object optically complex.",
+    "significance": "Shows how transparency can be a design argument about honesty versus spectacle — the clear material reveals function but also performs visual complexity. Teaches that even basic office tools can embody cultural positions about visibility and mechanics.",
+    "connections": [
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Rams uses transparency to reveal rational function while Blin uses it to create optical drama — opposing approaches to honest materials"
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both transform mundane kitchen/office tools into sculptural objects, but Blin maintains function while Starck sacrifices it for form"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both use transparency and exposed mechanisms as design languages, but the building scale versus object scale reveals different implications of structural honesty"
+      }
+    ],
+    "keywords": [
+      "transparent materials",
+      "exposed mechanism",
+      "office design",
+      "optical complexity",
+      "Swiss precision",
+      "functional transparency",
+      "geometric faceting",
+      "utility aesthetics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NH6715/full/800,/0/default.jpg"
+  },
+  {
+    "id": 482,
+    "title": "Branca Chair",
+    "designer": "Sam Hecht",
+    "year": 2010,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Behavioural Design",
+    "wikiTitle": null,
+    "description": "A chair designed through systematic observation of how people actually sit, with a wide seat that accommodates crossed legs and slouching. The proportions reflect behavioral research rather than classical furniture geometry. The form follows discovered sitting patterns, not inherited chair typologies.",
+    "significance": "Demonstrates how ethnographic research can generate new furniture typologies — showing students that observation can be more radical than formal invention. Reveals how behavioral design challenges assumptions about 'correct' posture embedded in traditional chairs.",
+    "connections": [
+      {
+        "id": 482,
+        "type": "method",
+        "reason": "Both Hecht and Colin used identical behavioral research methods but their different design voices produced subtly different formal interpretations of the same brief"
+      },
+      {
+        "id": 4,
+        "type": "argument",
+        "reason": "Castiglioni questions sitting conventions through ready-made provocation while Hecht does it through systematic behavioral observation — different methods toward the same critique"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both Italian chairs address weight and comfort but Ponti pursues lightness through material reduction while Hecht pursues comfort through behavioral accommodation"
+      }
+    ],
+    "keywords": [
+      "behavioral research",
+      "sitting patterns",
+      "ethnographic design",
+      "posture accommodation",
+      "wide proportions",
+      "systematic observation",
+      "anti-classical",
+      "comfort priority"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY6981/full/800,/0/default.jpg"
+  },
+  {
+    "id": 483,
+    "title": "Examining Fluorescent Tubes",
+    "designer": "Maurice Broomfield",
+    "year": 1958,
+    "discipline": "Graphic",
+    "origin": "Netherlands",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "A photograph capturing quality control inspection of fluorescent tubes at Philips factory, with workers examining products against backlit testing stations. The image transforms industrial process into geometric composition, with rows of tubes creating rhythmic patterns. The photography reveals both human labor and mass production systems.",
+    "significance": "Documents the moment when electric lighting shifted from craft to industrial production, showing students how manufacturing photography can reveal both process and aesthetic possibility. Demonstrates photography's role in constructing industrial modernity's visual language.",
+    "connections": [
+      {
+        "id": 1,
+        "type": "zeitgeist",
+        "reason": "Both represent 1950s lighting innovation — the photograph documents industrial fluorescent production while Castiglioni domesticates new lighting technology for homes"
+      },
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "The photograph celebrates industrial aesthetics and mass production while Rogers & Piano's architecture later adopts industrial language as cultural statement"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both use systematic visual organization — Beck through diagrammatic clarity, Broomfield through photographic composition — to make complex systems comprehensible"
+      }
+    ],
+    "keywords": [
+      "industrial photography",
+      "quality control",
+      "mass production",
+      "fluorescent lighting",
+      "Philips factory",
+      "geometric composition",
+      "manufacturing process",
+      "1950s industry"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MY3720/full/800,/0/default.jpg"
+  },
+  {
+    "id": 484,
+    "title": "Woman Examining Sample",
+    "designer": "Maurice Broomfield",
+    "year": 1957,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield's industrial photograph transforms quality control into visual poetry, using shallow depth of field to isolate the worker's concentrated examination against abstracted machinery. The composition elevates mundane testing procedures into a study of human precision within industrial systems. Light and gesture combine to dignify industrial labour through formal photographic techniques.",
+    "significance": "Shows how documentary photography can argue for industrial work as skilled craft rather than mechanical repetition. Demonstrates photography's capacity to reframe perception of manufacturing processes through careful composition and lighting choices.",
+    "connections": [
+      {
+        "id": 35,
+        "type": "zeitgeist",
+        "reason": "Both represent Broomfield's systematic documentation of post-war British industrial optimism, using identical photographic strategies to present manufacturing as a site of human dignity and technical progress"
+      }
+    ],
+    "keywords": [
+      "industrial photography",
+      "quality control",
+      "selective focus",
+      "manufacturing documentation",
+      "human labour",
+      "technical precision",
+      "post-war industry"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5408/full/800,/0/default.jpg"
+  },
+  {
+    "id": 485,
+    "title": "Testing Ceramic Insulator Parts, Doultons. Tamworth, Staffordshire, 1958",
+    "designer": "Maurice Broomfield",
+    "year": 1958,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield photographs electrical testing as sculptural arrangement, using the ceramic insulators' repetitive forms to create rhythmic composition while documenting their function. The worker's careful positioning of testing equipment becomes choreographed performance within an industrial ballet. Precise framing transforms utilitarian ceramic components into formal studies of material and light.",
+    "significance": "Demonstrates how industrial photography can simultaneously document process and argue for manufacturing as creative practice. Essential for understanding how post-war British design culture elevated technical craftsmanship through visual representation.",
+    "connections": [
+      {
+        "id": 484,
+        "type": "method",
+        "reason": "Both use selective focus and dramatic lighting to transform industrial quality control into contemplative studies of human expertise, arguing that technical examination requires the same visual attention as artistic creation"
+      },
+      {
+        "id": 487,
+        "type": "material",
+        "reason": "Both focus on new synthetic materials (ceramic insulators and nylon) that defined Britain's post-war industrial modernisation, using photography to validate these materials as worthy of the same aesthetic attention as traditional craft materials"
+      },
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "While the Pompidou exposes building systems as architectural spectacle, Broomfield's photography argues that hidden industrial processes deserve equal visual celebration, both making technical infrastructure the subject rather than background"
+      }
+    ],
+    "keywords": [
+      "ceramic insulators",
+      "electrical testing",
+      "Staffordshire pottery",
+      "industrial processes",
+      "material testing",
+      "quality control",
+      "technical ceramics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5412/full/800,/0/default.jpg"
+  },
+  {
+    "id": 486,
+    "title": "Two Men and Four Tanks",
+    "designer": "Maurice Broomfield",
+    "year": 1960,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield orchestrates industrial scale through human figures dwarfed by cylindrical storage tanks, creating geometric composition from functional infrastructure. The workers' small scale against monumental industrial forms argues for both human ingenuity in creating these systems and the sublime power of industrial architecture. Precise positioning transforms routine inspection into architectural photography.",
+    "significance": "Shows how industrial photography can argue for manufacturing infrastructure as monumental architecture deserving aesthetic consideration. Critical for understanding how post-war design culture elevated functional buildings to artistic status through photographic framing.",
+    "connections": [
+      {
+        "id": 488,
+        "type": "method",
+        "reason": "Both use human figures as scale references against massive industrial structures, employing the same compositional strategy to argue that industrial infrastructure possesses architectural monumentality worthy of aesthetic contemplation"
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both represent the late-1960s/1970s moment when industrial aesthetics gained cultural legitimacy, with Broomfield's photography anticipating the Pompidou's argument that technical infrastructure can be architectural spectacle"
+      }
+    ],
+    "keywords": [
+      "industrial architecture",
+      "storage tanks",
+      "scale relationships",
+      "infrastructure photography",
+      "industrial monumentality",
+      "geometric composition",
+      "human scale"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5411/full/800,/0/default.jpg"
+  },
+  {
+    "id": 487,
+    "title": "Bobbins of Nylon Yarn, British Nylon Spinners, Pontypool Wales, 1957",
+    "designer": "Maurice Broomfield",
+    "year": 1957,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield transforms synthetic yarn production into abstract colour composition, using the bobbins' cylindrical repetition and saturated colours to create systematic visual rhythm. The photograph argues for nylon manufacturing as generating new aesthetic possibilities through industrial processes. Precise arrangement of coloured bobbins demonstrates how synthetic materials enabled unprecedented colour combinations and formal patterns.",
+    "significance": "Essential for understanding how synthetic materials created new design vocabularies in the 1950s. Shows photography's role in legitimising industrial processes as sources of aesthetic innovation rather than mere functional production.",
+    "connections": [
+      {
+        "id": 485,
+        "type": "material",
+        "reason": "Both focus on new synthetic materials (ceramic insulators and nylon) that defined Britain's post-war industrial modernisation, using photography to validate these materials as worthy of the same aesthetic attention as traditional craft materials"
+      },
+      {
+        "id": 6,
+        "type": "zeitgeist",
+        "reason": "Both represent 1957's material innovation moment, with Ponti's ash chair and Broomfield's nylon documentation showing how designers simultaneously explored traditional craft refinement and synthetic material possibilities"
+      },
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "While Rams' system argues for systematic modularity in furniture, Broomfield's bobbin photography reveals how industrial production naturally creates systematic arrangements, both celebrating repetitive elements as aesthetic strategies"
+      }
+    ],
+    "keywords": [
+      "nylon yarn",
+      "synthetic materials",
+      "colour composition",
+      "textile manufacturing",
+      "systematic arrangement",
+      "industrial colour",
+      "material innovation",
+      "repetitive forms"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5423/full/800,/0/default.jpg"
+  },
+  {
+    "id": 488,
+    "title": "North Sea Rig, 1967",
+    "designer": "Maurice Broomfield",
+    "year": 1967,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield captures the oil rig as technological cathedral, using dramatic low angle and atmospheric conditions to emphasise its structural complexity and environmental dominance. The photograph argues for offshore engineering as architectural achievement, transforming extractive industry into sublime industrial landscape. Steel framework becomes gothic tracery against turbulent sky, dignifying controversial energy infrastructure through aesthetic framing.",
+    "significance": "Demonstrates photography's power to shape public perception of controversial technologies by presenting them as architectural achievements. Essential for understanding how industrial photography influenced acceptance of large-scale energy infrastructure in the environmental consciousness era.",
+    "connections": [
+      {
+        "id": 486,
+        "type": "method",
+        "reason": "Both use human figures as scale references against massive industrial structures, employing the same compositional strategy to argue that industrial infrastructure possesses architectural monumentality worthy of aesthetic contemplation"
+      },
+      {
+        "id": 15,
+        "type": "sameProblem",
+        "reason": "Both address how to make technical infrastructure publicly acceptable through aesthetic strategies, with Piano & Rogers using coloured services as architectural elements while Broomfield uses dramatic photography to present industrial structures as sublime architecture"
+      },
+      {
+        "id": 5,
+        "type": "zeitgeist",
+        "reason": "Both 1967 designs celebrate industrial aesthetics as domestic/cultural values, with Castiglioni's lamp bringing factory-inspired forms into homes while Broomfield's photography argues for industrial infrastructure as landscape architecture"
+      }
+    ],
+    "keywords": [
+      "offshore engineering",
+      "oil rig",
+      "industrial landscape",
+      "structural photography",
+      "energy infrastructure",
+      "environmental impact",
+      "sublime technology",
+      "North Sea"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5424/full/800,/0/default.jpg"
+  },
+  {
+    "id": 489,
+    "title": "Examining Nylon Shirts after Washing",
+    "designer": "Maurice Broomfield",
+    "year": 1959,
+    "discipline": "Graphic",
+    "origin": "Wales",
+    "manufacturer": "British Nylon Spinners",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Industrial Photography",
+    "wikiTitle": null,
+    "description": "Broomfield's photograph documents the laboratory testing of synthetic textiles, showing quality control through systematic visual examination. The image transforms industrial process into compositional geometry, with white shirts arranged against clinical backgrounds. This documentary approach makes visible the scientific rigor behind mass-produced consumer goods.",
+    "significance": "Shows how photography can reveal the hidden systems that validate industrial production. Demonstrates the aesthetic potential in documenting systematic testing procedures, turning quality control into visual argument about manufacturing reliability.",
+    "connections": [
+      {
+        "id": 39,
+        "type": "lineage",
+        "reason": "The textile testing follows directly from yarn production—Broomfield documents both ends of the synthetic textile manufacturing process, from raw material to finished product validation"
+      },
+      {
+        "id": 37,
+        "type": "sameProblem",
+        "reason": "Both photographs solve the same brief of making industrial quality control visually compelling, but ceramics testing emphasizes material hardness while textile testing shows fabric performance"
+      },
+      {
+        "id": 16,
+        "type": "zeitgeist",
+        "reason": "Both objects embody late 1950s confidence in synthetic materials and systematic design processes—one through photographic documentation of textile science, the other through rational product design"
+      }
+    ],
+    "keywords": [
+      "synthetic materials",
+      "quality control",
+      "industrial photography",
+      "systematic testing",
+      "mass production",
+      "documentary method",
+      "laboratory aesthetics",
+      "material validation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5425/full/800,/0/default.jpg"
+  },
+  {
+    "id": 490,
+    "title": "Design for an entrance hall in a London flat",
+    "designer": "David Connor",
+    "year": 1985,
+    "discipline": "Architecture",
+    "origin": "London",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Postmodern Interior Design",
+    "wikiTitle": null,
+    "description": "Connor's design proposal uses geometric abstraction and bold color blocking to transform a small entrance space into a dramatic threshold experience. The design fragments the wall plane into discrete colored zones, creating spatial complexity through graphic means rather than structural intervention. Color becomes architecture, defining zones without walls.",
+    "significance": "Demonstrates how graphic design principles can solve architectural problems in constrained urban spaces. Shows the influence of Memphis design language on British domestic interiors, making color and pattern primary spatial organizing tools.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both objects embody mid-1980s Postmodernism through bold geometric color blocking, but Connor applies Memphis formal language to interior architecture while Sottsass works at furniture scale"
+      },
+      {
+        "id": 13,
+        "type": "sameProblem",
+        "reason": "Both designers use geometric fragmentation to organize visual information in the 1980s, but Connor applies it to domestic space while Coffey works in graphic communication"
+      },
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Piano and Rogers expose building systems as honest expression, Connor uses color and geometry to create spatial illusion—one reveals structure, the other conceals it through decoration"
+      }
+    ],
+    "keywords": [
+      "postmodern interior",
+      "color blocking",
+      "geometric abstraction",
+      "spatial illusion",
+      "threshold design",
+      "Memphis influence",
+      "graphic architecture",
+      "domestic space"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BM3424/full/800,/0/default.jpg"
+  },
+  {
+    "id": 491,
+    "title": "Serif TV",
+    "designer": "Erwan Bouroullec",
+    "year": 2013,
+    "discipline": "Product",
+    "origin": "South Korea",
+    "manufacturer": "Samsung",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Post-Digital Design",
+    "wikiTitle": "Samsung Serif",
+    "description": "The Bouroullecs' television transforms the screen from wall-mounted appliance into free-standing furniture object. Four detachable legs allow the TV to sit on surfaces like a picture frame, while the distinctive serif-shaped profile creates visual weight that grounds the thin display. The design rejects invisibility, making the television a deliberate presence in domestic space.",
+    "significance": "Shows how digital devices can be reconceived as furniture rather than technology, addressing screen ubiquity through deliberate material presence. Demonstrates methods for making digital interfaces feel domestically integrated rather than alien.",
+    "connections": [
+      {
+        "id": 359,
+        "type": "method",
+        "reason": "Both Bouroullec designs use modular components to allow user configuration—TV legs and screen dividers both enable spatial adaptation through systematic part relationships"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams makes technology disappear through reduction, Bouroullec makes it visible through furniture language—one minimizes presence, the other celebrates it through domestic integration"
+      },
+      {
+        "id": 10,
+        "type": "sameProblem",
+        "reason": "Both objects solve the problem of integrating electronic devices into domestic space, but the telephone achieves intimacy through compact handling while the TV uses furniture scale for room presence"
+      }
+    ],
+    "keywords": [
+      "domestic technology",
+      "furniture language",
+      "modular design",
+      "screen presence",
+      "post-digital",
+      "spatial integration",
+      "electronic domesticity",
+      "visual weight"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE2380/full/800,/0/default.jpg"
+  },
+  {
+    "id": 492,
+    "title": "The Rape of the Sabines No.2",
+    "designer": "Leon Kossoff",
+    "year": 1998,
+    "discipline": "Graphic",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "British Expressionism",
+    "wikiTitle": "Leon Kossoff",
+    "description": "Kossoff's etching translates Poussin's classical composition through aggressive mark-making and layered linework. The printmaking process allows multiple states and revisions, building density through accumulated marks rather than single gestures. Each line carries physical weight, creating sculptural space through graphic means.",
+    "significance": "Demonstrates how printmaking enables iterative thinking in image-making. Shows students that graphic processes can carry sculptural logic, where accumulation of marks creates spatial depth without perspective systems.",
+    "connections": [
+      {
+        "id": 496,
+        "type": "zeitgeist",
+        "reason": "Both 1998 works represent opposite approaches to visual complexity — Kossoff builds density through accumulation while Ive achieves impact through radical simplification"
+      },
+      {
+        "id": 18,
+        "type": "material",
+        "reason": "Both use additive material processes to build form — Kossoff layers ink through multiple printing states while Dixon welds found metal pieces together"
+      },
+      {
+        "id": 24,
+        "type": "method",
+        "reason": "Both designers use process-driven making where the material's behavior shapes the final form — Kossoff lets etching acid bite differently in successive states while Dixon allows plastic to flow and cool naturally"
+      }
+    ],
+    "keywords": [
+      "printmaking",
+      "mark-making",
+      "iterative process",
+      "British art",
+      "material accumulation",
+      "sculptural drawing",
+      "etching",
+      "expressionism"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PL2998/full/800,/0/default.jpg"
+  },
+  {
+    "id": 493,
+    "title": "Captain Hook Chair Frame",
+    "designer": "Yinka Ilori",
+    "year": 2020,
+    "discipline": "Furniture",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Afrofuturism",
+    "wikiTitle": "Yinka Ilori",
+    "description": "Ilori's chair frame strips away upholstery to reveal structural logic while maintaining playful proportions. The exposed framework becomes the aesthetic language, using bright colors and bold geometry to challenge assumptions about 'serious' furniture design. Nigerian textile patterns inform the spatial relationships between structural elements.",
+    "significance": "Shows students how cultural references can drive structural decisions in furniture. Demonstrates that revealing construction can be both functional transparency and cultural statement — structure as storytelling device.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "argument",
+        "reason": "Both designers use bold color and unconventional proportions to challenge furniture conventions, but Ilori maintains functional logic while Sottsass deliberately subverts it"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both projects make structural elements the primary visual language — Ilori exposes chair frame construction while Piano and Rogers externalize building services"
+      },
+      {
+        "id": 5,
+        "type": "argument",
+        "reason": "Both use furniture to carry cultural memory, but Ilori celebrates heritage through vibrant structure while Remy preserves it through accumulated objects"
+      }
+    ],
+    "keywords": [
+      "structural expression",
+      "Afrofuturism",
+      "cultural design",
+      "color theory",
+      "furniture frame",
+      "Nigerian patterns",
+      "playful modernism",
+      "exposed construction"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV7832/full/800,/0/default.jpg"
+  },
+  {
+    "id": 494,
+    "title": "iPad",
+    "designer": "Jonathan Ive",
+    "year": 2010,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "Apple",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Minimalism",
+    "wikiTitle": "iPad",
+    "description": "The iPad reduces computing to a single surface, eliminating physical keyboards and mice through multitouch interface. Its aluminum unibody construction achieves structural efficiency while the edge-to-edge glass creates the illusion of content floating above the device. The home button provides singular tactile reference in an otherwise smooth surface.",
+    "significance": "Teaches students how interface simplification can drive physical form. Demonstrates that successful product design often involves removing rather than adding features — reduction as a path to functional clarity.",
+    "connections": [
+      {
+        "id": 495,
+        "type": "lineage",
+        "reason": "iPad directly extends iPhone's multitouch interface to larger scale, proving that successful interaction paradigms can migrate across product categories"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Both achieve functional clarity through interface reduction, but Rams uses physical controls for transparency while Ive hides all controls behind glass"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both designers strip away visual complexity to focus on essential information — Beck reduces geographic detail while Ive eliminates physical interface elements"
+      }
+    ],
+    "keywords": [
+      "multitouch interface",
+      "unibody construction",
+      "digital minimalism",
+      "aluminum manufacturing",
+      "touch computing",
+      "interface reduction",
+      "mobile computing",
+      "glass technology"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY5819/full/800,/0/default.jpg"
+  },
+  {
+    "id": 495,
+    "title": "iPhone",
+    "designer": "Jonathan Ive",
+    "year": 2007,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "Apple",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Minimalism",
+    "wikiTitle": "iPhone",
+    "description": "The iPhone consolidates multiple devices into a single multitouch surface, eliminating physical keyboards and styluses. Its rounded rectangle form language balances grip ergonomics with screen maximization. The aluminum frame and glass surface create premium material hierarchy while enabling radio transparency.",
+    "significance": "Demonstrates how interface innovation can completely redefine product categories. Shows students that convergence design requires understanding multiple use contexts simultaneously — phone, music player, and internet device in one form.",
+    "connections": [
+      {
+        "id": 496,
+        "type": "lineage",
+        "reason": "iPhone continues Ive's strategy of using premium materials and simplified interfaces, but moves from translucent plastic to opaque aluminum and glass"
+      },
+      {
+        "id": 10,
+        "type": "sameProblem",
+        "reason": "Both phones reimagine human-device interaction, but Zanuso and Sapper focus on ergonomic form while Ive eliminates physical interface entirely"
+      },
+      {
+        "id": 14,
+        "type": "method",
+        "reason": "Both projects establish systematic approaches to information hierarchy — Tschichold through typographic rules, Ive through interface consistency across apps"
+      }
+    ],
+    "keywords": [
+      "multitouch",
+      "convergence device",
+      "aluminum construction",
+      "mobile interface",
+      "smartphone",
+      "glass manufacturing",
+      "radio frequency",
+      "ergonomics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7295/full/800,/0/default.jpg"
+  },
+  {
+    "id": 496,
+    "title": "iMac G3",
+    "designer": "Jonathan Ive",
+    "year": 1998,
+    "discipline": "Product",
+    "origin": "Ireland",
+    "manufacturer": "Apple",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Translucent Design",
+    "wikiTitle": "iMac G3",
+    "description": "The iMac G3 uses translucent polycarbonate to reveal internal components while creating approachable, non-technical aesthetics. Its all-in-one form eliminates cable complexity by integrating monitor, computer, and speakers. The handle suggests portability despite desktop scale, humanizing professional computing equipment.",
+    "significance": "Shows students how material transparency can demystify technology while creating emotional connection. Demonstrates that revealing internal workings doesn't require industrial aesthetics — translucency as friendly transparency.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Both reveal internal systems through transparent materials, but Piano and Rogers expose infrastructure as architectural expression while Ive softens technology revelation through color and curves"
+      },
+      {
+        "id": 16,
+        "type": "sameProblem",
+        "reason": "Both integrate multiple technologies into single housing, but Rams uses geometric reduction while Ive employs organic curves and material warmth"
+      },
+      {
+        "id": 13,
+        "type": "zeitgeist",
+        "reason": "Both 1998 works challenge professional/serious design conventions through playful colors and forms, representing late-90s optimism about technology"
+      }
+    ],
+    "keywords": [
+      "translucent plastic",
+      "all-in-one design",
+      "friendly technology",
+      "polycarbonate",
+      "integrated components",
+      "desktop computing",
+      "material transparency",
+      "emotional design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX8549/full/800,/0/default.jpg"
+  },
+  {
+    "id": 497,
+    "title": "iPhone 6",
+    "designer": "Jonathan Ive",
+    "year": 2014,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "Apple Inc",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Minimalism",
+    "wikiTitle": "iPhone 6",
+    "description": "The iPhone 6 extends Ive's reductive language through dimensional tension: the screen enlarges to 4.7 inches while the body thins to 6.9mm, creating a surface-to-volume ratio that prioritizes interface over object. The aluminum unibody construction eliminates visible joints, making the device appear carved from a single block. Antenna bands become the only surface interruption, acknowledging technical necessity within formal reduction.",
+    "significance": "Students learn how digital products negotiate between increasing functionality and formal simplicity. The iPhone 6 demonstrates how manufacturing constraints—antenna placement, thermal management, structural integrity—become design opportunities rather than compromises.",
+    "connections": [
+      {
+        "id": 49,
+        "type": "lineage",
+        "reason": "The iPhone 6's enlarged screen represents Apple's response to market pressure for larger displays, abandoning the original iPhone's 'perfect size for thumb operation' principle for competitive necessity"
+      },
+      {
+        "id": 498,
+        "type": "sameProblem",
+        "reason": "Both solve the touch interface challenge differently: the iPod Touch prioritizes media consumption through thickness reduction, while the iPhone 6 balances communication needs with screen enlargement"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams used material contrast—wood, metal, acrylic—to articulate function, Ive pursues material unity in aluminum, making functional differentiation invisible rather than celebrated"
+      }
+    ],
+    "keywords": [
+      "aluminum unibody",
+      "dimensional tension",
+      "antenna integration",
+      "touch interface",
+      "surface reduction",
+      "digital minimalism",
+      "manufacturing constraints",
+      "formal simplicity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KP7952/full/800,/0/default.jpg"
+  },
+  {
+    "id": 498,
+    "title": "iPod Touch",
+    "designer": "Apple Inc",
+    "year": 2012,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "Apple Inc",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Minimalism",
+    "wikiTitle": "iPod Touch",
+    "description": "The fifth-generation iPod Touch achieves 6.1mm thickness through component miniaturization and battery reduction, prioritizing portability over power. The aluminum back panel curves into chamfered edges, creating a continuous surface that eliminates the plastic antenna window required in cellular devices. The home button becomes the only physical interruption in an otherwise seamless interface plane.",
+    "significance": "Students understand how removing functionality—cellular radio, GPS, cellular antenna—enables formal reduction. The iPod Touch demonstrates that constraint drives innovation: without communication needs, the device becomes pure interface.",
+    "connections": [
+      {
+        "id": 497,
+        "type": "sameProblem",
+        "reason": "Both solve the touch interface challenge differently: the iPod Touch prioritizes media consumption through thickness reduction, while the iPhone 6 balances communication needs with screen enlargement"
+      },
+      {
+        "id": 48,
+        "type": "argument",
+        "reason": "Where the iPad embraces screen scale for productivity, the iPod Touch maintains pocket-sized intimacy, representing Apple's internal debate about optimal interface dimensions for different use cases"
+      }
+    ],
+    "keywords": [
+      "thickness reduction",
+      "aluminum construction",
+      "antenna elimination",
+      "component miniaturization",
+      "seamless interface",
+      "media consumption",
+      "formal purity",
+      "constraint-driven design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HV4905/full/800,/0/default.jpg"
+  },
+  {
+    "id": 499,
+    "title": "Olivetti Lexicon 80",
+    "designer": "Marcello Nizzoli",
+    "year": 1942,
+    "discipline": "Product",
+    "origin": "Great Britain",
+    "manufacturer": "Olivetti",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Industrial Design",
+    "wikiTitle": "Olivetti Lexicon 80",
+    "description": "The Lexicon 80 transforms the typewriter from mechanical assemblage to sculptural object through cast aluminum body work that conceals the typing mechanism entirely. Nizzoli shapes the housing as continuous curves, eliminating visible joints and creating surface tension between the ribbon cover and typing platform. The green painted finish unifies all components, while the chrome details—shift lock, margin stops, paper guides—provide functional punctuation within the monochromatic field.",
+    "significance": "Students see how industrial designers in the 1940s already understood products as communication devices. The Lexicon 80 demonstrates that form language can dignify mechanical function—users buy into Olivetti's design values, not just typing capability.",
+    "connections": [
+      {
+        "id": 500,
+        "type": "argument",
+        "reason": "Where Nizzoli conceals typewriter mechanics within sculptural aluminum housing to create desktop dignity, Sottsass exposes mechanical function through bright ABS plastic, celebrating rather than hiding industrial production"
+      },
+      {
+        "id": 10,
+        "type": "zeitgeist",
+        "reason": "Both represent Italian design's post-war strategy of transforming utilitarian communication devices into objects of desire, using sculptural form language to elevate everyday technology"
+      },
+      {
+        "id": 16,
+        "type": "sameProblem",
+        "reason": "Both designers integrate complex mechanisms within unified housing, but Nizzoli uses sculptural curves to hide mechanical complexity while Rams uses geometric clarity to express it"
+      }
+    ],
+    "keywords": [
+      "sculptural housing",
+      "surface continuity",
+      "mechanical concealment",
+      "cast aluminum",
+      "Italian industrial design",
+      "corporate identity",
+      "desktop dignity",
+      "form communication"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3154/full/800,/0/default.jpg"
+  },
+  {
+    "id": 500,
+    "title": "Valentine",
+    "designer": "Ettore Sottsass",
+    "year": 1969,
+    "discipline": "Product",
+    "origin": "Barcelona",
+    "manufacturer": "Olivetti",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Olivetti Valentine",
+    "description": "The Valentine typewriter uses bright ABS plastic molding to celebrate rather than conceal mechanical function. Sottsass designs the carrying case as integral to the product—the typewriter clicks into the case bottom, which becomes the base during use. The red plastic field eliminates traditional typewriter materials—metal, rubber, chrome—creating visual continuity that transforms typing from office task to expressive act. The circular keys and sans-serif typography reject typewriter convention entirely.",
+    "significance": "Students learn how radical design challenges product categories through material choice. The Valentine demonstrates that changing materials changes meaning—ABS plastic makes typing playful rather than serious, portable rather than fixed, personal rather than institutional.",
+    "connections": [
+      {
+        "id": 499,
+        "type": "argument",
+        "reason": "Where Nizzoli conceals typewriter mechanics within sculptural aluminum housing to create desktop dignity, Sottsass exposes mechanical function through bright ABS plastic, celebrating rather than hiding industrial production"
+      },
+      {
+        "id": 12,
+        "type": "method",
+        "reason": "Both Sottsass designs use bright plastic laminate to question furniture typologies: the Valentine challenges typewriter conventions while Carlton challenges bookcase function, both prioritizing symbolic over practical use"
+      },
+      {
+        "id": 50,
+        "type": "lineage",
+        "reason": "Ive's translucent iMac directly references Sottsass's plastic color strategy from the Valentine, using material transparency rather than opacity to humanize computer technology thirty years later"
+      },
+      {
+        "id": 9,
+        "type": "zeitgeist",
+        "reason": "Both transform utilitarian objects into sculptural statements through material excess—Valentine's plastic field and Juicy Salif's aluminum casting prioritize visual impact over functional efficiency"
+      }
+    ],
+    "keywords": [
+      "ABS plastic",
+      "integrated carrying case",
+      "material celebration",
+      "radical typography",
+      "portable office",
+      "expressive technology",
+      "color field",
+      "anti-institutional design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AW3414/full/800,/0/default.jpg"
+  },
+  {
+    "id": 501,
+    "title": "Olivetti Lexikon Poster",
+    "designer": "Giovanni Pintori",
+    "year": 1953,
+    "discipline": "Graphic",
+    "origin": "Italy",
+    "manufacturer": "Olivetti",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Swiss Typography",
+    "wikiTitle": "Giovanni Pintori",
+    "description": "Pintori reduces the typewriter to its essential mechanical elements — the typebars radiating from a central hub like spokes of a wheel. The composition makes visible the machine's internal logic, transforming functional mechanics into graphic poetry. Black typebars against white paper create maximum contrast while the circular arrangement suggests both the typewriter's rotary mechanism and the infinite possibilities of written communication.",
+    "significance": "Shows how corporate graphics can reveal rather than conceal product function. Demonstrates that technical diagrams can become expressive communication when mechanical logic drives visual form rather than decorative overlay.",
+    "connections": [
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both designers strip away surface detail to expose underlying structural logic — Pintori reveals typewriter mechanics while Beck reveals network topology, proving that systematic thinking produces clearer communication than pictorial representation"
+      },
+      {
+        "id": 502,
+        "type": "sameProblem",
+        "reason": "Both address the typewriter as a design problem — Pintori graphically and Noyes physically — but where Pintori celebrates mechanical complexity through radiating typebars, Noyes conceals it within sculptural simplicity"
+      },
+      {
+        "id": 14,
+        "type": "zeitgeist",
+        "reason": "Both emerged from post-war European commitment to systematic design thinking, but Pintori uses geometric reduction to celebrate industrial mechanics while Tschichold applies it to standardize publishing production"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Pintori exposes internal mechanics as visual drama while Rams conceals them for functional clarity — opposite approaches to the relationship between technical complexity and user comprehension"
+      }
+    ],
+    "keywords": [
+      "corporate identity",
+      "mechanical diagram",
+      "Swiss typography",
+      "Italian design",
+      "technical illustration",
+      "geometric reduction",
+      "brand communication",
+      "typewriter"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN5204/full/800,/0/default.jpg"
+  },
+  {
+    "id": 502,
+    "title": "Selectric 1",
+    "designer": "Eliot Noyes",
+    "year": 1961,
+    "discipline": "Product",
+    "origin": "United States",
+    "manufacturer": "IBM",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "American Corporate Modernism",
+    "wikiTitle": "IBM Selectric typewriter",
+    "description": "Noyes eliminates the forest of typebars that defined typewriter aesthetics for 80 years, replacing them with a single rotating sphere. The housing becomes a pure sculptural volume — no visible mechanism, no decorative elements, just a seamless shell that suggests precision through geometric restraint. The spherical typing element revolutionizes both function and form simultaneously.",
+    "significance": "Demonstrates how technical innovation enables formal reduction — the sphere mechanism allows Noyes to achieve unprecedented formal simplicity. Shows students that the best industrial design emerges when engineering breakthroughs and aesthetic vision reinforce each other.",
+    "connections": [
+      {
+        "id": 501,
+        "type": "sameProblem",
+        "reason": "Both address the typewriter as a design problem — Pintori graphically and Noyes physically — but where Pintori celebrates mechanical complexity through radiating typebars, Noyes conceals it within sculptural simplicity"
+      },
+      {
+        "id": 16,
+        "type": "method",
+        "reason": "Both designers achieve formal reduction through technical innovation — Noyes's rotating sphere eliminates visible typebars just as Rams's transparent cover reveals internal organization, proving that honesty in design can take opposite visual approaches"
+      },
+      {
+        "id": 10,
+        "type": "zeitgeist",
+        "reason": "Both represent early 1960s corporate commitment to sculptural minimalism in communication technology, but Selectric's monolithic form contrasts with Grillo's articulated folding mechanism"
+      },
+      {
+        "id": 50,
+        "type": "lineage",
+        "reason": "Selectric established the paradigm of concealing complex technology within simple sculptural forms that would later define consumer electronics — from typewriter to computer, the principle remains constant"
+      }
+    ],
+    "keywords": [
+      "corporate modernism",
+      "sculptural form",
+      "mechanical innovation",
+      "American design",
+      "office equipment",
+      "geometric reduction",
+      "functional concealment",
+      "typing technology"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3155/full/800,/0/default.jpg"
+  },
+  {
+    "id": 503,
+    "title": "Cultic Textsite Excavated at Rasshamra",
+    "designer": "Dom Sylvester Houédard",
+    "year": 1969,
+    "discipline": "Typography",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Concrete Poetry",
+    "wikiTitle": "Dom Sylvester Houédard",
+    "description": "Houédard transforms the typewriter into an archaeological tool, using repetitive keystrokes to simulate excavated text fragments. Letters cluster and scatter across the page like artifacts partially buried in sediment. The typewriter becomes both excavation instrument and printing press, each keystroke both digging and marking, creating textual archaeology through mechanical rhythm.",
+    "significance": "Proves that existing technology can generate entirely new forms of meaning when used against its intended purpose. Shows students how systematic misuse of design tools can reveal alternative creative possibilities hidden within familiar mechanisms.",
+    "connections": [
+      {
+        "id": 502,
+        "type": "material",
+        "reason": "Both use the typewriter mechanism but for opposite purposes — Selectric perfects efficient text production while Houédard deliberately exploits its limitations to create visual poetry, transforming functional tool into expressive medium"
+      },
+      {
+        "id": 504,
+        "type": "method",
+        "reason": "Both works use repetitive typewriter keystrokes to create pattern rather than readable text, but where Cultic Textsite suggests archaeological fragments, Minnesota Ojibwa builds ritualistic density"
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both emerge from late 1960s commitment to exposing process — Houédard makes typewriter mechanics visible through repetitive action while Piano and Rogers expose building systems, but Houédard's archaeology opposes their technological optimism"
+      }
+    ],
+    "keywords": [
+      "concrete poetry",
+      "typewriter art",
+      "experimental typography",
+      "process art",
+      "archaeological metaphor",
+      "mechanical repetition",
+      "text fragmentation",
+      "visual poetry"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1219/full/800,/0/default.jpg"
+  },
+  {
+    "id": 504,
+    "title": "Minnesota Ojibwa Sacrificing",
+    "designer": "Dom Sylvester Houédard",
+    "year": 1965,
+    "discipline": "Typography",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Concrete Poetry",
+    "wikiTitle": "Dom Sylvester Houédard",
+    "description": "Dense overtyping creates an impenetrable textual field where individual letters dissolve into pure pattern. Houédard builds up layers of characters until meaning disappears into ritual repetition. The typewriter becomes a prayer wheel, each keystroke both destroying and creating significance simultaneously. Mechanical rhythm replaces semantic content.",
+    "significance": "Demonstrates how systematic process can transform readable text into pure visual experience. Teaches students that meaning in design can emerge from method rather than content — the how becoming more important than the what.",
+    "connections": [
+      {
+        "id": 503,
+        "type": "method",
+        "reason": "Both works use repetitive typewriter keystrokes to create pattern rather than readable text, but where Cultic Textsite suggests archaeological fragments, Minnesota Ojibwa builds ritualistic density"
+      },
+      {
+        "id": 13,
+        "type": "argument",
+        "reason": "Beck strips away surface detail to enhance functional clarity while Houédard adds layers until meaning disappears — opposite approaches to the relationship between visual complexity and comprehension"
+      },
+      {
+        "id": 12,
+        "type": "argument",
+        "reason": "Both challenge functional conventions through systematic rule-breaking — Houédard makes typewriters unreadable while Sottsass makes furniture unstable, proving that systematic transgression can generate new formal possibilities"
+      }
+    ],
+    "keywords": [
+      "concrete poetry",
+      "overtyping",
+      "ritual repetition",
+      "experimental typography",
+      "process art",
+      "textual density",
+      "mechanical meditation",
+      "visual pattern"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1221/full/800,/0/default.jpg"
+  },
+  {
+    "id": 505,
+    "title": "Study and Love Poster",
+    "designer": "Tadaaki Kanasashi",
+    "year": 1975,
+    "discipline": "Graphic",
+    "origin": "Japan",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Graphic Design",
+    "wikiTitle": null,
+    "description": "Kanasashi arranges typography in strict modular grids that echo traditional Japanese spatial organization. Western letterforms submit to Eastern organizational principles — each character occupies its designated cell within a larger systematic framework. The grid becomes both constraint and liberation, forcing individual elements into collective harmony while maintaining perfect legibility.",
+    "significance": "Shows how cultural spatial concepts can transform foreign typographic systems. Demonstrates that systematic organization can enhance rather than suppress expressive potential — the grid enabling rather than limiting creative possibility.",
+    "connections": [
+      {
+        "id": 503,
+        "type": "argument",
+        "reason": "Houédard fragments language into archaeological traces while Kanasashi organizes it into systematic grids — opposite approaches to whether typography should preserve or dissolve textual meaning"
+      },
+      {
+        "id": 504,
+        "type": "zeitgeist",
+        "reason": "Both created during 1960s expansion of typography beyond commercial function, but Houédard dissolves text into pattern while Kanasashi maintains systematic legibility"
+      },
+      {
+        "id": 14,
+        "type": "method",
+        "reason": "Both apply systematic grid principles to typography, but Tschichold's European modernism emphasizes functional efficiency while Kanasashi's Japanese approach prioritizes spatial harmony"
+      },
+      {
+        "id": 11,
+        "type": "sameProblem",
+        "reason": "Both solve organizational problems through modular grid systems — Rams for physical objects and Kanasashi for textual elements — proving that systematic thinking produces similar formal solutions across different design disciplines"
+      }
+    ],
+    "keywords": [
+      "Japanese design",
+      "modular grid",
+      "systematic typography",
+      "cultural translation",
+      "spatial organization",
+      "typographic order",
+      "grid systems",
+      "poster design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH1730/full/800,/0/default.jpg"
+  },
+  {
+    "id": 506,
+    "title": "untitled",
+    "designer": "Dom Sylvester Houédard",
+    "year": 1970,
+    "discipline": "Typography",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Concrete Poetry",
+    "wikiTitle": "Dom Sylvester Houédard",
+    "description": "Houédard's typewriter poems strip language to pure pattern, using the mechanical constraints of the typewriter grid to create visual rhythms. Each character becomes both letter and mark, exploiting the fixed spacing of monospace type to build geometric forms from repeated symbols. The work transforms the typewriter from a tool of documentation into an instrument of visual composition.",
+    "significance": "Shows how mechanical constraints can become creative opportunities — the typewriter's limitations become the poem's structure. Demonstrates the relationship between grid systems and meaning-making in visual communication.",
+    "connections": [
+      {
+        "id": 58,
+        "type": "lineage",
+        "reason": "Houédard's earlier concrete poems established the vocabulary of typewriter-as-drawing-tool that this work extends, refining the balance between linguistic and visual meaning"
+      },
+      {
+        "id": 14,
+        "type": "argument",
+        "reason": "Where Tschichold imposed typographic order to serve textual clarity, Houédard dissolves that hierarchy, making typography itself the subject rather than the servant"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both use systematic reduction and geometric abstraction to create meaning, though Beck serves navigation while Houédard serves contemplation"
+      }
+    ],
+    "keywords": [
+      "concrete poetry",
+      "typewriter art",
+      "visual poetry",
+      "systematic composition",
+      "mechanical constraints",
+      "grid systems",
+      "pattern making",
+      "monospace typography"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1220/full/800,/0/default.jpg"
+  },
+  {
+    "id": 507,
+    "title": "Stowaway TPS-L2",
+    "designer": "Sony Corporation",
+    "year": 1979,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Industrial Design",
+    "wikiTitle": "Walkman",
+    "description": "The original Walkman transforms the cassette player from furniture into clothing, shrinking stereo sound to body scale. Its blue metal casing and chrome controls signal premium electronics while the headphone jack repositions music from shared to private experience. The design creates a new relationship between sound, space, and individual mobility.",
+    "significance": "Demonstrates how miniaturization can create entirely new use patterns and social behaviors. Shows how product design can reshape cultural practices by changing the relationship between technology and the human body.",
+    "connections": [
+      {
+        "id": 508,
+        "type": "lineage",
+        "reason": "This original model established the formal language and interaction patterns that Sony would refine through dozens of iterations, proving the concept of personal portable audio"
+      },
+      {
+        "id": 10,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of making electronic communication devices truly portable, though the Walkman makes broadcast media personal while the Grillo makes interpersonal communication mobile"
+      },
+      {
+        "id": 49,
+        "type": "argument",
+        "reason": "Where the Walkman specialized audio playback into a dedicated device, the iPhone absorbs that function into a generalized communication tool, representing opposite approaches to portable technology"
+      }
+    ],
+    "keywords": [
+      "portable electronics",
+      "personal audio",
+      "miniaturization",
+      "mobility design",
+      "social technology",
+      "interface design",
+      "consumer electronics",
+      "cultural behavior"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JW6316/full/800,/0/default.jpg"
+  },
+  {
+    "id": 508,
+    "title": "Walkman",
+    "designer": "Sony Corporation",
+    "year": 1990,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Consumer Electronics Design",
+    "wikiTitle": "Walkman",
+    "description": "This mature Walkman design streamlines the original concept into pure functional geometry. The yellow accents and simplified button layout make operation intuitive while the compact proportions optimize pocket portability. Auto-reverse and improved ergonomics show how the format evolved through user feedback and technological advancement.",
+    "significance": "Shows how successful product concepts evolve through incremental refinement rather than radical redesign. Demonstrates the relationship between technological capability and formal expression in consumer electronics.",
+    "connections": [
+      {
+        "id": 507,
+        "type": "lineage",
+        "reason": "Eleven years of development refined the original Walkman's proportions and interface, proving that good design comes through iteration rather than inspiration"
+      },
+      {
+        "id": 509,
+        "type": "sameProblem",
+        "reason": "Both solve the portability challenge but for different contexts — this model prioritizes urban discretion while the Sports version emphasizes durability and water resistance"
+      },
+      {
+        "id": 96,
+        "type": "zeitgeist",
+        "reason": "Both represent the late 1980s ideal of electronic products as precise, minimal objects that prioritize functional clarity over expressive form"
+      }
+    ],
+    "keywords": [
+      "product evolution",
+      "interface refinement",
+      "portable design",
+      "consumer electronics",
+      "ergonomics",
+      "functional minimalism",
+      "technological maturity",
+      "user experience"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LJ7458/full/800,/0/default.jpg"
+  },
+  {
+    "id": 509,
+    "title": "Sports Walkman",
+    "designer": "Sony Corporation",
+    "year": 1990,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Sports Design",
+    "wikiTitle": "Walkman",
+    "description": "The Sports Walkman adapts the portable audio concept for active use through water-resistant seals and shock-absorbing construction. Yellow high-visibility casing and enlarged controls accommodate gloved operation while the belt clip and secure headphone connection prevent loss during movement. The design translates office technology for outdoor performance.",
+    "significance": "Shows how core product concepts can be adapted for specialized contexts without losing essential functionality. Demonstrates the design process of translating consumer electronics for extreme use conditions.",
+    "connections": [
+      {
+        "id": 508,
+        "type": "sameProblem",
+        "reason": "Both solve portable audio playback but the Sports version prioritizes durability over elegance, showing how different use contexts demand different formal solutions"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both express their functional systems externally — the Sports Walkman's protective features become its visual identity, just as the Pompidou's mechanical systems become its architecture"
+      },
+      {
+        "id": 27,
+        "type": "zeitgeist",
+        "reason": "Both represent the late 20th century intersection of technology and athletic performance, using bright colors and ruggedized construction to signal their specialized function"
+      }
+    ],
+    "keywords": [
+      "sports design",
+      "ruggedized electronics",
+      "protective housing",
+      "active lifestyle products",
+      "durability design",
+      "water resistance",
+      "high visibility",
+      "specialized functionality"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MB5413/full/800,/0/default.jpg"
+  },
+  {
+    "id": 510,
+    "title": "Sony Memory Stick Walkman NW-MS7",
+    "designer": "Sony Corporation",
+    "year": 2000,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony Corporation",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Convergence Design",
+    "wikiTitle": null,
+    "description": "This Walkman eliminates moving parts by storing music on solid-state Memory Stick cards rather than cassettes or CDs. The interface reduces to essential navigation controls, with a clear LCD screen providing visual feedback that audio-only devices cannot offer. Sony's proprietary memory format attempts to create a closed ecosystem around their hardware.",
+    "significance": "Shows how digital storage transforms product architecture from mechanical to electronic logic. Demonstrates proprietary format strategies that later failed against open standards like MP3 and flash memory.",
+    "connections": [
+      {
+        "id": 63,
+        "type": "lineage",
+        "reason": "The Memory Stick Walkman inherits the personal audio concept but replaces mechanical cassette playback with solid-state digital storage, showing how electronic miniaturization enables new product typologies"
+      },
+      {
+        "id": 49,
+        "type": "sameProblem",
+        "reason": "Both devices consolidate multiple functions into single objects through digital convergence, but iPhone's open platform strategy succeeds where Sony's proprietary Memory Stick ecosystem fails"
+      },
+      {
+        "id": 52,
+        "type": "zeitgeist",
+        "reason": "Both represent the transition moment when dedicated music players began incorporating visual interfaces and memory-based storage, before smartphones absorbed these functions entirely"
+      }
+    ],
+    "keywords": [
+      "digital convergence",
+      "solid-state storage",
+      "proprietary formats",
+      "interface reduction",
+      "electronic miniaturization",
+      "closed ecosystem",
+      "visual feedback"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4293/full/800,/0/default.jpg"
+  },
+  {
+    "id": 511,
+    "title": "Sony Sports Walkman FM",
+    "designer": "Sony Corporation",
+    "year": 1982,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony Corporation",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Sports Design",
+    "wikiTitle": null,
+    "description": "This Walkman adapts the personal stereo concept for physical activity through weatherproof construction and ergonomic controls that work with gloves or during movement. The bright yellow housing signals its specialized function while making the device visible during outdoor activities. FM radio eliminates the mechanical fragility of cassette mechanisms during exercise.",
+    "significance": "Demonstrates how core technologies must be reengineered for different use contexts. Shows early specialization in consumer electronics before multi-function devices dominated the market.",
+    "connections": [
+      {
+        "id": 65,
+        "type": "sameProblem",
+        "reason": "Both solve the same brief of personal audio during physical activity, but the 1982 model uses FM radio while the 1990 version returns to tape playback with improved shock resistance"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both expose and celebrate their functional systems rather than hiding them - the Sports Walkman's bold color coding and visible controls parallel the Centre Pompidou's exposed mechanical services"
+      },
+      {
+        "id": 10,
+        "type": "argument",
+        "reason": "The Sports Walkman prioritizes visibility and durability over elegance, contrasting with the Grillo's refined formal integration that emphasizes sophisticated use contexts"
+      }
+    ],
+    "keywords": [
+      "sports design",
+      "weatherproof construction",
+      "ergonomic controls",
+      "activity-specific design",
+      "shock resistance",
+      "visibility signaling",
+      "context adaptation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT4251/full/800,/0/default.jpg"
+  },
+  {
+    "id": 512,
+    "title": "Credit Card Radio",
+    "designer": "Sony Corporation",
+    "year": 1985,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony Corporation",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Extreme Miniaturization",
+    "wikiTitle": null,
+    "description": "This radio achieves impossible thinness by using the credit card format as both constraint and metaphor. The flat form factor eliminates traditional radio proportions, requiring complete rethinking of speaker placement, antenna design, and control interfaces. Sony demonstrates technical mastery through voluntary formal constraint.",
+    "significance": "Shows how familiar object formats can drive radical technical innovation. Teaches the design value of impossible briefs in pushing technological boundaries beyond incremental improvement.",
+    "connections": [
+      {
+        "id": 48,
+        "type": "lineage",
+        "reason": "The Credit Card Radio pioneers the flat slab format that tablets later perfect, showing how extreme thinness becomes a primary design driver in portable electronics"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "The Credit Card Radio abandons the SK 4's rational proportions for novelty-driven miniaturization, prioritizing technical demonstration over functional optimization"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both solve complex problems through radical simplification and formal constraint - the map eliminates geographic accuracy for clarity, while the radio eliminates depth for portability"
+      }
+    ],
+    "keywords": [
+      "extreme miniaturization",
+      "format constraint",
+      "flat slab form",
+      "technical demonstration",
+      "impossible briefs",
+      "proportional abandon",
+      "novelty design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT4252/full/800,/0/default.jpg"
+  },
+  {
+    "id": 513,
+    "title": "Sony VAIO PCG-C1XD Notebook Computer",
+    "designer": "Sony Corporation",
+    "year": 1999,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Sony Corporation",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Ultra-Portable Computing",
+    "wikiTitle": null,
+    "description": "This notebook computer reduces laptop thickness to previously impossible dimensions through magnesium construction and careful component integration. The VAIO design language applies consumer electronics aesthetics to professional computing, creating lifestyle appeal in business products. Sony challenges the beige box computer paradigm with refined materials and proportions.",
+    "significance": "Marks the shift from purely functional to lifestyle-driven computer design. Shows how consumer electronics companies brought design sensibility to corporate computing markets dominated by engineering logic.",
+    "connections": [
+      {
+        "id": 50,
+        "type": "sameProblem",
+        "reason": "Both computers reject engineering-led aesthetics for consumer appeal, but VAIO pursues sophisticated minimalism while iMac embraces translucent playfulness"
+      },
+      {
+        "id": 512,
+        "type": "method",
+        "reason": "Both demonstrate Sony's approach to extreme miniaturization as design strategy, using thinness as the primary formal driver that forces technical innovation"
+      },
+      {
+        "id": 7,
+        "type": "material",
+        "reason": "Both use precise material choices to achieve structural efficiency - the VAIO's magnesium construction parallels the Ulm Stool's engineered wood in prioritizing performance over cost"
+      }
+    ],
+    "keywords": [
+      "ultra-portable computing",
+      "magnesium construction",
+      "lifestyle computing",
+      "consumer electronics aesthetics",
+      "professional product design",
+      "material precision",
+      "thickness reduction"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4294/full/800,/0/default.jpg"
+  },
+  {
+    "id": 514,
+    "title": "Wedgwood Plate",
+    "designer": "Josiah Wedgwood and Sons",
+    "year": 2005,
+    "discipline": "Product",
+    "origin": "Indonesia",
+    "manufacturer": "Josiah Wedgwood and Sons",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Global Manufacturing",
+    "wikiTitle": "Wedgwood",
+    "description": "This 2005 Wedgwood plate represents the tension between historic ceramic craft traditions and contemporary global manufacturing. The form maintains Wedgwood's signature neo-classical proportions and bone china composition while being manufactured in Indonesia rather than Staffordshire. The design preserves the visual codes of English refinement—the specific rim width, glazing techniques, and subtle surface modulation—but questions whether these material qualities can survive geographical displacement.",
+    "significance": "Students must grapple with how traditional design languages adapt to global manufacturing networks. This plate demonstrates that design authenticity lies not just in making processes but in understanding how cultural signifiers translate across different production contexts and craft traditions.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both preserve traditional craft logic through industrial means—Ponti's chair maintains ladderback chair proportions in machine production, just as Wedgwood maintains ceramic refinement through global manufacturing"
+      },
+      {
+        "id": 37,
+        "type": "material",
+        "reason": "Broomfield's photograph of ceramic testing at Doultons reveals the industrial precision that underlies Wedgwood's 2005 plate production, showing how ceramic quality control became systematized"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Beck's systematic approach to preserving essential relationships while abstracting details parallels how Wedgwood maintains its design DNA across different manufacturing contexts"
+      }
+    ],
+    "keywords": [
+      "bone china",
+      "global manufacturing",
+      "craft tradition",
+      "neo-classical form",
+      "brand heritage",
+      "production geography",
+      "ceramic glazing",
+      "cultural authenticity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV7556/full/800,/0/default.jpg"
+  },
+  {
+    "id": 515,
+    "title": "Strata Tumbler",
+    "designer": "Jasper Conran",
+    "year": 1999,
+    "discipline": "Product",
+    "origin": "Ireland",
+    "manufacturer": "Waterford Crystal",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Glass Design",
+    "wikiTitle": null,
+    "description": "Conran's Strata tumbler exploits the optical properties of lead crystal through precise geometric layering that creates internal light refraction patterns. The cylindrical form is punctuated by horizontal bands cut at different depths, generating visual texture through pure geometry rather than applied decoration. Each band catches and redirects light differently, creating the 'strata' effect that gives the piece its name while maintaining the structural clarity essential to functional glassware.",
+    "significance": "Students should recognize how Conran uses material properties as the primary design generator. The Strata tumbler demonstrates that contemporary craft lies not in rejecting industrial precision but in using it to amplify inherent material qualities—here, crystal's refractive potential becomes both decorative strategy and functional logic.",
+    "connections": [
+      {
+        "id": 516,
+        "type": "method",
+        "reason": "Both glasses use identical geometric cutting techniques to manipulate light refraction, but apply this method to different drinking contexts and vessel proportions"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Where Bill and Gugelot eliminated all visual information except structural necessity, Conran adds optical complexity through geometric precision—opposing approaches to material honesty"
+      },
+      {
+        "id": 15,
+        "type": "material",
+        "reason": "Piano and Rogers used structural transparency to reveal building systems; Conran uses optical transparency to reveal light behavior—both exploit their materials' inherent properties as aesthetic strategy"
+      }
+    ],
+    "keywords": [
+      "lead crystal",
+      "optical refraction",
+      "geometric cutting",
+      "light manipulation",
+      "material honesty",
+      "functional decoration",
+      "Irish glassmaking",
+      "precision manufacturing"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT4199/full/800,/0/default.jpg"
+  },
+  {
+    "id": 516,
+    "title": "Aura Martini Glass",
+    "designer": "Jasper Conran",
+    "year": 1999,
+    "discipline": "Product",
+    "origin": "Ireland",
+    "manufacturer": "Waterford Crystal",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Glass Design",
+    "wikiTitle": null,
+    "description": "The Aura martini glass applies the same optical cutting strategy as Conran's Strata tumbler but adapts it to the specific proportions and cultural codes of cocktail service. The conical bowl maintains the precise 4:3 ratio essential to proper martini presentation while the stem incorporates subtle geometric cuts that echo the bowl's light-refracting patterns. The design balances the theatrical requirements of cocktail culture with the technical demands of lead crystal manufacturing.",
+    "significance": "Students learn how a consistent design methodology adapts to different functional requirements. The Aura glass shows that good design systems are not about repeating forms but about applying coherent principles—here, geometric light manipulation—across different use contexts and cultural expectations.",
+    "connections": [
+      {
+        "id": 515,
+        "type": "method",
+        "reason": "Both glasses use identical geometric cutting techniques to manipulate light refraction, but apply this method to different drinking contexts and vessel proportions"
+      },
+      {
+        "id": 193,
+        "type": "zeitgeist",
+        "reason": "Both 1999 designs represent Conran's late-90s aesthetic philosophy of refined modernism—the glass's optical complexity matches the dress's structural sophistication"
+      },
+      {
+        "id": 5,
+        "type": "sameProblem",
+        "reason": "Both objects must balance functional lighting requirements with aesthetic refinement—the Castiglionis through marble and enamel, Conran through crystal optics and precise geometry"
+      }
+    ],
+    "keywords": [
+      "martini glass",
+      "cocktail culture",
+      "lead crystal",
+      "optical cutting",
+      "stem proportion",
+      "light refraction",
+      "drinking ritual",
+      "geometric precision"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT4541/full/800,/0/default.jpg"
+  },
+  {
+    "id": 517,
+    "title": "Civil Partnership Suit",
+    "designer": "Jasper Conran",
+    "year": 2006,
+    "discipline": "Product",
+    "origin": "Britain",
+    "manufacturer": "Jasper Conran",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Social Design",
+    "wikiTitle": null,
+    "description": "A tailored suit designed specifically for civil partnership ceremonies, marking the legal recognition of same-sex unions in the UK. The garment uses traditional Savile Row construction methods but subverts the heteronormative assumptions embedded in formal menswear.",
+    "significance": "Demonstrates how design responds to legislative change, creating new typologies for emerging social rituals. Shows how objects can embody political progress while maintaining craft traditions.",
+    "connections": [
+      {
+        "id": 75,
+        "type": "lineage",
+        "reason": "Both garments demonstrate Conran's consistent approach to formal wear—precise tailoring that strips away ornament to focus on cut and proportion"
+      },
+      {
+        "id": 518,
+        "type": "zeitgeist",
+        "reason": "Both represent the institutionalization of Conran as a British design brand, using different scales—retail architecture and personal dress—to establish cultural authority"
+      },
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Like Rams's modular system, the suit applies systematic thinking to functional requirements—here, the social function of ceremonial dress for a newly recognized legal status"
+      }
+    ],
+    "keywords": [
+      "civil partnership",
+      "social design",
+      "LGBTQ+ rights",
+      "formal wear",
+      "British tailoring",
+      "legislative design",
+      "ceremony",
+      "equality"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EL1340/full/800,/0/default.jpg"
+  },
+  {
+    "id": 518,
+    "title": "Design and Fittings of a Shop for Jasper Conran",
+    "designer": "Nigel Coates",
+    "year": 1986,
+    "discipline": "Architecture",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Narrative Architecture",
+    "wikiTitle": "Nigel Coates",
+    "description": "A retail interior that combines classical architectural elements with contemporary materials, creating theatrical environments for fashion consumption. Coates layers historical references—columns, pediments, fragments—within a modernist shell to create narrative spaces that sell lifestyle alongside product.",
+    "significance": "Shows how postmodern architecture moved beyond buildings to colonize commercial space, using historical pastiche to create desire. Essential for understanding how retail design became a testing ground for architectural ideas.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both reject modernist reduction in favor of historical collage, using architectural language—classical orders, bright colors—to question the relationship between high and commercial culture"
+      },
+      {
+        "id": 42,
+        "type": "sameProblem",
+        "reason": "Both architects use postmodern strategies to solve the problem of creating memorable interior spaces, but Coates applies Memphis-like strategies to commercial rather than domestic settings"
+      },
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Rogers and Piano express building systems as honest structure, Coates uses architectural elements as theatrical props, turning retail space into stage set rather than functional diagram"
+      }
+    ],
+    "keywords": [
+      "retail design",
+      "postmodern architecture",
+      "narrative space",
+      "commercial interior",
+      "theatrical design",
+      "classical pastiche",
+      "lifestyle branding",
+      "1980s retail"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF4213/full/800,/0/default.jpg"
+  },
+  {
+    "id": 519,
+    "title": "Driftwood after a Storm, Betws-y-Coed",
+    "designer": "Richard Sebastian Bond",
+    "year": 1870,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Victorian Landscape Painting",
+    "wikiTitle": null,
+    "description": "An oil painting documenting storm debris in the Welsh countryside, part of the Victorian tradition of recording natural phenomena with scientific precision. Bond renders each broken branch and scattered fragment with meticulous attention, treating natural destruction as worthy of careful documentation.",
+    "significance": "Shows how Victorian visual culture applied systematic observation to nature, treating landscape as data to be recorded rather than idealized. Important for understanding how design thinking emerges from scientific method.",
+    "connections": [
+      {
+        "id": 37,
+        "type": "method",
+        "reason": "Both works apply systematic documentation to their subjects, but where Bond records natural debris with painterly precision, Broomfield uses photography to examine industrial materials with scientific objectivity"
+      },
+      {
+        "id": 35,
+        "type": "argument",
+        "reason": "Both images frame their subjects within careful observational systems, but Bond's romantic naturalism contrasts sharply with Broomfield's celebration of industrial production and artificial illumination"
+      }
+    ],
+    "keywords": [
+      "Victorian landscape",
+      "natural documentation",
+      "Welsh countryside",
+      "storm debris",
+      "observational painting",
+      "scientific realism",
+      "nature study",
+      "environmental recording"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BN5771/full/800,/0/default.jpg"
+  },
+  {
+    "id": 520,
+    "title": "Nova Shoes",
+    "designer": "Zaha Hadid",
+    "year": 2013,
+    "discipline": "Product",
+    "origin": "Britain",
+    "manufacturer": "United Nude",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Parametric Design",
+    "wikiTitle": "Zaha Hadid",
+    "description": "A high-heeled shoe created using parametric modeling software, where the heel flows seamlessly into the sole through a continuous curved surface. The shoe applies Hadid's architectural language of fluid geometries to the constraints of human anatomy and movement, creating a wearable building that challenges traditional footwear construction.",
+    "significance": "Demonstrates how digital design tools can transform traditional objects by eliminating joints and seams in favor of continuous surfaces. Shows how architectural thinking can colonize product design through shared digital methodologies.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Rogers and Piano express mechanical systems as honest structure, Hadid dissolves structural logic into flowing surfaces that hide rather than reveal how forces are resolved"
+      },
+      {
+        "id": 50,
+        "type": "method",
+        "reason": "Both objects use digital design tools to create seamless surfaces, but where Ive applies translucency to reveal internal workings, Hadid uses opacity to create mysterious, sculptural forms"
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both designers create sculptural objects that prioritize visual impact over functional efficiency, transforming mundane typologies—citrus pressing, walking—into statements about design as cultural practice"
+      }
+    ],
+    "keywords": [
+      "parametric design",
+      "digital modeling",
+      "architectural fashion",
+      "continuous surfaces",
+      "high heels",
+      "wearable architecture",
+      "fluid geometry",
+      "seamless construction"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU0357/full/800,/0/default.jpg"
+  },
+  {
+    "id": 521,
+    "title": "BRIT Award",
+    "designer": "Zaha Hadid",
+    "year": 2017,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Parametric Design",
+    "wikiTitle": "Brit Awards",
+    "description": "Hadid's BRIT award abandons traditional trophy verticality for a crystalline form that appears to emerge from liquid geometry frozen mid-flow. The award's faceted surfaces create multiple viewing planes that shift as light moves across them, making the object appear to change form from different angles. Each face is precisely angled to catch and refract light, transforming the trophy from static object into dynamic sculpture.",
+    "significance": "This demonstrates how parametric design principles can be applied to ceremonial objects, showing students how computational form-finding creates new symbolic languages. The piece argues that awards can embody the creative process they celebrate rather than simply representing it through figurative imagery.",
+    "connections": [
+      {
+        "id": 80,
+        "type": "method",
+        "reason": "Both objects use Hadid's parametric methodology to create complex geometries impossible to achieve through traditional making processes, but apply it to radically different scales and functions"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Where Starck uses object dysfunction to create talking points, Hadid uses geometric complexity to transform the award from utilitarian trophy into sculptural statement about creative process"
+      }
+    ],
+    "keywords": [
+      "parametric design",
+      "faceted geometry",
+      "ceremonial object",
+      "computational form",
+      "light refraction",
+      "crystalline structure",
+      "awards design",
+      "Zaha Hadid"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KP7509/full/800,/0/default.jpg"
+  },
+  {
+    "id": 522,
+    "title": "Architectural model",
+    "designer": "Zaha Hadid Architects",
+    "year": 2012,
+    "discipline": "Architecture",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Parametric Architecture",
+    "wikiTitle": null,
+    "description": "This model demonstrates Hadid's approach to architectural form as continuous landscape rather than discrete building elements. The structure appears to emerge from the ground plane through fluid deformation, with no clear distinction between foundation, wall, and roof. Digital fabrication allows the precise realization of complex double-curved surfaces that would be impossible to construct using traditional architectural drawing methods.",
+    "significance": "The model teaches students how parametric design challenges fundamental architectural categories like wall, floor, and ceiling. It demonstrates how computational tools enable architects to think beyond orthogonal geometry toward more performative, landscape-like built environments.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Pompidou exposes building systems to celebrate industrial process, Hadid conceals all structural logic within seamless surfaces to prioritize pure geometric flow"
+      },
+      {
+        "id": 45,
+        "type": "method",
+        "reason": "Both use computational methods to generate complex spatial organizations, but Hadid pursues singular continuous forms while Bouroullec creates modular systems"
+      }
+    ],
+    "keywords": [
+      "parametric architecture",
+      "continuous surfaces",
+      "landscape architecture",
+      "digital fabrication",
+      "fluid geometry",
+      "computational design",
+      "seamless topology",
+      "deformation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MP7695/full/800,/0/default.jpg"
+  },
+  {
+    "id": 523,
+    "title": "Reclining Artist (small)",
+    "designer": "Grayson Perry",
+    "year": 2017,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary British Art",
+    "wikiTitle": "Grayson Perry",
+    "description": "Perry's print subverts the classical tradition of reclining figures by depicting the artist as both subject and creator, wearing feminine clothing in a pose typically reserved for idealized female nudes. The work layers personal identity politics over art historical reference, using traditional printmaking techniques to deliver contemporary content about gender, class, and artistic authority. The domestic scale and intimate medium contrast with the monumental pretensions of classical art.",
+    "significance": "This print demonstrates how contemporary artists use traditional media to interrogate established cultural hierarchies. Students learn how scale, medium choice, and iconographic reversal can transform familiar artistic conventions into vehicles for social critique.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "argument",
+        "reason": "Both works use decorative excess and gender-coded aesthetics to challenge modernist orthodoxy, but Perry works through traditional media while Sottsass uses radical form"
+      },
+      {
+        "id": 5,
+        "type": "zeitgeist",
+        "reason": "Both artists use personal narrative and memory as material for design, challenging the modernist separation between private life and public objects"
+      },
+      {
+        "id": 21,
+        "type": "sameProblem",
+        "reason": "Both artists create self-portraits that reveal the maker's identity, but Perry uses traditional printmaking to explore gender while Dixon uses photography to document craft process"
+      }
+    ],
+    "keywords": [
+      "gender identity",
+      "art historical reference",
+      "printmaking",
+      "classical tradition",
+      "social critique",
+      "domestic scale",
+      "iconographic reversal",
+      "contemporary art"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LH3122/full/800,/0/default.jpg"
+  },
+  {
+    "id": 524,
+    "title": "Boby Trolley",
+    "designer": "Joe Cesare Colombo",
+    "year": 1970,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Bieffeplast",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Joe Colombo",
+    "description": "Colombo's Boby trolley reimagines mobile storage through industrial materials and modular thinking. The injection-molded ABS plastic body contains multiple drawers that can be reconfigured according to use, while the wheels and handle transform the unit from furniture into tool. Each drawer operates independently, allowing users to remove individual storage modules for specific tasks. The bright plastic finish announces this as furniture for a technological future rather than traditional domesticity.",
+    "significance": "The Boby demonstrates how 1970s Italian designers used plastic manufacturing to challenge furniture typologies. Students learn how material choice can completely redefine object categories—here transforming storage from static architecture into mobile equipment.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "sameProblem",
+        "reason": "Both designers create modular storage systems, but where Rams pursues permanent architectural integration, Colombo emphasizes mobility and reconfiguration"
+      },
+      {
+        "id": 55,
+        "type": "zeitgeist",
+        "reason": "Both objects use bright plastic to signal departure from conventional furniture aesthetics, embodying 1970s optimism about technology transforming domestic life"
+      },
+      {
+        "id": 10,
+        "type": "material",
+        "reason": "Both designers exploit injection-molded plastic's ability to create complex forms impossible in traditional furniture materials, enabling new functional possibilities"
+      }
+    ],
+    "keywords": [
+      "modular storage",
+      "injection molding",
+      "mobile furniture",
+      "ABS plastic",
+      "radical design",
+      "technological future",
+      "reconfigurable",
+      "Italian design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0095/full/800,/0/default.jpg"
+  },
+  {
+    "id": 525,
+    "title": "Model 4801",
+    "designer": "Joe Cesare Colombo",
+    "year": 1963,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Kartell",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": null,
+    "description": "Colombo's first injection-molded chair uses a single material and production process to eliminate traditional joinery. The continuous form flows from seat to legs without interruption, making the manufacturing logic visible in the final object. The chair's monolithic quality demonstrates how plastic's material properties enable new formal possibilities impossible with wood or metal.",
+    "significance": "Shows how material innovation drives formal innovation — the design exists because injection molding allows it, not despite the process. Demonstrates the shift from crafted assembly to industrial forming that defines modern furniture production.",
+    "connections": [
+      {
+        "id": 526,
+        "type": "lineage",
+        "reason": "Colombo refined the injection-molding technique he pioneered in Model 4801 to achieve the Universale's stackable geometry, showing how technical mastery enables greater functional ambition"
+      },
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Where Ponti achieves lightness through skilled traditional joinery, Colombo uses plastic's inherent properties to eliminate joints entirely — opposing philosophies about how to make furniture light"
+      },
+      {
+        "id": 2,
+        "type": "zeitgeist",
+        "reason": "Both 1960s Italian designers questioned furniture conventions, but Castiglioni appropriated existing objects while Colombo invented entirely new manufacturing processes"
+      },
+      {
+        "id": 50,
+        "type": "material",
+        "reason": "Both designers use injection-molded plastic's formal possibilities to create monolithic objects that make their industrial production method part of their aesthetic appeal"
+      }
+    ],
+    "keywords": [
+      "injection molding",
+      "monolithic form",
+      "material logic",
+      "industrial process",
+      "plastic furniture",
+      "Italian design",
+      "manufacturing innovation",
+      "continuous surface"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH6012/full/800,/0/default.jpg"
+  },
+  {
+    "id": 526,
+    "title": "Universale",
+    "designer": "Joe Colombo",
+    "year": 1965,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Kartell",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Universale chair",
+    "description": "The world's first fully injection-molded, stackable chair transforms a single material shot into complex geometry in seconds. Colombo's interlocking legs create structural stability while enabling efficient stacking — each functional requirement solved through form rather than added components. The name 'Universale' reflects its intended global applicability across contexts and users.",
+    "significance": "Proves that mass production can achieve both formal sophistication and functional efficiency. Students learn how constraints — stackability, single-shot molding — become creative drivers rather than limitations when understood as design parameters.",
+    "connections": [
+      {
+        "id": 525,
+        "type": "lineage",
+        "reason": "Colombo's technical mastery of injection molding in the Model 4801 enabled the Universale's more complex stackable geometry two years later"
+      },
+      {
+        "id": 11,
+        "type": "sameProblem",
+        "reason": "Both solve storage efficiency through geometric logic — Rams through modular assembly, Colombo through stackable molded forms — showing different approaches to spatial optimization"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "While Bill and Gugelot use traditional joinery to demonstrate pure geometric relationships, Colombo achieves similar visual clarity through industrial plastic forming — craft versus mass production"
+      },
+      {
+        "id": 417,
+        "type": "lineage",
+        "reason": "The Universale established the template for mass-produced plastic stacking chairs that Chinese manufacturers like Taizhou Changheng continue to exploit fifty years later"
+      }
+    ],
+    "keywords": [
+      "injection molding",
+      "stackable design",
+      "mass production",
+      "geometric efficiency",
+      "functional integration",
+      "global design",
+      "plastic chair",
+      "manufacturing logic"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT2686/full/800,/0/default.jpg"
+  },
+  {
+    "id": 527,
+    "title": "Brionvega TS502",
+    "designer": "Marco Zanuso",
+    "year": 1963,
+    "discipline": "Product",
+    "origin": "Italy",
+    "manufacturer": "Brionvega",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Industrial Design",
+    "wikiTitle": null,
+    "description": "Zanuso's transistor radio abandons the furniture-like proportions of previous radios for a compact, geometric form that expresses its electronic rather than mechanical nature. The clean plastic housing contains all components in minimal volume while the simple control layout makes operation intuitive. The radio's portability transforms it from furniture to personal object.",
+    "significance": "Demonstrates how miniaturization of technology enables new typologies — the radio becomes personal rather than domestic. Shows students how electronic innovation drives formal innovation, requiring designers to rethink established object categories.",
+    "connections": [
+      {
+        "id": 10,
+        "type": "method",
+        "reason": "Both Zanuso projects use plastic forming to create compact housings for electronic components, establishing the formal language of Italian consumer electronics design"
+      },
+      {
+        "id": 525,
+        "type": "zeitgeist",
+        "reason": "Produced in the same year, both demonstrate how plastic injection molding enabled Italian designers to create entirely new object typologies through material innovation"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "While Rams emphasizes functional clarity through geometric reduction, Zanuso creates personality through sculptural form — different approaches to humanizing electronic products"
+      },
+      {
+        "id": 49,
+        "type": "lineage",
+        "reason": "Zanuso's integration of electronics into minimal plastic housing prefigures the iPhone's approach to containing complex technology in simple, portable forms"
+      }
+    ],
+    "keywords": [
+      "transistor radio",
+      "electronic design",
+      "portability",
+      "plastic housing",
+      "miniaturization",
+      "Italian electronics",
+      "consumer product",
+      "geometric form"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HV5044/full/800,/0/default.jpg"
+  },
+  {
+    "id": 528,
+    "title": "Muji CD Player",
+    "designer": "Naoto Fukasawa",
+    "year": 1999,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Muji",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Minimalism",
+    "wikiTitle": null,
+    "description": "A wall-mounted CD player that eliminates the chassis entirely, operating by pulling a cord that hangs from its bottom edge. The disc is held by magnetic force, making the mechanism the interface. This design strips away all conventional player controls, reducing operation to the most elemental gesture.",
+    "significance": "Shows how radical reduction can create new typologies by questioning fundamental assumptions about product architecture. Demonstrates that invisible mechanisms can generate poetic simplicity when the constraint becomes the design logic itself.",
+    "connections": [
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams used transparent acrylic to reveal mechanism as honest expression, Fukasawa makes mechanism disappear entirely — two opposing strategies for technology's visual presence"
+      },
+      {
+        "id": 71,
+        "type": "sameProblem",
+        "reason": "Both solve portable CD playback but Sony emphasizes technical capability through visible controls while Fukasawa achieves poetry through their complete absence"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both use systematic elimination of non-essential information to create clarity — Beck removed geographical accuracy, Fukasawa removed conventional interface elements"
+      }
+    ],
+    "keywords": [
+      "magnetic force",
+      "wall-mounted",
+      "cord mechanism",
+      "invisible interface",
+      "reduction",
+      "Japanese design",
+      "Muji philosophy",
+      "anti-object"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JT9234/full/800,/0/default.jpg"
+  },
+  {
+    "id": 529,
+    "title": "Wagenfeld Storage Boxes",
+    "designer": "Wilhelm Wagenfeld",
+    "year": 1938,
+    "discipline": "Product",
+    "origin": "Germany",
+    "manufacturer": "Vereinigte Lausitzer Glaswerke",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "German Functionalism",
+    "wikiTitle": "Wilhelm Wagenfeld",
+    "description": "A nested set of clear glass storage containers with ground glass lids that create perfect seals. Each box is proportionally related to the others, forming a systematic family of sizes. The transparent material makes contents immediately visible while the precise manufacturing creates functional reliability.",
+    "significance": "Demonstrates how industrial glass production could achieve both systematic thinking and domestic utility. Shows students how proportional relationships and material honesty can create product families that transcend mere function to become systematic design thinking.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both apply systematic proportional relationships to create expandable domestic storage — Wagenfeld through nested glass volumes, Rams through modular metal components"
+      },
+      {
+        "id": 73,
+        "type": "material",
+        "reason": "Both exploit glass transparency as functional strategy but Wagenfeld uses clarity for storage visibility while Conran uses it for aesthetic layering effects"
+      },
+      {
+        "id": 7,
+        "type": "zeitgeist",
+        "reason": "Both represent German systematic design thinking of their periods — Wagenfeld's pre-war functionalism laying groundwork for post-war rationalism that produced the Ulm approach"
+      }
+    ],
+    "keywords": [
+      "nested storage",
+      "glass transparency",
+      "proportional system",
+      "ground glass",
+      "German functionalism",
+      "domestic organization",
+      "systematic design",
+      "Bauhaus legacy"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8205/full/800,/0/default.jpg"
+  },
+  {
+    "id": 530,
+    "title": "Atollo Table Lamp",
+    "designer": "Vico Magistretti",
+    "year": 1977,
+    "discipline": "Lighting",
+    "origin": "Italy",
+    "manufacturer": "Oluce",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Rationalism",
+    "wikiTitle": "Vico Magistretti",
+    "description": "A table lamp composed of three pure geometric forms — cylinder, cone, and hemisphere — stacked to create a monumental presence. The opal glass diffuser sits atop a metal base, with the cone acting as both shade and formal mediator. The proportions reference classical architecture while the forms remain irreducibly simple.",
+    "significance": "Teaches how geometric reduction can create archetypal objects that feel both ancient and contemporary. Shows students that formal authority comes from proportional relationships rather than decorative complexity, establishing lighting as sculptural presence.",
+    "connections": [
+      {
+        "id": 8,
+        "type": "sameProblem",
+        "reason": "Both create monumental table lamps through stacked geometric forms but Castiglioni uses industrial bowl reflection while Magistretti achieves classical gravitas through pure geometry"
+      },
+      {
+        "id": 1,
+        "type": "zeitgeist",
+        "reason": "Both represent 1960s-70s Italian lighting that treats lamps as architectural elements — Castiglioni through structural cantilever, Magistretti through monumental stacking"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Where Bill's stool reduces form to essential structural logic, Magistretti's lamp adds symbolic weight through classical proportions — functional versus archetypal approaches to geometric reduction"
+      }
+    ],
+    "keywords": [
+      "geometric forms",
+      "stacked composition",
+      "opal glass diffuser",
+      "classical proportions",
+      "monumental scale",
+      "Italian rationalism",
+      "archetypal design",
+      "geometric reduction"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM2939/full/800,/0/default.jpg"
+  },
+  {
+    "id": 531,
+    "title": "Veranda Sofa",
+    "designer": "Vico Magistretti",
+    "year": 1983,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Cassina",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Post-Rationalism",
+    "wikiTitle": "Vico Magistretti",
+    "description": "A modular seating system with deep, enveloping cushions supported by a minimal tubular steel frame. The oversized upholstered elements create intimate spatial enclosure while the exposed frame maintains visual lightness. Modules can be combined to form various configurations from single chairs to continuous landscapes.",
+    "significance": "Shows how modular thinking can address both comfort and spatial flexibility without sacrificing design coherence. Demonstrates to students that systematic approaches can accommodate human-scaled comfort while maintaining architectural logic in domestic environments.",
+    "connections": [
+      {
+        "id": 6,
+        "type": "argument",
+        "reason": "Where Ponti achieves lightness through structural reduction and traditional craft, Magistretti creates lightness through visual separation of frame and cushion mass — opposing strategies for furniture dematerialization"
+      },
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both use modular logic to create flexible domestic systems but Rams emphasizes visible structure while Magistretti hides systematic thinking within comfort-focused forms"
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both emerge from 1980s Italian design culture but Sottsass uses modularity for symbolic disruption while Magistretti applies it to refined domestic comfort"
+      }
+    ],
+    "keywords": [
+      "modular seating",
+      "tubular steel frame",
+      "spatial enclosure",
+      "domestic landscape",
+      "Italian comfort",
+      "systematic flexibility",
+      "frame separation",
+      "architectural logic"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7469/full/800,/0/default.jpg"
+  },
+  {
+    "id": 532,
+    "title": "Selene Chair",
+    "designer": "Vico Magistretti",
+    "year": 1968,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Artemide",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Plastics Revolution",
+    "wikiTitle": "Vico Magistretti",
+    "description": "A single-piece injection-molded chair that achieves structural stability through S-curve geometry. The fiberglass shell curves from back through seat to front leg support, with rear legs attached as separate elements. The form exploits plastic's moldability while maintaining classical sitting proportions.",
+    "significance": "Demonstrates how new materials can generate entirely new structural solutions while respecting human ergonomics. Shows students that material innovation must solve both technical and formal problems simultaneously to create lasting design solutions.",
+    "connections": [
+      {
+        "id": 87,
+        "type": "sameProblem",
+        "reason": "Both pioneer injection-molded seating but Colombo pursues stackable modularity while Magistretti focuses on structural innovation through continuous curvature"
+      },
+      {
+        "id": 6,
+        "type": "lineage",
+        "reason": "Magistretti transforms Ponti's lightness principle from wood construction to plastic molding — same visual goal achieved through opposite material strategies"
+      },
+      {
+        "id": 50,
+        "type": "material",
+        "reason": "Both exploit plastic's capacity for complex curves and translucent effects but Magistretti emphasizes structural performance while Ive uses moldability for approachable technology aesthetics"
+      }
+    ],
+    "keywords": [
+      "injection molding",
+      "S-curve structure",
+      "fiberglass shell",
+      "single-piece construction",
+      "plastic innovation",
+      "structural continuity",
+      "Italian manufacturing",
+      "material exploitation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX9544/full/800,/0/default.jpg"
+  },
+  {
+    "id": 533,
+    "title": "Black ST 201 TV",
+    "designer": "Marco Zanuso",
+    "year": 1969,
+    "discipline": "Product",
+    "origin": "Milan",
+    "manufacturer": "Brionvega",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Industrial Design",
+    "wikiTitle": null,
+    "description": "A portable television that transforms electronic equipment into sculptural objects through precise geometric forms and high-quality materials. The design uses a black plastic housing with chrome accents to create visual weight and technical credibility, while the compact proportions make advanced technology domestically acceptable. The control layout and screen proportions follow ergonomic principles while maintaining formal coherence.",
+    "significance": "Shows students how Italian designers elevated consumer electronics from functional appliances to design objects. Critical for understanding how industrial design can make complex technology approachable through formal sophistication, and how material choices communicate quality and desirability.",
+    "connections": [
+      {
+        "id": 88,
+        "type": "lineage",
+        "reason": "Both represent Zanuso's evolution of electronic product design for Brionvega, showing his consistent approach to making technology elegant through geometric reduction and premium materials"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "While Rams uses transparency and material honesty to express function, Zanuso creates technological mystique through sculptural forms and luxury materials, representing opposing philosophies of product design"
+      },
+      {
+        "id": 55,
+        "type": "zeitgeist",
+        "reason": "Both emerge from the same moment when Italian designers were reimagining technological objects as lifestyle accessories, sharing the belief that industrial design could be emotionally expressive rather than purely functional"
+      }
+    ],
+    "keywords": [
+      "portable electronics",
+      "sculptural housing",
+      "technological mystique",
+      "premium materials",
+      "geometric reduction",
+      "domestic technology",
+      "Italian sophistication",
+      "ergonomic integration"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT4243/full/800,/0/default.jpg"
+  },
+  {
+    "id": 534,
+    "title": "RR126 Radiofonografo",
+    "designer": "Achille & Pier Giacomo Castiglioni",
+    "year": 1966,
+    "discipline": "Product",
+    "origin": "Italy",
+    "manufacturer": "Brionvega",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Rationalism",
+    "wikiTitle": null,
+    "description": "The Castiglioni brothers' radiogram challenges traditional hi-fi furniture through radical formal reduction — a perfect cube that opens to reveal turntable and controls, eliminating the horizontal console format that mimicked domestic sideboards. The cube proportion makes no reference to existing furniture typology, instead asserting the device's identity as pure electronic instrument. When closed, the smooth cube surface provides no visual clues to its function, requiring user interaction to reveal its purpose.",
+    "significance": "This teaches students how radical reduction can redefine product categories — the Castiglionis reject the assumption that audio equipment should look like furniture, instead creating a new formal language for electronic media. The cube's mystery when closed demonstrates how designers can use unfamiliarity to force users to reconsider their relationship with technology.",
+    "connections": [
+      {
+        "id": 147,
+        "type": "sameProblem",
+        "reason": "Both Brionvega products from the mid-1960s solve electronic housing through perfect cubic geometry, but where Sapper's TV maintains its cubic form in operation, the Castiglioni cube transforms when opened, creating theatre around the act of music listening."
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "The RR126 directly challenges Rams and Gugelot's horizontal radiogram format, arguing that electronic media deserves radical new formal language rather than subtle refinement of existing furniture typology — cube versus console represents two opposing approaches to domestic integration."
+      },
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both Castiglioni designs employ the same method of functional revelation through interaction — the Mezzadro's tractor seat becomes furniture through use, while the RR126's electronics are revealed through opening, both requiring user engagement to complete their meaning."
+      },
+      {
+        "id": 85,
+        "type": "zeitgeist",
+        "reason": "Both Italian designs from the late 1960s represent the period's exploration of domestic objects as geometric sculpture, transforming utilitarian functions into formal statements about modern living through radical reduction and systematic organization."
+      }
+    ],
+    "keywords": [
+      "cubic reduction",
+      "electronic housing",
+      "furniture typology",
+      "user interaction",
+      "functional revelation",
+      "domestic integration",
+      "Brionvega",
+      "Italian rationalism"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HX9409/full/800,/0/default.jpg"
+  },
+  {
+    "id": 535,
+    "title": "Crosby Chair",
+    "designer": "Gaetano Pesce",
+    "year": 1998,
+    "discipline": "Furniture",
+    "origin": "United States",
+    "manufacturer": "Bernini",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": null,
+    "description": "Pesce's Crosby Chair employs controlled imperfection through resin casting that ensures each chair emerges with unique surface variations and color distributions. The manufacturing process deliberately introduces unpredictability — liquid resin poured into molds creates surface textures and color patterns that cannot be precisely controlled, making each chair an individual rather than identical product. This challenges industrial design's pursuit of perfect reproducibility, instead embracing the accidents inherent in material processes.",
+    "significance": "Students learn how designers can reject mass production's emphasis on identical reproduction, instead using manufacturing processes to create uniqueness within systematic production. Pesce demonstrates that industrial materials like resin can be used expressively rather than just efficiently, showing how controlled accident can become a design method.",
+    "connections": [
+      {
+        "id": 20,
+        "type": "material",
+        "reason": "Both chairs exploit the unpredictable qualities of synthetic materials — Dixon's welded metal creates unique surface textures through heat distortion, while Pesce's resin casting produces unrepeatable color variations, both using material accidents as expressive elements."
+      },
+      {
+        "id": 5,
+        "type": "argument",
+        "reason": "Both designers argue against mass production's standardization but through opposite methods — Remy assembles found drawers into unique configurations, while Pesce uses controlled manufacturing accidents, showing two approaches to creating individual objects within systematic production."
+      },
+      {
+        "id": 9,
+        "type": "method",
+        "reason": "Both designers use the same method of challenging functional expectations — Starck creates a lemon squeezer that performs poorly as kitchen tool, while Pesce creates chairs that vary unpredictably, both questioning whether design objects should prioritize consistent performance over expressive meaning."
+      }
+    ],
+    "keywords": [
+      "controlled imperfection",
+      "resin casting",
+      "material accidents",
+      "mass production critique",
+      "unique variation",
+      "systematic unpredictability",
+      "industrial expressiveness",
+      "manufacturing randomness"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3285/full/800,/0/default.jpg"
+  },
+  {
+    "id": 536,
+    "title": "UP 3",
+    "designer": "Gaetano Pesce",
+    "year": 1969,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "C&B Italia",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": null,
+    "description": "A revolutionary foam chair compressed in vacuum-sealed PVC packaging that expands when opened, transforming from flat package to fully-formed seating. The chair's final form varies slightly with each use, questioning mass production's pursuit of identical objects. The soft, yielding polyurethane foam contradicts the structural rigidity expected of furniture.",
+    "significance": "Students learn how packaging can become part of the design process, challenging assumptions about furniture distribution and storage. The chair demonstrates how industrial processes can introduce controlled variation rather than standardization, anticipating customization debates in contemporary design.",
+    "connections": [
+      {
+        "id": 55,
+        "type": "zeitgeist",
+        "reason": "Both 1969 objects embody Italian Radical Design's rejection of functionalist orthodoxy, using bright colors and unconventional materials to challenge corporate modernism's aesthetic hegemony."
+      },
+      {
+        "id": 20,
+        "type": "material",
+        "reason": "Both chairs explore foam's capacity to blur boundaries between manufacturing and forming, where the material process becomes the design concept rather than merely enabling predetermined shapes."
+      },
+      {
+        "id": 50,
+        "type": "argument",
+        "reason": "The UP 3's vacuum-sealed packaging anticipates the iMac's translucent casing in making typically hidden industrial processes visible and central to the product's identity."
+      },
+      {
+        "id": 105,
+        "type": "lineage",
+        "reason": "Pesce's later Crosby Chair extends the UP 3's exploration of variation within series production, using resin's unpredictable behavior to ensure each chair differs from others."
+      }
+    ],
+    "keywords": [
+      "vacuum packaging",
+      "foam expansion",
+      "Italian Radical Design",
+      "mass customization",
+      "process visibility",
+      "material behavior",
+      "anti-functionalism",
+      "Gaetano Pesce"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3573/full/800,/0/default.jpg"
+  },
+  {
+    "id": 537,
+    "title": "Gallery Mourmans Exhibition Invitation",
+    "designer": "Gaetano Pesce",
+    "year": 1993,
+    "discipline": "Graphic",
+    "origin": "Belgium",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Postmodern Graphic Design",
+    "wikiTitle": null,
+    "description": "An exhibition invitation that functions as both printed matter and three-dimensional object, folding to reveal sculptural forms when opened. The typography integrates with physical manipulation, requiring reader participation to access information. The card's material properties become part of its communicative strategy.",
+    "significance": "Students understand how graphic design can extend beyond flat surfaces into spatial experience, anticipating interactive digital media. The invitation demonstrates how participation can be designed into print communication, making the reader complicit in message construction.",
+    "connections": [
+      {
+        "id": 540,
+        "type": "sameProblem",
+        "reason": "Both invitations solve the same brief of announcing Pesce exhibitions, but where this one uses physical manipulation, the glass exhibition card employs material metaphor to communicate content."
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both 1993 objects represent Postmodernism's mature phase, where functional objects become vehicles for cultural commentary rather than transparent tools."
+      },
+      {
+        "id": 14,
+        "type": "argument",
+        "reason": "Where Tschichold's rules establish typography as invisible infrastructure, Pesce's invitation makes typography's material presence explicit and central to meaning-making."
+      }
+    ],
+    "keywords": [
+      "interactive print",
+      "spatial typography",
+      "exhibition design",
+      "postmodern graphics",
+      "material communication",
+      "reader participation",
+      "three-dimensional printing"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BW9776/full/800,/0/default.jpg"
+  },
+  {
+    "id": 538,
+    "title": "Pratt Chair",
+    "designer": "Gaetano Pesce",
+    "year": 1984,
+    "discipline": "Furniture",
+    "origin": "United States",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Postmodern Furniture",
+    "wikiTitle": null,
+    "description": "A one-off chair made for Pratt Institute that demonstrates resin casting's potential for unique objects rather than multiple production. Each element appears deliberately imperfect, with visible drips and irregularities that celebrate rather than disguise manufacturing traces. The chair exists as both functional object and material experiment.",
+    "significance": "Students learn how educational commissions allow designers to test ideas without commercial constraints, understanding patronage's role in design development. The chair shows how industrial materials can be used for craft-like production, questioning the opposition between handmaking and machine production.",
+    "connections": [
+      {
+        "id": 536,
+        "type": "lineage",
+        "reason": "The Pratt Chair develops the UP 3's investigation of material unpredictability, but where the earlier work embraced foam's expansion, this chair celebrates resin's liquid-to-solid transformation."
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both mid-1980s objects embody Postmodernism's embrace of expressive individuality over systematic rationalism, rejecting minimalism's pursuit of essential forms."
+      },
+      {
+        "id": 18,
+        "type": "argument",
+        "reason": "Where Dixon's S Chair uses welding to achieve industrial roughness, Pesce's resin casting celebrates material fluidity, showing how different processes can achieve similar anti-refinement aesthetics."
+      }
+    ],
+    "keywords": [
+      "resin casting",
+      "craft production",
+      "material experiment",
+      "educational commission",
+      "anti-perfection",
+      "unique objects",
+      "postmodern furniture",
+      "Pratt Institute"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011FA0539/full/800,/0/default.jpg"
+  },
+  {
+    "id": 539,
+    "title": "Nobody's Shelves",
+    "designer": "Gaetano Pesce",
+    "year": 2002,
+    "discipline": "Furniture",
+    "origin": "United States",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Radical Design",
+    "wikiTitle": null,
+    "description": "A shelving system where each unit differs from others through controlled variation in manufacturing, using resin's unpredictable behavior to ensure uniqueness. The shelves appear to sag under their own weight, subverting expectations of structural stability. The system questions whether storage furniture should prioritize efficiency or expressive potential.",
+    "significance": "Students understand how digital manufacturing can enable variation rather than standardization, anticipating mass customization debates. The shelves demonstrate how functional furniture can embody conceptual positions about individuality versus conformity in contemporary production.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "Where Rams' system achieves universality through standardized components, Pesce's shelves celebrate particularity, showing how shelving can embody opposing philosophies about design's social role."
+      },
+      {
+        "id": 538,
+        "type": "method",
+        "reason": "Both objects use resin casting to achieve controlled variation, but where the chair exists as unique prototype, the shelves apply similar thinking to production furniture."
+      },
+      {
+        "id": 6,
+        "type": "zeitgeist",
+        "reason": "Both 2002 objects reflect design's increasing interest in imperfection and irregularity as responses to digital culture's perceived sterility and predictability."
+      },
+      {
+        "id": 12,
+        "type": "sameProblem",
+        "reason": "Both address shelving's potential for cultural commentary, but where Sottsass uses color and geometry, Pesce employs material behavior to challenge storage furniture conventions."
+      }
+    ],
+    "keywords": [
+      "mass customization",
+      "controlled variation",
+      "resin behavior",
+      "anti-standardization",
+      "structural subversion",
+      "storage systems",
+      "contemporary furniture",
+      "manufacturing philosophy"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JP7249/full/800,/0/default.jpg"
+  },
+  {
+    "id": 540,
+    "title": "Peter Joseph Gallery Invitation",
+    "designer": "Gaetano Pesce",
+    "year": 1993,
+    "discipline": "Graphic",
+    "origin": "United States",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Material Graphic Design",
+    "wikiTitle": null,
+    "description": "An invitation card for Pesce's glass exhibition that employs translucent materials to reference the show's content. The card functions as material sample as well as information carrier, allowing recipients to experience glass's optical properties through the invitation itself. Typography appears embedded within rather than applied to the substrate.",
+    "significance": "Students learn how exhibition invitations can function as conceptual extensions of the shows they announce, making graphic design integral to curatorial strategy. The card demonstrates how material choice can carry meaning independently of visual design decisions.",
+    "connections": [
+      {
+        "id": 537,
+        "type": "sameProblem",
+        "reason": "Both solve exhibition announcement through material innovation rather than conventional typography, but where the Mourmans card uses physical manipulation, this invitation employs optical effects."
+      },
+      {
+        "id": 73,
+        "type": "material",
+        "reason": "Both objects explore transparency's communicative potential, using glass's optical properties to create meaning rather than merely enabling visibility."
+      },
+      {
+        "id": 50,
+        "type": "zeitgeist",
+        "reason": "Both 1990s objects make transparency central to their identity, reflecting the decade's fascination with revealing typically hidden processes and structures."
+      }
+    ],
+    "keywords": [
+      "material graphics",
+      "translucent design",
+      "exhibition invitation",
+      "optical effects",
+      "material communication",
+      "glass exhibition",
+      "conceptual graphic design",
+      "substrate integration"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX0599/full/800,/0/default.jpg"
+  },
+  {
+    "id": 541,
+    "title": "Toga",
+    "designer": "Sergio Mazza",
+    "year": 1968,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Artemide",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": null,
+    "description": "Mazza's Toga chair wraps a continuous fiberglass shell around the sitter like draped fabric, eliminating the structural distinction between seat, back and arms. The molding process creates a single gesture that supports the body through compound curves rather than discrete components. This monolithic approach transforms seating from assembled furniture into sculptural form.",
+    "significance": "Students learn how material properties can drive formal innovation — the chair exists because fiberglass allows complex curves impossible in wood or metal. It demonstrates how Italian designers used new plastics not just for cost reduction but to explore entirely new typologies of support and enclosure.",
+    "connections": [
+      {
+        "id": 95,
+        "type": "zeitgeist",
+        "reason": "Both chairs exploit the moldability of plastics in 1960s Italy, but where Magistretti's Selene maintains traditional seat/back hierarchy, Mazza's Toga dissolves these boundaries into continuous enclosure"
+      },
+      {
+        "id": 106,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of body support through enveloping forms, but Pesce uses foam to create soft containment while Mazza uses hard shell to create protective wrapping"
+      },
+      {
+        "id": 50,
+        "type": "material",
+        "reason": "Both demonstrate how translucent colored plastics can transform functional objects into expressive forms — the Toga's fiberglass shell and iMac's polycarbonate housing both use material transparency to suggest innovation"
+      }
+    ],
+    "keywords": [
+      "fiberglass",
+      "continuous form",
+      "Italian plastics",
+      "monolithic seating",
+      "radical furniture",
+      "1960s materials",
+      "sculptural support",
+      "compound curves"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF4326/full/800,/0/default.jpg"
+  },
+  {
+    "id": 542,
+    "title": "Dodo",
+    "designer": "Oiva Toikka",
+    "year": 2009,
+    "discipline": "Furniture",
+    "origin": "Finland",
+    "manufacturer": "Magis",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Finnish Design",
+    "wikiTitle": null,
+    "description": "Toikka's Dodo reduces the rocking chair to its essential motion through a curved plywood base that creates instability rather than static support. The bird-like silhouette emerges from the functional requirement for balance, with the child's shifting weight becoming the primary structural element. The chair teaches movement through use rather than constraining it.",
+    "significance": "This demonstrates how children's furniture can embody developmental psychology — the Dodo requires active engagement to maintain equilibrium, turning sitting into a learning experience. Students see how playful form can emerge from rigorous analysis of use patterns and behavioral requirements.",
+    "connections": [
+      {
+        "id": 543,
+        "type": "sameProblem",
+        "reason": "Both solve the challenge of scale in children's furniture, but where Aarnio creates static stability through four-legged form, Toikka introduces dynamic instability that engages the child's proprioception"
+      },
+      {
+        "id": 4,
+        "type": "method",
+        "reason": "Both chairs borrow from non-furniture forms to suggest new behaviors — the Sella from bicycle saddles for perching, the Dodo from bird forms for rocking movement"
+      },
+      {
+        "id": 20,
+        "type": "argument",
+        "reason": "Where Dixon's Fat Chair uses air to create soft instability that adults sink into, Toikka's Dodo uses hard curves to create controlled instability that children actively navigate"
+      }
+    ],
+    "keywords": [
+      "rocking chair",
+      "Finnish design",
+      "children's furniture",
+      "plywood",
+      "behavioral design",
+      "balance",
+      "developmental",
+      "bird form"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL0652/full/800,/0/default.jpg"
+  },
+  {
+    "id": 543,
+    "title": "Puppy",
+    "designer": "Eero Aarnio",
+    "year": 2005,
+    "discipline": "Furniture",
+    "origin": "Finland",
+    "manufacturer": "Magis",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Finnish Design",
+    "wikiTitle": null,
+    "description": "Aarnio's Puppy translates his 1960s space-age aesthetic into child-appropriate scale and material. The rotomolded polyethylene creates a seamless, washable surface while the four-legged stance provides absolute stability for developing motor skills. The dog form suggests companionship while the bright colors signal play rather than serious furniture.",
+    "significance": "Students learn how successful adult designs can be recontextualized for different users — Aarnio demonstrates that scaling isn't just about proportion but about understanding fundamentally different behavioral needs. The Puppy shows how symbolic form can support functional requirements rather than compromise them.",
+    "connections": [
+      {
+        "id": 100,
+        "type": "sameProblem",
+        "reason": "Both designers use animal forms to make children's seating approachable, but where Eames creates sculptural abstraction, Aarnio maintains literal representation to encourage imaginative play"
+      },
+      {
+        "id": 50,
+        "type": "material",
+        "reason": "Both use translucent colored plastics to suggest friendliness and approachability — the Puppy's polyethylene and iMac's polycarbonate both reject the serious materiality of professional objects"
+      },
+      {
+        "id": 87,
+        "type": "argument",
+        "reason": "Where Colombo's Universale uses plastic to achieve rational standardization, Aarnio's Puppy uses the same material flexibility to create personalized, emotionally engaging forms"
+      }
+    ],
+    "keywords": [
+      "rotomolded plastic",
+      "children's design",
+      "Finnish modernism",
+      "stability",
+      "animal form",
+      "washable",
+      "colorful",
+      "companionship"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL0637/full/800,/0/default.jpg"
+  },
+  {
+    "id": 544,
+    "title": "Labrador",
+    "designer": "Andrea Branzi",
+    "year": 1982,
+    "discipline": "Product",
+    "origin": "Italy",
+    "manufacturer": "Alessi",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Postmodernism",
+    "wikiTitle": null,
+    "description": "Branzi's Labrador sauceboat transforms utilitarian serving into theatrical performance through anthropomorphic form. The vessel's dog-like posture — head down, tail up — suggests the animal's eagerness to serve while the polished steel construction maintains professional kitchen functionality. The spoon becomes a leash, completing the metaphorical relationship between server and served.",
+    "significance": "Students learn how postmodern designers used familiar forms to critique modernist functionalism — the Labrador performs its task perfectly while questioning the emotional neutrality of rational design. It demonstrates how metaphor can enhance rather than compromise utility, making users conscious participants in design narratives.",
+    "connections": [
+      {
+        "id": 9,
+        "type": "zeitgeist",
+        "reason": "Both Italian postmodern objects use animal-inspired forms to challenge functionalist orthodoxy, but where Starck's Salif barely functions as intended, Branzi's Labrador performs flawlessly while commenting on its role"
+      },
+      {
+        "id": 12,
+        "type": "method",
+        "reason": "Both Memphis-related designers use familiar typologies as vehicles for cultural commentary — Sottsass fragments architecture while Branzi domesticates service through pet metaphors"
+      },
+      {
+        "id": 55,
+        "type": "argument",
+        "reason": "Where Sottsass's Valentine typewriter uses bright color and playful form to democratize serious tools, Branzi's Labrador uses animal character to inject personality into serving rituals"
+      }
+    ],
+    "keywords": [
+      "anthropomorphic design",
+      "serving vessel",
+      "Italian postmodernism",
+      "Memphis",
+      "metaphorical function",
+      "polished steel",
+      "theatrical utility",
+      "animal character"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EM3908/full/800,/0/default.jpg"
+  },
+  {
+    "id": 545,
+    "title": "Aeo Chair",
+    "designer": "Archizoom",
+    "year": 1975,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Archizoom Associati",
+    "description": "Archizoom's chair dismantles conventional seating through exaggerated anthropomorphism and deliberate formal awkwardness. The oversized proportions and biomorphic references challenge both ergonomic rationalism and aesthetic refinement. This anti-design stance uses furniture as a vehicle for critiquing consumer society's normative expectations about domestic objects.",
+    "significance": "Students learn how Italian radicals used furniture to challenge social conventions embedded in design orthodoxy. This shows design's capacity for institutional critique, demonstrating how formal strategies can embody political positions about consumption and domesticity.",
+    "connections": [
+      {
+        "id": 106,
+        "type": "sameProblem",
+        "reason": "Both Italian radical chairs use anthropomorphic forms to challenge conventional seating, though Pesce employs material innovation while Archizoom focuses on formal provocation"
+      },
+      {
+        "id": 55,
+        "type": "zeitgeist",
+        "reason": "Both 1970s Italian works challenge corporate modernism through deliberate anti-functionality, part of the broader radical design movement's cultural critique"
+      },
+      {
+        "id": 20,
+        "type": "method",
+        "reason": "Both chairs use deliberately awkward forms to challenge ergonomic orthodoxy, though Archizoom employs anthropomorphism while Dixon uses material excess"
+      }
+    ],
+    "keywords": [
+      "anti-design",
+      "anthropomorphic",
+      "Italian radical",
+      "biomorphic",
+      "consumer critique",
+      "formal provocation",
+      "seating typology"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7454/full/800,/0/default.jpg"
+  },
+  {
+    "id": 546,
+    "title": "Sinerpica Lamp",
+    "designer": "Michele de Lucchi",
+    "year": 1979,
+    "discipline": "Lighting",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Michele De Lucchi",
+    "description": "De Lucchi's early lamp abandons rational lighting design for expressive, almost sculptural form-making. The organic silhouette and unconventional proportions prioritize visual impact over lighting efficiency. This approach treats the lamp as an art object that happens to provide illumination, challenging modernist orthodoxies about form following function.",
+    "significance": "Students see how radical designers reconceptualized lighting from functional tool to expressive medium. This demonstrates the transition from rationalist design to postmodern practice, showing how objects can embody cultural positions through formal strategies.",
+    "connections": [
+      {
+        "id": 162,
+        "type": "lineage",
+        "reason": "Both de Lucchi lamps develop non-rational lighting approaches, with Sinerpica's early organicism evolving into Oceanic's more controlled Memphis aesthetic"
+      },
+      {
+        "id": 104,
+        "type": "sameProblem",
+        "reason": "Both reject functional lighting design for expressive form, though de Lucchi uses organic shapes while Bedin employs Memphis geometry"
+      },
+      {
+        "id": 1,
+        "type": "argument",
+        "reason": "Where Castiglioni's Arco solves lighting problems through rational engineering, de Lucchi's Sinerpica prioritizes expressive form over functional efficiency"
+      }
+    ],
+    "keywords": [
+      "expressive lighting",
+      "anti-rational",
+      "sculptural form",
+      "Italian radical",
+      "organic design",
+      "pre-Memphis",
+      "functional critique"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JY9122/full/800,/0/default.jpg"
+  },
+  {
+    "id": 547,
+    "title": "Flamingo Table",
+    "designer": "Michele de Lucchi",
+    "year": 1983,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Memphis",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Memphis",
+    "wikiTitle": null,
+    "description": "A table that abandons the rational grid of modernist furniture for expressive angularity and material contrast. The form suggests movement through asymmetrical legs that appear to dance rather than simply support, using laminate surfaces in bold colors that reject wood's natural associations. De Lucchi treats the table as sculpture first, function second, making the act of dining into theater.",
+    "significance": "Students learn how Memphis designers used furniture to critique modernist orthodoxy, proving that domestic objects could be manifestos. It demonstrates how material choices—industrial laminates instead of honest materials—can carry ideological weight about mass production and authenticity.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both Memphis objects from the early 1980s use angular geometry and artificial materials to reject modernist functionalism, making furniture into anti-rational sculpture"
+      },
+      {
+        "id": 120,
+        "type": "method",
+        "reason": "De Lucchi applies the same Memphis methodology—expressive form over pure function, bold material contrast—across lighting and furniture typologies"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "While Starck's squeezer questions function through alien form, de Lucchi's table questions modernist rationality through architectural gesture, both making objects that provoke before they serve"
+      }
+    ],
+    "keywords": [
+      "Memphis",
+      "postmodern furniture",
+      "anti-functionalism",
+      "laminate",
+      "sculptural table",
+      "Italian radical design",
+      "expressive geometry",
+      "material contrast"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX3720/full/800,/0/default.jpg"
+  },
+  {
+    "id": 548,
+    "title": "Plastic Body Bustier",
+    "designer": "Issey Miyake",
+    "year": 1980,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Avant-garde Fashion",
+    "wikiTitle": null,
+    "description": "A garment that treats the body as an industrial design problem, using molded plastic to create structure without traditional tailoring. The bustier explores fashion's relationship to manufacturing, replacing fabric construction with thermoplastic forming techniques borrowed from automotive and electronics industries. Miyake questions whether clothing must be textile, proposing instead that garments can be engineered objects that reshape rather than simply cover the body.",
+    "significance": "Students learn how designers can challenge fundamental assumptions about materials and processes within established typologies. It demonstrates how Japanese designers in the 1980s pioneered cross-disciplinary thinking that would later influence product design, architecture, and digital fabrication.",
+    "connections": [
+      {
+        "id": 50,
+        "type": "material",
+        "reason": "Both objects use translucent, colored plastics to challenge industrial design conventions—Miyake making clothing industrial, Apple making computers friendly—through material properties that blur boundaries"
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both projects from the late 1970s-early 1980s challenge disciplinary boundaries by importing industrial languages into cultural contexts, making visible processes usually hidden"
+      }
+    ],
+    "keywords": [
+      "plastic fashion",
+      "industrial garments",
+      "thermoplastic forming",
+      "body architecture",
+      "material innovation",
+      "cross-disciplinary design",
+      "Japanese avant-garde",
+      "manufacturing aesthetics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MN3452/full/800,/0/default.jpg"
+  },
+  {
+    "id": 549,
+    "title": "Lucent Bao Bao Tote Bag",
+    "designer": "Issey Miyake",
+    "year": 2019,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Issey Miyake",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Japanese Design",
+    "wikiTitle": null,
+    "description": "A bag constructed from triangulated polyurethane panels that transform from flat geometry into three-dimensional form through use. The tessellated surface responds to contents and handling, creating infinite variations within a systematic structure. Miyake applies origami logic to industrial materials, where folding patterns determine both aesthetic and functional properties through mathematical precision.",
+    "significance": "Students understand how computational design thinking can create objects that perform differently through interaction. It shows how Japanese design philosophy—accepting change and impermanence—can guide contemporary manufacturing to create products that evolve with use rather than maintain static form.",
+    "connections": [
+      {
+        "id": 548,
+        "type": "lineage",
+        "reason": "Miyake extends his 1980s exploration of plastic forming into sophisticated geometric systems, evolving from challenging fashion conventions to creating new object behaviors through material intelligence"
+      },
+      {
+        "id": 45,
+        "type": "method",
+        "reason": "Both designers use modular systems thinking to create complex forms from simple repeated elements, though Miyake focuses on transformation while Bouroullec emphasizes infinite extension"
+      },
+      {
+        "id": 13,
+        "type": "argument",
+        "reason": "While Beck uses systematic geometry to simplify complex information, Miyake uses geometric systems to create complex, changeable forms—opposite applications of grid-based thinking"
+      }
+    ],
+    "keywords": [
+      "tessellated geometry",
+      "transformative materials",
+      "origami logic",
+      "polyurethane panels",
+      "modular systems",
+      "responsive form",
+      "computational design",
+      "Japanese minimalism"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019ME7814/full/800,/0/default.jpg"
+  },
+  {
+    "id": 550,
+    "title": "Light Lamp",
+    "designer": "Issey Miyake",
+    "year": 2012,
+    "discipline": "Lighting",
+    "origin": "Japan",
+    "manufacturer": "Artemide",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Japanese Design",
+    "wikiTitle": null,
+    "description": "A lamp that arrives flat and gains form through user assembly, using the same pleating technology Miyake developed for garments. The recycled polyethylene shade opens like an accordion, creating sculptural volume from efficient packaging while diffusing light through material translucency. The lamp demonstrates how fashion's concern with body movement can inform lighting design, where the shade's flexibility allows users to adjust both form and light quality.",
+    "significance": "Students see how designers can transfer core methodologies across disciplines, proving that material research in one field can revolutionize others. It teaches how packaging efficiency and user experience can become design drivers rather than afterthoughts, anticipating flat-pack culture and sustainable distribution.",
+    "connections": [
+      {
+        "id": 548,
+        "type": "lineage",
+        "reason": "Miyake transfers pleating and forming techniques from fashion to lighting, extending his material research from body-shaping to space-shaping applications"
+      },
+      {
+        "id": 3,
+        "type": "argument",
+        "reason": "While Castiglioni creates adjustable lighting through mechanical systems, Miyake achieves flexibility through material properties—opposing approaches to user customization"
+      },
+      {
+        "id": 549,
+        "type": "method",
+        "reason": "Both objects use Miyake's systematic approach to transformation—the lamp through pleating, the bag through tessellation—creating forms that change through use rather than maintaining static shapes"
+      }
+    ],
+    "keywords": [
+      "pleated polyethylene",
+      "flat-pack lighting",
+      "fashion technology",
+      "translucent materials",
+      "transformative assembly",
+      "sustainable packaging",
+      "material flexibility",
+      "cross-disciplinary innovation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HV7320/full/800,/0/default.jpg"
+  },
+  {
+    "id": 551,
+    "title": "Spiral Handbag",
+    "designer": "Issey Miyake",
+    "year": 1990,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Issey Miyake Inc.",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Avant-garde Fashion",
+    "wikiTitle": null,
+    "description": "A rigid handbag constructed from pleated polyester that maintains its spiral form through engineered fabric memory. The bag's structure emerges from Miyake's pleating technology, where heat-setting creates permanent geometric forms that eliminate the need for internal frameworks. The spiral shape demonstrates how textile engineering can replace traditional bag construction methods.",
+    "significance": "Shows how material innovation can fundamentally change product typologies. Students learn that structural properties can be embedded in materials themselves, making the fabric both surface and skeleton. Essential for understanding how Japanese design philosophy integrates making process with final form.",
+    "connections": [
+      {
+        "id": 123,
+        "type": "lineage",
+        "reason": "Both pieces demonstrate Miyake's progression from experimental material application to structural textile engineering, showing how pleating technology evolved from body-hugging forms to self-supporting geometric objects"
+      },
+      {
+        "id": 45,
+        "type": "method",
+        "reason": "Both use modular repetition of identical elements to create complex three-dimensional forms, but where Algue relies on mechanical assembly, the Spiral Handbag embeds the structural logic in the material itself through heat-setting"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Both objects prioritize expressive form over conventional function, but where Starck's squeezer challenges utility through sculptural gesture, Miyake's bag challenges construction through material innovation"
+      }
+    ],
+    "keywords": [
+      "pleating",
+      "textile engineering",
+      "structural fabric",
+      "Japanese minimalism",
+      "geometric form",
+      "material memory",
+      "heat-setting",
+      "modular design"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN9206/full/800,/0/default.jpg"
+  },
+  {
+    "id": 552,
+    "title": "Pleated Dress",
+    "designer": "Issey Miyake",
+    "year": 1990,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "Pleats Please Issey Miyake",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Avant-garde Fashion",
+    "wikiTitle": "Pleats Please Issey Miyake",
+    "description": "A garment that demonstrates Miyake's revolutionary pleating process where oversized pieces are cut, sewn, then permanently pleated through heat and pressure. The pleats provide both structure and elasticity, allowing the dress to move with the body while maintaining its geometric precision. This process inverts traditional garment construction by adding texture after assembly rather than before.",
+    "significance": "Revolutionizes understanding of how process sequence affects final performance in design. Students see how reversing conventional making logic - pleating after rather than before construction - creates new functional possibilities. Critical for comprehending how industrial processes can be reimagined to serve aesthetic and practical goals simultaneously.",
+    "connections": [
+      {
+        "id": 551,
+        "type": "method",
+        "reason": "Both garments use the same heat-setting pleating technology but apply it to different typologies - where the dress emphasizes body movement and drape, the handbag demonstrates structural rigidity and geometric form"
+      },
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "Both designs embed systematic thinking in their structure, but where Rams uses visible modularity to express rational assembly, Miyake uses invisible process innovation to create seamless functionality"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of creating lightweight, flexible structures through manufacturing innovation - Ponti through material reduction and traditional craftsmanship, Miyake through textile engineering and industrial processes"
+      }
+    ],
+    "keywords": [
+      "pleating technology",
+      "heat-setting",
+      "textile innovation",
+      "process reversal",
+      "Japanese design",
+      "structural clothing",
+      "geometric precision",
+      "industrial fashion"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NY0442/full/800,/0/default.jpg"
+  },
+  {
+    "id": 553,
+    "title": "A-POC T-shirt",
+    "designer": "Issey Miyake",
+    "year": 2002,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "A-POC by Issey Miyake",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Digital Fashion Design",
+    "wikiTitle": "A-POC",
+    "description": "Part of Miyake's A-POC (A Piece of Cloth) system where complete garments are knitted as continuous tubes using computer-controlled industrial knitting machines. Cut lines are programmed directly into the fabric, allowing multiple garments to be produced from a single length without waste. The t-shirt demonstrates how digital manufacturing can eliminate pattern-making and traditional cutting processes.",
+    "significance": "Shows students how digital technology can fundamentally restructure manufacturing workflows. Critical for understanding how computational design can eliminate waste while creating new formal possibilities. Demonstrates the convergence of industrial production and craft logic through digital mediation.",
+    "connections": [
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both designs use systematic logic to solve complex organizational problems - Beck through diagrammatic clarity for navigation, Miyake through algorithmic production for manufacturing efficiency"
+      },
+      {
+        "id": 552,
+        "type": "lineage",
+        "reason": "Represents Miyake's evolution from post-production pleating to pre-production programming, showing how his material innovations moved from mechanical processes to digital integration"
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both projects emerged from systematic approaches to complex problems in the early 2000s, when digital technology enabled new forms of structural integration and process transparency"
+      }
+    ],
+    "keywords": [
+      "digital knitting",
+      "computer-controlled manufacturing",
+      "zero waste",
+      "algorithmic design",
+      "continuous production",
+      "A-POC system",
+      "industrial craft",
+      "digital fashion"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MT0802/full/800,/0/default.jpg"
+  },
+  {
+    "id": 554,
+    "title": "132 5. Issey Miyake Dress",
+    "designer": "Issey Miyake",
+    "year": 2016,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "132 5. Issey Miyake",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Computational Fashion Design",
+    "wikiTitle": null,
+    "description": "A dress created using Miyake's 132 5. system where flat geometric patterns are folded along predetermined crease lines to create three-dimensional garments. The folding algorithm ensures the dress can return to completely flat storage while maintaining its sculptural form when worn. This demonstrates how origami principles can be applied to industrial textile production through computational geometry.",
+    "significance": "Essential for understanding how ancient folding techniques can be systematized through digital design tools. Students learn how computational geometry can bridge traditional craft knowledge with contemporary manufacturing. Shows how flatpack logic can be applied beyond furniture to soft materials and wearable objects.",
+    "connections": [
+      {
+        "id": 553,
+        "type": "lineage",
+        "reason": "Represents the next evolution of Miyake's systematic approach to garment production, moving from digital knitting to computational folding as the primary form-generating process"
+      },
+      {
+        "id": 7,
+        "type": "method",
+        "reason": "Both designs use geometric reduction and systematic assembly to create functional objects, but where the stool uses solid material and visible joinery, the dress uses flexible material and invisible fold lines"
+      },
+      {
+        "id": 45,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of creating complex three-dimensional forms through modular systems - Algue through clip-together plastic elements, 132 5. through predetermined fold geometry embedded in flat textiles"
+      }
+    ],
+    "keywords": [
+      "origami engineering",
+      "computational folding",
+      "flatpack textiles",
+      "geometric algorithms",
+      "fold lines",
+      "3D from 2D",
+      "systematic design",
+      "Japanese innovation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020ML9053/full/800,/0/default.jpg"
+  },
+  {
+    "id": 555,
+    "title": "Suit",
+    "designer": "Issey Miyake",
+    "year": 1991,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Deconstructionism",
+    "wikiTitle": null,
+    "description": "Miyake's suit employs flat pattern-making techniques that transform two-dimensional fabric into three-dimensional form through calculated cuts and pleating. The garment demonstrates how industrial production methods can be applied to clothing construction, eliminating traditional tailoring's reliance on curved seams and darts. Each piece is designed to fold flat for shipping, then expand into its final form when worn.",
+    "significance": "Shows how systematic thinking can revolutionize traditional craft processes. Students learn how reducing complexity in manufacturing can increase functional performance — the suit's minimal seaming actually improves fit and movement.",
+    "connections": [
+      {
+        "id": 127,
+        "type": "lineage",
+        "reason": "Miyake's pleating research in the dress directly informed this suit's construction logic — both use mathematical folding to create three-dimensional form from flat material"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both reduce complex systems to essential information — Beck's map abstracts geography to show connections, Miyake's pattern abstracts tailoring to show construction logic"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Where Bill and Gugelot used geometric reduction to create universal form, Miyake uses geometric construction to create individualized fit — opposing approaches to modernist reduction"
+      },
+      {
+        "id": 129,
+        "type": "zeitgeist",
+        "reason": "Both emerge from Japan's 1990s investigation of computational design — flat-pack logic meets high fashion through algorithmic thinking"
+      }
+    ],
+    "keywords": [
+      "flat-pack design",
+      "mathematical construction",
+      "industrial tailoring",
+      "modular assembly",
+      "geometric reduction",
+      "Japanese minimalism",
+      "systematic making",
+      "deconstructed form"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MT1516/full/800,/0/default.jpg"
+  },
+  {
+    "id": 556,
+    "title": "Autoprogettazione Chair Plans",
+    "designer": "Enzo Mari",
+    "year": 1970,
+    "discipline": "Furniture",
+    "origin": "Italy",
+    "manufacturer": "Self-built",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Radical Design",
+    "wikiTitle": "Autoprogettazione",
+    "description": "Mari publishes construction drawings for nineteen furniture pieces built from standard pine boards using only nails — no complex joints, no special tools. Each design optimizes material use while teaching basic structural principles through making. The chair uses simple mortise connections and diagonal bracing, demonstrating how elementary techniques can achieve sophisticated results.",
+    "significance": "Argues that design education happens through making, not theory. Shows students how constraints (standard lumber, basic tools) can generate innovation rather than limitation.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "argument",
+        "reason": "While Rams creates systematic modularity through precise industrial manufacturing, Mari achieves democratic access through deliberate simplification of construction methods"
+      },
+      {
+        "id": 4,
+        "type": "method",
+        "reason": "Both Mari and the Castiglionis believe design should reveal its own logic, but Mari through construction transparency while the Castiglionis through functional obviousness"
+      },
+      {
+        "id": 5,
+        "type": "zeitgeist",
+        "reason": "Both 1970s projects question design authorship — Mari by giving away production rights, Remy by making found materials into authored objects"
+      }
+    ],
+    "keywords": [
+      "self-construction",
+      "democratic design",
+      "material pedagogy",
+      "structural logic",
+      "standard lumber",
+      "construction drawing",
+      "radical design",
+      "anti-consumption"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU5804/full/800,/0/default.jpg"
+  },
+  {
+    "id": 557,
+    "title": "Multi-Purpose Puzzle",
+    "designer": "Philip Gell",
+    "year": 1979,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "Self-produced",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "British Craft Revival",
+    "wikiTitle": null,
+    "description": "Gell machines interlocking wooden elements that assemble into multiple configurations — stool, side table, sculptural object. Each piece's geometry contains connection points for various arrangements, teaching spatial relationships through manipulation. The beech components achieve structural stability through precise tolerances and interlocking joints rather than hardware.",
+    "significance": "Demonstrates how play can be a serious design method. Shows students that multi-functionality emerges from understanding geometric relationships, not adding features.",
+    "connections": [
+      {
+        "id": 556,
+        "type": "zeitgeist",
+        "reason": "Both late-1970s projects promote learning through making, but Mari through construction documentation while Gell through spatial puzzle-solving"
+      },
+      {
+        "id": 45,
+        "type": "method",
+        "reason": "Both designs use geometric modularity to create multiple configurations, but Gell through mechanical precision while the Bouroullecs through material flexibility"
+      },
+      {
+        "id": 18,
+        "type": "argument",
+        "reason": "Where Dixon celebrates making through visible construction marks, Gell hides construction complexity to foreground spatial relationships"
+      }
+    ],
+    "keywords": [
+      "modular geometry",
+      "multi-functionality",
+      "spatial relationships",
+      "precision machining",
+      "play methodology",
+      "interlocking joints",
+      "configuration design",
+      "educational object"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR4017/full/800,/0/default.jpg"
+  },
+  {
+    "id": 558,
+    "title": "Equilpiemonte Coffee Pot",
+    "designer": "Gabriele De Vecchi",
+    "year": 1983,
+    "discipline": "Product",
+    "origin": "Italy",
+    "manufacturer": "Alessi",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Postmodernism",
+    "wikiTitle": null,
+    "description": "De Vecchi transforms the traditional Milanese coffee pot through geometric abstraction — cylindrical body, conical spout, triangular handle create a composition of pure forms. Stainless steel construction eliminates decorative elements while the proportional relationships between geometric volumes create visual tension. The spout angle and handle position optimize pouring ergonomics within the formal constraint.",
+    "significance": "Shows how functional objects can operate as geometric manifestos. Teaches students that even utilitarian design can argue for specific aesthetic positions about form, proportion, and meaning.",
+    "connections": [
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both early-1980s Italian designs reject functionalist orthodoxy, but Sottsass through color and pattern while De Vecchi through geometric reduction"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "While Starck prioritizes sculptural expression over functional optimization, De Vecchi maintains perfect functional performance while pursuing geometric abstraction"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams uses geometric clarity to communicate rational function, De Vecchi uses geometric tension to question the relationship between form and meaning"
+      }
+    ],
+    "keywords": [
+      "geometric abstraction",
+      "Italian postmodernism",
+      "functional geometry",
+      "stainless steel",
+      "proportional relationships",
+      "design manifesto",
+      "utilitarian sculpture",
+      "formal constraint"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EV3954/full/800,/0/default.jpg"
+  },
+  {
+    "id": 559,
+    "title": "Torincubo",
+    "designer": "Gabriele De Vecchi",
+    "year": 1985,
+    "discipline": "Product",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Italian Postmodernism",
+    "wikiTitle": null,
+    "description": "De Vecchi's coffee pot rejects functional orthodoxy through deliberate geometrical games. The cube-within-cube composition creates visual tension between containing and contained volumes. The spout and handle emerge as minimal interruptions to the pure geometric statement, suggesting function while prioritizing formal experiment.",
+    "significance": "Students learn how Italian designers used domestic objects to challenge modernist functionalism. The pot demonstrates how postmodern designers transformed everyday rituals into opportunities for formal play, arguing that meaning-making can be more important than ergonomic optimization.",
+    "connections": [
+      {
+        "id": 140,
+        "type": "lineage",
+        "reason": "De Vecchi develops his geometric experiments from functional vessels toward pure sculptural statements, showing how Italian postmodern designers progressively abandoned utilitarian constraints"
+      },
+      {
+        "id": 12,
+        "type": "zeitgeist",
+        "reason": "Both 1980s Italian objects use primary geometric forms to challenge modernist functionalism, demonstrating Memphis movement's broader cultural project of making furniture into sculpture"
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Where Starck uses organic curves to make function sculptural, De Vecchi uses geometric precision to make sculpture functional, showing opposing postmodern strategies for challenging utility"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Rams' integration of geometric form with electronic function contrasts with De Vecchi's separation of geometric form from practical use, revealing how postmodernism rejected functionalist synthesis"
+      }
+    ],
+    "keywords": [
+      "geometric abstraction",
+      "Italian postmodernism",
+      "functional sculpture",
+      "Memphis",
+      "domestic ritual",
+      "cube",
+      "Memphis movement",
+      "anti-functionalism"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EV3955/full/800,/0/default.jpg"
+  },
+  {
+    "id": 560,
+    "title": "Platter",
+    "designer": "Taizo Kuroda",
+    "year": 2006,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Japanese Ceramics",
+    "wikiTitle": null,
+    "description": "Kuroda's platter achieves maximum surface expression through controlled ceramic deformation. The irregular rim and undulating surface transform the flat serving plane into a landscape of subtle valleys and peaks. Each firing creates unique stress patterns that become integral to the object's identity rather than manufacturing flaws to be corrected.",
+    "significance": "Students understand how contemporary makers use industrial materials to achieve craft expression. The platter demonstrates post-digital making where controlled accidents become design features, teaching students about embracing process variation rather than eliminating it.",
+    "connections": [
+      {
+        "id": 37,
+        "type": "material",
+        "reason": "Both ceramics demonstrate how industrial firing processes create surface qualities, but Broomfield documents quality control while Kuroda celebrates variation as aesthetic feature"
+      },
+      {
+        "id": 130,
+        "type": "method",
+        "reason": "Both Japanese designers use controlled deformation of flat materials to create three-dimensional forms, showing contemporary Japanese design's embrace of process-driven making"
+      },
+      {
+        "id": 24,
+        "type": "argument",
+        "reason": "Where Dixon uses molten plastic to create unpredictable forms, Kuroda uses ceramic firing to achieve controlled irregularity, contrasting British versus Japanese approaches to material experiment"
+      },
+      {
+        "id": 6,
+        "type": "sameProblem",
+        "reason": "Both objects solve the problem of creating maximum visual interest with minimal material, but Ponti achieves this through structural reduction while Kuroda uses surface articulation"
+      }
+    ],
+    "keywords": [
+      "ceramic deformation",
+      "Japanese ceramics",
+      "controlled variation",
+      "process aesthetics",
+      "landscape form",
+      "firing technique",
+      "material honesty",
+      "contemporary craft"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EL1566/full/800,/0/default.jpg"
+  },
+  {
+    "id": 561,
+    "title": "Palace of Justice, Salerno",
+    "designer": "David Chipperfield",
+    "year": 2001,
+    "discipline": "Architecture",
+    "origin": "Italy",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Critical Regionalism",
+    "wikiTitle": "David Chipperfield",
+    "description": "Chipperfield's courthouse uses local travertine and repetitive window modules to create institutional gravitas without classical pastiche. The facade system responds to Mediterranean light conditions through deep reveals and rhythmic shadows. The building argues that contemporary public architecture can achieve dignity through material authenticity and proportional discipline rather than historical reference.",
+    "significance": "Students learn how architects negotiate between global modernism and local context without falling into nostalgic regionalism. The project demonstrates architectural diplomacy — how buildings can be contemporary yet contextually sensitive, showing design as cultural mediation.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Rogers and Piano use technological expression to democratize culture, Chipperfield uses material restraint to reinforce institutional authority, showing opposing approaches to public architecture's social role"
+      },
+      {
+        "id": 7,
+        "type": "method",
+        "reason": "Both projects use systematic repetition of simple elements to create complex wholes, demonstrating how modernist reduction can produce institutional rather than domestic architecture"
+      },
+      {
+        "id": 13,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of making complex information systems comprehensible to public users, but Beck uses diagrammatic abstraction while Chipperfield uses architectural hierarchy"
+      }
+    ],
+    "keywords": [
+      "travertine",
+      "institutional architecture",
+      "Mediterranean modernism",
+      "courthouse design",
+      "material authenticity",
+      "rhythmic facade",
+      "public dignity",
+      "critical regionalism"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF2989/full/800,/0/default.jpg"
+  },
+  {
+    "id": 562,
+    "title": "Horse Brass",
+    "designer": "unknown",
+    "year": null,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Folk Craft",
+    "wikiTitle": "Horse brass",
+    "description": "The brass demonstrates how functional decoration evolves through collective making rather than individual authorship. Cast in simple moulds, the design balances symbolic content with manufacturing economy. The central motif provides identity and protection while the perimeter attachment points solve the practical problem of harness integration without compromising the circular format.",
+    "significance": "Students learn about anonymous design traditions that operate outside academic design history. The brass teaches how symbolic meaning and practical function can be integrated through collective cultural development, showing design as social practice rather than individual expression.",
+    "connections": [
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both solve complex information problems through systematic symbol systems, but Beck uses modernist abstraction while folk tradition uses cultural symbolism to create public understanding"
+      },
+      {
+        "id": 37,
+        "type": "material",
+        "reason": "Both objects demonstrate British industrial casting traditions, but Broomfield documents quality control in mass production while the brass shows craft tradition's acceptance of variation"
+      },
+      {
+        "id": 2,
+        "type": "argument",
+        "reason": "Where Castiglioni elevates agricultural tools into art furniture, the horse brass shows how working objects can carry symbolic meaning without losing practical function"
+      },
+      {
+        "id": 5,
+        "type": "sameProblem",
+        "reason": "Both objects preserve cultural memory through material accumulation, but Remy uses individual biography while folk tradition uses collective symbolism"
+      }
+    ],
+    "keywords": [
+      "folk craft",
+      "brass casting",
+      "anonymous design",
+      "symbolic function",
+      "harness decoration",
+      "collective authorship",
+      "cultural memory",
+      "working tradition"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011FB5205/full/800,/0/default.jpg"
+  },
+  {
+    "id": 563,
+    "title": "Button mould",
+    "designer": "Lucie Rie",
+    "year": 1941,
+    "discipline": "Product",
+    "origin": "Austria/UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Modernist Ceramics",
+    "wikiTitle": "Lucie Rie",
+    "description": "A ceramic mould designed for mass-producing uniform buttons during wartime material shortages. The mould's interior profile creates consistent three-dimensional forms through compression casting, demonstrating how industrial production methods could be adapted for small-scale manufacturing. Its simple, functional form reflects the material constraints and utilitarian priorities of 1940s Britain.",
+    "significance": "Shows how master ceramicists applied their craft knowledge to industrial problems. Demonstrates the relationship between form-making tools and final products — the mould's geometry directly determines the button's profile, making visible the usually hidden logic of mass production.",
+    "connections": [
+      {
+        "id": 37,
+        "type": "material",
+        "reason": "Both reveal the industrial ceramic process — Rie's mould creates the form while Broomfield documents the quality control that ensures consistency, showing production and verification as complementary aspects of ceramic manufacture."
+      },
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both use modular thinking to solve production problems — Rie's mould enables identical button repetition while Rams' system enables infinite shelf configurations, demonstrating how standardised components create flexible outcomes."
+      },
+      {
+        "id": 13,
+        "type": "zeitgeist",
+        "reason": "Both emerged during wartime Britain when design served collective survival rather than individual expression — the mould enabled civilian clothing production while the map coordinated urban movement during the Blitz."
+      }
+    ],
+    "keywords": [
+      "ceramic mould",
+      "wartime production",
+      "mass manufacturing",
+      "compression casting",
+      "utilitarian design",
+      "craft-industry",
+      "standardisation",
+      "Britain 1940s"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011ER1992/full/800,/0/default.jpg"
+  },
+  {
+    "id": 564,
+    "title": "Bud-shaped pot",
+    "designer": "Hans Coper",
+    "year": 1968,
+    "discipline": "Product",
+    "origin": "Germany/UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "A hand-built ceramic vessel with an enclosed, swelling form that narrows to a small opening at the top. The pot's surface bears the mark of Coper's throwing and building process, with visible ridges and texture that record each stage of construction. Its organic profile suggests natural growth while maintaining the essential ceramic relationship between interior volume and exterior surface.",
+    "significance": "Demonstrates how studio ceramics challenged the division between functional objects and sculptural forms. Shows students how making processes become integral to meaning — the pot's character emerges from Coper's direct engagement with clay rather than predetermined design.",
+    "connections": [
+      {
+        "id": 20,
+        "type": "material",
+        "reason": "Both exploit material plasticity to create organic forms — Coper shapes clay through direct manipulation while Dixon inflates resin into pod-like volumes, showing how different materials can achieve similar swelling geometries."
+      },
+      {
+        "id": 9,
+        "type": "argument",
+        "reason": "Coper's pot refuses functional clarity through its minimal opening while Starck's squeezer subverts function through excessive form — both question whether objects must declare their purpose through obvious formal cues."
+      }
+    ],
+    "keywords": [
+      "studio pottery",
+      "hand-building",
+      "organic form",
+      "ceramic process",
+      "volume-surface",
+      "making marks",
+      "material plasticity",
+      "functional ambiguity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND6926/full/800,/0/default.jpg"
+  },
+  {
+    "id": 565,
+    "title": "Bottle form with ridged shoulders and wide rim",
+    "designer": "Hans Coper",
+    "year": 1968,
+    "discipline": "Product",
+    "origin": "Germany/UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "A tall ceramic vessel with a narrow base expanding to broad shoulders marked by horizontal ridges, then contracting to a wide circular rim. The ridged texture results from Coper's coil-building technique, where each addition of clay creates a visible ring that becomes part of the pot's surface language. The proportional relationship between base, body, and rim creates architectural stability while maintaining ceramic fluidity.",
+    "significance": "Shows how traditional ceramic techniques can generate contemporary formal languages. Teaches students that making processes need not be hidden — the ridges become decorative and structural simultaneously, demonstrating how craft knowledge translates into design vocabulary.",
+    "connections": [
+      {
+        "id": 564,
+        "type": "method",
+        "reason": "Both vessels use Coper's coil-building method but produce opposite results — the bottle's ridges emphasise vertical growth and architectural stability while the bud form creates enclosed, organic compression."
+      },
+      {
+        "id": 93,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of transitioning from narrow base to wide top — Coper uses ridged shoulders to manage ceramic structural loads while Magistretti uses a mushroom profile to distribute light, showing different material responses to similar geometric challenges."
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both reveal their construction process as aesthetic strategy — Coper's visible coil-building parallels Piano and Rogers' exposed structural systems, reflecting 1960s interest in making industrial and craft processes visible rather than concealed."
+      }
+    ],
+    "keywords": [
+      "coil-building",
+      "ridged texture",
+      "architectural pottery",
+      "base-to-rim transition",
+      "visible process",
+      "ceramic structure",
+      "proportional relationships",
+      "craft technique"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7559/full/800,/0/default.jpg"
+  },
+  {
+    "id": 566,
+    "title": "Flat spade-shaped pot",
+    "designer": "Hans Coper",
+    "year": 1968,
+    "discipline": "Product",
+    "origin": "Germany/UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "A ceramic vessel compressed into an extremely flattened oval profile with sharp edges, resembling an industrial spade or paddle. The pot's radical flattening challenges conventional ceramic volumes, creating maximum surface area while minimising depth. Its geometric severity contrasts with typical pottery curves, suggesting mechanical rather than organic origins while maintaining the essential ceramic hollow.",
+    "significance": "Demonstrates how ceramics can reference industrial forms while remaining hand-made. Shows students that functional categories are not fixed — by flattening the pot nearly flat, Coper questions what constitutes a viable ceramic container and how much distortion traditional forms can withstand.",
+    "connections": [
+      {
+        "id": 2,
+        "type": "method",
+        "reason": "Both appropriate industrial forms for domestic contexts — Coper transforms the ceramic pot into a spade-like tool reference while the Castiglionis literally use an agricultural seat, showing how industrial vocabulary can be translated across different making processes."
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Coper's radical flattening prioritises surface over structure while the Ulm Stool reduces structure to essential stability — both question conventional proportions but Coper through extreme distortion and Ulm through geometric reduction."
+      }
+    ],
+    "keywords": [
+      "industrial reference",
+      "extreme flattening",
+      "ceramic distortion",
+      "spade form",
+      "geometric severity",
+      "surface maximisation",
+      "functional questioning",
+      "tool-like pottery"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CC4730/full/800,/0/default.jpg"
+  },
+  {
+    "id": 567,
+    "title": "Large oval-bodied pot narrowing to an elliptical top",
+    "designer": "Hans Coper",
+    "year": 1968,
+    "discipline": "Product",
+    "origin": "Germany/UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "A ceramic vessel with an elongated oval body that gradually contracts toward an elliptical opening. The pot's profile suggests architectural monumentality despite its domestic scale, with the elliptical sections creating a geometric progression from wide base to narrow top. The form's mathematical precision emerges from Coper's direct manipulation of clay rather than mechanical production, showing how hand-building can achieve geometric consistency.",
+    "significance": "Illustrates how geometric precision can be achieved through craft methods rather than industrial processes. Teaches students that mathematical forms need not be mechanically produced — Coper's hand creates elliptical consistency that rivals machine precision while retaining the subtle irregularities that mark human making.",
+    "connections": [
+      {
+        "id": 565,
+        "type": "sameProblem",
+        "reason": "Both pots solve the structural challenge of transitioning from wide body to narrow top, but the oval pot uses smooth elliptical geometry while the bottle form employs ridged shoulders, showing different ceramic approaches to the same proportional problem."
+      },
+      {
+        "id": 6,
+        "type": "method",
+        "reason": "Both achieve geometric precision through traditional craft methods — Coper's hand-building creates mathematical ellipses while Ponti's woodworkers produce consistent curves, demonstrating how skilled making can rival machine accuracy."
+      },
+      {
+        "id": 16,
+        "type": "zeitgeist",
+        "reason": "Both reflect 1960s confidence in geometric rationality — Coper's elliptical progression parallels Rams and Gugelot's systematic proportional relationships, showing how mathematical thinking influenced both craft and industrial design."
+      }
+    ],
+    "keywords": [
+      "elliptical geometry",
+      "architectural scale",
+      "mathematical precision",
+      "hand-building",
+      "geometric progression",
+      "craft accuracy",
+      "proportional system",
+      "monumental pottery"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BR5237/full/800,/0/default.jpg"
+  },
+  {
+    "id": 568,
+    "title": "White pot on high foot",
+    "designer": "Hans Coper",
+    "year": 1975,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "Coper's thrown stoneware vessel demonstrates his architectural approach to ceramics, where the cylindrical foot functions as a pedestal that elevates the bulbous form into sculptural territory. The white manganese glaze creates a matte surface that emphasizes mass over decoration. The proportional relationship between foot and body creates visual tension through structural contrast.",
+    "significance": "Shows how functional pottery can transcend utility through architectural thinking about proportion and structural hierarchy. Demonstrates the modernist principle that material honesty and formal reduction can create expressive power without applied ornament.",
+    "connections": [
+      {
+        "id": 569,
+        "type": "argument",
+        "reason": "Coper explores opposing formal languages within the same structural typology — the white pot uses curved, organic forms while the black form employs geometric angularity, yet both rely on elevated pedestals to achieve sculptural presence"
+      },
+      {
+        "id": 93,
+        "type": "sameProblem",
+        "reason": "Both designers solve the problem of creating monumental presence in domestic objects through identical formal strategies: a geometric base that elevates and frames a primary form, using proportion rather than scale to achieve architectural gravity"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Where Bill and Gugelot reduce the stool to pure geometric function, Coper inflates the ceramic vessel into expressive sculpture — both achieve modernist clarity but through opposite approaches to mass and meaning"
+      },
+      {
+        "id": 147,
+        "type": "lineage",
+        "reason": "The 1975 white pot represents Coper's mature development of the elevated vessel typology first explored in his 1968 works, showing his evolution toward greater architectural monumentality and surface refinement"
+      }
+    ],
+    "keywords": [
+      "studio pottery",
+      "architectural ceramics",
+      "structural hierarchy",
+      "modernist reduction",
+      "material honesty",
+      "sculptural utility",
+      "proportional tension",
+      "elevated form"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7550/full/800,/0/default.jpg"
+  },
+  {
+    "id": 569,
+    "title": "Black form on square foot",
+    "designer": "Hans Coper",
+    "year": 1975,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "The angular geometry of this vessel marks Coper's departure from thrown pottery conventions toward architectural construction. The square pedestal base creates a stable platform for the tapering black form, which appears carved rather than thrown. The dark manganese glaze emphasizes the object's mass and geometric severity, removing any reference to traditional pottery's functional origins.",
+    "significance": "Demonstrates how ceramics can adopt architectural rather than craft thinking, using geometric construction to create objects that function as spatial markers rather than containers. Shows the influence of modernist sculpture on traditional pottery practice.",
+    "connections": [
+      {
+        "id": 570,
+        "type": "method",
+        "reason": "Both pieces demonstrate Coper's architectural approach to ceramic construction, using geometric pedestals to elevate functional forms into sculptural compositions that emphasize structural relationships over traditional pottery techniques"
+      },
+      {
+        "id": 90,
+        "type": "zeitgeist",
+        "reason": "Both 1970s objects share the period's fascination with monolithic, brutalist forms — Coper's angular ceramic and Hohmann's concrete basin both reject decorative softness for geometric severity and material honesty"
+      },
+      {
+        "id": 12,
+        "type": "argument",
+        "reason": "Where Sottsass explodes geometric forms into colorful, anti-functional composition, Coper compresses them into monolithic, monochromatic unity — both reject traditional typologies but through opposite strategies of complexity versus reduction"
+      }
+    ],
+    "keywords": [
+      "geometric construction",
+      "architectural ceramics",
+      "angular geometry",
+      "modernist sculpture",
+      "monolithic form",
+      "anti-functional",
+      "material severity",
+      "spatial marker"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7491/full/800,/0/default.jpg"
+  },
+  {
+    "id": 570,
+    "title": "Washbasin and pedestal",
+    "designer": "Hans Coper",
+    "year": 1959,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "This functional washbasin reveals Coper's ability to apply his sculptural sensibility to utilitarian objects. The cylindrical pedestal creates architectural presence while the basin's simple geometry maintains practical function. The relationship between the supporting column and the vessel demonstrates how structural logic can create aesthetic impact without compromising utility.",
+    "significance": "Proves that sculptural thinking can enhance rather than compromise functional design. Shows how architectural principles of proportion and structural clarity can transform mundane objects into expressive forms while maintaining their practical purpose.",
+    "connections": [
+      {
+        "id": 571,
+        "type": "sameProblem",
+        "reason": "Both pieces solve the problem of creating architectural presence in ceramic objects through structural innovation — the washbasin uses a supporting pedestal while the flat bottle uses compressed, wall-like mass to achieve monumental scale"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams and Gugelot achieve functional clarity through technological precision and industrial materials, Coper reaches similar clarity through handmade ceramics and architectural proportion — both prove that good design transcends production methods"
+      },
+      {
+        "id": 10,
+        "type": "zeitgeist",
+        "reason": "Both late 1950s objects demonstrate the period's confidence in modernist design's ability to improve everyday life — Zanuso through ergonomic innovation, Coper through sculptural dignity, both elevating utilitarian objects"
+      }
+    ],
+    "keywords": [
+      "functional sculpture",
+      "architectural ceramics",
+      "utilitarian dignity",
+      "structural clarity",
+      "pedestal design",
+      "practical modernism",
+      "sculptural utility",
+      "proportional logic"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH3114/full/800,/0/default.jpg"
+  },
+  {
+    "id": 571,
+    "title": "Large flat bottle",
+    "designer": "Hans Coper",
+    "year": 1958,
+    "discipline": "Product",
+    "origin": "United Kingdom",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery",
+    "wikiTitle": "Hans Coper",
+    "description": "The flattened profile of this bottle represents Coper's breakthrough into architectural thinking about ceramic form. Rather than exploiting clay's plastic potential for curved surfaces, he constrains the material into geometric planes that create a wall-like presence. The narrow base and wide shoulders establish a monumental silhouette that transforms the vessel from container into sculptural statement.",
+    "significance": "Marks the moment when Coper abandoned traditional pottery logic for architectural composition. Demonstrates how constraining a material against its natural properties can create more powerful formal expression than exploiting its inherent characteristics.",
+    "connections": [
+      {
+        "id": 15,
+        "type": "argument",
+        "reason": "Where Piano and Rogers reveal architecture's mechanical systems as expressive elements, Coper conceals ceramics' making process to create monolithic unity — both challenge their disciplines' conventions but through opposite strategies of revelation versus concealment"
+      },
+      {
+        "id": 149,
+        "type": "lineage",
+        "reason": "The 1958 flat bottle establishes the compressed, architectural approach that Coper would develop throughout the 1960s into increasingly geometric and tool-like forms, showing his consistent evolution toward sculptural abstraction"
+      },
+      {
+        "id": 37,
+        "type": "material",
+        "reason": "Both 1958 works reveal ceramics' dual nature as both artistic medium and industrial material — Broomfield documents factory production while Coper elevates clay into high art, yet both acknowledge ceramics' fundamental material properties"
+      }
+    ],
+    "keywords": [
+      "architectural ceramics",
+      "geometric constraint",
+      "monolithic presence",
+      "anti-plastic",
+      "wall-like form",
+      "sculptural breakthrough",
+      "material resistance",
+      "monumental silhouette"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW8772/full/800,/0/default.jpg"
+  },
+  {
+    "id": 572,
+    "title": "On the White Road",
+    "designer": "Josiah Wedgwood and Sons",
+    "year": 2022,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "Josiah Wedgwood and Sons",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Heritage Manufacturing",
+    "wikiTitle": null,
+    "description": "A ceramic plate that demonstrates Wedgwood's continuation of 18th-century manufacturing traditions into contemporary production. The piece uses traditional bone china formulation and slip-casting techniques, but applies them to current aesthetic sensibilities. The white glazed surface relies on the purity of form and material quality rather than surface decoration.",
+    "significance": "Shows how heritage manufacturers navigate between tradition and contemporaneity. Demonstrates that craft knowledge can persist through industrial scale production, challenging assumptions about mass manufacturing destroying artisanal quality.",
+    "connections": [
+      {
+        "id": 72,
+        "type": "lineage",
+        "reason": "Both demonstrate Wedgwood's evolution from 18th-century craft traditions through different eras of industrial production, showing how manufacturing knowledge transfers across centuries"
+      },
+      {
+        "id": 146,
+        "type": "material",
+        "reason": "Both use ceramic's capacity for precise replication - the button mould shows ceramics enabling mass production of small components, while this plate shows ceramics enabling consistent quality at larger scales"
+      },
+      {
+        "id": 37,
+        "type": "zeitgeist",
+        "reason": "Where Broomfield documented ceramics' industrial precision in the 1950s, this 2022 plate embodies that same precision as consumer expectation - both reveal ceramics as a technology of consistency"
+      }
+    ],
+    "keywords": [
+      "bone china",
+      "slip-casting",
+      "heritage manufacturing",
+      "industrial ceramics",
+      "quality control",
+      "traditional techniques",
+      "contemporary production"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV8834/full/800,/0/default.jpg"
+  },
+  {
+    "id": 573,
+    "title": "Teapot",
+    "designer": "Edmund de Waal",
+    "year": 1996,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "Edmund de Waal",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery Revival",
+    "wikiTitle": "Edmund de Waal",
+    "description": "A thrown porcelain teapot that strips away decorative elements to focus on essential functional form. De Waal uses precise throwing techniques to achieve walls of consistent thinness, creating a vessel that feels light despite its ceramic mass. The unglazed surface reveals the porcelain's natural color and texture, emphasizing material honesty over surface treatment.",
+    "significance": "Represents the 1990s return to craft values within contemporary ceramics. Teaches students how reduction can be a positive design strategy - removing elements to reveal essential qualities rather than adding complexity.",
+    "connections": [
+      {
+        "id": 147,
+        "type": "argument",
+        "reason": "Where Coper's pot rejects functional reference for sculptural presence, de Waal's teapot insists on function as the generator of form - both use reduction but for opposite ends"
+      },
+      {
+        "id": 7,
+        "type": "sameProblem",
+        "reason": "Both demonstrate how functional requirements can generate essential form - the stool through structural economy, the teapot through liquid mechanics - showing functionalism across different materials and scales"
+      }
+    ],
+    "keywords": [
+      "thrown porcelain",
+      "material honesty",
+      "functional reduction",
+      "studio pottery",
+      "craft revival",
+      "ceramics",
+      "essential form",
+      "throwing technique"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BA1146/full/800,/0/default.jpg"
+  },
+  {
+    "id": 574,
+    "title": "Signs & Wonders",
+    "designer": "Edmund de Waal",
+    "year": 2009,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "Edmund de Waal",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Installation Ceramics",
+    "wikiTitle": "Edmund de Waal",
+    "description": "An installation of hundreds of small porcelain vessels arranged across shelving systems. Each vessel is individually thrown but collectively forms a systematic exploration of minimal variations in form. The work transforms the intimate scale of ceramics into architectural presence through accumulation and repetition, while maintaining the handmade quality of each component.",
+    "significance": "Demonstrates how seriality can amplify rather than diminish craft meaning. Shows students how contemporary ceramics can engage with conceptual art strategies while maintaining material specificity.",
+    "connections": [
+      {
+        "id": 11,
+        "type": "method",
+        "reason": "Both use modular systems to create infinite possibilities from finite components - Rams through industrial standardization, de Waal through craft repetition - showing how systematic thinking operates across making methods"
+      },
+      {
+        "id": 575,
+        "type": "lineage",
+        "reason": "The individual vessels in Signs & Wonders develop from the same throwing methods as this jar, but accumulation transforms individual contemplation into collective experience"
+      },
+      {
+        "id": 45,
+        "type": "sameProblem",
+        "reason": "Both address how small modular units can generate large-scale environmental effects - Algue through plastic assembly, Signs & Wonders through ceramic arrangement - different materials producing similar spatial strategies"
+      }
+    ],
+    "keywords": [
+      "installation ceramics",
+      "modular systems",
+      "craft seriality",
+      "porcelain vessels",
+      "accumulation",
+      "systematic variation",
+      "handmade multiples",
+      "architectural ceramics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP8821/full/800,/0/default.jpg"
+  },
+  {
+    "id": 575,
+    "title": "Lidded jar",
+    "designer": "Edmund de Waal",
+    "year": 2001,
+    "discipline": "Product",
+    "origin": "England",
+    "manufacturer": "Edmund de Waal",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Studio Pottery",
+    "wikiTitle": "Edmund de Waal",
+    "description": "A porcelain vessel with fitted lid that demonstrates the precision possible in wheel-thrown ceramics. The lid sits without visible join lines, requiring exact calculation of shrinkage rates during firing. The form eliminates decorative elements to focus attention on proportional relationships and the subtle variations in wall thickness that throwing produces. The matte white surface emphasizes form over pattern.",
+    "significance": "Shows how technical mastery enables aesthetic refinement. Demonstrates to students that craft knowledge includes understanding material behavior through multiple manufacturing stages - from wet clay to fired ceramic.",
+    "connections": [
+      {
+        "id": 574,
+        "type": "lineage",
+        "reason": "The individual vessels in Signs & Wonders develop from the same throwing methods as this jar, but accumulation transforms individual contemplation into collective experience"
+      },
+      {
+        "id": 153,
+        "type": "material",
+        "reason": "Both demonstrate ceramics' capacity for precision - Coper through sculptural form, de Waal through functional engineering - showing how the same material enables different kinds of exactness"
+      },
+      {
+        "id": 16,
+        "type": "argument",
+        "reason": "Where Rams uses industrial precision to achieve functional clarity, de Waal uses craft precision to achieve the same end - both argue that technical mastery serves aesthetic reduction"
+      }
+    ],
+    "keywords": [
+      "fitted lid",
+      "shrinkage calculation",
+      "wheel throwing",
+      "technical precision",
+      "porcelain",
+      "proportional relationships",
+      "craft mastery",
+      "functional ceramics"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AE5834/full/800,/0/default.jpg"
+  },
+  {
+    "id": 576,
+    "title": "Beaker",
+    "designer": "Edmund de Waal",
+    "year": 1996,
+    "discipline": "Product",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Studio Pottery Revival",
+    "wikiTitle": "Edmund de Waal",
+    "description": "De Waal's beaker demonstrates how wheel-thrown porcelain can achieve both structural clarity and material honesty through minimal formal gestures. The vessel's proportions follow classical ceramic logic while its unadorned surface allows the clay's inherent qualities to speak directly.",
+    "significance": "Shows how contemporary ceramics can engage with modernist reduction while maintaining craft authenticity. Students learn that 'less' requires deeper understanding of material properties and throwing techniques.",
+    "connections": [
+      {
+        "id": 159,
+        "type": "lineage",
+        "reason": "De Waal's throwing technique evolves from this earlier work, showing his progression toward increasingly refined proportional relationships"
+      },
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Where Bill reduces function to geometric essence, de Waal reduces ceramic form to essential throwing gestures — both pursue clarity through different material logics"
+      },
+      {
+        "id": 578,
+        "type": "argument",
+        "reason": "De Waal's restrained minimalism directly opposes Perry's decorative maximalism — same ceramic medium, opposing philosophies about surface treatment"
+      },
+      {
+        "id": 147,
+        "type": "zeitgeist",
+        "reason": "Both emerge from 1990s studio pottery revival but pursue opposite approaches — Coper's sculptural expressiveness versus de Waal's functional restraint"
+      }
+    ],
+    "keywords": [
+      "wheel throwing",
+      "porcelain",
+      "minimalism",
+      "studio pottery",
+      "material honesty",
+      "proportional systems",
+      "reduction",
+      "craft revival"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BA1205/full/800,/0/default.jpg"
+  },
+  {
+    "id": 577,
+    "title": "Mr and Mrs Perry",
+    "designer": "Grayson Perry",
+    "year": 2006,
+    "discipline": "Graphic",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary British Art",
+    "wikiTitle": "Grayson Perry",
+    "description": "Perry's print work extends his ceramic practice into two dimensions, using etching and lithography to create densely layered narratives that combine autobiography with social commentary. The print medium allows him to work at scale while maintaining the intimate, decorative sensibility of his ceramic vessels.",
+    "significance": "Shows how artists can maintain consistent conceptual approaches across different media. Students learn how printmaking can serve narrative construction rather than just image reproduction.",
+    "connections": [
+      {
+        "id": 578,
+        "type": "method",
+        "reason": "Both use dense visual layering and autobiographical content but prints allow Perry to work more directly with photographic source material"
+      },
+      {
+        "id": 579,
+        "type": "sameProblem",
+        "reason": "Both prints tackle British class and identity but this work focuses on personal relationships while Lincolnshire addresses regional stereotypes"
+      },
+      {
+        "id": 13,
+        "type": "zeitgeist",
+        "reason": "Both made during British art's engagement with identity politics, but Perry uses narrative density where Coffey uses graphic reduction"
+      },
+      {
+        "id": 84,
+        "type": "argument",
+        "reason": "Both are Perry's self-examinations but the print allows more complex narrative layering while the ceramic works through vessel metaphor"
+      }
+    ],
+    "keywords": [
+      "printmaking",
+      "etching",
+      "autobiography",
+      "social commentary",
+      "narrative layering",
+      "British identity",
+      "cross-media practice",
+      "decorative sensibility"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3891/full/800,/0/default.jpg"
+  },
+  {
+    "id": 578,
+    "title": "My Heroes",
+    "designer": "Grayson Perry",
+    "year": 1994,
+    "discipline": "Product",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary British Art",
+    "wikiTitle": "Grayson Perry",
+    "description": "Perry's vase subverts the ceramic vessel's traditional role as decorative object by loading its surface with transgressive imagery and text. The classical form provides respectable context for content that challenges masculinity, class, and artistic hierarchy through deliberate aesthetic clash.",
+    "significance": "Demonstrates how familiar object typologies can be hijacked for cultural critique. Students learn that form and content operate in productive tension — the vessel's respectability makes its content more provocative.",
+    "connections": [
+      {
+        "id": 576,
+        "type": "argument",
+        "reason": "Where de Waal pursues ceramic purity through surface restraint, Perry deliberately corrupts the vessel through graphic excess — opposite approaches to ceramic authenticity"
+      },
+      {
+        "id": 12,
+        "type": "method",
+        "reason": "Both use familiar typologies as vehicles for cultural disruption — Sottsass through radical color and form, Perry through subversive decoration"
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both transform functional objects into conversation pieces but Starck uses sculptural form while Perry uses surface narrative"
+      },
+      {
+        "id": 5,
+        "type": "zeitgeist",
+        "reason": "Both emerge from 1990s design interest in memory and narrative, but Perry embeds stories in surface while Remy makes memory the structural concept"
+      }
+    ],
+    "keywords": [
+      "ceramic decoration",
+      "cultural critique",
+      "vessel subversion",
+      "surface narrative",
+      "transgressive imagery",
+      "typology hijacking",
+      "masculinity",
+      "class commentary"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CB0838/full/800,/0/default.jpg"
+  },
+  {
+    "id": 579,
+    "title": "The Charms of Lincolnshire",
+    "designer": "Grayson Perry",
+    "year": 2006,
+    "discipline": "Graphic",
+    "origin": "UK",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary British Art",
+    "wikiTitle": "Grayson Perry",
+    "description": "Perry's etching uses traditional printmaking techniques to create a satirical map of English regional identity, layering stereotypes and personal observations into a dense visual commentary. The print medium's capacity for fine detail serves his interest in embedding multiple narratives within single compositions.",
+    "significance": "Shows how printmaking's traditional techniques can serve contemporary social critique. Students see how regional identity becomes material for artistic investigation rather than celebration.",
+    "connections": [
+      {
+        "id": 577,
+        "type": "sameProblem",
+        "reason": "Both prints use dense visual layering to examine British identity but this work addresses regional rather than personal stereotypes"
+      },
+      {
+        "id": 13,
+        "type": "argument",
+        "reason": "Both are maps but Beck pursues functional clarity while Perry deliberately complicates geography with cultural commentary and personal prejudice"
+      },
+      {
+        "id": 42,
+        "type": "zeitgeist",
+        "reason": "Both made during renewed interest in British class and regional identity but Connor uses interior design while Perry uses printmaking as vehicle"
+      },
+      {
+        "id": 578,
+        "type": "lineage",
+        "reason": "Perry's mature print work develops from his ceramic practice, transferring the vessel's decorative density to printmaking's narrative possibilities"
+      }
+    ],
+    "keywords": [
+      "etching",
+      "satirical mapping",
+      "regional identity",
+      "British stereotypes",
+      "visual commentary",
+      "printmaking tradition",
+      "cultural geography",
+      "narrative density"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3897/full/800,/0/default.jpg"
+  },
+  {
+    "id": 580,
+    "title": "Matching Pair",
+    "designer": "Grayson Perry",
+    "year": 2017,
+    "discipline": "Product",
+    "origin": "London",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary British Art",
+    "wikiTitle": null,
+    "description": "Perry's ceramic vessels explore gender identity through the classical vase form, using decorative techniques to embed contemporary social commentary in traditional craft methods. The pairing creates dialogue between masculine and feminine coded imagery within identical forms.",
+    "significance": "Teaches students how traditional craft forms can carry radical contemporary content. Demonstrates the power of repetition and variation in communicating complex social ideas through objects.",
+    "connections": [
+      {
+        "id": 164,
+        "type": "lineage",
+        "reason": "Develops Perry's method of using ceramic vessels as vehicles for exploring identity and social commentary"
+      },
+      {
+        "id": 147,
+        "type": "argument",
+        "reason": "Perry's narrative ceramics oppose Coper's abstract modernism — social content versus formal reduction in vessel making"
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both transform functional objects into cultural statements, though Perry works through traditional craft while Starck uses industrial production"
+      }
+    ],
+    "keywords": [
+      "ceramic",
+      "gender",
+      "identity",
+      "pairing",
+      "narrative",
+      "traditional",
+      "contemporary",
+      "vessel"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KT8903/full/800,/0/default.jpg"
+  },
+  {
+    "id": 581,
+    "title": "April Ashley (1935-2021)",
+    "designer": "Museum of Transology",
+    "year": 2023,
+    "discipline": "Graphic",
+    "origin": "Britain",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Contemporary Memorial Design",
+    "wikiTitle": "April Ashley",
+    "description": "The postcard format memorializes April Ashley, a pioneering transgender model and activist, through accessible graphic design that democratizes commemoration. The Museum of Transology uses the humble postcard to create distributed memorial architecture.",
+    "significance": "Shows students how graphic design can create alternative memorial systems outside traditional institutional structures. Demonstrates the power of democratic formats in preserving marginalized histories.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "argument",
+        "reason": "Both use portrait photography to construct identity, but the postcard format creates public memory while Jennings' studio portrait served commercial purposes"
+      },
+      {
+        "id": 13,
+        "type": "method",
+        "reason": "Both use systematic graphic design to make complex information publicly accessible — Beck through transport, Museum of Transology through social history"
+      },
+      {
+        "id": 76,
+        "type": "zeitgeist",
+        "reason": "Both objects participate in expanding legal and social recognition of gender and sexuality identity in British society"
+      }
+    ],
+    "keywords": [
+      "memorial",
+      "transgender",
+      "activism",
+      "postcard",
+      "democratization",
+      "identity",
+      "history",
+      "commemoration"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NP2462/full/800,/0/default.jpg"
+  },
+  {
+    "id": 582,
+    "title": "Vessel 985",
+    "designer": "June Schwarcz",
+    "year": 1987,
+    "discipline": "Product",
+    "origin": "California",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "American Studio Craft",
+    "wikiTitle": "June Schwarcz",
+    "description": "Schwarcz's enamel vessel demonstrates the American studio craft movement's synthesis of traditional techniques with contemporary artistic expression. The electroformed copper structure creates possibilities for surface treatment that traditional pottery cannot achieve.",
+    "significance": "Shows students how American artists developed alternatives to European ceramic traditions through technological innovation. Demonstrates the relationship between making process and aesthetic possibility in studio craft.",
+    "connections": [
+      {
+        "id": 147,
+        "type": "sameProblem",
+        "reason": "Both create vessel forms as vehicles for artistic expression, but Schwarcz uses industrial processes while Coper works through hand-throwing"
+      },
+      {
+        "id": 20,
+        "type": "material",
+        "reason": "Both exploit material properties to generate form — Schwarcz through copper electroforming, Dixon through inflated foam"
+      },
+      {
+        "id": 24,
+        "type": "zeitgeist",
+        "reason": "Both emerge from 1980s experimentation with industrial materials in artistic practice, though Schwarcz works through craft traditions"
+      }
+    ],
+    "keywords": [
+      "enamel",
+      "electroforming",
+      "vessel",
+      "American",
+      "studio craft",
+      "copper",
+      "surface",
+      "innovation"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG1621/full/800,/0/default.jpg"
+  },
+  {
+    "id": 583,
+    "title": "Laughing Mouth Vessel",
+    "designer": "Mutsuo Yanagihara",
+    "year": 1985,
+    "discipline": "Product",
+    "origin": "Japan",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Japanese Studio Pottery",
+    "wikiTitle": null,
+    "description": "Yanagihara transforms the vessel from functional container to expressive sculpture, using ceramic's plasticity to create anthropomorphic forms that blur boundaries between craft and art. The 'laughing mouth' opening rejects traditional vessel logic, where form follows containment function, instead prioritizing emotional communication through material gesture.",
+    "significance": "Demonstrates how Japanese makers in the 1980s challenged Western modernist ceramics by embracing figuration and emotional expression. Shows students that vessel design can communicate beyond utility, using clay's sculptural potential to create objects that function as psychological containers rather than merely physical ones.",
+    "connections": [
+      {
+        "id": 147,
+        "type": "argument",
+        "reason": "Yanagihara's anthropomorphic vessel directly challenges Coper's abstract reduction — where Coper strips away narrative to achieve pure form, Yanagihara embraces figuration to make clay speak emotionally"
+      },
+      {
+        "id": 164,
+        "type": "zeitgeist",
+        "reason": "Both 1980s makers reject modernist restraint in favor of narrative and emotional content, using ceramics as vehicles for personal and cultural storytelling rather than formal exploration"
+      },
+      {
+        "id": 9,
+        "type": "sameProblem",
+        "reason": "Both designers solve the problem of making functional objects memorable by exaggerating anthropomorphic qualities — the vessel's mouth and Starck's spider legs both sacrifice optimal function for symbolic communication"
+      }
+    ],
+    "keywords": [
+      "anthropomorphic design",
+      "Japanese ceramics",
+      "sculptural vessels",
+      "expressive craft",
+      "figuration",
+      "emotional function",
+      "studio pottery",
+      "cultural identity"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF2034/full/800,/0/default.jpg"
+  },
+  {
+    "id": 584,
+    "title": "Vessel #2169",
+    "designer": "June Schwarcz",
+    "year": 2000,
+    "discipline": "Product",
+    "origin": "United States",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "American Studio Craft",
+    "wikiTitle": null,
+    "description": "Schwarcz uses enamel on copper to create vessels that prioritize surface over form, developing painting-like compositions that wrap around three-dimensional objects. Her numbering system treats each piece as part of a systematic investigation into how pictorial space can be mapped onto vessel surfaces, making the container secondary to its graphic skin.",
+    "significance": "Shows students how American studio craft approached vessels as canvases for surface investigation rather than exercises in pure form. Demonstrates systematic working methods where consistent formal frameworks enable extensive material experimentation — essential methodology for developing coherent bodies of work.",
+    "connections": [
+      {
+        "id": 170,
+        "type": "lineage",
+        "reason": "Both works represent Schwarcz's evolution from experimental enamel techniques in the 1980s toward more controlled surface compositions, showing how systematic numbering tracks formal development over decades"
+      },
+      {
+        "id": 586,
+        "type": "method",
+        "reason": "Both vessels demonstrate Schwarcz's approach of treating three-dimensional forms as structured frameworks for exploring enamel's pictorial possibilities, using consistent formal vocabulary to enable material experimentation"
+      },
+      {
+        "id": 50,
+        "type": "zeitgeist",
+        "reason": "Both 2000 objects use translucent, jewel-like surfaces to suggest technological sophistication, reflecting millennium-era fascination with materials that reveal rather than conceal their internal structures"
+      }
+    ],
+    "keywords": [
+      "enamel painting",
+      "systematic working",
+      "surface composition",
+      "American craft",
+      "vessel as canvas",
+      "translucent materials",
+      "studio methodology",
+      "pictorial space"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG1938/full/800,/0/default.jpg"
+  },
+  {
+    "id": 585,
+    "title": "Rare Earthenware",
+    "designer": "Unknown Fields Division",
+    "year": 2015,
+    "discipline": "Product",
+    "origin": "China",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Critical Design",
+    "wikiTitle": null,
+    "description": "Unknown Fields Division creates ceramics from rare earth mining waste in Baotou, China, making visible the toxic byproducts of digital device production. The vessels function as material evidence of environmental destruction, using traditional ceramic techniques to transform industrial waste into objects that force confrontation with technology's hidden costs.",
+    "significance": "Demonstrates critical design's method of making invisible systems tangible through material intervention. Teaches students that design research can produce objects that function as evidence and argument simultaneously, showing how traditional making processes can reveal contemporary technological relationships.",
+    "connections": [
+      {
+        "id": 37,
+        "type": "argument",
+        "reason": "Where Broomfield's photograph celebrates industrial ceramic production as technological progress, Unknown Fields reveals ceramic's role in contemporary industrial destruction, inverting mid-century optimism about material innovation"
+      },
+      {
+        "id": 49,
+        "type": "material",
+        "reason": "The vessel's rare earth content directly embodies the environmental cost of digital devices like the iPhone, making tangible the toxic extraction processes hidden behind sleek consumer electronics"
+      },
+      {
+        "id": 15,
+        "type": "method",
+        "reason": "Both projects make normally hidden systems visible — Pompidou exposes building infrastructure while Unknown Fields exposes supply chain infrastructure, using transparency as critical methodology"
+      }
+    ],
+    "keywords": [
+      "critical design",
+      "environmental critique",
+      "rare earth minerals",
+      "supply chain visibility",
+      "industrial waste",
+      "material politics",
+      "design activism",
+      "technological critique"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA5560/full/800,/0/default.jpg"
+  },
+  {
+    "id": 586,
+    "title": "Plique-à-jour Vessel #602",
+    "designer": "June Schwarcz",
+    "year": 1972,
+    "discipline": "Product",
+    "origin": "United States",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "American Studio Craft",
+    "wikiTitle": null,
+    "description": "Schwarcz adapts the medieval plique-à-jour enamel technique to create vessel walls that function like stained glass windows, using transparent enamel suspended in metal frameworks to achieve luminous, architectural effects. The technique transforms the vessel into a light-filtering object where translucency becomes the primary visual experience rather than solid form.",
+    "significance": "Shows students how studio craftspeople in the 1970s researched historical techniques to solve contemporary formal problems. Demonstrates how systematic numbering enables experimental work to develop coherently over time, essential methodology for sustained investigation into materials and processes.",
+    "connections": [
+      {
+        "id": 584,
+        "type": "lineage",
+        "reason": "Represents Schwarcz's early development of systematic vessel investigation, establishing the numbered sequence methodology that would structure her work for decades"
+      },
+      {
+        "id": 15,
+        "type": "zeitgeist",
+        "reason": "Both 1970s projects use transparency as architectural strategy — Schwarcz creates vessels that filter light like building components while Pompidou creates buildings that reveal their functional systems"
+      },
+      {
+        "id": 73,
+        "type": "material",
+        "reason": "Both designers exploit glass-like materials' capacity for layered transparency, using translucent effects to create depth and luminosity that solid materials cannot achieve"
+      }
+    ],
+    "keywords": [
+      "plique-à-jour",
+      "medieval techniques",
+      "translucent vessels",
+      "architectural ceramics",
+      "light filtering",
+      "systematic investigation",
+      "enamel craft",
+      "transparent materials"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG2032/full/800,/0/default.jpg"
+  },
+  {
+    "id": 587,
+    "title": "Vessel",
+    "designer": "Berndt Friberg",
+    "year": 1960,
+    "discipline": "Product",
+    "origin": "Sweden",
+    "manufacturer": "—",
+    "collection": "Victoria & Albert Museum, London",
+    "movement": "Scandinavian Modernism",
+    "wikiTitle": null,
+    "description": "Friberg reduces the vessel to essential proportions while developing complex crystalline glazes that create surface depth through controlled chemical reactions. Working at Gustavsberg, he demonstrates how industrial pottery can maintain craft values, using systematic glaze chemistry to achieve effects that appear random but result from precise technical control.",
+    "significance": "Shows students how Scandinavian modernism balanced reduction with material richness, achieving complexity through controlled accident rather than decorative application. Demonstrates the relationship between industrial context and craft values, essential for understanding how authentic making can survive within commercial production.",
+    "connections": [
+      {
+        "id": 7,
+        "type": "zeitgeist",
+        "reason": "Both represent 1960s Scandinavian/Germanic modernism's approach to essential form, but where Ulm pursues geometric purity, Friberg allows controlled material accident to create visual complexity within simple silhouettes"
+      },
+      {
+        "id": 6,
+        "type": "method",
+        "reason": "Both designers achieve lightness through systematic reduction — Ponti strips away material weight while Friberg strips away decorative excess, both using industrial precision to approach craft ideals"
+      },
+      {
+        "id": 16,
+        "type": "sameProblem",
+        "reason": "Both solve the problem of creating objects that feel both modern and warm by combining systematic formal reduction with carefully controlled material richness that humanizes geometric clarity"
+      }
+    ],
+    "keywords": [
+      "crystalline glazes",
+      "Scandinavian modernism",
+      "industrial craft",
+      "Gustavsberg pottery",
+      "systematic reduction",
+      "controlled accident",
+      "material chemistry",
+      "essential form"
+    ],
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH5039/full/800,/0/default.jpg"
   }
 ];
