@@ -160,7 +160,7 @@ export default function Page() {
                 </div>
               </div>
               <div>
-                <ImageWithFallback item={featured} aspectRatio="3/4" />
+                <ImageWithFallback key={featured.id} item={featured} aspectRatio="3/4" />
                 <div style={{ marginTop: '36px', paddingTop: '24px', borderTop: '1px solid #E4E0D8' }}>
                   {renderConnections(featured, 2)}
                 </div>
@@ -174,7 +174,7 @@ export default function Page() {
           <div>
             <div style={{ display: 'flex', gap: '8px', marginBottom: '32px', flexWrap: 'wrap' }}>
               {DISCIPLINES.map(d => (
-                <button key={d} onClick={() => setSelectedDiscipline(d)}
+                <button key={d} onClick={() => setSelectedDiscipline(selectedDiscipline === d ? 'All' : d)}
                   style={{ fontFamily: "'DM Sans', sans-serif", fontSize: '10.5px', letterSpacing: '0.08em', textTransform: 'uppercase', padding: '6px 14px', border: selectedDiscipline === d ? '1px solid #1C1C1C' : '1px solid #DDD', background: selectedDiscipline === d ? '#1C1C1C' : 'transparent', color: selectedDiscipline === d ? '#F6F5F0' : '#AAA', cursor: 'pointer', transition: 'all 0.2s' }}>
                   {d}
                 </button>
@@ -187,7 +187,7 @@ export default function Page() {
                     style={{ background: '#FDFCF8', cursor: 'pointer', display: 'flex', flexDirection: 'column', overflow: 'hidden', transition: 'background 0.2s' }}
                     onMouseEnter={e => e.currentTarget.style.background = '#FFF'}
                     onMouseLeave={e => e.currentTarget.style.background = '#FDFCF8'}>
-                    <ImageWithFallback item={item} aspectRatio="3/2" />
+                    <ImageWithFallback key={item.id} item={item} aspectRatio="3/2" />
                     <div style={{ padding: '16px 20px 20px' }}>
                       <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: '18px', lineHeight: 1.2, marginBottom: '4px' }}>{item.title}</div>
                       <div style={{ fontSize: '13px', color: '#999', marginBottom: '8px' }}>{item.designer.split('&')[0].trim()}, {item.year}</div>
@@ -208,7 +208,7 @@ export default function Page() {
             <button onClick={() => setView('archive')} style={{ fontFamily: 'inherit', fontSize: '11px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#BBB', cursor: 'pointer', background: 'none', border: 'none', padding: 0, marginBottom: '36px' }}>← Back to Archive</button>
             <div style={{ display: 'grid', gridTemplateColumns: '1.1fr 0.9fr', gap: '56px', alignItems: 'start' }}>
               <div>
-                <ImageWithFallback item={s} aspectRatio="4/3" />
+                <ImageWithFallback key={s.id} item={s} aspectRatio="4/3" />
                 <div style={{ marginTop: '36px', paddingTop: '24px', borderTop: '1px solid #E4E0D8' }}>
                   {renderConnections(s, 2)}
                 </div>
