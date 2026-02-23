@@ -24030,7 +24030,8 @@ export const ARCHIVE = [
       "user-defined",
       "parametric"
     ],
-    "id": 591
+    "id": 591,
+    "imageUrl": "/images/591.jpg"
   },
   {
     "title": "UP5 Armchair",
@@ -24066,7 +24067,8 @@ export const ARCHIVE = [
       "political design",
       "radical Italian"
     ],
-    "id": 592
+    "id": 592,
+    "imageUrl": "/images/592.jpg"
   },
   {
     "title": "Multi Chair",
@@ -24102,7 +24104,8 @@ export const ARCHIVE = [
       "polyurethane",
       "adaptive furniture"
     ],
-    "id": 593
+    "id": 593,
+    "imageUrl": "/images/593.webp"
   },
   {
     "title": "Nobody's Perfect Chair",
@@ -24138,7 +24141,8 @@ export const ARCHIVE = [
       "polyurethane",
       "radical craft"
     ],
-    "id": 594
+    "id": 594,
+    "imageUrl": "/images/594.jpg"
   },
   {
     "title": "Embryo Chair",
@@ -24169,7 +24173,8 @@ export const ARCHIVE = [
       "chromed steel",
       "Tokyo"
     ],
-    "id": 595
+    "id": 595,
+    "imageUrl": "/images/595.jpg"
   },
   {
     "title": "Black Gold Chair",
@@ -24241,7 +24246,8 @@ export const ARCHIVE = [
       "theatrical",
       "craft-industrial"
     ],
-    "id": 597
+    "id": 597,
+    "imageUrl": "/images/597.jpg"
   },
   {
     "title": "Green Chicken",
@@ -24272,7 +24278,8 @@ export const ARCHIVE = [
       "oversized",
       "art-design boundary"
     ],
-    "id": 598
+    "id": 598,
+    "imageUrl": "/images/598.jpg"
   },
   {
     "title": "Kokon Furniture",
@@ -24406,7 +24413,8 @@ export const ARCHIVE = [
       "Japanese design",
       "deconstructionism"
     ],
-    "id": 602
+    "id": 602,
+    "imageUrl": "/images/602.jpg"
   },
   {
     "title": "Pratone",
@@ -24437,7 +24445,8 @@ export const ARCHIVE = [
       "environmental sculpture",
       "green"
     ],
-    "id": 603
+    "id": 603,
+    "imageUrl": "/images/603.jpg"
   },
   {
     "title": "Autoprogettazione",
@@ -24473,7 +24482,8 @@ export const ARCHIVE = [
       "Triennale",
       "self-build"
     ],
-    "id": 604
+    "id": 604,
+    "imageUrl": "/images/604.webp"
   },
   {
     "title": "Miss Blanche",
@@ -24504,7 +24514,8 @@ export const ARCHIVE = [
       "poetry",
       "design art"
     ],
-    "id": 605
+    "id": 605,
+    "imageUrl": "/images/605.jpg"
   },
   {
     "title": "Smoke Chair",
@@ -24540,7 +24551,8 @@ export const ARCHIVE = [
       "Dutch design",
       "MoMA"
     ],
-    "id": 606
+    "id": 606,
+    "imageUrl": "/images/606.webp"
   },
   {
     "title": "Do Hit Chair",
@@ -24576,7 +24588,8 @@ export const ARCHIVE = [
       "Dutch design",
       "co-creation"
     ],
-    "id": 607
+    "id": 607,
+    "imageUrl": "/images/607.png"
   },
   {
     "title": "Salone del Mobile Chair",
@@ -24612,7 +24625,8 @@ export const ARCHIVE = [
       "daily practice",
       "design history as material"
     ],
-    "id": 608
+    "id": 608,
+    "imageUrl": "/images/608.jpg"
   },
   {
     "title": "Colour Porcelain",
@@ -24643,7 +24657,8 @@ export const ARCHIVE = [
       "tableware",
       "cultural exchange"
     ],
-    "id": 609
+    "id": 609,
+    "imageUrl": "/images/609.jpg"
   },
   {
     "title": "Dawn Light",
@@ -24674,7 +24689,8 @@ export const ARCHIVE = [
       "Dutch design",
       "monolithic"
     ],
-    "id": 610
+    "id": 610,
+    "imageUrl": "/images/610.jpg"
   },
   {
     "title": "Chair_One",
@@ -24801,7 +24817,8 @@ export const ARCHIVE = [
       "polyester",
       "familiar made strange"
     ],
-    "id": 614
+    "id": 614,
+    "imageUrl": "/images/614.jpg"
   },
   {
     "title": "Bon Bon Chair",
@@ -24863,7 +24880,8 @@ export const ARCHIVE = [
       "democratic design",
       "Dutch design"
     ],
-    "id": 616
+    "id": 616,
+    "imageUrl": "/images/616.jpg"
   },
   {
     "title": "Light Shade Shade",
@@ -24899,7 +24917,8 @@ export const ARCHIVE = [
       "Dutch design",
       "reveal"
     ],
-    "id": 617
+    "id": 617,
+    "imageUrl": "/images/617.jpg"
   },
   {
     "title": "Monkey Table and Chairs",
@@ -24929,7 +24948,8 @@ export const ARCHIVE = [
       "craft quality",
       "zoomorphic"
     ],
-    "id": 618
+    "id": 618,
+    "imageUrl": "/images/618.jpg"
   },
   {
     "title": "Dino Chair",
@@ -24991,7 +25011,8 @@ export const ARCHIVE = [
       "excess",
       "consumer goods"
     ],
-    "id": 620
+    "id": 620,
+    "imageUrl": "/images/620.jpg"
   },
   {
     "title": "Vermelha Chair",
@@ -25022,7 +25043,8 @@ export const ARCHIVE = [
       "red",
       "process-driven"
     ],
-    "id": 621
+    "id": 621,
+    "imageUrl": "/images/621.jpg"
   },
   {
     "title": "Faye Toogood Roly Poly Chair",
@@ -25053,7 +25075,8 @@ export const ARCHIVE = [
       "anti-refinement",
       "oversized"
     ],
-    "id": 622
+    "id": 622,
+    "imageUrl": "/images/622.jpg"
   },
   {
     "title": "Assemblage 5 Wardrobe",
@@ -25115,7 +25138,8 @@ export const ARCHIVE = [
       "RCA",
       "anti-minimalist"
     ],
-    "id": 624
+    "id": 624,
+    "imageUrl": "/images/624.jpg"
   },
   {
     "title": "Superfolk Everyday Objects",
