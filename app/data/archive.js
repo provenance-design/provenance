@@ -1238,7 +1238,8 @@ export const ARCHIVE = [
       "Arabia",
       "anti-design",
       "systems"
-    ]
+    ],
+    "imageUrl": "/images/31.jpg"
   },
   {
     "id": 32,
@@ -1276,7 +1277,8 @@ export const ARCHIVE = [
       "controlled randomness",
       "Iittala",
       "mouth-blown"
-    ]
+    ],
+    "imageUrl": "/images/32.jpg"
   },
   {
     "id": 33,
@@ -1314,7 +1316,8 @@ export const ARCHIVE = [
       "Georg Jensen",
       "hand-raised",
       "Milan Triennale"
-    ]
+    ],
+    "imageUrl": "/images/33.jpg"
   },
   {
     "id": 34,
@@ -1431,7 +1434,8 @@ export const ARCHIVE = [
       "cold-pressed",
       "seamless",
       "system"
-    ]
+    ],
+    "imageUrl": "/images/36.jpg"
   },
   {
     "id": 37,
