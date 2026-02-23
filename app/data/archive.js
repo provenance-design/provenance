@@ -772,7 +772,7 @@ export const ARCHIVE = [
     "movement": "Danish Functionalism",
     "wikiTitle": null,
     "description": "A mahogany and leather armchair designed for the Faaborg Museum. Klint studied proportions from English Chippendale and Hepplewhite chairs, Greek klismos, and Chinese horseshoe-back chairs — then synthesised them into something that belongs to none of those traditions. Every dimension calibrated to the human body.",
-    "significance": "Klint invented the method that defines Danish furniture design: study historical precedent, measure the human body, synthesise. Wegner, Mogensen, Juhl — all Klint's students or inheritors. Without the Faaborg Chair, there is no 'Danish Modern.'",
+    "significance": "Klint invented the method that defines Danish furniture design: study historical precedent, measure the human body, synthesise. Wegner, Mogensen, Juhl — all Klint's designers or inheritors. Without the Faaborg Chair, there is no 'Danish Modern.'",
     "connections": [
       {
         "id": 6,
@@ -964,7 +964,7 @@ export const ARCHIVE = [
     "movement": "International Style / Total Design",
     "wikiTitle": "Radisson_Blu_Royal_Hotel,_Copenhagen",
     "description": "Copenhagen's first skyscraper — a 22-storey curtain-wall tower where Jacobsen designed everything: structure, facade, interiors, furniture (Egg, Swan, Drop chairs), textiles, cutlery, door handles, ashtrays. Room 606 is preserved in its original state. The building is the most complete expression of Gesamtkunstwerk in postwar architecture.",
-    "significance": "The SAS Royal is an argument that design coherence requires total authorial control. Every object relates to every other because one mind conceived them all. It raises the question students must eventually answer: is total design visionary or authoritarian?",
+    "significance": "The SAS Royal is an argument that design coherence requires total authorial control. Every object relates to every other because one mind conceived them all. It raises the question one must eventually answer: is total design visionary or authoritarian?",
     "connections": [
       {
         "id": 15,
@@ -1700,7 +1700,7 @@ export const ARCHIVE = [
     "movement": "Organic Modernism",
     "wikiTitle": "Tulip_chair",
     "description": "A fibreglass shell seat on a cast aluminium pedestal base, designed to eliminate 'the ugly, confusing, unrestful world' under chairs and tables. Saarinen wanted a single-material solution but 1950s plastics couldn't support the base structurally — the aluminium pedestal is lacquered white to disguise the compromise.",
-    "significance": "The Tulip is a magnificent near-miss. Saarinen's vision of total formal unity required a material that didn't yet exist. The hidden aluminium base is honest and dishonest simultaneously — it solves the engineering while betraying the concept. Students should debate whether the compromise invalidates or enriches the design.",
+    "significance": "The Tulip is a magnificent near-miss. Saarinen's vision of total formal unity required a material that didn't yet exist. The hidden aluminium base is honest and dishonest simultaneously — it solves the engineering while betraying the concept. Viewers should debate whether the compromise invalidates or enriches the design.",
     "connections": [
       {
         "id": 30,
@@ -2285,7 +2285,7 @@ export const ARCHIVE = [
     "movement": "International Style",
     "wikiTitle": "Farnsworth_House",
     "description": "A single room of floor-to-ceiling glass suspended between a roof slab and floor slab on eight wide-flange steel columns, elevated five feet above a flood plain in Plano, Illinois. No interior walls except a walnut service core. The house is transparent to nature on all sides — you live inside the landscape.",
-    "significance": "Farnsworth is Mies's 'less is more' taken to its logical extreme — and its logical crisis. It leaks, overheats, offers no privacy, and its owner sued the architect. It's simultaneously the most beautiful house in America and the most unlivable. Students must reckon with this: can a design be a masterpiece and a failure at once?",
+    "significance": "Farnsworth is Mies's 'less is more' taken to its logical extreme — and its logical crisis. It leaks, overheats, offers no privacy, and its owner sued the architect. It's simultaneously the most beautiful house in America and the most unlivable. One must reckon with this: can a design be a masterpiece and a failure at once?",
     "connections": [
       {
         "id": 41,
@@ -2480,7 +2480,7 @@ export const ARCHIVE = [
     "movement": "International Style / Modernism",
     "wikiTitle": "Chaise_longue_LC4",
     "description": "A reclining frame of chromed tubular steel resting freely on a black-lacquered steel H-frame base — the two pieces are not connected. The recliner slides along the base to adjust the angle. Originally credited to Le Corbusier alone; Charlotte Perriand was the actual furniture designer. Her authorship was suppressed for decades.",
-    "significance": "The LC4 is a masterpiece of ergonomic logic — it maps the body's reclining curve precisely. But its significance today is also about attribution: Perriand, not Corbusier, designed it. The history of design is full of women whose work was credited to the men they worked with. Students need to know this.",
+    "significance": "The LC4 is a masterpiece of ergonomic logic — it maps the body's reclining curve precisely. But its significance today is also about attribution: Perriand, not Corbusier, designed it. The history of design is full of women whose work was credited to the men they worked with. This matters.",
     "connections": [
       {
         "id": 38,
@@ -2558,7 +2558,7 @@ export const ARCHIVE = [
     "movement": "Swiss International Typographic Style",
     "wikiTitle": "Helvetica",
     "description": "A neo-grotesque sans-serif typeface originally called Neue Haas Grotesk, renamed Helvetica (Latin for 'Swiss') for international marketing. The letterforms aim for maximum neutrality — no calligraphic stress, nearly uniform stroke width, tight but open spacing. It became the default typeface of corporate modernism, government signage, and visual identity worldwide.",
-    "significance": "Helvetica is the most successful typeface ever designed and the most contentious. Its advocates say it's invisible — it communicates content without imposing personality. Its critics say it's authoritarian — it flattens every message into the same neutral tone. Both are right. That's the debate students need to have.",
+    "significance": "Helvetica is the most successful typeface ever designed and the most contentious. Its advocates say it's invisible — it communicates content without imposing personality. Its critics say it's authoritarian — it flattens every message into the same neutral tone. Both are right. That's the debate worth having to have.",
     "connections": [
       {
         "id": 55,
@@ -3063,7 +3063,7 @@ export const ARCHIVE = [
     "movement": "Nordic Modernism",
     "wikiTitle": "Aalto Stool 60",
     "description": "Three bent birch legs lock into a circular plywood seat through mortise-and-tenon joints, creating structural integrity without metal fasteners. The L-shaped leg profile, achieved through Aalto's steam-bending technique, transfers vertical loads through the wood grain while the cantilever distributes weight evenly. This stackable design reduces manufacturing complexity to just two components and minimal assembly.",
-    "significance": "Demonstrates how material properties can drive form when designers work with, not against, natural characteristics. Shows students that structural innovation often emerges from production constraints — here, the need for mass-producible furniture that could be flat-packed and assembled without tools.",
+    "significance": "Demonstrates how material properties can drive form when designers work with, not against, natural characteristics. It demonstrates that structural innovation often emerges from production constraints — here, the need for mass-producible furniture that could be flat-packed and assembled without tools.",
     "connections": [
       {
         "id": 7,
@@ -3110,7 +3110,7 @@ export const ARCHIVE = [
     "movement": "Nordic Modernism",
     "wikiTitle": "Paimio Chair",
     "description": "A continuous bent birch plywood shell forms both seat and backrest, supported by a laminated birch frame that flows in unbroken curves from floor to armrest. The single-piece seat shell, cut from 15mm plywood and shaped through steam-pressing, eliminates joints where bacteria could accumulate. Originally designed for tuberculosis patients, the chair's smooth surfaces and organic form prioritize hygiene while providing ergonomic support for extended sitting.",
-    "significance": "Proves that functional requirements can generate beautiful forms when designers think systematically about use contexts. Teaches students that medical or institutional briefs often push innovation harder than domestic furniture — constraints force creative solutions that later influence broader design culture.",
+    "significance": "Proves that functional requirements can generate beautiful forms when designers think systematically about use contexts. It demonstrates that medical or institutional briefs often push innovation harder than domestic furniture — constraints force creative solutions that later influence broader design culture.",
     "connections": [
       {
         "id": 79,
@@ -3152,7 +3152,7 @@ export const ARCHIVE = [
     "movement": "Nordic Modernism",
     "wikiTitle": null,
     "description": "A cantilevered armchair with bent birch frame and woven birch bark seat, using L-shaped laminated legs that spring from the floor without rear supports. The seat and backrest are woven from thin birch bark strips in a traditional Finnish technique, creating a flexible surface that responds to body weight. The frame's continuous curve eliminates the need for corner joints, distributing stress through the wood's natural grain structure.",
-    "significance": "Teaches students how traditional craft knowledge can solve modern structural problems — the birch bark weaving isn't decorative but provides exactly the flexibility needed for cantilever seating. Shows that innovation often comes from combining industrial materials (laminated birch) with pre-industrial techniques (bark weaving).",
+    "significance": "It demonstrates how traditional craft knowledge can solve modern structural problems — the birch bark weaving isn't decorative but provides exactly the flexibility needed for cantilever seating. Shows that innovation often comes from combining industrial materials (laminated birch) with pre-industrial techniques (bark weaving).",
     "connections": [
       {
         "id": 80,
@@ -3276,7 +3276,7 @@ export const ARCHIVE = [
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
     "description": "Wegner's Shell Chair demonstrates how sculptural form can emerge from structural necessity. The steam-bent plywood seat shell cantilevers from a three-legged base, distributing load through the continuous curve rather than discrete joints. This integration of seat and back into a single surface eliminates upholstery while maintaining comfort through the shell's subtle flex and anthropometric shaping.",
-    "significance": "The Shell Chair proves that reduction need not sacrifice comfort—it shows students how understanding material behaviour enables formal innovation. Wegner's method of letting wood's inherent properties drive form became fundamental to Danish furniture design, influencing generations of makers who prioritised craft logic over stylistic gesture.",
+    "significance": "The Shell Chair proves that reduction need not sacrifice comfort—it It reveals how understanding material behaviour enables formal innovation. Wegner's method of letting wood's inherent properties drive form became fundamental to Danish furniture design, influencing generations of makers who prioritised craft logic over stylistic gesture.",
     "connections": [
       {
         "id": 86,
@@ -3323,7 +3323,7 @@ export const ARCHIVE = [
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
     "description": "Chair 24 represents Wegner's most radical reduction of the plywood shell concept. The continuous bent plywood surface forms both seat and back in a single gesture, supported by a minimal steel rod frame. The joining method—where plywood meets steel through visible screws—celebrates rather than conceals the assembly logic, making the construction technique part of the aesthetic expression.",
-    "significance": "This chair teaches students that honesty in construction can become decorative without applied ornament. Wegner shows how revealing assembly methods creates visual interest while maintaining functional clarity—a principle that influenced both Danish furniture and industrial design's approach to material expression.",
+    "significance": "This chair It demonstrates that honesty in construction can become decorative without applied ornament. Wegner shows how revealing assembly methods creates visual interest while maintaining functional clarity—a principle that influenced both Danish furniture and industrial design's approach to material expression.",
     "connections": [
       {
         "id": 85,
@@ -3365,7 +3365,7 @@ export const ARCHIVE = [
     "movement": "Danish Craft Modernism",
     "wikiTitle": "Hans Wegner",
     "description": "The 812 represents Wegner's late-career mastery of traditional joinery applied to modern proportions. Each joint is cut to tolerances that allow the wood to move seasonally without loosening, while the seat's woven paper cord distributes weight evenly across the frame. The arm supports curve both for comfort and to follow the wood grain's natural strength, demonstrating how craft knowledge informs contemporary design.",
-    "significance": "This chair proves that traditional making methods remain relevant when applied with modern understanding of ergonomics and proportion. Students learn how deep material knowledge—gained through decades of practice—enables innovation within established techniques, showing craft as progressive rather than nostalgic.",
+    "significance": "This chair proves that traditional making methods remain relevant when applied with modern understanding of ergonomics and proportion. The work reveals how deep material knowledge—gained through decades of practice—enables innovation within established techniques, showing craft as progressive rather than nostalgic.",
     "connections": [
       {
         "id": 86,
@@ -3412,7 +3412,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": "Dieter Rams",
     "description": "The RT 20's compact cube proportions concentrate all controls on the front face, with the speaker grille forming a textural counterpoint to the smooth plastic surfaces. Rams organizes the interface hierarchically—power and tuning occupy prime positions while secondary functions retreat to smaller controls. The carrying handle integrates into the form as a recessed grip, maintaining the geometric purity while enabling portability.",
-    "significance": "This radio demonstrates how systematic thinking about user interface can generate compelling form. Students see how Rams' hierarchy of controls creates visual order while improving usability—a method that became fundamental to electronic product design and later influenced digital interface design.",
+    "significance": "This radio demonstrates how systematic thinking about user interface can generate compelling form. It reveals how Rams' hierarchy of controls creates visual order while improving usability—a method that became fundamental to electronic product design and later influenced digital interface design.",
     "connections": [
       {
         "id": 16,
@@ -3454,7 +3454,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": "Dieter Rams",
     "description": "The HLD 31 transforms the hair dryer from a domestic appliance into a precision tool through its pistol grip and cylindrical barrel configuration. Rams locates all controls within thumb reach of the grip, while the motor housing's ribbed surface provides both cooling and secure handling. The barrel's perforated end cap protects the heating element while creating a regular pattern that signals the air flow direction.",
-    "significance": "This hair dryer shows students how applying tool logic to domestic appliances can improve both function and form. Rams demonstrates that systematic design thinking works across product categories—the same principles that organized his radios create clarity in personal care products.",
+    "significance": "This hair dryer It reveals how applying tool logic to domestic appliances can improve both function and form. Rams demonstrates that systematic design thinking works across product categories—the same principles that organized his radios create clarity in personal care products.",
     "connections": [
       {
         "id": 88,
@@ -3501,7 +3501,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "Rams' only furniture piece demonstrates his belief that good design should be unobtrusive. The chair's aluminum frame supports a single molded shell, avoiding visible joints or decorative elements. Its proportions follow the same geometric restraint as his electronic products, treating the human body as another technical specification to solve efficiently.",
-    "significance": "Shows how systematic design thinking can cross disciplines — the same reduction principles that worked for radios apply to seating. Students learn that coherent design philosophy transcends object categories, creating recognizable authorship through method rather than style.",
+    "significance": "Shows how systematic design thinking can cross disciplines — the same reduction principles that worked for radios apply to seating. The point is that coherent design philosophy transcends object categories, creating recognizable authorship through method rather than style.",
     "connections": [
       {
         "id": 11,
@@ -3548,7 +3548,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "The mixer's housing follows Rams' principle that form should emerge from function. The motor's cylindrical requirement dictates the overall shape, while the attachment system remains visible to communicate operation. White polystyrene eliminates color as distraction, focusing attention on the mechanical relationship between base, arm, and bowl.",
-    "significance": "Demonstrates how systematic design can humanize industrial processes. Students learn that reducing visual noise doesn't mean hiding function — transparency in operation builds user confidence and extends product life through understanding.",
+    "significance": "Demonstrates how systematic design can humanize industrial processes. The point is that reducing visual noise doesn't mean hiding function — transparency in operation builds user confidence and extends product life through understanding.",
     "connections": [
       {
         "id": 5,
@@ -3590,7 +3590,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "The juicer reduces citrus extraction to essential elements: conical reamer, collection vessel, and pouring spout. Transparent acrylic reveals the process while the weighted base provides stability during operation. Every component serves a specific function with no decorative additions, embodying Rams' maxim that good design is as little design as possible.",
-    "significance": "Shows how reduction can enhance rather than diminish functionality. Students learn that stripping away non-essentials forces designers to perfect what remains, creating objects that perform better and last longer through focused problem-solving.",
+    "significance": "Shows how reduction can enhance rather than diminish functionality. The point is that stripping away non-essentials forces designers to perfect what remains, creating objects that perform better and last longer through focused problem-solving.",
     "connections": [
       {
         "id": 9,
@@ -3632,7 +3632,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "The portable radio's cylindrical form houses the antenna requirement while the control interface reduces tuning to essential elements. The telescoping antenna extends from the geometric center, maintaining visual balance during operation. White housing eliminates color distraction, focusing attention on the relationship between form and electromagnetic function.",
-    "significance": "Demonstrates how technical constraints can generate compelling form when embraced rather than hidden. Students learn that understanding technology deeply enables designers to create objects that feel inevitable — where aesthetic and functional logic align perfectly.",
+    "significance": "Demonstrates how technical constraints can generate compelling form when embraced rather than hidden. The point is that understanding technology deeply enables designers to create objects that feel inevitable — where aesthetic and functional logic align perfectly.",
     "connections": [
       {
         "id": 13,
@@ -3674,7 +3674,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "The turntable eliminates the traditional furniture disguise of hi-fi equipment, presenting mechanical components as design elements. The platter, tonearm, and controls occupy a minimal rectangular housing that prioritizes operational clarity. Transparent dust cover protects the mechanism while maintaining visual access to the spinning record — function becomes the aesthetic.",
-    "significance": "Marks the transition from furniture-styled electronics to honest technical expression. Students learn how revealing rather than concealing mechanical beauty can create new aesthetic categories — the beginning of electronics as visible, celebrated technology rather than hidden appliance.",
+    "significance": "Marks the transition from furniture-styled electronics to honest technical expression. The work reveals how revealing rather than concealing mechanical beauty can create new aesthetic categories — the beginning of electronics as visible, celebrated technology rather than hidden appliance.",
     "connections": [
       {
         "id": 16,
@@ -3716,7 +3716,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "This radiogram strips away decorative furniture conventions to expose its technical function through clear geometric form. The white metal case with minimal black controls creates a visual hierarchy that guides operation while the proportions emphasize horizontal stability for the turntable mechanism. Rams eliminates the wooden cabinet tradition, treating the radio as a precision instrument rather than domestic ornament.",
-    "significance": "Students learn how Rams established his systematic approach to product semantics—using form to communicate function before interface design existed as a discipline. This early work demonstrates how reducing visual complexity can increase operational clarity, a principle that would define digital product design decades later.",
+    "significance": "The work reveals how Rams established his systematic approach to product semantics—using form to communicate function before interface design existed as a discipline. This early work demonstrates how reducing visual complexity can increase operational clarity, a principle that would define digital product design decades later.",
     "connections": [
       {
         "id": 16,
@@ -3758,7 +3758,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "The ET66 applies Rams' mature design language to electronic calculation, with a matte black case that recedes to emphasize the yellow function keys and white number pad. The asymmetric layout places mathematical operations logically while the angled form fits naturally in the hand. Each button's color coding creates an intuitive hierarchy that reduces cognitive load during complex calculations.",
-    "significance": "Students see how consistent design principles scale across technologies—Rams' 1950s geometric clarity translates directly to 1980s electronics. This demonstrates how systematic design thinking creates coherent brand languages that transcend individual products, anticipating how software interface design would later adopt similar hierarchical clarity.",
+    "significance": "It reveals how consistent design principles scale across technologies—Rams' 1950s geometric clarity translates directly to 1980s electronics. This demonstrates how systematic design thinking creates coherent brand languages that transcend individual products, anticipating how software interface design would later adopt similar hierarchical clarity.",
     "connections": [
       {
         "id": 95,
@@ -3800,7 +3800,7 @@ export const ARCHIVE = [
     "movement": "Functionalism",
     "wikiTitle": null,
     "description": "This sun lamp transforms medical equipment into domestic object through precise geometric control of form and material. The white cylindrical housing contains UV bulbs behind a perforated metal screen that creates controlled light distribution while suggesting clinical precision. The minimal control interface and stable circular base emphasize the lamp's therapeutic function over decorative lighting.",
-    "significance": "Students learn how Rams extended systematic design into specialized product categories, proving that consistent formal language can bridge medical and consumer contexts. This demonstrates how good design makes complex technology accessible without compromising functional requirements—a principle essential for today's health tech products.",
+    "significance": "The work reveals how Rams extended systematic design into specialized product categories, proving that consistent formal language can bridge medical and consumer contexts. This demonstrates how good design makes complex technology accessible without compromising functional requirements—a principle essential for today's health tech products.",
     "connections": [
       {
         "id": 1,
@@ -3842,7 +3842,7 @@ export const ARCHIVE = [
     "movement": "Corporate Functionalism",
     "wikiTitle": null,
     "description": "This electric shaver continues Braun's systematic design approach into the 1990s, with a matte black housing that conceals complex rotary mechanisms behind smooth geometric surfaces. The ergonomic form curves to fit the hand while maintaining the brand's characteristic reductive aesthetic. Control elements remain minimal, focusing attention on the primary cutting surface and charging interface.",
-    "significance": "Students see how design systems persist beyond their original creators—this shaver demonstrates institutional design thinking maintaining coherence across decades of technological change. It shows how strong systematic approaches become self-perpetuating corporate languages that can survive transitions in leadership and technology.",
+    "significance": "It reveals how design systems persist beyond their original creators—this shaver demonstrates institutional design thinking maintaining coherence across decades of technological change. It shows how strong systematic approaches become self-perpetuating corporate languages that can survive transitions in leadership and technology.",
     "connections": [
       {
         "id": 14,
@@ -3884,7 +3884,7 @@ export const ARCHIVE = [
     "movement": "Concrete Art",
     "wikiTitle": "Max Bill",
     "description": "Bill reduces timekeeping to its mathematical essence through pure geometric relationships. The white face eliminates all decoration, using only black linear markers and hands to create maximum contrast and legibility. Each hour marker's length follows precise mathematical ratios while the absence of numbers forces users to read time through spatial relationships rather than symbolic notation.",
-    "significance": "Students learn how mathematical thinking can generate functional beauty—Bill proves that systematic proportional relationships create more effective communication than applied decoration. This clock demonstrates how Concrete Art principles translate directly into product design, influencing generations of minimal interface design.",
+    "significance": "The work reveals how mathematical thinking can generate functional beauty—Bill proves that systematic proportional relationships create more effective communication than applied decoration. This clock demonstrates how Concrete Art principles translate directly into product design, influencing generations of minimal interface design.",
     "connections": [
       {
         "id": 7,
@@ -4010,7 +4010,7 @@ export const ARCHIVE = [
     "movement": "American Modernism",
     "wikiTitle": "Eames coffee table",
     "description": "The CTW uses a birch plywood top supported by a chromed steel rod base, creating maximum surface with minimal material. The wire base distributes weight through tension rather than mass, allowing the thin plywood top to span without sagging. This material efficiency reflects wartime resource constraints translated into peacetime furniture logic.",
-    "significance": "Students learn how material properties drive form — the table demonstrates that understanding structural behavior enables radical material reduction. It shows how wartime innovation in plywood technology could be adapted for domestic furniture production.",
+    "significance": "The work reveals how material properties drive form — the table demonstrates that understanding structural behavior enables radical material reduction. It shows how wartime innovation in plywood technology could be adapted for domestic furniture production.",
     "connections": [
       {
         "id": 27,
@@ -4046,7 +4046,7 @@ export const ARCHIVE = [
     "movement": "American Modernism",
     "wikiTitle": "Eames Storage Unit",
     "description": "The ESU system uses modular panels of different materials — wood, metal, masonite — within a standardized steel angle framework. Each panel type serves different storage needs while maintaining visual coherence through the grid structure. The system demonstrates industrial logic applied to domestic storage, where components can be reconfigured as needs change.",
-    "significance": "This teaches students that modular design isn't just about efficiency but about adaptability over time. The ESU shows how systematic thinking can create furniture that responds to changing domestic patterns rather than imposing fixed arrangements.",
+    "significance": "This It demonstrates that modular design isn't just about efficiency but about adaptability over time. The ESU shows how systematic thinking can create furniture that responds to changing domestic patterns rather than imposing fixed arrangements.",
     "connections": [
       {
         "id": 11,
@@ -4082,7 +4082,7 @@ export const ARCHIVE = [
     "movement": "American Modernism",
     "wikiTitle": null,
     "description": "This educational toy uses spinning discs of different colors that blend when rotated, teaching color theory through direct manipulation. The mechanism transforms abstract optical principles into physical play, making complex concepts accessible through action. The toy embodies Eames's belief that learning happens through doing rather than being told.",
-    "significance": "Students learn that good design can make complex ideas simple through appropriate mechanisms. The toy demonstrates how physical interaction can teach abstract concepts more effectively than explanation — a principle applicable to all interface design.",
+    "significance": "The point is that good design can make complex ideas simple through appropriate mechanisms. The toy demonstrates how physical interaction can teach abstract concepts more effectively than explanation — a principle applicable to all interface design.",
     "connections": [
       {
         "id": 13,
@@ -4118,7 +4118,7 @@ export const ARCHIVE = [
     "movement": "American Modernism",
     "wikiTitle": "Eames DKR",
     "description": "The DKR uses bent steel wire to create both structure and surface, eliminating the traditional distinction between frame and seat. The wire grid distributes body weight evenly while allowing air circulation, solving comfort through geometry rather than padding. The chair demonstrates how industrial wire-forming techniques could produce complex curves impossible with traditional furniture construction.",
-    "significance": "This chair teaches students that materials have inherent formal possibilities that traditional techniques cannot access. The DKR shows how embracing industrial processes can reveal new solutions to fundamental furniture problems like support and comfort.",
+    "significance": "This chair It demonstrates that materials have inherent formal possibilities that traditional techniques cannot access. The DKR shows how embracing industrial processes can reveal new solutions to fundamental furniture problems like support and comfort.",
     "connections": [
       {
         "id": 103,
@@ -4295,7 +4295,7 @@ export const ARCHIVE = [
     "movement": "British Modernism",
     "wikiTitle": "Gerald Summers",
     "description": "Cut from a single sheet of birch plywood using steam-bent curves, this chair eliminates all joints, screws, and glue. The continuous form creates structural integrity through geometry alone, with the seat cantilevering from the back support. The manufacturing logic prioritizes material economy and production efficiency over decorative elements.",
-    "significance": "Demonstrates how material constraints can drive formal innovation. Students learn how single-material construction creates both structural and aesthetic solutions, showing that limitation breeds creativity in industrial design.",
+    "significance": "Demonstrates how material constraints can drive formal innovation. The work reveals how single-material construction creates both structural and aesthetic solutions, showing that limitation breeds creativity in industrial design.",
     "connections": [
       {
         "id": 1,
@@ -4342,7 +4342,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
     "description": "A padded armchair built from geometric planes in contrasting colors and patterns, using industrial laminates and primary forms. The design rejects functional optimization for symbolic communication, with each surface treated as an independent graphic element. The construction emphasizes visual discord over comfort hierarchy.",
-    "significance": "Shows how furniture can function as cultural commentary rather than ergonomic solution. Students understand how Memphis challenged modernist assumptions about form following function, using domestic objects to question social values.",
+    "significance": "Shows how furniture can function as cultural commentary rather than ergonomic solution. It clarifies how Memphis challenged modernist assumptions about form following function, using domestic objects to question social values.",
     "connections": [
       {
         "id": 12,
@@ -4384,7 +4384,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
     "description": "A table lamp composed of stacked geometric elements in contrasting colors, using industrial materials like metal and plastic laminates. Each component maintains its individual identity rather than dissolving into unified form. The light source becomes secondary to the object's function as a totemic presence.",
-    "significance": "Demonstrates how lighting design can prioritize symbolic over functional performance. Students learn how Memphis used everyday objects to communicate cultural positions, challenging the primacy of technical efficiency in product design.",
+    "significance": "Demonstrates how lighting design can prioritize symbolic over functional performance. The work reveals how Memphis used everyday objects to communicate cultural positions, challenging the primacy of technical efficiency in product design.",
     "connections": [
       {
         "id": 113,
@@ -4426,7 +4426,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
     "description": "A sideboard constructed from geometric blocks in contrasting laminates, using primary colors and patterns that refuse visual harmony. Each component maintains its independence rather than serving overall unity. The storage function becomes subordinate to the object's role as domestic sculpture and cultural provocation.",
-    "significance": "Exemplifies Memphis's challenge to functionalist orthodoxy, showing how furniture can prioritize cultural communication over efficiency. Students understand how design objects can embody ideological positions about consumption, domesticity, and social values.",
+    "significance": "Exemplifies Memphis's challenge to functionalist orthodoxy, showing how furniture can prioritize cultural communication over efficiency. It clarifies how design objects can embody ideological positions about consumption, domesticity, and social values.",
     "connections": [
       {
         "id": 112,
@@ -4468,7 +4468,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
     "description": "Working drawings that reveal Memphis's design process through geometric construction and color notation. The drawings show how Sottsass built complex forms through simple geometric relationships, using axonometric projection to communicate three-dimensional assembly. Pattern and color are specified as integral design elements, not applied decoration.",
-    "significance": "Shows how design thinking translates from concept to production, revealing Memphis's systematic approach beneath apparent chaos. Students learn how drawings function as design tools, not just communication devices, embedding methodology within representation.",
+    "significance": "Shows how design thinking translates from concept to production, revealing Memphis's systematic approach beneath apparent chaos. The work reveals how drawings function as design tools, not just communication devices, embedding methodology within representation.",
     "connections": [
       {
         "id": 113,
@@ -4792,7 +4792,7 @@ export const ARCHIVE = [
     "movement": "Pre-Memphis Radical",
     "wikiTitle": null,
     "description": "Blown glass cylinder in saturated orange carries horizontal black stripes that circle the form like planetary rings. The colour combination—industrial orange with graphic black bands—transforms the classical vase typology into something between traffic cone and astronomical object. The stripes function as pure decoration, rejecting modernist integration of ornament and structure.",
-    "significance": "Marks Sottsass's transition from 1960s radicalism toward Memphis's decorative rebellion. Proves that even traditional craft processes like glassblowing could carry avant-garde arguments about meaning versus function. Shows students how designers can subvert established typologies through colour and surface treatment alone.",
+    "significance": "Marks Sottsass's transition from 1960s radicalism toward Memphis's decorative rebellion. Proves that even traditional craft processes like glassblowing could carry avant-garde arguments about meaning versus function. It reveals how designers can subvert established typologies through colour and surface treatment alone.",
     "connections": [
       {
         "id": 47,
@@ -4886,7 +4886,7 @@ export const ARCHIVE = [
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Isokon Long Chair",
     "description": "Single sheet of birch plywood bent into a continuous S-curve creates both seat and backrest without joints or separate structural elements. The form follows the human spine's natural curvature, with the material's spring providing ergonomic support. Black painted finish emphasizes the sculptural quality of the bent wood construction, making structure visible rather than concealed.",
-    "significance": "Represents the apotheosis of modernist furniture thinking—form, structure, and comfort unified through material logic alone. Demonstrates how industrial processes can serve human comfort without sacrificing aesthetic purity. Shows students that the most radical design solutions often appear effortlessly simple while requiring sophisticated material understanding.",
+    "significance": "Represents the apotheosis of modernist furniture thinking—form, structure, and comfort unified through material logic alone. Demonstrates how industrial processes can serve human comfort without sacrificing aesthetic purity. The point is that the most radical design solutions often appear effortlessly simple while requiring sophisticated material understanding.",
     "connections": [
       {
         "id": 27,
@@ -4980,7 +4980,7 @@ export const ARCHIVE = [
     "movement": "Early Bauhaus",
     "wikiTitle": null,
     "description": "Breuer's earliest chair design uses traditional timber construction with a seat woven from jute cord. The frame employs mortise and tenon joints, revealing craft methods that would soon be abandoned. The proportions follow classical ratios, but the spare detailing hints at the reduction to come.",
-    "significance": "Shows how modernism emerged from craft traditions rather than appearing fully formed. Students see the methodical process of stripping away ornament while retaining structural logic. Essential for understanding Breuer's later steel tube innovations as evolution, not revolution.",
+    "significance": "Shows how modernism emerged from craft traditions rather than appearing fully formed. We see the methodical process of stripping away ornament while retaining structural logic. Essential for understanding Breuer's later steel tube innovations as evolution, not revolution.",
     "connections": [
       {
         "id": 54,
@@ -5027,7 +5027,7 @@ export const ARCHIVE = [
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Cesca chair",
     "description": "Breuer's first cantilevered chair uses continuous steel tubing bent into a structural frame that supports the sitter through spring action alone. The seat and back employ traditional cane weaving stretched over bentwood frames. This hybrid construction marries industrial production with craft techniques.",
-    "significance": "Demonstrates the cantilever principle that revolutionized seating by eliminating back legs entirely. Students learn how structural innovation can create new formal possibilities. Shows modernism's pragmatic approach to mixing old and new techniques for optimal performance.",
+    "significance": "Demonstrates the cantilever principle that revolutionized seating by eliminating back legs entirely. The work reveals how structural innovation can create new formal possibilities. Shows modernism's pragmatic approach to mixing old and new techniques for optimal performance.",
     "connections": [
       {
         "id": 125,
@@ -5074,7 +5074,7 @@ export const ARCHIVE = [
     "movement": "Bauhaus Modernism",
     "wikiTitle": null,
     "description": "Breuer's armchair version of the cantilevered chair adds continuous tubular armrests to the basic B33 frame. The arms spring from the front legs and curve back to meet the seat frame, creating a unified structural loop. Canvas seat and back are slung between the steel framework.",
-    "significance": "Shows how successful structural innovations can be extended into product families. Students see systematic design thinking—how a proven cantilever principle generates multiple furniture types. Reveals modernism's economic logic of developing platforms rather than isolated objects.",
+    "significance": "Shows how successful structural innovations can be extended into product families. We see systematic design thinking—how a proven cantilever principle generates multiple furniture types. Reveals modernism's economic logic of developing platforms rather than isolated objects.",
     "connections": [
       {
         "id": 126,
@@ -5121,7 +5121,7 @@ export const ARCHIVE = [
     "movement": "Emigré Modernism",
     "wikiTitle": null,
     "description": "Breuer's low lounge chair uses laminated birch plywood for the seat and back, mounted on a steel tube frame. The reduced height and angled back create a relaxed sitting position. The frame employs his cantilever principle but with a different material palette reflecting his move from Germany to Britain.",
-    "significance": "Documents how designers adapt their methods to new manufacturing contexts and materials. Students see how emigration forced modernists to rethink their approaches while maintaining core principles. Essential for understanding modernism as adaptive methodology rather than fixed style.",
+    "significance": "Documents how designers adapt their methods to new manufacturing contexts and materials. It reveals how emigration forced modernists to rethink their approaches while maintaining core principles. Essential for understanding modernism as adaptive methodology rather than fixed style.",
     "connections": [
       {
         "id": 53,
@@ -5168,7 +5168,7 @@ export const ARCHIVE = [
     "movement": "Emigré Modernism",
     "wikiTitle": null,
     "description": "Breuer's dining chair simplifies his cantilever system to its essential elements: a steel tube frame with plywood seat and back. The proportions are adjusted for table height, with an upright back angle for dining posture. The frame eliminates all decorative elements in favor of pure structural expression.",
-    "significance": "Shows how functional requirements drive formal variation within a consistent structural system. Students learn to distinguish between essential and contingent design elements. Demonstrates modernism's capacity for systematic variation while maintaining design integrity.",
+    "significance": "Shows how functional requirements drive formal variation within a consistent structural system. The effect is to distinguish between essential and contingent design elements. Demonstrates modernism's capacity for systematic variation while maintaining design integrity.",
     "connections": [
       {
         "id": 128,
@@ -5215,7 +5215,7 @@ export const ARCHIVE = [
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Cesca chair",
     "description": "A cantilever chair that eliminates back legs by using the spring tension of bent tubular steel to support the sitter. The continuous tube creates both structure and comfort through material properties rather than additional padding. Cane seat and back provide breathability and flex within the rigid steel frame.",
-    "significance": "Demonstrates how structural innovation can solve comfort without ornament. Shows students that material understanding—not just formal reduction—drives modernist design. A key example of how cantilever construction challenged traditional chair logic.",
+    "significance": "Demonstrates how structural innovation can solve comfort without ornament. It demonstrates that material understanding—not just formal reduction—drives modernist design. A key example of how cantilever construction challenged traditional chair logic.",
     "connections": [
       {
         "id": 56,
@@ -5262,7 +5262,7 @@ export const ARCHIVE = [
     "movement": "Early Bauhaus",
     "wikiTitle": null,
     "description": "Breuer's first experiment with tubular steel furniture, using a single continuous bent tube for the chair frame. The canvas seat and back are stretched across the steel structure, creating comfort through tension rather than padding. This chair established the formal vocabulary for all subsequent tubular steel furniture.",
-    "significance": "The breakthrough object that launched industrial furniture design. Shows students how a single material innovation—applying bicycle technology to furniture—can transform an entire discipline. Essential for understanding the origins of modernist seating.",
+    "significance": "The breakthrough object that launched industrial furniture design. It demonstrates how a single material innovation—applying bicycle technology to furniture—can transform an entire discipline. Essential for understanding the origins of modernist seating.",
     "connections": [
       {
         "id": 54,
@@ -5309,7 +5309,7 @@ export const ARCHIVE = [
     "movement": "American Organic Modernism",
     "wikiTitle": null,
     "description": "A companion piece to the Womb Chair that continues its organic vocabulary at floor level. The molded fiberglass form creates a soft landscape for the feet while maintaining the chair's sculptural unity. The ottoman demonstrates how accessories can extend a design concept rather than merely complement it.",
-    "significance": "Shows students how furniture systems can be developed through consistent formal logic rather than just functional matching. Essential for understanding how design languages work across multiple objects to create environmental coherence.",
+    "significance": "It reveals how furniture systems can be developed through consistent formal logic rather than just functional matching. Essential for understanding how design languages work across multiple objects to create environmental coherence.",
     "connections": [
       {
         "id": 62,
@@ -5351,7 +5351,7 @@ export const ARCHIVE = [
     "movement": "British Festival Style",
     "wikiTitle": "Ernest Race",
     "description": "Race's Flamingo uses bent steel rod construction with upholstered seat and back shells to create a chair that balances structural logic with comfort. The wire frame creates a cage-like structure that supports separate cushioned elements, allowing the metal framework to remain visible and express its load-bearing function. The proportions emphasize the horizontal spread of the armrests.",
-    "significance": "Students should recognize how Race adapts American wire furniture innovations for British manufacturing capabilities and domestic comfort expectations. The chair demonstrates how structural expression can coexist with traditional upholstery rather than eliminating it entirely.",
+    "significance": "Viewers should recognize how Race adapts American wire furniture innovations for British manufacturing capabilities and domestic comfort expectations. The chair demonstrates how structural expression can coexist with traditional upholstery rather than eliminating it entirely.",
     "connections": [
       {
         "id": 34,
@@ -5393,7 +5393,7 @@ export const ARCHIVE = [
     "movement": "British Plywood Modernism",
     "wikiTitle": null,
     "description": "Jacobs' Jason Chair uses bent plywood construction with a continuous seat and back shell supported by splayed wooden legs. The plywood shell creates compound curves that provide structural strength while conforming to body ergonomics. The leg attachment points transfer loads through the shell rather than requiring separate structural frames.",
-    "significance": "Students need to understand how British designers adapted Scandinavian and American plywood techniques for local production capabilities. The chair shows how structural innovation can emerge from material limitations rather than technological abundance.",
+    "significance": "It is important to understand how British designers adapted Scandinavian and American plywood techniques for local production capabilities. The chair shows how structural innovation can emerge from material limitations rather than technological abundance.",
     "connections": [
       {
         "id": 27,
@@ -5435,7 +5435,7 @@ export const ARCHIVE = [
     "movement": "German Functionalism",
     "wikiTitle": null,
     "description": "The Bofinger Chair uses injection-molded plastic construction to create a stackable chair with integrated seat, back, and legs in a single material. The chair's form follows the requirements of the injection molding process, with draft angles and uniform wall thickness enabling efficient production. The stacking feature maximizes storage density through interlocking profiles.",
-    "significance": "Students should understand how injection molding demands formal discipline—the chair shows how manufacturing constraints can generate rather than limit design innovation. It demonstrates the shift from craft-based forming to industrial process-driven design in 1960s furniture.",
+    "significance": "Viewers should understand how injection molding demands formal discipline—the chair shows how manufacturing constraints can generate rather than limit design innovation. It demonstrates the shift from craft-based forming to industrial process-driven design in 1960s furniture.",
     "connections": [
       {
         "id": 38,
@@ -5477,7 +5477,7 @@ export const ARCHIVE = [
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": "Isamu Noguchi",
     "description": "Noguchi's costume design reduces the human figure to essential geometric elements, using abstract forms to convey character relationships rather than literal representation. The drawing employs minimal lines to suggest volume and movement, treating the body as a sculptural armature for symbolic forms. The design prioritizes spatial relationships between figures over decorative detail.",
-    "significance": "Students need to understand how sculptural thinking can inform two-dimensional design—Noguchi demonstrates how abstract art principles apply to functional design problems. The work shows how modernist reduction can serve theatrical narrative rather than opposing it.",
+    "significance": "It is important to understand how sculptural thinking can inform two-dimensional design—Noguchi demonstrates how abstract art principles apply to functional design problems. The work shows how modernist reduction can serve theatrical narrative rather than opposing it.",
     "connections": [
       {
         "id": 13,
@@ -5519,7 +5519,7 @@ export const ARCHIVE = [
     "movement": "Organic Modernism",
     "wikiTitle": "Noguchi table",
     "description": "Two identical curved wood legs support a free-form glass top through precise joinery and counterbalanced tension. The asymmetrical top appears to float, held by sculptural legs that function as both structure and composition. Each element maintains its material identity while achieving structural unity through geometric relationships rather than mechanical fasteners.",
-    "significance": "Demonstrates how furniture can be conceived as sculpture without abandoning function, using the transparency of glass to emphasize the sculptural qualities of the base. Shows students how biomorphic form can emerge from structural logic rather than applied decoration.",
+    "significance": "Demonstrates how furniture can be conceived as sculpture without abandoning function, using the transparency of glass to emphasize the sculptural qualities of the base. It reveals how biomorphic form can emerge from structural logic rather than applied decoration.",
     "connections": [
       {
         "id": 31,
@@ -5566,7 +5566,7 @@ export const ARCHIVE = [
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
     "description": "Angular fabric planes create architectural volumes around the human form, transforming the actor into a moving sculpture. Sharp geometric cuts eliminate decorative detail, using only essential lines to define character through abstract form. The costume functions as wearable architecture, where fabric becomes structural material defining space and movement.",
-    "significance": "Shows how modernist sculpture principles can be applied to performance design, treating costume as spatial composition rather than historical reference. Teaches students how abstraction can convey narrative meaning more powerfully than literal representation.",
+    "significance": "Shows how modernist sculpture principles can be applied to performance design, treating costume as spatial composition rather than historical reference. It demonstrates how abstraction can convey narrative meaning more powerfully than literal representation.",
     "connections": [
       {
         "id": 139,
@@ -5607,7 +5607,7 @@ export const ARCHIVE = [
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
     "description": "Flowing curved panels create organic volumes that move with the body while maintaining sculptural integrity. The design balances structural definition with fluid movement, using continuous lines rather than angular breaks. Fabric becomes a medium for expressing character through pure form, with curves suggesting grace and vulnerability without literal costume elements.",
-    "significance": "Demonstrates how the same designer can use contrasting formal languages within a unified system to differentiate character types. Shows students how abstract form can carry emotional and narrative content more effectively than representational imagery.",
+    "significance": "Demonstrates how the same designer can use contrasting formal languages within a unified system to differentiate character types. It reveals how abstract form can carry emotional and narrative content more effectively than representational imagery.",
     "connections": [
       {
         "id": 141,
@@ -5648,7 +5648,7 @@ export const ARCHIVE = [
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
     "description": "Fragmented geometric shapes create a deliberately unstable composition that reflects the Fool's role as disruptor. Multiple angular elements overlap and intersect without clear hierarchy, suggesting movement and unpredictability. The design uses formal chaos within geometric constraint to express character through pure visual means.",
-    "significance": "Shows how formal composition can directly express narrative function, with visual instability communicating the Fool's disruptive role. Teaches students how systematic rule-breaking within a geometric system can be more effective than random decoration.",
+    "significance": "Shows how formal composition can directly express narrative function, with visual instability communicating the Fool's disruptive role. It demonstrates how systematic rule-breaking within a geometric system can be more effective than random decoration.",
     "connections": [
       {
         "id": 12,
@@ -5689,7 +5689,7 @@ export const ARCHIVE = [
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
     "description": "Layered flowing elements create complex spatial relationships while maintaining the organic vocabulary established for Cordelia's character. The design adds structural complexity through overlapping planes that suggest both armor and drapery without representing either literally. Multiple layers create depth and movement while preserving the essential curved geometry of the character family.",
-    "significance": "Demonstrates how a formal system can be developed across hierarchical relationships, with supporting characters extending rather than contradicting the primary character's visual language. Shows students how systematic variation creates coherent visual narratives.",
+    "significance": "Demonstrates how a formal system can be developed across hierarchical relationships, with supporting characters extending rather than contradicting the primary character's visual language. It reveals how systematic variation creates coherent visual narratives.",
     "connections": [
       {
         "id": 32,
@@ -5866,7 +5866,7 @@ export const ARCHIVE = [
     "movement": "Streamline Moderne",
     "wikiTitle": "Isamu Noguchi",
     "description": "Noguchi transforms the baby monitor into biomorphic sculpture, using molded Bakelite to create organic curves that humanize electronic technology. The form suggests both ear and womb, making the mechanical act of remote listening feel natural and protective. Smooth surfaces eliminate mechanical details, presenting technology as seamless biological extension.",
-    "significance": "Pioneering example of how sculptural form can make new technology emotionally acceptable to users. Shows students that industrial design must address psychological as well as functional needs, with form serving as interface between human anxiety and technological capability.",
+    "significance": "Pioneering example of how sculptural form can make new technology emotionally acceptable to users. It proves that industrial design must address psychological as well as functional needs, with form serving as interface between human anxiety and technological capability.",
     "connections": [
       {
         "id": 10,
@@ -6091,7 +6091,7 @@ export const ARCHIVE = [
     "movement": "Danish Functionalism",
     "wikiTitle": "Poul Henningsen",
     "description": "Seventy-two copper leaves arranged in twelve rows create a pendant lamp that eliminates glare while distributing warm light. Each leaf is precisely angled to hide the light source from any viewing angle below 45 degrees. The mathematical progression of leaf sizes creates even light distribution while the copper finish warms the light quality.",
-    "significance": "Represents the pinnacle of scientific lighting design, where every element serves optical function. Teaches students how complex engineering can be hidden within organic forms, and how functional requirements can generate unexpected beauty through systematic thinking.",
+    "significance": "Represents the pinnacle of scientific lighting design, where every element serves optical function. It demonstrates how complex engineering can be hidden within organic forms, and how functional requirements can generate unexpected beauty through systematic thinking.",
     "connections": [
       {
         "id": 1,
@@ -6133,7 +6133,7 @@ export const ARCHIVE = [
     "movement": "American Modernist Film Graphics",
     "wikiTitle": "Saul Bass",
     "description": "A film poster using stark geometric abstraction to represent political conflict. Black and white shapes create visual tension through angular collision, avoiding literal representation of characters or plot. The typography integrates with the abstract forms, creating a unified graphic system that suggests the film's themes of political confrontation.",
-    "significance": "Revolutionized film marketing by treating posters as abstract graphic design rather than photographic promotion. Teaches students how visual metaphor can be more powerful than literal representation, and how graphic elements can carry narrative meaning through pure form.",
+    "significance": "Revolutionized film marketing by treating posters as abstract graphic design rather than photographic promotion. It demonstrates how visual metaphor can be more powerful than literal representation, and how graphic elements can carry narrative meaning through pure form.",
     "connections": [
       {
         "id": 13,
@@ -6180,7 +6180,7 @@ export const ARCHIVE = [
     "movement": "Commercial Typography",
     "wikiTitle": null,
     "description": "Popular music sheet covers adopting modernist typography and layout principles in mass market publishing. Clean sans-serif fonts replace decorative Victorian styles, with systematic use of hierarchy and white space. The design democratizes modernist graphic principles, applying them to commercial music publishing for broad public consumption.",
-    "significance": "Shows how high design principles filter into mass culture and commercial applications. Demonstrates to students that modernist typography wasn't confined to elite design contexts but shaped everyday visual communication, making sophisticated design thinking accessible to popular audiences.",
+    "significance": "Shows how high design principles filter into mass culture and commercial applications. Demonstrates that modernist typography wasn't confined to elite design contexts but shaped everyday visual communication, making sophisticated design thinking accessible to popular audiences.",
     "connections": [
       {
         "id": 14,
@@ -6227,7 +6227,7 @@ export const ARCHIVE = [
     "movement": "Italian Corporate Modernism",
     "wikiTitle": null,
     "description": "A blown glass carafe that reduces the vessel to its essential geometric form — a perfect cylinder topped with a conical stopper. The Vignellis eliminated all decorative elements, creating a form that demonstrates their grid-based methodology applied to three-dimensional objects. The proportional relationship between cylinder and cone follows mathematical ratios derived from their graphic work.",
-    "significance": "Students learn how systematic design thinking transfers across disciplines — the same grid logic that structures typography can organize product geometry. It demonstrates how reduction serves clarity: every formal decision has a functional justification.",
+    "significance": "The work reveals how systematic design thinking transfers across disciplines — the same grid logic that structures typography can organize product geometry. It demonstrates how reduction serves clarity: every formal decision has a functional justification.",
     "connections": [
       {
         "id": 154,
@@ -6274,7 +6274,7 @@ export const ARCHIVE = [
     "movement": "Italian Rationalist Graphics",
     "wikiTitle": null,
     "description": "A theater poster that demonstrates Vignelli's grid-based approach to information hierarchy. Bold sans-serif type is arranged in strict geometric relationships, with each text element sized and positioned according to mathematical ratios. The monochromatic palette eliminates visual noise, forcing typography to carry all communicative weight through scale and placement alone.",
-    "significance": "Students see how systematic methodology creates visual authority — the grid doesn't constrain creativity but enables it by providing logical structure. It shows that reduction amplifies meaning rather than diminishing it, a principle applicable across all design disciplines.",
+    "significance": "It reveals how systematic methodology creates visual authority — the grid doesn't constrain creativity but enables it by providing logical structure. It shows that reduction amplifies meaning rather than diminishing it, a principle applicable across all design disciplines.",
     "connections": [
       {
         "id": 153,
@@ -6321,7 +6321,7 @@ export const ARCHIVE = [
     "movement": "Swiss International Style",
     "wikiTitle": "Josef Müller-Brockmann",
     "description": "A festival poster that codifies the principles of Swiss graphic design through mathematical grid organization. Type and image are integrated through geometric relationships rather than decorative arrangement. The sans-serif typography and asymmetrical layout create visual tension while maintaining perfect structural balance, demonstrating how systematic design can generate dynamic compositions.",
-    "significance": "This poster established the methodological foundation for modern information design — students learn that grids enable rather than restrict creative expression. It proves that reducing visual elements to their essential functions amplifies rather than diminishes communicative power.",
+    "significance": "This poster established the methodological foundation for modern information design — it reveals that grids enable rather than restrict creative expression. It proves that reducing visual elements to their essential functions amplifies rather than diminishes communicative power.",
     "connections": [
       {
         "id": 154,
@@ -6368,7 +6368,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": null,
     "description": "A chair that explodes the conventions of seating through radical formal disruption. Shire combines geometric shapes — sphere, cylinder, pyramid — in impossible relationships that prioritize symbolic meaning over ergonomic logic. The vivid color palette and angular composition create visual tension rather than physical comfort, transforming furniture into sculptural statement.",
-    "significance": "Students encounter furniture as conceptual argument rather than functional solution — the chair demonstrates how postmodern design challenges rather than serves user expectations. It shows that objects can communicate ideas about culture, identity, and artistic rebellion through pure formal language.",
+    "significance": "The work presents furniture as conceptual argument rather than functional solution — the chair demonstrates how postmodern design challenges rather than serves user expectations. It shows that objects can communicate ideas about culture, identity, and artistic rebellion through pure formal language.",
     "connections": [
       {
         "id": 12,
@@ -6415,7 +6415,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Javier Mariscal",
     "description": "A serving trolley that transforms domestic service into theatrical performance through cartoon-like figuration. Mariscal's design anthropomorphizes the functional object — wheels become feet, the frame suggests a dancing figure, handles imply gesturing arms. The bright colors and expressive form reject the neutral efficiency of modernist service furniture, making hospitality into visual entertainment.",
-    "significance": "Students see how postmodern design injects personality into anonymous objects — the trolley demonstrates that function can be enhanced rather than compromised by emotional engagement. It shows how cultural references and humor can make everyday objects memorable and meaningful.",
+    "significance": "It reveals how postmodern design injects personality into anonymous objects — the trolley demonstrates that function can be enhanced rather than compromised by emotional engagement. It shows how cultural references and humor can make everyday objects memorable and meaningful.",
     "connections": [
       {
         "id": 156,
@@ -6902,7 +6902,7 @@ export const ARCHIVE = [
     "movement": "Bauhaus Typography",
     "wikiTitle": "Herbert Bayer",
     "description": "Bayer's promotional brochure for Marcel Breuer's tubular steel furniture demonstrates how sans-serif typography and asymmetrical composition could sell industrial products as lifestyle objects. The layout uses photomontage and geometric organization to argue that machine-made furniture represents social progress, not just functional efficiency. Typography becomes a tool for modernist ideology, transforming commercial material into cultural manifesto.",
-    "significance": "Shows how graphic design shapes public reception of industrial objects. Students learn how typography can construct meaning around products, making functional arguments appear inevitable rather than chosen. Essential for understanding how Bauhaus visual language sold modernism to middle-class consumers.",
+    "significance": "Shows how graphic design shapes public reception of industrial objects. The work reveals how typography can construct meaning around products, making functional arguments appear inevitable rather than chosen. Essential for understanding how Bauhaus visual language sold modernism to middle-class consumers.",
     "connections": [
       {
         "id": 54,
@@ -6949,7 +6949,7 @@ export const ARCHIVE = [
     "movement": "Post-War Reconstruction",
     "wikiTitle": null,
     "description": "Selmanagic's chair demonstrates how Bauhaus tubular steel principles adapted to post-war material shortages and institutional needs. The simplified cantilever construction reduces Breuer's B32 model to essential structural elements while maintaining ergonomic performance. Chrome steel tubing supports a minimal seat and back, proving that modernist functionality could survive political disruption and resource constraints.",
-    "significance": "Shows how design principles transfer across historical ruptures. Students see how formal reduction can result from ideological commitment and practical necessity equally. Critical for understanding how modernism reconstructed itself in post-fascist Europe.",
+    "significance": "Shows how design principles transfer across historical ruptures. It reveals how formal reduction can result from ideological commitment and practical necessity equally. Critical for understanding how modernism reconstructed itself in post-fascist Europe.",
     "connections": [
       {
         "id": 61,
@@ -6996,12 +6996,12 @@ export const ARCHIVE = [
     "movement": "Bauhaus Pedagogy",
     "wikiTitle": "Alma Siedhoff-Buscher",
     "description": "Siedhoff-Buscher's wooden ship construction set applies Bauhaus educational theory to children's play. Primary geometric forms in bright colors can be assembled into multiple configurations, teaching spatial relationships and systematic thinking through manipulation. The toy embodies Bauhaus belief that design education should begin in childhood, using abstract form to develop analytical capabilities rather than representing specific objects.",
-    "significance": "Demonstrates how design pedagogy shaped product development. Students learn how educational theory becomes material practice, and how abstract principles translate into concrete learning tools. Essential for understanding design's role in social formation.",
+    "significance": "Demonstrates how design pedagogy shaped product development. The work reveals how educational theory becomes material practice, and how abstract principles translate into concrete learning tools. Essential for understanding design's role in social formation.",
     "connections": [
       {
         "id": 7,
         "type": "method",
-        "reason": "Both use systematic reduction to essential geometric forms for educational purposes — Siedhoff-Buscher teaches spatial reasoning to children, Bill and Gugelot teach design principles to students"
+        "reason": "Both use systematic reduction to essential geometric forms for educational purposes — Siedhoff-Buscher teaches spatial reasoning to children, Bill and Gugelot teach design principles to designers"
       },
       {
         "id": 24,
@@ -7043,7 +7043,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
     "description": "Morris's furnishing fabric demonstrates Arts and Crafts principles through complex hand-block printing that achieves naturalistic representation via stylized pattern. Birds and flowering plants interweave across the textile surface, creating continuous ornamental fields that deny machine production's geometric repetition. The indigo discharge printing process requires multiple stages of dyeing and bleaching, making each yard a demonstration of craft skill against industrial efficiency.",
-    "significance": "Shows how ornamental complexity can function as political resistance to industrial standardization. Students understand how pattern design embeds social arguments about labor, beauty, and human value. Fundamental for grasping how decoration operates as critique.",
+    "significance": "Shows how ornamental complexity can function as political resistance to industrial standardization. It clarifies how pattern design embeds social arguments about labor, beauty, and human value. Fundamental for grasping how decoration operates as critique.",
     "connections": [
       {
         "id": 172,
@@ -7090,7 +7090,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
     "description": "Morris's most complex textile design requires multiple hand-block printing stages to achieve its naturalistic bird and fruit motifs. The pattern depicts thrushes stealing strawberries in Morris's garden at Kelmscott, transforming observed behavior into continuous ornamental narrative. Indigo discharge printing allows multiple colors while maintaining the deep blue ground, creating visual depth that mechanical printing cannot achieve. Each repeat demonstrates craft mastery over industrial efficiency.",
-    "significance": "Exemplifies how ornamental design can encode social and political meaning through making processes. Students learn how pattern complexity functions as resistance to industrial rationalization. Critical for understanding decoration as ideological practice, not mere surface treatment.",
+    "significance": "Exemplifies how ornamental design can encode social and political meaning through making processes. The work reveals how pattern complexity functions as resistance to industrial rationalization. Critical for understanding decoration as ideological practice, not mere surface treatment.",
     "connections": [
       {
         "id": 171,
@@ -7137,7 +7137,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": null,
     "description": "Morris's Indian wallpaper employs dense, interlacing botanical forms derived from medieval manuscripts and Persian textiles. The pattern uses flat colour planes without perspective to create an all-over field that denies hierarchy between figure and ground. This approach rejects industrial wallpaper's mechanical repetition in favour of hand-drawn irregularities that reveal human craft.",
-    "significance": "Students need to understand how Morris used pattern density to argue against industrial aesthetics — showing that visual complexity could embody moral complexity. The wallpaper demonstrates how Arts and Crafts designers weaponised historical reference against contemporary mass production.",
+    "significance": "It is important to understand how Morris used pattern density to argue against industrial aesthetics — showing that visual complexity could embody moral complexity. The wallpaper demonstrates how Arts and Crafts designers weaponised historical reference against contemporary mass production.",
     "connections": [
       {
         "id": 109,
@@ -7184,7 +7184,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": null,
     "description": "Lea fabric employs Morris's signature diagonal stem pattern with flowering branches that create rhythmic movement across the textile surface. The design uses indigo discharge printing on cotton to achieve white motifs against blue grounds, a technique Morris mastered at Merton Abbey. Each repeat shows slight variations that reveal the hand-guided printing process while maintaining overall pattern coherence.",
-    "significance": "Students need to understand how Morris translated wallpaper patterns into textile production, adapting his botanical vocabulary to different manufacturing constraints. Lea demonstrates how Arts and Crafts designers maintained craft principles while scaling up production — a tension central to design reform.",
+    "significance": "It is important to understand how Morris translated wallpaper patterns into textile production, adapting his botanical vocabulary to different manufacturing constraints. Lea demonstrates how Arts and Crafts designers maintained craft principles while scaling up production — a tension central to design reform.",
     "connections": [
       {
         "id": 177,
@@ -7231,7 +7231,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": null,
     "description": "Wreath wallpaper organises Morris's botanical motifs into circular formations that create geometric order within natural representation. The design employs a more controlled repeat structure than Morris's earlier patterns, with wreaths forming regular intervals across the wall surface. Each wreath contains carefully balanced asymmetries that prevent mechanical repetition while maintaining overall structural clarity.",
-    "significance": "Students should recognise how Morris evolved toward geometric discipline without abandoning natural reference — Wreath shows Arts and Crafts design developing systematic approaches to pattern organisation. This evolution prefigures modernist concerns with structural clarity while maintaining decorative richness.",
+    "significance": "Viewers should recognise how Morris evolved toward geometric discipline without abandoning natural reference — Wreath shows Arts and Crafts design developing systematic approaches to pattern organisation. This evolution prefigures modernist concerns with structural clarity while maintaining decorative richness.",
     "connections": [
       {
         "id": 24,
@@ -7278,7 +7278,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": null,
     "description": "Wandle fabric features flowing river-like stems with large-scale floral motifs printed using madder root dyes on cotton. The pattern employs Morris's characteristic diagonal movement but at a larger scale than his wallpapers, adapted for textile draping and interior use. Named after the River Wandle near Morris's Merton Abbey workshop, the design embodies his connection between local landscape and craft production.",
-    "significance": "Students must understand how Morris adapted his design vocabulary across different media and scales — Wandle shows how pattern designers must consider material behaviour and end use. The fabric demonstrates Arts and Crafts integration of place, process, and pattern in a single design philosophy.",
+    "significance": "One must understand how Morris adapted his design vocabulary across different media and scales — Wandle shows how pattern designers must consider material behaviour and end use. The fabric demonstrates Arts and Crafts integration of place, process, and pattern in a single design philosophy.",
     "connections": [
       {
         "id": 175,
@@ -7325,7 +7325,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
     "description": "Morris's first wallpaper design uses a simple lattice structure of rose stems to create infinite repeat without visible joins. The naturalistic drawing is constrained by geometric logic — each intersection point anchors the pattern's mathematical progression while botanical accuracy maintains visual believability. Block-printed by hand using traditional methods, it rejected machine production's mechanical perfection for craft irregularities.",
-    "significance": "This establishes the Arts and Crafts method of reconciling industrial pattern requirements with pre-industrial making processes. Students learn how systematic thinking can coexist with handcraft values, and how geometric structure enables rather than constrains natural representation.",
+    "significance": "This establishes the Arts and Crafts method of reconciling industrial pattern requirements with pre-industrial making processes. The work reveals how systematic thinking can coexist with handcraft values, and how geometric structure enables rather than constrains natural representation.",
     "connections": [
       {
         "id": 181,
@@ -7371,7 +7371,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
     "description": "Morris's mature wallpaper technique layers multiple visual depths — background texture, mid-ground foliage, and foreground branch structure create spatial complexity within a flat medium. The willow branches follow naturalistic growth patterns while conforming to repeat requirements, with each element sized to read clearly at domestic scale. Machine printing enables finer detail than earlier block printing while retaining craft-based drawing methods.",
-    "significance": "This demonstrates how traditional naturalistic representation can be systematized without losing organic believability. Students see advanced pattern-making where biological logic and manufacturing constraints produce mutual enrichment rather than compromise.",
+    "significance": "This demonstrates how traditional naturalistic representation can be systematized without losing organic believability. We see advanced pattern-making where biological logic and manufacturing constraints produce mutual enrichment rather than compromise.",
     "connections": [
       {
         "id": 178,
@@ -7417,7 +7417,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "William Morris",
     "description": "Morris combines two distinct botanical elements — architectural tulips and flowing willow branches — into a unified textile pattern through careful scale relationships and shared linear rhythm. The design uses traditional block printing on heavy furnishing fabric, with indigo discharge dyeing creating white figures against dark ground. Each botanical element retains its identifying characteristics while serving the overall pattern logic.",
-    "significance": "This teaches how multiple visual elements can be integrated through systematic design thinking without losing individual identity. Students learn that pattern unity comes from structural relationships, not formal similarity.",
+    "significance": "This teaches how multiple visual elements can be integrated through systematic design thinking without losing individual identity. The point is that pattern unity comes from structural relationships, not formal similarity.",
     "connections": [
       {
         "id": 179,
@@ -7463,7 +7463,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "Philip Webb",
     "description": "Webb's cabinet construction follows medieval joinery principles with visible mortise and tenon joints, hand-forged iron hinges, and solid oak construction. The painted decoration by Morris depicts the St. George legend across multiple panels, integrating narrative painting with architectural structure. Each decorative element — hinges, lock plates, painted scenes — contributes to both functional operation and artistic program.",
-    "significance": "This demonstrates how Arts and Crafts designers integrated multiple craft disciplines into unified objects. Students see furniture as architecture in miniature, where structural logic, decorative program, and making processes must work together rather than being applied separately.",
+    "significance": "This demonstrates how Arts and Crafts designers integrated multiple craft disciplines into unified objects. We see furniture as architecture in miniature, where structural logic, decorative program, and making processes must work together rather than being applied separately.",
     "connections": [
       {
         "id": 178,
@@ -7509,7 +7509,7 @@ export const ARCHIVE = [
     "movement": "Finnish Modernism",
     "wikiTitle": "Alvar Aalto",
     "description": "Aalto's glass forming technique creates organic curves through controlled heat manipulation rather than geometric molding. The asymmetrical flower shape emerges from the material properties of molten glass while serving the functional requirements of display and arrangement. Multiple sizes can be combined systematically while each piece retains individual character through the semi-random nature of the forming process.",
-    "significance": "This shows how modernist designers could achieve systematic production without geometric regularity. Students learn that industrial methods can incorporate controlled randomness, and that functional objects can express organic principles through making processes rather than applied decoration.",
+    "significance": "This shows how modernist designers could achieve systematic production without geometric regularity. The point is that industrial methods can incorporate controlled randomness, and that functional objects can express organic principles through making processes rather than applied decoration.",
     "connections": [
       {
         "id": 3,
@@ -7555,7 +7555,7 @@ export const ARCHIVE = [
     "movement": "Industrial Functionalism",
     "wikiTitle": "Anglepoise lamp",
     "description": "Carwardine's automotive engineering background produced a task light using spring-loaded arms that maintain balance through constant tension rather than clamping mechanisms. The articulated steel construction borrows from car suspension systems, creating infinite positioning possibilities within a compact footprint. Each joint's spring resistance exactly counteracts the weight distribution, allowing effortless repositioning with fingertip pressure.",
-    "significance": "Students learn how cross-disciplinary expertise generates breakthrough solutions — automotive engineering principles solving domestic lighting problems. The lamp demonstrates how mechanical logic can drive aesthetic outcomes, producing a form that expresses its function through visible structural honesty rather than decorative concealment.",
+    "significance": "The work reveals how cross-disciplinary expertise generates breakthrough solutions — automotive engineering principles solving domestic lighting problems. The lamp demonstrates how mechanical logic can drive aesthetic outcomes, producing a form that expresses its function through visible structural honesty rather than decorative concealment.",
     "connections": [
       {
         "id": 1,
@@ -7602,7 +7602,7 @@ export const ARCHIVE = [
     "movement": "Toy Modernism",
     "wikiTitle": "Dinky Toys",
     "description": "Meccano's die-cast Routemaster reduces London's double-decker icon to essential geometric planes and proportions while maintaining recognizable civic character. The toy's simplified detailing — flush windows, minimal surface modeling, solid color blocking — translates the bus's utilitarian architecture into child-scaled abstraction. Manufacturing constraints produce cleaner lines than the original, creating a Platonic ideal of the Routemaster form.",
-    "significance": "Students discover how manufacturing limitations can improve design clarity — die-casting's technical restrictions forcing essential form over decorative detail. The toy demonstrates how reduction and abstraction can distill complex civic objects into more powerful symbolic representations than literal reproduction.",
+    "significance": "It reveals how manufacturing limitations can improve design clarity — die-casting's technical restrictions forcing essential form over decorative detail. The toy demonstrates how reduction and abstraction can distill complex civic objects into more powerful symbolic representations than literal reproduction.",
     "connections": [
       {
         "id": 185,
@@ -7644,7 +7644,7 @@ export const ARCHIVE = [
     "movement": "Heritage Nostalgia",
     "wikiTitle": null,
     "description": "Hornby's detailed replica prioritizes historical accuracy over the geometric abstraction of earlier die-cast models. Digital manufacturing enables surface textures, authentic color schemes, and precise proportional scaling that recreates the Routemaster's utilitarian aesthetic rather than interpreting it. The model functions as cultural preservation, documenting design details that disappeared when London's original fleet was retired.",
-    "significance": "Students examine how advanced manufacturing changes the relationship between original and reproduction — digital precision enabling literal documentation while losing the interpretive power of earlier toy abstraction. The model raises questions about whether exact replication or creative reduction better serves design education and cultural memory.",
+    "significance": "It demonstrates how advanced manufacturing changes the relationship between original and reproduction — digital precision enabling literal documentation while losing the interpretive power of earlier toy abstraction. The model raises questions about whether exact replication or creative reduction better serves design education and cultural memory.",
     "connections": [
       {
         "id": 29,
@@ -7686,7 +7686,7 @@ export const ARCHIVE = [
     "movement": "Design Democracy",
     "wikiTitle": null,
     "description": "The project democratizes urban communication by distributing blank poster templates across London for public completion and redistribution. Unlike traditional top-down civic messaging, this system creates a feedback loop where citizens become both content creators and distribution network. The standardized format provides just enough structure to ensure legibility while maximizing creative freedom within established urban poster conventions.",
-    "significance": "Students learn how graphic design can enable participation rather than just communication — the template system showing how constraints can empower rather than limit creative expression. The project demonstrates graphic design's potential to build communities of practice around shared visual languages and distribution systems.",
+    "significance": "The work reveals how graphic design can enable participation rather than just communication — the template system showing how constraints can empower rather than limit creative expression. The project demonstrates graphic design's potential to build communities of practice around shared visual languages and distribution systems.",
     "connections": [
       {
         "id": 13,
@@ -7728,7 +7728,7 @@ export const ARCHIVE = [
     "movement": "Educational Toys",
     "wikiTitle": null,
     "description": "The Abbatts' puzzle reduces complex transportation scenes to bold, interlocking shapes that teach spatial relationships through physical manipulation. Unlike decorative jigsaws, the educational design prioritizes cognitive development — simplified graphics and large pieces enabling young children to understand part-to-whole relationships. The cutting pattern follows logical boundaries rather than arbitrary curves, making assembly success dependent on understanding rather than trial and error.",
-    "significance": "Students examine how educational constraints can improve design effectiveness — the pedagogical brief forcing clearer visual hierarchy and more logical construction than entertainment-focused alternatives. The puzzle demonstrates how reducing complexity can increase learning potential, showing design's capacity to build cognitive skills through guided discovery.",
+    "significance": "It demonstrates how educational constraints can improve design effectiveness — the pedagogical brief forcing clearer visual hierarchy and more logical construction than entertainment-focused alternatives. The puzzle demonstrates how reducing complexity can increase learning potential, showing design's capacity to build cognitive skills through guided discovery.",
     "connections": [
       {
         "id": 107,
@@ -8262,7 +8262,7 @@ export const ARCHIVE = [
     "movement": "Art Deco",
     "wikiTitle": null,
     "description": "Gray's geometric carpet design employs a strict grid of interlocking rectangles that function as both decorative pattern and spatial organizer. The design logic transforms the carpet from mere surface ornament into an architectural element that defines zones within a room through visual weight distribution. Each geometric unit maintains individual clarity while contributing to a larger systematic rhythm.",
-    "significance": "This design demonstrates how modernist reduction can create complexity through systematic repetition rather than ornamental accumulation. Students learn how geometric abstraction in applied arts prefigured digital design's modular thinking, showing pattern as programmable logic rather than decorative afterthought.",
+    "significance": "This design demonstrates how modernist reduction can create complexity through systematic repetition rather than ornamental accumulation. The work reveals how geometric abstraction in applied arts prefigured digital design's modular thinking, showing pattern as programmable logic rather than decorative afterthought.",
     "connections": [
       {
         "id": 13,
@@ -8309,7 +8309,7 @@ export const ARCHIVE = [
     "movement": "Art Deco",
     "wikiTitle": null,
     "description": "This carpet design demonstrates Gray's evolution from geometric rigidity toward organic abstraction, using overlapping circular forms that create visual depth through transparency effects. The circles operate as both individual elements and parts of larger compositional relationships, suggesting movement through static geometry. The design logic prioritizes visual flow over pattern repetition.",
-    "significance": "Students see how a designer develops their formal language — Gray's progression from grid-based to circular compositions shows design thinking as iterative evolution rather than stylistic jumping. The transparency effects anticipate digital design's layering capabilities, demonstrating how analog techniques prefigured screen-based composition methods.",
+    "significance": "It reveals how a designer develops their formal language — Gray's progression from grid-based to circular compositions shows design thinking as iterative evolution rather than stylistic jumping. The transparency effects anticipate digital design's layering capabilities, demonstrating how analog techniques prefigured screen-based composition methods.",
     "connections": [
       {
         "id": 200,
@@ -8356,7 +8356,7 @@ export const ARCHIVE = [
     "movement": "Late Modernism",
     "wikiTitle": null,
     "description": "Gray's articulated chair design proposes a modular seating system where individual elements can be reconfigured according to user needs and spatial constraints. The design logic treats the chair not as a fixed object but as a kit of parts that users assemble and modify. Each component maintains its structural integrity while participating in multiple possible configurations.",
-    "significance": "This design anticipates contemporary modular furniture and user-centered design thinking by forty years. Students learn how Gray's systematic approach to furniture components prefigures today's flat-pack and customizable furniture, showing modernism's potential for flexibility rather than dogmatic standardization.",
+    "significance": "This design anticipates contemporary modular furniture and user-centered design thinking by forty years. The work reveals how Gray's systematic approach to furniture components prefigures today's flat-pack and customizable furniture, showing modernism's potential for flexibility rather than dogmatic standardization.",
     "connections": [
       {
         "id": 11,
@@ -8403,7 +8403,7 @@ export const ARCHIVE = [
     "movement": "Late Modernism",
     "wikiTitle": null,
     "description": "This geometric study demonstrates Gray's investigation of pure form relationships, using intersecting linear elements to create spatial depth without perspective. The composition operates through systematic logic where each line's placement affects the overall visual structure. Gray treats the drawing as both aesthetic object and research tool for understanding geometric relationships.",
-    "significance": "Students see how designers use drawing as thinking tool rather than just presentation medium. Gray's systematic investigation of geometric relationships shows design research in action, demonstrating how formal studies inform practical applications across different media and scales.",
+    "significance": "It reveals how designers use drawing as thinking tool rather than just presentation medium. Gray's systematic investigation of geometric relationships shows design research in action, demonstrating how formal studies inform practical applications across different media and scales.",
     "connections": [
       {
         "id": 202,
@@ -8450,7 +8450,7 @@ export const ARCHIVE = [
     "movement": "International Style",
     "wikiTitle": null,
     "description": "Gray's metal frame chair design employs tubular steel construction with cantilevered support, demonstrating her engagement with International Style structural innovations. The design logic emphasizes material honesty — the steel frame provides both structural support and visual lightness while the seat and back components attach without concealing the frame's logic. The cantilever principle eliminates rear legs for spatial efficiency.",
-    "significance": "This chair shows Gray's dialogue with Bauhaus innovations while maintaining her distinctive approach to comfort and proportion. Students learn how designers adapt shared technological possibilities — tubular steel, cantilever engineering — while developing individual formal languages, demonstrating modernism as conversation rather than monolith.",
+    "significance": "This chair shows Gray's dialogue with Bauhaus innovations while maintaining her distinctive approach to comfort and proportion. The work reveals how designers adapt shared technological possibilities — tubular steel, cantilever engineering — while developing individual formal languages, demonstrating modernism as conversation rather than monolith.",
     "connections": [
       {
         "id": 54,
@@ -8539,7 +8539,7 @@ export const ARCHIVE = [
     "movement": "Japanese Modernism",
     "wikiTitle": "Sori Yanagi",
     "description": "Two identical curved plywood shells joined only at their touching edges, creating a seat through tension rather than traditional joinery. The organic curves distribute the user's weight across the plywood's grain structure while the central gap provides visual and physical lightness. The form emerges from plywood's natural bending properties rather than imposed geometric constraints.",
-    "significance": "Demonstrates how traditional Japanese material sensitivity could inform modern production methods. Shows students that modernist reduction doesn't require geometric abstraction - organic forms can achieve equal structural and visual efficiency while maintaining cultural resonance.",
+    "significance": "Demonstrates how traditional Japanese material sensitivity could inform modern production methods. It demonstrates that modernist reduction doesn't require geometric abstraction - organic forms can achieve equal structural and visual efficiency while maintaining cultural resonance.",
     "connections": [
       {
         "id": 1,
@@ -8633,7 +8633,7 @@ export const ARCHIVE = [
     "movement": "Japanese Postmodernism",
     "wikiTitle": null,
     "description": "This armchair consists of expanded steel mesh welded into a traditional club chair form, creating a paradox where industrial material assumes domestic comfort. The mesh appears to dematerialise the chair's volume while maintaining its structural integrity. Kuramata's technique dissolves the boundary between object and space, making the chair simultaneously present and absent.",
-    "significance": "Students learn how material choice can fundamentally alter an object's relationship to space and perception. This demonstrates how postmodern designers questioned modernist assumptions about material honesty by using industrial materials to create poetic rather than functional effects.",
+    "significance": "The work reveals how material choice can fundamentally alter an object's relationship to space and perception. This demonstrates how postmodern designers questioned modernist assumptions about material honesty by using industrial materials to create poetic rather than functional effects.",
     "connections": [
       {
         "id": 149,
@@ -8680,7 +8680,7 @@ export const ARCHIVE = [
     "movement": "Japanese Radical Design",
     "wikiTitle": null,
     "description": "These drawers abandon orthogonal geometry for curved, organic forms that seem to bulge and contract like living tissue. Each drawer operates independently with no visible hardware, creating the illusion that they emerge from and disappear into the cabinet body. The piece functions as storage while questioning the rational organisation principles that typically govern furniture.",
-    "significance": "Students see how radical designers challenged the modernist equation of function with geometric rationality. This piece demonstrates how furniture can maintain utility while completely rejecting the visual language of efficiency and order.",
+    "significance": "It reveals how radical designers challenged the modernist equation of function with geometric rationality. This piece demonstrates how furniture can maintain utility while completely rejecting the visual language of efficiency and order.",
     "connections": [
       {
         "id": 208,
@@ -8727,7 +8727,7 @@ export const ARCHIVE = [
     "movement": "Postmodern Textile",
     "wikiTitle": null,
     "description": "A furnishing fabric that uses digital technology to create patterns impossible through traditional weaving methods. The design exploits computer-controlled printing to layer transparent effects and complex color gradations. The 'tracer' name references both the visual effect and the technological process that enables it.",
-    "significance": "Demonstrates how digital tools expand design possibilities beyond mechanical constraints. Shows students how technology creates new aesthetic territories while maintaining functional requirements like durability and washability.",
+    "significance": "Demonstrates how digital tools expand design possibilities beyond mechanical constraints. It reveals how technology creates new aesthetic territories while maintaining functional requirements like durability and washability.",
     "connections": [
       {
         "id": 12,
@@ -8769,7 +8769,7 @@ export const ARCHIVE = [
     "movement": "British Pop",
     "wikiTitle": null,
     "description": "A fabric pattern that applies Pop Art sensibilities to domestic textiles. The design uses bold, simplified forms and high-contrast colors that remain readable when printed on fabric and viewed from various distances. The motifs are scaled to work effectively on both small accessories and large furnishing applications.",
-    "significance": "Shows how Pop Art principles translate to functional objects — bold graphics that work at domestic scales. Teaches students about designing across multiple applications while maintaining visual coherence.",
+    "significance": "Shows how Pop Art principles translate to functional objects — bold graphics that work at domestic scales. It demonstrates about designing across multiple applications while maintaining visual coherence.",
     "connections": [
       {
         "id": 15,
@@ -8811,7 +8811,7 @@ export const ARCHIVE = [
     "movement": "Victorian Orientalism",
     "wikiTitle": null,
     "description": "A carpet design that commodifies colonial imagery for British domestic consumption during the Indian Rebellion. The pattern transforms military conflict into decorative motifs, using traditional carpet-making techniques to reproduce orientalist fantasies. The Halifax manufacturer adapts Eastern visual languages to Western production methods and market demands.",
-    "significance": "Reveals how design participates in colonial ideology — transforming political domination into consumable decoration. Shows students how manufacturers adapt foreign visual cultures to domestic markets, raising questions about cultural appropriation and representation.",
+    "significance": "Reveals how design participates in colonial ideology — transforming political domination into consumable decoration. It reveals how manufacturers adapt foreign visual cultures to domestic markets, raising questions about cultural appropriation and representation.",
     "connections": [
       {
         "id": 110,
@@ -8858,7 +8858,7 @@ export const ARCHIVE = [
     "movement": "Victorian Orientalism",
     "wikiTitle": "Owen Jones (architect)",
     "description": "Jones abstracts Islamic geometric patterns into modular tile designs that could be manufactured using industrial printing methods. The drawings systematise complex ornamental systems into repeatable units, translating hand-crafted tradition into mechanised production. Each design demonstrates how mathematical principles underlying Islamic art could be adapted for Victorian commercial decoration.",
-    "significance": "Shows how 19th-century designers appropriated and systematised non-Western design languages for industrial production. Students learn how pattern design bridges cultural analysis and manufacturing constraints, and how geometric abstraction enables mass reproduction of complex ornamental systems.",
+    "significance": "Shows how 19th-century designers appropriated and systematised non-Western design languages for industrial production. The work reveals how pattern design bridges cultural analysis and manufacturing constraints, and how geometric abstraction enables mass reproduction of complex ornamental systems.",
     "connections": [
       {
         "id": 13,
@@ -8900,7 +8900,7 @@ export const ARCHIVE = [
     "movement": "British Modernism",
     "wikiTitle": "Robin Day",
     "description": "Day develops his earlier polypropylene chair research into an armchair variant, demonstrating how a single material and forming process can generate multiple furniture typologies. The injection-moulded shell integrates seat, back, and armrests into one structural element, eliminating joints and reducing manufacturing complexity. The design proves polypropylene's versatility beyond basic seating.",
-    "significance": "Shows how material research drives design development and product family thinking. Students learn how a single technological breakthrough enables systematic exploration of formal and functional variations, and how industrial processes shape design possibilities.",
+    "significance": "Shows how material research drives design development and product family thinking. The work reveals how a single technological breakthrough enables systematic exploration of formal and functional variations, and how industrial processes shape design possibilities.",
     "connections": [
       {
         "id": 220,
@@ -8947,7 +8947,7 @@ export const ARCHIVE = [
     "movement": "British Modernism",
     "wikiTitle": "Robin Day",
     "description": "Day pioneers the use of polypropylene for furniture, creating the first successful injection-moulded plastic chair. The single-shell construction eliminates traditional joinery, with the material's flexibility providing structural resilience. The design exploits polypropylene's ability to be moulded into complex curves while maintaining strength, creating a chair that is both lightweight and durable.",
-    "significance": "Demonstrates how new materials enable new design possibilities and manufacturing methods. Students learn how material properties directly influence form and construction logic, and how breakthrough designs often result from matching innovative materials with appropriate manufacturing processes.",
+    "significance": "Demonstrates how new materials enable new design possibilities and manufacturing methods. The work reveals how material properties directly influence form and construction logic, and how breakthrough designs often result from matching innovative materials with appropriate manufacturing processes.",
     "connections": [
       {
         "id": 219,
@@ -8994,7 +8994,7 @@ export const ARCHIVE = [
     "movement": "British Modernism",
     "wikiTitle": null,
     "description": "Day's stacking chair uses bent plywood construction with a continuous seat-back form, demonstrating how British makers adapted Scandinavian plywood techniques for institutional use. The chair's geometry prioritizes storage efficiency—its tapered profile allows multiple units to nest compactly. The design proves that functional stacking doesn't require sacrificing the flowing lines of organic modernism.",
-    "significance": "Shows students how constraint-driven design (the stacking requirement) can generate formal innovation rather than compromise it. Demonstrates the British approach to democratizing Scandinavian modernism through institutional furniture.",
+    "significance": "It reveals how constraint-driven design (the stacking requirement) can generate formal innovation rather than compromise it. Demonstrates the British approach to democratizing Scandinavian modernism through institutional furniture.",
     "connections": [
       {
         "id": 8,
@@ -9041,7 +9041,7 @@ export const ARCHIVE = [
     "movement": "British Consumer Electronics",
     "wikiTitle": null,
     "description": "Day's television cabinet transforms the domestic TV from technical appliance to furniture object through careful proportioning and material choice. The wooden case uses traditional joinery methods to domesticate new electronic technology. The design deliberately emphasizes the screen as window rather than highlighting the technical apparatus, making television viewing feel like looking through furniture rather than at machinery.",
-    "significance": "Teaches students how designers mediate between new technology and existing domestic culture. Shows the importance of casing design in making radical technologies socially acceptable through familiar material languages.",
+    "significance": "It demonstrates how designers mediate between new technology and existing domestic culture. Shows the importance of casing design in making radical technologies socially acceptable through familiar material languages.",
     "connections": [
       {
         "id": 16,
@@ -9088,7 +9088,7 @@ export const ARCHIVE = [
     "movement": "British Consumer Electronics",
     "wikiTitle": null,
     "description": "Day's portable radio uses clean geometric forms and restrained detailing that align with 1960s functionalist aesthetics while maintaining accessibility. The control layout prioritizes intuitive operation over technical display. Unlike German functionalism, Day's approach retains warmth through material choice and proportioning, making modern design principles palatable to British consumers who remained skeptical of stark minimalism.",
-    "significance": "Demonstrates how designers adapt international modernist principles to local market preferences. Shows students the difference between ideological functionalism and commercial functionalism—both modern, but serving different cultural purposes.",
+    "significance": "Demonstrates how designers adapt international modernist principles to local market preferences. It reveals the difference between ideological functionalism and commercial functionalism—both modern, but serving different cultural purposes.",
     "connections": [
       {
         "id": 13,
@@ -9135,7 +9135,7 @@ export const ARCHIVE = [
     "movement": "British Post-war Modernism",
     "wikiTitle": null,
     "description": "Day's modular storage system uses standardized components that combine into multiple configurations, addressing post-war housing's demand for flexible, space-efficient furniture. The design employs industrial materials and construction methods to achieve economy while maintaining clean modernist aesthetics. Each component serves multiple functions—shelves become room dividers, units stack or extend horizontally—demonstrating systematic thinking applied to domestic storage.",
-    "significance": "Shows students how social conditions (housing shortage, changing lifestyles) drive design innovation. Demonstrates early application of systems thinking to furniture—predating but paralleling German approaches like Rams' 606 system.",
+    "significance": "It reveals how social conditions (housing shortage, changing lifestyles) drive design innovation. Demonstrates early application of systems thinking to furniture—predating but paralleling German approaches like Rams' 606 system.",
     "connections": [
       {
         "id": 11,
@@ -9182,7 +9182,7 @@ export const ARCHIVE = [
     "movement": "British Textile Modernism",
     "wikiTitle": null,
     "description": "Day's carpet pattern uses controlled geometric abstraction with organic influences, balancing modernist principles with domestic warmth. The design employs a limited color palette and systematic repetition that creates visual rhythm without overwhelming interior spaces. Unlike purely geometric patterns, Leo's forms suggest natural growth while maintaining the clarity required for machine production.",
-    "significance": "Shows students how modernist abstraction translates to textiles—requiring different formal strategies than furniture or product design. Demonstrates the British approach to pattern-making that mediates between continental geometric severity and traditional floral decoration.",
+    "significance": "It reveals how modernist abstraction translates to textiles—requiring different formal strategies than furniture or product design. Demonstrates the British approach to pattern-making that mediates between continental geometric severity and traditional floral decoration.",
     "connections": [
       {
         "id": 109,
@@ -9887,7 +9887,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
     "description": "Day's ceramic plate design translates botanical observation into abstracted surface pattern through selective color reduction and rhythmic repetition. The columbine flowers become geometric scaffolding for exploring positive-negative space relationships on the circular format. Her approach demonstrates how natural forms can be systematically processed into modern decorative schemes without losing organic vitality.",
-    "significance": "Students understand how pattern design mediates between natural observation and industrial production. Day's work shows that decorative arts can advance modernist formal investigations while remaining commercially viable and domestically functional.",
+    "significance": "It clarifies how pattern design mediates between natural observation and industrial production. Day's work shows that decorative arts can advance modernist formal investigations while remaining commercially viable and domestically functional.",
     "connections": [
       {
         "id": 242,
@@ -9928,7 +9928,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
     "description": "Day organizes summer flora into a hierarchical composition that balances botanical accuracy with decorative abstraction. The design demonstrates how seasonal themes can structure pattern organization while maintaining the circular plate format's visual coherence. Her systematic approach to natural motifs creates rhythmic density without compositional chaos.",
-    "significance": "Students learn how thematic constraints can generate formal innovation in pattern design. The work shows how seasonal cycles provide both conceptual framework and marketing logic for decorative arts production.",
+    "significance": "The work reveals how thematic constraints can generate formal innovation in pattern design. The work shows how seasonal cycles provide both conceptual framework and marketing logic for decorative arts production.",
     "connections": [
       {
         "id": 243,
@@ -9964,7 +9964,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
     "description": "Day's spring plate employs delicate line work and sparse composition to evoke seasonal emergence through visual restraint. The design demonstrates how botanical selection and spacing can create temporal associations without literal representation. Her approach shows pattern design as a system of visual codes that reference natural cycles through formal relationships rather than pictorial accuracy.",
-    "significance": "Students understand how decorative arts can encode temporal experience through formal means. Day's seasonal series demonstrates that pattern design operates as a sophisticated visual language capable of complex cultural communication.",
+    "significance": "It clarifies how decorative arts can encode temporal experience through formal means. Day's seasonal series demonstrates that pattern design operates as a sophisticated visual language capable of complex cultural communication.",
     "connections": [
       {
         "id": 244,
@@ -10005,7 +10005,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
     "description": "Day's winter plate employs stark linear structures and reduced botanical forms to evoke seasonal dormancy through compositional clarity. The design demonstrates how pattern density and structural emphasis can reference natural cycles without seasonal clichés. Her systematic reduction of organic forms to essential structural relationships creates decorative meaning through formal restraint rather than symbolic representation.",
-    "significance": "Students learn how pattern design can achieve conceptual sophistication through formal reduction. Day's approach shows that decorative arts can engage with complex themes while maintaining commercial viability and functional clarity.",
+    "significance": "The work reveals how pattern design can achieve conceptual sophistication through formal reduction. Day's approach shows that decorative arts can engage with complex themes while maintaining commercial viability and functional clarity.",
     "connections": [
       {
         "id": 24,
@@ -10276,7 +10276,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "A furnishing fabric featuring an abstract pattern of intersecting lines and geometric forms printed on cotton. The design uses a restricted palette to create rhythmic visual movement through the repetition of angular motifs. Day's approach eliminates traditional floral decoration in favor of contemporary graphic abstraction.",
-    "significance": "Demonstrates how post-war British design synthesized modernist abstraction with domestic comfort. Shows students how pattern design can communicate cultural optimism through formal innovation rather than nostalgic reference.",
+    "significance": "Demonstrates how post-war British design synthesized modernist abstraction with domestic comfort. It reveals how pattern design can communicate cultural optimism through formal innovation rather than nostalgic reference.",
     "connections": [
       {
         "id": 193,
@@ -10323,7 +10323,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "A wallpaper design employing abstract linear motifs arranged in a loose grid structure. The pattern uses fine black lines on white ground to create spatial ambiguity through overlapping geometric forms. Day's approach transforms wall covering from decorative backdrop to active visual element.",
-    "significance": "Establishes how modernist abstraction could be domesticated for middle-class interiors without losing its radical formal properties. Teaches students that pattern design operates as spatial architecture, not mere surface decoration.",
+    "significance": "Establishes how modernist abstraction could be domesticated for middle-class interiors without losing its radical formal properties. It demonstrates that pattern design operates as spatial architecture, not mere surface decoration.",
     "connections": [
       {
         "id": 115,
@@ -10370,7 +10370,7 @@ export const ARCHIVE = [
     "movement": "Late Career Craft Revival",
     "wikiTitle": null,
     "description": "A large-scale textile hanging employing screen printing and hand-painting techniques to create flowing abstract forms. The work abandons Day's earlier geometric precision for gestural, painterly marks that suggest natural movement. Blue pigments dominate the composition, creating atmospheric depth through tonal variation.",
-    "significance": "Documents how established modernist designers responded to 1980s craft revival by abandoning systematic pattern for expressive gesture. Shows students the tension between commercial design logic and artistic expression within a single career.",
+    "significance": "Documents how established modernist designers responded to 1980s craft revival by abandoning systematic pattern for expressive gesture. It reveals the tension between commercial design logic and artistic expression within a single career.",
     "connections": [
       {
         "id": 12,
@@ -10417,7 +10417,7 @@ export const ARCHIVE = [
     "movement": "Pre-war Modernism",
     "wikiTitle": null,
     "description": "An early textile design featuring simplified floral motifs arranged in regular repeat. The pattern reduces natural forms to essential geometric shapes while maintaining recognizable botanical reference. Day's approach bridges traditional English textile decoration with emerging modernist simplification.",
-    "significance": "Documents the evolution of British pattern design from Arts and Crafts naturalism toward modernist abstraction. Demonstrates to students how designers develop visual languages through gradual formal reduction rather than sudden stylistic breaks.",
+    "significance": "Documents the evolution of British pattern design from Arts and Crafts naturalism toward modernist abstraction. Demonstrates how designers develop visual languages through gradual formal reduction rather than sudden stylistic breaks.",
     "connections": [
       {
         "id": 109,
@@ -10464,7 +10464,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Design",
     "wikiTitle": "Kenneth Grange",
     "description": "A cylindrical door handle machined from solid aluminum with a brushed finish. The form reduces the door handle to its essential functional requirements: grip diameter, leverage mechanics, and material durability. Grange eliminates decorative elements in favor of precise engineering and tactile quality.",
-    "significance": "Demonstrates how industrial design thinking applies to architectural hardware, prioritizing ergonomics and manufacturing logic over decorative tradition. Shows students that even mundane objects can embody sophisticated design philosophy through material choice and formal precision.",
+    "significance": "Demonstrates how industrial design thinking applies to architectural hardware, prioritizing ergonomics and manufacturing logic over decorative tradition. It demonstrates that even mundane objects can embody sophisticated design philosophy through material choice and formal precision.",
     "connections": [
       {
         "id": 5,
@@ -10746,7 +10746,7 @@ export const ARCHIVE = [
     "movement": "British Systems Design",
     "wikiTitle": null,
     "description": "Three hook variants demonstrate modular thinking: W1's single point, WH's extended arm, and W75's multiple mounting system share identical manufacturing logic but address different spatial requirements. Each uses die-cast aluminium construction with consistent formal vocabulary, proving that systematic design can accommodate functional diversity without aesthetic compromise.",
-    "significance": "Shows students how constraint-based design generates coherent product families. Demonstrates that systems thinking applies at micro scale — even simple hooks can embody rational design methodology.",
+    "significance": "It reveals how constraint-based design generates coherent product families. Demonstrates that systems thinking applies at micro scale — even simple hooks can embody rational design methodology.",
     "connections": [
       {
         "id": 11,
@@ -10793,7 +10793,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Social Design",
     "wikiTitle": null,
     "description": "Screen print updating road signage iconography to challenge gender assumptions in public space. Uses the visual authority of standardized transport graphics to make political argument about workplace equality, demonstrating how established design systems can be critically appropriated.",
-    "significance": "Teaches students that information design is never neutral — even the most systematic graphics encode social assumptions. Shows how designers can use established visual languages critically to challenge their embedded biases.",
+    "significance": "It demonstrates that information design is never neutral — even the most systematic graphics encode social assumptions. Shows how designers can use established visual languages critically to challenge their embedded biases.",
     "connections": [
       {
         "id": 13,
@@ -10840,7 +10840,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": "Festival of Britain",
     "description": "Games employs a symbolic language of reconstruction through geometric forms that celebrate Britain's technological optimism. The poster's crystalline structure and atomic imagery position modern design as both scientific and celebratory, using abstraction to communicate national renewal.",
-    "significance": "Students learn how state patronage shaped modernist visual language in post-war Britain, demonstrating design's role in constructing collective identity. The poster shows how geometric abstraction became a tool for communicating progress and social reconstruction.",
+    "significance": "The work reveals how state patronage shaped modernist visual language in post-war Britain, demonstrating design's role in constructing collective identity. The poster shows how geometric abstraction became a tool for communicating progress and social reconstruction.",
     "connections": [
       {
         "id": 13,
@@ -10882,7 +10882,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "Clissold translates the Festival's architectural and graphic vocabulary into textile form, demonstrating how modernist abstraction could function across scales from buildings to accessories. The design system creates pattern through repetition while maintaining geometric clarity.",
-    "significance": "Shows students how design movements establish consistent visual languages across disciplines and scales. This scarf demonstrates the democratisation of modernist aesthetics through consumer goods during post-war reconstruction.",
+    "significance": "It reveals how design movements establish consistent visual languages across disciplines and scales. This scarf demonstrates the democratisation of modernist aesthetics through consumer goods during post-war reconstruction.",
     "connections": [
       {
         "id": 263,
@@ -10929,7 +10929,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "Odell transforms molecular diagrams into decorative pattern, demonstrating how scientific imagery became a source for modernist design vocabulary. The wallpaper makes visible the atomic structure underlying post-war optimism about technology and progress.",
-    "significance": "Students see how designers translated scientific knowledge into domestic decoration, showing design's role in popularising technological literacy. The pattern demonstrates modernism's faith in making the invisible structures of modernity aesthetically available.",
+    "significance": "It reveals how designers translated scientific knowledge into domestic decoration, showing design's role in popularising technological literacy. The pattern demonstrates modernism's faith in making the invisible structures of modernity aesthetically available.",
     "connections": [
       {
         "id": 263,
@@ -10976,7 +10976,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "Fraser combines commercial advertising with Festival iconography, demonstrating how corporate communications adapted to modernist visual languages. The poster integrates brand identity with architectural and cultural celebration, showing design's role in connecting commerce to collective experience.",
-    "significance": "Students learn how advertising design negotiates between commercial imperatives and cultural movements. The poster shows how brands positioned themselves within moments of national celebration and modernist transformation.",
+    "significance": "The work reveals how advertising design negotiates between commercial imperatives and cultural movements. The poster shows how brands positioned themselves within moments of national celebration and modernist transformation.",
     "connections": [
       {
         "id": 263,
@@ -11023,7 +11023,7 @@ export const ARCHIVE = [
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
     "description": "Webster creates pattern through systematic repetition of organic forms, balancing modernist geometric logic with naturalistic motifs. The design demonstrates how Festival-era textiles maintained connection to British landscape traditions while embracing contemporary production methods.",
-    "significance": "Students understand how designers navigate between traditional craft patterns and modernist systematic thinking. The fabric shows how Festival style created uniquely British modernism by synthesising geometric order with organic reference.",
+    "significance": "It clarifies how designers navigate between traditional craft patterns and modernist systematic thinking. The fabric shows how Festival style created uniquely British modernism by synthesising geometric order with organic reference.",
     "connections": [
       {
         "id": 264,
@@ -11196,7 +11196,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": null,
     "description": "A furnishing fabric that reduces decoration to its essential geometric components through precise stripe patterns. The design demonstrates how systematic repetition can create visual impact without figurative imagery. The mechanical precision of the stripes reflects post-war British design's embrace of industrial aesthetics.",
-    "significance": "Shows how geometric abstraction became a viable alternative to traditional pattern-making in 1950s Britain. Students learn how systematic repetition can create sophisticated visual effects while remaining economically producible through industrial processes.",
+    "significance": "Shows how geometric abstraction became a viable alternative to traditional pattern-making in 1950s Britain. The work reveals how systematic repetition can create sophisticated visual effects while remaining economically producible through industrial processes.",
     "connections": [
       {
         "id": 6,
@@ -11243,7 +11243,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": null,
     "description": "A ceramic bowl that demonstrates Conran's approach to modernizing British tableware through simplified forms and restrained decoration. The design balances functional requirements with contemporary aesthetic sensibilities. The bowl shows how industrial pottery could embrace modernist principles while remaining commercially viable.",
-    "significance": "Illustrates how British designers adapted Scandinavian functionalism for mass production in Staffordshire potteries. Students learn how modernist principles were translated into accessible domestic objects during Britain's economic recovery.",
+    "significance": "Illustrates how British designers adapted Scandinavian functionalism for mass production in Staffordshire potteries. The work reveals how modernist principles were translated into accessible domestic objects during Britain's economic recovery.",
     "connections": [
       {
         "id": 16,
@@ -11290,7 +11290,7 @@ export const ARCHIVE = [
     "movement": "British Contemporary Style",
     "wikiTitle": null,
     "description": "A ceramic plate featuring stylized botanical motifs that demonstrate Conran's approach to decorative modernism. The design abstracts natural forms into simplified patterns suitable for ceramic production. This work shows how British designers maintained decorative traditions while embracing modernist reduction principles.",
-    "significance": "Shows how organic ornament was modernized for post-war British manufacture, balancing popular appeal with contemporary aesthetics. Students see how designers negotiated between decorative tradition and modernist reduction in mass-produced ceramics.",
+    "significance": "Shows how organic ornament was modernized for post-war British manufacture, balancing popular appeal with contemporary aesthetics. It reveals how designers negotiated between decorative tradition and modernist reduction in mass-produced ceramics.",
     "connections": [
       {
         "id": 109,
@@ -11337,7 +11337,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism Design",
     "wikiTitle": "Buckminster Fuller",
     "description": "A poster that uses Fuller's geodesic dome imagery to communicate environmental urgency through systematic geometric patterns. The design demonstrates how architectural thinking can be applied to graphic communication. Fuller's approach treats the poster as a visual system rather than decorative surface.",
-    "significance": "Shows how architectural designers approached graphic communication through systematic rather than stylistic methods. Students learn how design thinking can transfer between disciplines when based on fundamental principles rather than surface aesthetics.",
+    "significance": "Shows how architectural designers approached graphic communication through systematic rather than stylistic methods. The work reveals how design thinking can transfer between disciplines when based on fundamental principles rather than surface aesthetics.",
     "connections": [
       {
         "id": 15,
@@ -11552,7 +11552,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
     "description": "This printing block revives traditional relief printing for urgent political messaging, using the physical resistance of carved material to match the movement's confrontational stance. The block's crude materiality deliberately contrasts with digital perfection, asserting authenticity through visible making processes. Its design prioritizes rapid reproduction over refined aesthetics, enabling grassroots distribution networks.",
-    "significance": "Students see how activist design deliberately chooses 'primitive' technology to communicate authenticity and resistance to corporate media. The block demonstrates how material choice becomes ideological argument, teaching that technical limitation can be strategic advantage.",
+    "significance": "It reveals how activist design deliberately chooses 'primitive' technology to communicate authenticity and resistance to corporate media. The block demonstrates how material choice becomes ideological argument, teaching that technical limitation can be strategic advantage.",
     "connections": [
       {
         "id": 283,
@@ -11599,7 +11599,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
     "description": "This placard uses deliberately crude letterforms to communicate environmental urgency, rejecting polished typography as inappropriate to existential crisis. The irregular printing surface creates visual texture that mirrors the movement's disruptive tactics. Its handheld scale enables individual agency within mass demonstration, turning personal gesture into collective statement.",
-    "significance": "Students learn how crisis communication requires abandoning conventional design polish for emotional immediacy. The placard shows how activist graphics prioritize authenticity over professionalism, teaching that appropriate design depends on social context and political purpose.",
+    "significance": "The work reveals how crisis communication requires abandoning conventional design polish for emotional immediacy. The placard shows how activist graphics prioritize authenticity over professionalism, teaching that appropriate design depends on social context and political purpose.",
     "connections": [
       {
         "id": 224,
@@ -11636,7 +11636,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism",
     "wikiTitle": null,
     "description": "This printing block demonstrates how activist collectives adapt traditional relief printing for contemporary protest, using carved material to create reproducible yet authentic messaging. The block's physical weight and texture embody the movement's emphasis on material reality over digital abstraction. Its design allows for rapid deployment across multiple protest contexts while maintaining visual consistency.",
-    "significance": "Students understand how activist design balances authenticity with reproducibility, using traditional techniques to resist digital corporate control. The block teaches how material processes can embody political values, showing design as ideological practice rather than neutral service.",
+    "significance": "It clarifies how activist design balances authenticity with reproducibility, using traditional techniques to resist digital corporate control. The block teaches how material processes can embody political values, showing design as ideological practice rather than neutral service.",
     "connections": [
       {
         "id": 282,
@@ -11673,7 +11673,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism",
     "wikiTitle": "Extinction Rebellion",
     "description": "This flag transforms the traditional symbol of national identity into environmental protest, using fabric's capacity for movement and visibility in mass demonstration. The flag's portable scale enables individual participation within collective action, creating visual unity across diverse protest contexts. Its design prioritizes symbolic recognition over decorative refinement, functioning as identifier rather than artwork.",
-    "significance": "Students learn how activist design appropriates and subverts traditional formats, turning patriotic symbolism into environmental resistance. The flag demonstrates how design objects coordinate collective action, teaching that visual identity systems extend beyond corporate branding into social movement organization.",
+    "significance": "The work reveals how activist design appropriates and subverts traditional formats, turning patriotic symbolism into environmental resistance. The flag demonstrates how design objects coordinate collective action, teaching that visual identity systems extend beyond corporate branding into social movement organization.",
     "connections": [
       {
         "id": 283,
@@ -11710,7 +11710,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
     "description": "A high-visibility vest appropriated from safety workwear as protest uniform. The vest transforms industrial safety signaling into political messaging, using the visual authority of institutional clothing to legitimize civil disobedience. Its fluorescent material ensures visibility both for safety and symbolic presence in public space.",
-    "significance": "Students learn how design objects can be repurposed to carry new meanings while retaining their functional authority. It demonstrates how activists co-opt existing visual languages rather than creating entirely new ones, showing design's role in political communication.",
+    "significance": "The work reveals how design objects can be repurposed to carry new meanings while retaining their functional authority. It demonstrates how activists co-opt existing visual languages rather than creating entirely new ones, showing design's role in political communication.",
     "connections": [
       {
         "id": 287,
@@ -11757,7 +11757,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
     "description": "A protest leaflet using stark typographic hierarchy and urgent messaging to communicate climate crisis. The design employs high-contrast text and direct language to cut through information overload. Its format follows traditional pamphlet structures while updating the visual urgency for contemporary environmental activism.",
-    "significance": "Shows students how graphic design serves political mobilization through accessible visual communication. It demonstrates how activists must balance aesthetic sophistication with broad readability, and how traditional print formats remain relevant for grassroots organizing.",
+    "significance": "It reveals how graphic design serves political mobilization through accessible visual communication. It demonstrates how activists must balance aesthetic sophistication with broad readability, and how traditional print formats remain relevant for grassroots organizing.",
     "connections": [
       {
         "id": 231,
@@ -11799,7 +11799,7 @@ export const ARCHIVE = [
     "movement": "Social Design",
     "wikiTitle": null,
     "description": "Initial concept sketches for modular construction components aimed at emergency shelter or self-build housing. The drawings explore interlocking geometries that allow unskilled builders to create stable structures. The system prioritizes material efficiency and assembly simplicity over architectural expression.",
-    "significance": "Students see how design addresses housing crisis through systematic thinking about assembly and access. It demonstrates how designers must consider not just formal outcomes but the social and economic contexts of production and use.",
+    "significance": "It reveals how design addresses housing crisis through systematic thinking about assembly and access. It demonstrates how designers must consider not just formal outcomes but the social and economic contexts of production and use.",
     "connections": [
       {
         "id": 289,
@@ -11846,7 +11846,7 @@ export const ARCHIVE = [
     "movement": "Social Design",
     "wikiTitle": null,
     "description": "Refined technical drawings showing developed structural details and connection methods for the U-Build system. The ink drawings demonstrate resolved joining mechanisms and dimensional relationships between components. This iteration shows clearer construction logic and improved structural stability.",
-    "significance": "Shows students the design development process from concept to technical resolution. It demonstrates how social design projects require the same rigorous technical development as commercial products, and how drawing remains essential for working through complex spatial relationships.",
+    "significance": "It reveals the design development process from concept to technical resolution. It demonstrates how social design projects require the same rigorous technical development as commercial products, and how drawing remains essential for working through complex spatial relationships.",
     "connections": [
       {
         "id": 32,
@@ -11893,7 +11893,7 @@ export const ARCHIVE = [
     "movement": "Documentary Drawing",
     "wikiTitle": null,
     "description": "Observational sketch documenting Extinction Rebellion protesters near Trafalgar Square during October 2019 demonstrations. The drawing captures the spatial dynamics of public protest and the visual relationship between protesters and urban architecture. It records both individual participants and collective action within London's civic space.",
-    "significance": "Students learn how design documentation extends beyond commercial objects to social movements. It shows drawing's role in recording contemporary history and how graphic representation can capture the spatial politics of public space occupation.",
+    "significance": "The work reveals how design documentation extends beyond commercial objects to social movements. It shows drawing's role in recording contemporary history and how graphic representation can capture the spatial politics of public space occupation.",
     "connections": [
       {
         "id": 286,
@@ -12076,7 +12076,7 @@ export const ARCHIVE = [
     "movement": "Political Poster Design",
     "wikiTitle": null,
     "description": "This poster uses stark black typography on white background to communicate urgency about local government abolition. The repetitive 'No' structure creates visual rhythm while the phrase 'Say No To No Say' employs wordplay to highlight democratic participation. The minimal aesthetic prioritizes message clarity over decorative elements.",
-    "significance": "Students learn how typography alone can carry political argument through structure and repetition. It demonstrates how graphic design operates as political discourse, using visual rhetoric to frame complex governance issues in accessible terms.",
+    "significance": "The work reveals how typography alone can carry political argument through structure and repetition. It demonstrates how graphic design operates as political discourse, using visual rhetoric to frame complex governance issues in accessible terms.",
     "connections": [
       {
         "id": 242,
@@ -12123,7 +12123,7 @@ export const ARCHIVE = [
     "movement": "Political Poster Design",
     "wikiTitle": null,
     "description": "This poster combines photographic imagery with bold typography to advocate for women's political representation within European socialist movements. The design juxtaposes documentary-style photography with constructed graphic elements, creating tension between authentic representation and designed persuasion. The layout demonstrates how feminist political graphics negotiate between accessibility and artistic sophistication.",
-    "significance": "Students learn how graphic design mediates between documentary truth and political advocacy. It shows how European design in the 1990s was grappling with gender representation within established political structures, using visual rhetoric to expand institutional participation.",
+    "significance": "The work reveals how graphic design mediates between documentary truth and political advocacy. It shows how European design in the 1990s was grappling with gender representation within established political structures, using visual rhetoric to expand institutional participation.",
     "connections": [
       {
         "id": 296,
@@ -12165,7 +12165,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Political Art",
     "wikiTitle": null,
     "description": "This poster appropriates William Morris's decorative patterns as background for contemporary political text, creating deliberate tension between 19th-century craft aesthetics and 21st-century economic critique. The overlay technique suggests how historical socialist ideals persist within current political discourse. The design demonstrates how pattern and typography can create conceptual collision between different historical moments.",
-    "significance": "Students see how designers use appropriation to create historical dialogue and political commentary. It demonstrates how graphic design can make theoretical economic arguments accessible through visual metaphor, connecting abstract policy to material culture traditions.",
+    "significance": "It reveals how designers use appropriation to create historical dialogue and political commentary. It demonstrates how graphic design can make theoretical economic arguments accessible through visual metaphor, connecting abstract policy to material culture traditions.",
     "connections": [
       {
         "id": 109,
@@ -12212,7 +12212,7 @@ export const ARCHIVE = [
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": "Tomáš Garrigue Masaryk",
     "description": "This commemorative poster uses restrained typography and photographic portraiture to honor Czechoslovakia's first president during the 1990 democratic transition. The design balances institutional authority with democratic accessibility, using serif typography to suggest historical continuity while maintaining modern clarity. The quote placement emphasizes moral leadership over political pragmatism.",
-    "significance": "Students learn how graphic design mediates between historical memory and contemporary political transition. It demonstrates how typography and image hierarchy can construct democratic legitimacy by connecting new institutions to respected historical figures and moral principles.",
+    "significance": "The work reveals how graphic design mediates between historical memory and contemporary political transition. It demonstrates how typography and image hierarchy can construct democratic legitimacy by connecting new institutions to respected historical figures and moral principles.",
     "connections": [
       {
         "id": 13,
@@ -12254,7 +12254,7 @@ export const ARCHIVE = [
     "movement": "Soviet Constructivism",
     "wikiTitle": "Gustav Klutsis",
     "description": "Klucis employs photomontage to layer heroic worker imagery with industrial symbols and Lenin's portrait, creating visual hierarchy through scale and diagonal composition. The poster uses high contrast photography and bold typography to communicate socialist progress as inevitable forward motion. Dynamic angles and overlapping elements create spatial depth while maintaining legible propaganda messaging.",
-    "significance": "Demonstrates how photomontage serves political communication by combining documentary photography with graphic abstraction. Shows students how compositional techniques can embody ideological positions — the diagonal thrust literally represents revolutionary momentum.",
+    "significance": "Demonstrates how photomontage serves political communication by combining documentary photography with graphic abstraction. It reveals how compositional techniques can embody ideological positions — the diagonal thrust literally represents revolutionary momentum.",
     "connections": [
       {
         "id": 13,
@@ -12301,7 +12301,7 @@ export const ARCHIVE = [
     "movement": "British Commercial Graphics",
     "wikiTitle": null,
     "description": "Houston creates romantic nostalgia through soft-focus imagery and classical typography, emphasizing the film's period setting over its narrative complexity. The poster uses sepia toning and flowing script to evoke antebellum romanticism while obscuring the film's problematic racial politics. Compositional elements frame the central figures in golden light to suggest timeless romance.",
-    "significance": "Shows how graphic design can sanitize controversial content for commercial purposes. Teaches students about the relationship between aesthetic choices and ideological messaging in film marketing.",
+    "significance": "Shows how graphic design can sanitize controversial content for commercial purposes. It demonstrates about the relationship between aesthetic choices and ideological messaging in film marketing.",
     "connections": [
       {
         "id": 301,
@@ -12343,7 +12343,7 @@ export const ARCHIVE = [
     "movement": "Cuban Revolutionary Graphics",
     "wikiTitle": null,
     "description": "De Oraá employs bold geometric forms and high contrast imagery to critique capitalist wealth accumulation, using visual irony to juxtapose socialist messaging with bourgeois symbols. The poster combines photographic elements with graphic illustration, creating tension between documentary realism and political caricature. Typography and imagery work together to expose contradictions in capitalist ideology.",
-    "significance": "Demonstrates how revolutionary graphics can use visual contradiction as a political tool. Shows students how combining photographic and illustrated elements can create critical commentary on social systems.",
+    "significance": "Demonstrates how revolutionary graphics can use visual contradiction as a political tool. It reveals how combining photographic and illustrated elements can create critical commentary on social systems.",
     "connections": [
       {
         "id": 301,
@@ -12385,7 +12385,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "Walter Crane",
     "description": "Crane systematizes wallpaper patterns through methodical illustration, documenting design variations with precise draftsmanship that reveals the underlying geometric structures of decorative motifs. The illustrations function as both commercial catalogue and design manual, showing how individual patterns can be adapted across different scales and applications. Each design demonstrates Crane's integration of medieval revival imagery with industrial production methods.",
-    "significance": "Shows how design documentation can serve both commercial and educational purposes. Teaches students about the relationship between pattern design, industrial production, and Arts and Crafts ideology of honest materials and processes.",
+    "significance": "Shows how design documentation can serve both commercial and educational purposes. It demonstrates about the relationship between pattern design, industrial production, and Arts and Crafts ideology of honest materials and processes.",
     "connections": [
       {
         "id": 109,
@@ -12427,7 +12427,7 @@ export const ARCHIVE = [
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": null,
     "description": "Farkas employs clean modernist typography and optimistic color to reframe socialist politics for democratic transition. The poster uses International Style rationality to distance itself from communist propaganda aesthetics while maintaining progressive political content. Typography becomes the visual argument for reformed socialism — systematic, rational, European rather than revolutionary.",
-    "significance": "Demonstrates how graphic design mediates political transformation. Students see how style carries ideological meaning — modernist clarity suggests democratic rationality versus revolutionary rhetoric. Essential for understanding how visual language shapes political discourse during systemic change.",
+    "significance": "Demonstrates how graphic design mediates political transformation. It reveals how style carries ideological meaning — modernist clarity suggests democratic rationality versus revolutionary rhetoric. Essential for understanding how visual language shapes political discourse during systemic change.",
     "connections": [
       {
         "id": 309,
@@ -12473,7 +12473,7 @@ export const ARCHIVE = [
     "movement": "British Modernist Typography",
     "wikiTitle": null,
     "description": "Hollis applies Swiss International Style grid systems to radical political content, using typographic rationality to give authority to fringe socialist theory. The cover design employs systematic layout and restrained color to suggest serious scholarship rather than agitational propaganda. Modernist methodology becomes the visual argument for rigorous political analysis.",
-    "significance": "Demonstrates how International Style techniques could serve radical politics beyond corporate clients. Students learn that modernist rationality wasn't ideologically neutral — systematic design could legitimize anti-establishment content. Essential for understanding how style carries political meaning independent of content.",
+    "significance": "Demonstrates how International Style techniques could serve radical politics beyond corporate clients. The point is that modernist rationality wasn't ideologically neutral — systematic design could legitimize anti-establishment content. Essential for understanding how style carries political meaning independent of content.",
     "connections": [
       {
         "id": 14,
@@ -12520,7 +12520,7 @@ export const ARCHIVE = [
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": null,
     "description": "Jirásek employs minimal typography and symbolic imagery to communicate democratic values during Czechoslovakia's Velvet Revolution. The poster uses restraint and clarity to signal rejection of communist propaganda aesthetics — truth through simplicity rather than bombast. Typography becomes political statement — readable, rational, democratic rather than agitational.",
-    "significance": "Shows how graphic design mediates political revolution through aesthetic choices. Students learn that political posters work through style as much as content — visual restraint communicates political restraint. Essential for understanding how design languages carry ideological meaning during systemic change.",
+    "significance": "Shows how graphic design mediates political revolution through aesthetic choices. The point is that political posters work through style as much as content — visual restraint communicates political restraint. Essential for understanding how design languages carry ideological meaning during systemic change.",
     "connections": [
       {
         "id": 307,
@@ -12844,7 +12844,7 @@ export const ARCHIVE = [
     "movement": "Digital Anarchism",
     "wikiTitle": "Liberator (gun)",
     "description": "A single-shot pistol designed for 3D printing using fused deposition modeling, with only the firing pin requiring metal fabrication. The design deliberately uses minimal material and simple geometries to test legal and regulatory boundaries around distributed manufacturing. Its crude functionality prioritizes printability and assembly simplicity over performance or durability.",
-    "significance": "Demonstrates how digital fabrication disrupts regulatory control over manufacturing — design files become more significant than physical objects. Forces students to consider design's political dimensions and the responsibility that comes with democratized production capability.",
+    "significance": "Demonstrates how digital fabrication disrupts regulatory control over manufacturing — design files become more significant than physical objects. It forces us to consider design's political dimensions and the responsibility that comes with democratized production capability.",
     "connections": [
       {
         "id": 315,
@@ -12985,7 +12985,7 @@ export const ARCHIVE = [
     "movement": "Digital Craft",
     "wikiTitle": null,
     "description": "A fire-starting tool fabricated using selective laser sintering, reinterpreting the archetypal flint through contemporary digital processes. The object maintains the essential functional geometry of traditional fire-making implements while exploiting 3D printing's capability for surface texturing and ergonomic optimization. Material choice prioritizes functionality over traditional craft aesthetics.",
-    "significance": "Demonstrates how digital fabrication can reinterpret fundamental human tools, connecting contemporary technology with prehistoric function. Challenges students to consider how new manufacturing processes can honor essential functions while enabling formal innovation.",
+    "significance": "Demonstrates how digital fabrication can reinterpret fundamental human tools, connecting contemporary technology with prehistoric function. It challenges us to consider how new manufacturing processes can honor essential functions while enabling formal innovation.",
     "connections": [
       {
         "id": 2,
@@ -13032,7 +13032,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Swiss Design",
     "wikiTitle": null,
     "description": "Noh's scissors reduce the archetypal form to its functional essence, eliminating the traditional finger loops in favor of a pinch grip that requires users to actively engage with the cutting mechanism. The gesture becomes part of the design logic — compression activates the blades while release opens them. This removal of conventional handles forces a more conscious relationship between hand and tool.",
-    "significance": "Students learn how removing expected features can intensify function rather than diminish it. The design demonstrates that ergonomics isn't about comfort but about creating meaningful physical dialogue between user and object.",
+    "significance": "The work reveals how removing expected features can intensify function rather than diminish it. The design demonstrates that ergonomics isn't about comfort but about creating meaningful physical dialogue between user and object.",
     "connections": [
       {
         "id": 5,
@@ -13074,7 +13074,7 @@ export const ARCHIVE = [
     "movement": "Open Source Manufacturing",
     "wikiTitle": "MakerBot Thing-O-Matic",
     "description": "The Thing-O-Matic democratized 3D printing by making the technology accessible to non-experts through kit assembly and open-source design files. Its deliberately crude aesthetic — exposed mechanisms, visible wiring, plywood frame — signals its position as a tool for making rather than a finished consumer product. The name itself reflects the playful, experimental culture of early desktop manufacturing.",
-    "significance": "Students encounter the moment when manufacturing tools became consumer products, demonstrating how open-source methodology can challenge industrial production hierarchies. The design shows how aesthetic rawness can communicate accessibility and transparency.",
+    "significance": "The work presents the moment when manufacturing tools became consumer products, demonstrating how open-source methodology can challenge industrial production hierarchies. The design shows how aesthetic rawness can communicate accessibility and transparency.",
     "connections": [
       {
         "id": 107,
@@ -13116,7 +13116,7 @@ export const ARCHIVE = [
     "movement": "Op Art",
     "wikiTitle": null,
     "description": "Robbins uses lithographic precision to create an impossible spatial paradox — a checkerboard that appears simultaneously flat and three-dimensional. The pattern exploits the eye's attempt to resolve contradictory depth cues, creating unstable visual space that shifts between interpretation as surface decoration and architectural structure. Each square reads as both tile and void.",
-    "significance": "Students learn how systematic geometric patterns can generate complex perceptual effects, demonstrating that graphic design can manipulate space without perspective or modeling. The work shows how repetition becomes a tool for creating visual instability rather than order.",
+    "significance": "The work reveals how systematic geometric patterns can generate complex perceptual effects, demonstrating that graphic design can manipulate space without perspective or modeling. The work shows how repetition becomes a tool for creating visual instability rather than order.",
     "connections": [
       {
         "id": 13,
@@ -13158,7 +13158,7 @@ export const ARCHIVE = [
     "movement": "Digital Jewelry",
     "wikiTitle": null,
     "description": "Balashova's earring exploits 3D printing's capacity for geometric complexity impossible in traditional jewelry making — interlocking forms that could never be cast or fabricated by hand. The design exists only because of the specific capabilities of additive manufacturing, where complex internal geometries cost no more than simple ones. The prototype status signals ongoing investigation rather than resolved product.",
-    "significance": "Students see how new manufacturing technologies enable new formal languages that couldn't exist otherwise. The work demonstrates how prototyping becomes a design methodology for exploring technological possibilities rather than just testing marketable products.",
+    "significance": "It reveals how new manufacturing technologies enable new formal languages that couldn't exist otherwise. The work demonstrates how prototyping becomes a design methodology for exploring technological possibilities rather than just testing marketable products.",
     "connections": [
       {
         "id": 321,
@@ -13200,7 +13200,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Studio Drift embeds real dandelion seeds in LED-lit glass tubes, creating a chandelier that combines natural fragility with technological permanence. Each tube preserves a moment of dispersal — the seeds appear suspended mid-flight, frozen between growth and decay. The LEDs illuminate both the technical infrastructure and the organic specimens, making visible the usually hidden relationship between nature and artificial lighting.",
-    "significance": "Students encounter how contemporary design can interrogate the boundary between natural and artificial materials. The work demonstrates that lighting design can function as environmental commentary, using the domestic chandelier format to explore larger questions of preservation and loss.",
+    "significance": "The work presents how contemporary design can interrogate the boundary between natural and artificial materials. The work demonstrates that lighting design can function as environmental commentary, using the domestic chandelier format to explore larger questions of preservation and loss.",
     "connections": [
       {
         "id": 1,
@@ -13242,7 +13242,7 @@ export const ARCHIVE = [
     "movement": "Social Architecture",
     "wikiTitle": "Assemble (collective)",
     "description": "Assemble's bookends demonstrate their approach to design as social intervention through everyday objects. The rough, unfinished aesthetic reflects their architectural practice of community engagement—rejecting polished design in favor of accessible, democratic forms. These objects embody their philosophy that good design emerges from collective making rather than individual authorship.",
-    "significance": "These bookends teach students how design can carry political intent through material choices. Assemble's deliberately rough aesthetic argues that democratic design should reject exclusivity, showing how formal decisions can embody social values.",
+    "significance": "These bookends demonstrate how design can carry political intent through material choices. Assemble's deliberately rough aesthetic argues that democratic design should reject exclusivity, showing how formal decisions can embody social values.",
     "connections": [
       {
         "id": 329,
@@ -13283,7 +13283,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Functionalism",
     "wikiTitle": "Konstantin Grcic",
     "description": "Grcic's Chair One reduces sitting to its structural essentials through angular concrete-like geometry. The chair's faceted planes eliminate curves, creating a form that appears digitally generated but maintains human ergonomics. This mathematical approach to furniture demonstrates how computational thinking can inform physical design without losing functional performance.",
-    "significance": "Chair One shows students how digital aesthetics can be applied to analog manufacturing. Grcic proves that geometric reduction doesn't require sacrificing comfort, teaching how contemporary designers balance formal innovation with functional requirements.",
+    "significance": "Chair One It reveals how digital aesthetics can be applied to analog manufacturing. Grcic proves that geometric reduction doesn't require sacrificing comfort, teaching how contemporary designers balance formal innovation with functional requirements.",
     "connections": [
       {
         "id": 38,
@@ -13324,7 +13324,7 @@ export const ARCHIVE = [
     "movement": "British Pop Design",
     "wikiTitle": null,
     "description": "Holdaway's Tomotom side table embodies 1960s British design's playful modernism through its sculptural white form. The table's organic geometry references space-age aesthetics while maintaining domestic functionality. Its molded construction demonstrates how new manufacturing processes enabled designers to create furniture that looked futuristic yet remained practical for everyday use.",
-    "significance": "Tomotom teaches students how cultural zeitgeist influences formal language. The table shows how 1960s optimism about technology and space exploration translated into domestic objects, demonstrating design's role as cultural barometer.",
+    "significance": "Tomotom It demonstrates how cultural zeitgeist influences formal language. The table shows how 1960s optimism about technology and space exploration translated into domestic objects, demonstrating design's role as cultural barometer.",
     "connections": [
       {
         "id": 38,
@@ -13365,7 +13365,7 @@ export const ARCHIVE = [
     "movement": "Social Architecture",
     "wikiTitle": "Assemble (collective)",
     "description": "Assemble's Rock Table Lamp demonstrates lighting as found object, using raw stone as both base and conceptual statement. The lamp's minimal intervention—inserting electrical components into natural material—reflects their architectural practice of working with existing conditions rather than imposing new forms. This approach questions the necessity of design transformation, proposing that good lighting can emerge from simple material honesty.",
-    "significance": "This lamp teaches students that design intervention can be minimal yet meaningful. Assemble shows how restraint can be more powerful than elaboration, demonstrating that contemporary practice can embrace rawness over refinement.",
+    "significance": "This lamp It demonstrates that design intervention can be minimal yet meaningful. Assemble shows how restraint can be more powerful than elaboration, demonstrating that contemporary practice can embrace rawness over refinement.",
     "connections": [
       {
         "id": 326,
@@ -13406,7 +13406,7 @@ export const ARCHIVE = [
     "movement": "Defensive Architecture",
     "wikiTitle": null,
     "description": "These stainless steel spikes mount onto surfaces to prevent human occupation or bird perching. The design reduces architecture to its most aggressive function — exclusion through physical deterrent. Each spike is precisely engineered for maximum discomfort while maintaining legal defensibility, creating a landscape of micro-hostilities.",
-    "significance": "Demonstrates how design serves power structures through spatial control and social exclusion. Students must understand that functional design extends beyond user comfort to include designed hostility — architecture as social engineering rather than shelter.",
+    "significance": "Demonstrates how design serves power structures through spatial control and social exclusion. One must understand that functional design extends beyond user comfort to include designed hostility — architecture as social engineering rather than shelter.",
     "connections": [
       {
         "id": 15,
@@ -13448,7 +13448,7 @@ export const ARCHIVE = [
     "movement": "Organic Architecture",
     "wikiTitle": "Frank Lloyd Wright",
     "description": "Wright extends his architectural principles to furniture scale, creating chairs as spatial architecture rather than seating. The high back functions as room divider and spatial definer, making each chair a micro-building. The geometric composition reflects Wright's Prairie School vocabulary translated to human-scale objects.",
-    "significance": "Shows how architectural thinking transforms furniture from objects into spatial systems. Students learn that furniture can organize space architecturally, not just accommodate bodies, demonstrating scale-jumping between disciplines.",
+    "significance": "Shows how architectural thinking transforms furniture from objects into spatial systems. The point is that furniture can organize space architecturally, not just accommodate bodies, demonstrating scale-jumping between disciplines.",
     "connections": [
       {
         "id": 12,
@@ -13490,7 +13490,7 @@ export const ARCHIVE = [
     "movement": "New Brutalism",
     "wikiTitle": "Peter Smithson",
     "description": "Smithson's chair abandons comfort for structural honesty, exposing construction methods and material properties as the design language. The name 'Pogo' suggests movement and instability, challenging furniture's traditional role as stable support. Each joint and connection becomes visible architectural detail rather than hidden joinery.",
-    "significance": "Demonstrates New Brutalist principles at furniture scale — material honesty, structural expression, and rejection of bourgeois comfort. Teaches students that architectural ideologies can be tested through furniture before building, using domestic objects as manifestos.",
+    "significance": "Demonstrates New Brutalist principles at furniture scale — material honesty, structural expression, and rejection of bourgeois comfort. It demonstrates that architectural ideologies can be tested through furniture before building, using domestic objects as manifestos.",
     "connections": [
       {
         "id": 7,
@@ -13532,7 +13532,7 @@ export const ARCHIVE = [
     "movement": "Street Art",
     "wikiTitle": null,
     "description": "Small transforms urban portraiture through layered stencil techniques that reference both street art and fine art printing methods. The work builds facial features through multiple spray applications, creating depth through color separation rather than line drawing. This process mirrors screen printing's registration system but applies it to aerosol media.",
-    "significance": "Shows how street art develops its own sophisticated production methods that parallel traditional printmaking. Students learn that graphic design techniques can emerge from unofficial practices and challenge institutional definitions of legitimate design process.",
+    "significance": "Shows how street art develops its own sophisticated production methods that parallel traditional printmaking. The point is that graphic design techniques can emerge from unofficial practices and challenge institutional definitions of legitimate design process.",
     "connections": [
       {
         "id": 14,
@@ -13856,7 +13856,7 @@ export const ARCHIVE = [
     "movement": "Vernacular Documentation",
     "wikiTitle": null,
     "description": "Squires' scrapbook employs systematic collection and arrangement of found graphic materials to document cultural moments. The book functions as both archive and creative practice, where the act of selection and juxtaposition becomes a form of authorship. Its pages reveal how ordinary citizens could participate in design discourse through curatorial assembly rather than original creation.",
-    "significance": "Shows how design thinking operates outside professional practice through everyday curation. Demonstrates that arrangement and selection are valid forms of visual communication that students can learn from non-designers.",
+    "significance": "Shows how design thinking operates outside professional practice through everyday curation. Demonstrates that arrangement and selection are valid forms of visual communication that viewers can learn from non-designers.",
     "connections": [
       {
         "id": 13,
@@ -13997,7 +13997,7 @@ export const ARCHIVE = [
     "movement": "Super Normal",
     "wikiTitle": null,
     "description": "A plywood chair that reduces seating to its essential geometric components — seat, back, and legs — without visible joints or unnecessary details. Morrison uses minimal material and a monochromatic finish to create an anonymous object that performs its function without demanding attention. The chair's proportions and angles are calibrated for extended use, embodying Morrison's philosophy that good design should be 'super normal' rather than spectacular.",
-    "significance": "Shows students how reduction can be a form of sophistication, not simplification. Demonstrates that contemporary design can critique both modernist functionalism and postmodern expressiveness by proposing a third way: objects that work perfectly but remain culturally neutral. Essential for understanding how design can be simultaneously contemporary and timeless.",
+    "significance": "It reveals how reduction can be a form of sophistication, not simplification. Demonstrates that contemporary design can critique both modernist functionalism and postmodern expressiveness by proposing a third way: objects that work perfectly but remain culturally neutral. Essential for understanding how design can be simultaneously contemporary and timeless.",
     "connections": [
       {
         "id": 6,
@@ -14039,7 +14039,7 @@ export const ARCHIVE = [
     "movement": "Super Normal",
     "wikiTitle": null,
     "description": "A minimal wire bottle rack that references Duchamp's readymade while functioning as genuine kitchen storage. Morrison strips the form to a simple grid of wire loops that hold bottles by their necks, using industrial wire-bending techniques to create clean, repetitive geometry. The design deliberately echoes vernacular bottle storage while refining the proportions and finish to gallery-standard quality.",
-    "significance": "Teaches students how contemporary design can reference art history while remaining functionally grounded. Shows how the readymade concept can be reversed — instead of making everyday objects into art, Morrison makes art references into better everyday objects. Demonstrates that conceptual sophistication doesn't require formal complexity.",
+    "significance": "It demonstrates how contemporary design can reference art history while remaining functionally grounded. Shows how the readymade concept can be reversed — instead of making everyday objects into art, Morrison makes art references into better everyday objects. Demonstrates that conceptual sophistication doesn't require formal complexity.",
     "connections": [
       {
         "id": 2,
@@ -14086,7 +14086,7 @@ export const ARCHIVE = [
     "movement": "Super Normal",
     "wikiTitle": null,
     "description": "A glass tumbler designed specifically for Swedish Falcon beer, with proportions calibrated to the volume and foam characteristics of the brew. Morrison creates a simple cylindrical form with a slight taper that feels natural in the hand and stacks efficiently for commercial use. The glass thickness and rim are optimized for the sensory experience of drinking beer — the weight, the feel against the lips, and the way foam settles.",
-    "significance": "Teaches students that good design extends to the most mundane objects and that understanding use context is crucial. Shows how functional optimization can create objects that feel 'right' without dramatic formal gestures. Demonstrates that commercial design briefs can produce work as sophisticated as gallery pieces.",
+    "significance": "It demonstrates that good design extends to the most mundane objects and that understanding use context is crucial. Shows how functional optimization can create objects that feel 'right' without dramatic formal gestures. Demonstrates that commercial design briefs can produce work as sophisticated as gallery pieces.",
     "connections": [
       {
         "id": 5,
@@ -14133,7 +14133,7 @@ export const ARCHIVE = [
     "movement": "Super Normal",
     "wikiTitle": null,
     "description": "Morrison's Pill Stool reduces seating to its essential geometric form — a perfect cylinder. The solid beech construction eliminates all decorative elements, achieving structural clarity through material honesty. Its proportions derive from ergonomic requirements rather than formal preferences, creating a stool that functions equally as seat, side table, or sculptural object.",
-    "significance": "Students learn how radical simplification can produce maximum functional flexibility. The stool demonstrates Morrison's 'Super Normal' philosophy — that good design disappears into everyday use. It shows how geometric reduction can create archetypal rather than minimalist forms.",
+    "significance": "The work reveals how radical simplification can produce maximum functional flexibility. The stool demonstrates Morrison's 'Super Normal' philosophy — that good design disappears into everyday use. It shows how geometric reduction can create archetypal rather than minimalist forms.",
     "connections": [
       {
         "id": 1,
@@ -14175,7 +14175,7 @@ export const ARCHIVE = [
     "movement": "Scandinavian Minimalism",
     "wikiTitle": null,
     "description": "Dahlström's BD:1 chair employs bent steel tube construction with a minimal plywood seat and back. The design reduces the chair to its structural essentials — continuous steel frame providing both support and cantilever spring action. The proportions follow Scandinavian restraint principles, avoiding formal excess while maintaining ergonomic comfort.",
-    "significance": "Students understand how 1990s Scandinavian design continued modernist reduction principles while incorporating new manufacturing techniques. The chair demonstrates how traditional bent-tube construction can be refined for contemporary production. It shows Swedish design's commitment to democratic accessibility through material economy.",
+    "significance": "It clarifies how 1990s Scandinavian design continued modernist reduction principles while incorporating new manufacturing techniques. The chair demonstrates how traditional bent-tube construction can be refined for contemporary production. It shows Swedish design's commitment to democratic accessibility through material economy.",
     "connections": [
       {
         "id": 56,
@@ -14222,7 +14222,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Jongerius combines traditional Delft pottery techniques with contemporary formal language, creating a jug that references historical ceramics while asserting modern identity. The blue and white color palette maintains cultural continuity, but the simplified geometric form and deliberate imperfections challenge craft perfection ideals. Hand-thrown construction preserves artisanal methods within conceptual design frameworks.",
-    "significance": "Students learn how contemporary designers negotiate between tradition and innovation without pastiche or rejection. The jug demonstrates post-industrial design's reengagement with craft methods. It shows how cultural memory can inform rather than constrain design development.",
+    "significance": "The work reveals how contemporary designers negotiate between tradition and innovation without pastiche or rejection. The jug demonstrates post-industrial design's reengagement with craft methods. It shows how cultural memory can inform rather than constrain design development.",
     "connections": [
       {
         "id": 3,
@@ -14269,7 +14269,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Jongerius designed this lounge chair for the UN's renovation, combining institutional durability requirements with human comfort needs. The upholstery employs multiple textile techniques — weaving, knitting, embroidery — creating surface complexity that softens corporate environments. Color gradations and pattern variations across the textile prevent institutional uniformity while maintaining professional appropriateness.",
-    "significance": "Students understand how designers address institutional briefs without sacrificing human-centered design principles. The chair demonstrates textile innovation as architectural strategy. It shows how craft techniques can humanize corporate spaces while meeting institutional durability standards.",
+    "significance": "It clarifies how designers address institutional briefs without sacrificing human-centered design principles. The chair demonstrates textile innovation as architectural strategy. It shows how craft techniques can humanize corporate spaces while meeting institutional durability standards.",
     "connections": [
       {
         "id": 37,
@@ -14363,7 +14363,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Four ceramic beakers where each displays a different 'flaw' — cracks, bumps, discoloration, and rough texture — challenging perfection as design goal. Jongerius programs deliberate imperfections into industrial processes, questioning whether flawlessness equals quality. The set demonstrates how designers can embed critique of mass production within mass production itself.",
-    "significance": "Teaches students that design arguments can be made through manufacturing choices, not just form. Shows how Dutch Design challenged 1990s assumptions about digital perfection by reintroducing controlled randomness and human trace into industrial processes.",
+    "significance": "It demonstrates that design arguments can be made through manufacturing choices, not just form. Shows how Dutch Design challenged 1990s assumptions about digital perfection by reintroducing controlled randomness and human trace into industrial processes.",
     "connections": [
       {
         "id": 5,
@@ -14410,7 +14410,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A flat pattern that folds into a three-dimensional cube, existing simultaneously as surface design and spatial object. The pattern's graphics change meaning when folded — abstract motifs become architectural elements. Jongerius explores how the same visual information can function differently in two and three dimensions.",
-    "significance": "Demonstrates how contemporary designers think across dimensional boundaries rather than within single disciplines. Shows students that pattern, product, and spatial design can be unified through systematic thinking about transformation and state changes.",
+    "significance": "Demonstrates how contemporary designers think across dimensional boundaries rather than within single disciplines. It demonstrates that pattern, product, and spatial design can be unified through systematic thinking about transformation and state changes.",
     "connections": [
       {
         "id": 13,
@@ -14457,7 +14457,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Textile that integrates digital imagery into traditional weaving structures, creating windows within fabric that reveal photographic landscapes. The work questions whether textiles can function as both material boundary and visual portal. Jongerius embeds contemporary image culture within ancient craft techniques to create hybrid media objects.",
-    "significance": "Shows how contemporary designers integrate digital culture with traditional craft methods rather than replacing them. Teaches students to think about textiles as information carriers, not just decorative surfaces, expanding what domestic materials can communicate.",
+    "significance": "Shows how contemporary designers integrate digital culture with traditional craft methods rather than replacing them. It demonstrates to think about textiles as information carriers, not just decorative surfaces, expanding what domestic materials can communicate.",
     "connections": [
       {
         "id": 115,
@@ -14504,7 +14504,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
     "description": "Emergency-style work lamp adapted for domestic use through refined proportions and quality materials while retaining industrial functionality. The pivoting head, robust construction, and bright LED make it equally suited to workshop and living room. Grcic demonstrates how industrial archetypes can be domesticated without losing their essential character or performance.",
-    "significance": "Shows students how contemporary functionalism refines rather than abandons industrial references, proving that domestic objects can maintain working credibility. Demonstrates that good design emerges from understanding and improving existing typologies rather than inventing new ones.",
+    "significance": "It reveals how contemporary functionalism refines rather than abandons industrial references, proving that domestic objects can maintain working credibility. Demonstrates that good design emerges from understanding and improving existing typologies rather than inventing new ones.",
     "connections": [
       {
         "id": 120,
@@ -14551,7 +14551,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
     "description": "A cast aluminum table reduced to essential geometric forms, with a single central pedestal supporting a circular top. The casting process allows for structural integrity while maintaining visual lightness through material honesty. The monolithic base contrasts with the floating appearance of the thin tabletop.",
-    "significance": "Demonstrates how industrial casting can create furniture that appears structurally impossible—teaching students about the relationship between manufacturing processes and formal expression. Shows how contemporary functionalism can achieve poetry through reduction rather than decoration.",
+    "significance": "Demonstrates how industrial casting can create furniture that appears structurally impossible—revealing the relationship between manufacturing processes and formal expression. Shows how contemporary functionalism can achieve poetry through reduction rather than decoration.",
     "connections": [
       {
         "id": 65,
@@ -14592,7 +14592,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
     "description": "A stackable plastic chair that rotates 360 degrees on its base, combining mobility with storage efficiency. The injection-molded seat shell sits on a metal swivel mechanism, allowing users to orient themselves without moving the chair. The design prioritizes functional behavior over formal expression.",
-    "significance": "Shows students how to embed behavioral intelligence into furniture design—the swivel function anticipates user needs rather than imposing formal constraints. Demonstrates that contemporary functionalism can innovate through use patterns, not just visual reduction.",
+    "significance": "It reveals how to embed behavioral intelligence into furniture design—the swivel function anticipates user needs rather than imposing formal constraints. Demonstrates that contemporary functionalism can innovate through use patterns, not just visual reduction.",
     "connections": [
       {
         "id": 277,
@@ -14633,7 +14633,7 @@ export const ARCHIVE = [
     "movement": "Digital Domesticity",
     "wikiTitle": "Samsung Serif",
     "description": "A television designed as furniture rather than technology, with a distinctive frame that creates visual weight and domestic presence. The thick border references traditional picture frames, while the detachable legs allow it to function as floor or table object. The design domesticates screen technology through familiar furniture typologies.",
-    "significance": "Teaches students how to humanize digital technology by borrowing from furniture design languages. Demonstrates that industrial design can challenge the invisibility imperative of consumer electronics—showing how to make technology feel at home rather than alien.",
+    "significance": "It demonstrates how to humanize digital technology by borrowing from furniture design languages. Demonstrates that industrial design can challenge the invisibility imperative of consumer electronics—showing how to make technology feel at home rather than alien.",
     "connections": [
       {
         "id": 83,
@@ -14674,7 +14674,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Craft",
     "wikiTitle": null,
     "description": "A laser-cut wooden tray with interlocking joints that assembles without hardware or glue. The design exploits digital fabrication precision to create traditional joinery, with slots and tabs that lock together through material tension. Each compartment is sized for specific office supplies, creating functional hierarchy through geometry.",
-    "significance": "Shows students how digital tools can revive traditional craft techniques with contemporary precision. Demonstrates that sustainability can drive formal innovation—the flat-pack assembly reduces shipping volume while the joint system eliminates adhesives and fasteners.",
+    "significance": "It reveals how digital tools can revive traditional craft techniques with contemporary precision. Demonstrates that sustainability can drive formal innovation—the flat-pack assembly reduces shipping volume while the joint system eliminates adhesives and fasteners.",
     "connections": [
       {
         "id": 11,
@@ -14715,7 +14715,7 @@ export const ARCHIVE = [
     "movement": "Modular Systems Design",
     "wikiTitle": null,
     "description": "A modular room divider system made from injection-molded plastic elements that link together like seaweed fronds. Each identical unit clips to others through integral fasteners, creating organic-looking screens from repeated geometric components. The system grows through user assembly rather than predetermined configurations.",
-    "significance": "Teaches students how biological growth patterns can inspire modular design systems—showing that complexity can emerge from simple rules rather than complicated forms. Demonstrates how injection molding can create both structural and decorative functions in a single operation.",
+    "significance": "It demonstrates how biological growth patterns can inspire modular design systems—showing that complexity can emerge from simple rules rather than complicated forms. Demonstrates how injection molding can create both structural and decorative functions in a single operation.",
     "connections": [
       {
         "id": 11,
@@ -14756,7 +14756,7 @@ export const ARCHIVE = [
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
     "description": "Made by pleating a single sheet of recycled paper into structural folds that mimic cabbage leaves, this chair transforms waste material into functional seating through origami-inspired techniques. The manufacturing process requires no adhesives, joints, or frames — the paper's folded geometry provides all necessary structural integrity. The design demonstrates how biomimicry and material efficiency can converge in furniture production.",
-    "significance": "Shows students how conceptual rigor can drive material innovation, proving that sustainable design need not compromise structural performance. Essential for understanding how Japanese design philosophy applies systems thinking to everyday objects.",
+    "significance": "It reveals how conceptual rigor can drive material innovation, proving that sustainable design need not compromise structural performance. Essential for understanding how Japanese design philosophy applies systems thinking to everyday objects.",
     "connections": [
       {
         "id": 2,
@@ -14803,7 +14803,7 @@ export const ARCHIVE = [
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
     "description": "A series of chair models that copy and distort the proportions of existing chair types, creating familiar-yet-strange forms that question our assumptions about seating typologies. Each piece maintains the essential function of a chair while subtly altering scale, proportion, or material to create cognitive dissonance. The design process involves systematic analysis and reinterpretation of archetypal furniture forms.",
-    "significance": "Teaches students how design research can become design method — showing how analytical processes of copying and variation can generate new formal possibilities. Demonstrates the value of typological thinking in contemporary practice.",
+    "significance": "It demonstrates how design research can become design method — showing how analytical processes of copying and variation can generate new formal possibilities. Demonstrates the value of typological thinking in contemporary practice.",
     "connections": [
       {
         "id": 12,
@@ -14850,7 +14850,7 @@ export const ARCHIVE = [
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
     "description": "Constructed from a continuous 21.4-meter length of aluminum bent into chair form without cutting or joining, this piece demonstrates how single-material continuity can create structural furniture. The precise title quantifies the exact material input, making the design process transparent while challenging assumptions about furniture assembly. The aluminum's inherent properties — strength, flexibility, and workability — drive every formal decision.",
-    "significance": "Shows students how material constraints can become generative design parameters, proving that limitations often produce more innovative solutions than unlimited options. Essential for understanding how process transparency can become part of design meaning.",
+    "significance": "It demonstrates how material constraints can become generative design parameters, proving that limitations often produce more innovative solutions than unlimited options. Essential for understanding how process transparency can become part of design meaning.",
     "connections": [
       {
         "id": 38,
@@ -14897,7 +14897,7 @@ export const ARCHIVE = [
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
     "description": "Combines traditional Japanese joinery with contemporary production methods, using precise wood connections that eliminate the need for visible hardware. The chair's form emerges from the structural logic of its joints, with each connection point carefully engineered to distribute loads while maintaining visual simplicity. The design demonstrates how traditional craft knowledge can inform industrial production without sacrificing cultural authenticity.",
-    "significance": "Teaches students how cultural design traditions can evolve through contemporary manufacturing while maintaining their essential logic. Critical for understanding how regional expertise can compete globally through technical excellence rather than formal novelty.",
+    "significance": "It demonstrates how cultural design traditions can evolve through contemporary manufacturing while maintaining their essential logic. Critical for understanding how regional expertise can compete globally through technical excellence rather than formal novelty.",
     "connections": [
       {
         "id": 81,
@@ -15149,7 +15149,7 @@ export const ARCHIVE = [
     "movement": "Studio Glass Movement",
     "wikiTitle": null,
     "description": "Cast glass sculpture exploiting the material's optical properties through precise control of thickness and curvature. The form channels light through its translucent mass, creating internal reflections that shift with viewing angle. Libensky's mastery of glass chemistry allows for gradual opacity transitions that sculpt light itself.",
-    "significance": "Demonstrates how material understanding drives form in studio craft. Shows students that functional boundaries dissolve when designers pursue material logic to its conclusion — here, glass becomes both structure and content.",
+    "significance": "Demonstrates how material understanding drives form in studio craft. It demonstrates that functional boundaries dissolve when designers pursue material logic to its conclusion — here, glass becomes both structure and content.",
     "connections": [
       {
         "id": 3,
@@ -15196,7 +15196,7 @@ export const ARCHIVE = [
     "movement": "New British Craft",
     "wikiTitle": null,
     "description": "Fish slice that transforms utilitarian serving into narrative gesture. The handle's fishing rod form and 'line' connecting to the perforated blade creates functional metaphor — the tool becomes the story of its purpose. Clarke's silversmithing expertise enables precise execution of conceptual wit.",
-    "significance": "Shows students how narrative can drive functional form without compromising performance. Demonstrates that craft traditions survive by embracing conceptual innovation, not just technical excellence.",
+    "significance": "It reveals how narrative can drive functional form without compromising performance. Demonstrates that craft traditions survive by embracing conceptual innovation, not just technical excellence.",
     "connections": [
       {
         "id": 9,
@@ -15243,7 +15243,7 @@ export const ARCHIVE = [
     "movement": "Post-Impressionist Theater",
     "wikiTitle": "Maurice Utrillo",
     "description": "Stage costume translating Utrillo's painterly vision into wearable form. The fabric treatment and color palette directly reference his street scenes, making the performer a living extension of his artistic world. Three-dimensional design becomes spatial painting, where movement activates the composition.",
-    "significance": "Teaches students how artistic vision transfers across disciplines while respecting material constraints. Shows that successful translation requires understanding both source medium and target application.",
+    "significance": "It demonstrates how artistic vision transfers across disciplines while respecting material constraints. Shows that successful translation requires understanding both source medium and target application.",
     "connections": [
       {
         "id": 69,
@@ -15290,7 +15290,7 @@ export const ARCHIVE = [
     "movement": "Critical Design",
     "wikiTitle": "Dunne & Raby",
     "description": "Aluminum chair incorporating Faraday cage principles to shield users from electromagnetic radiation. The mesh construction functions as both seating surface and electromagnetic barrier, making invisible technological anxieties physically manifest. Design speculation becomes functional prototype.",
-    "significance": "Pioneering example of critical design methodology — using functional objects to materialize social questions about technology. Shows students how design research can question assumptions through making rather than just analysis.",
+    "significance": "Pioneering example of critical design methodology — using functional objects to materialize social questions about technology. It reveals how design research can question assumptions through making rather than just analysis.",
     "connections": [
       {
         "id": 12,
@@ -15337,7 +15337,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Minimalism",
     "wikiTitle": "Michael Anastassiades",
     "description": "Glass table supported by structure mimicking layered sandwich construction. The transparent surfaces create visual lightness while the 'filling' layer provides structural integrity. Anastassiades transforms domestic ritual into architectural metaphor through material precision.",
-    "significance": "Demonstrates how everyday references can drive sophisticated structural solutions. Teaches students that conceptual wit and engineering logic can coexist when material understanding guides both narrative and performance.",
+    "significance": "Demonstrates how everyday references can drive sophisticated structural solutions. It demonstrates that conceptual wit and engineering logic can coexist when material understanding guides both narrative and performance.",
     "connections": [
       {
         "id": 70,
@@ -15384,7 +15384,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
     "description": "This conceptual furniture piece uses organic forms and alien-like protrusions to challenge conventional notions of domestic comfort. Vinci creates furniture that appears to have evolved rather than been designed, with surface textures and forms that suggest biological growth patterns. The piece functions as both seating and sculptural intervention, forcing users to negotiate unfamiliar tactile experiences.",
-    "significance": "Students must understand how furniture can critique domesticity itself — this piece demonstrates that seating doesn't have to conform to human expectations but can actively reshape our relationship with objects. It shows how conceptual design uses discomfort as a tool for questioning assumptions about function and form.",
+    "significance": "One must understand how furniture can critique domesticity itself — this piece demonstrates that seating doesn't have to conform to human expectations but can actively reshape our relationship with objects. It shows how conceptual design uses discomfort as a tool for questioning assumptions about function and form.",
     "connections": [
       {
         "id": 12,
@@ -15431,7 +15431,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
     "description": "The second piece in Vinci's series extends his exploration of furniture as biological entity, featuring more pronounced growth-like appendages and surface treatments that suggest contamination or mutation. The piece challenges the boundary between functional object and parasitic growth, creating seating that appears to have infected domestic space. Its form resists categorization, functioning somewhere between chair, sculpture, and organism.",
-    "significance": "This work teaches students that furniture can be a critique of hygiene, domesticity, and human control over objects. It demonstrates how design can make users conscious of their relationship with materials and forms by deliberately creating uncomfortable encounters with familiar typologies.",
+    "significance": "This work It demonstrates that furniture can be a critique of hygiene, domesticity, and human control over objects. It demonstrates how design can make users conscious of their relationship with materials and forms by deliberately creating uncomfortable encounters with familiar typologies.",
     "connections": [
       {
         "id": 374,
@@ -15478,7 +15478,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
     "description": "The third iteration develops Vinci's concept toward more explicit alien morphology, with forms that suggest both plant-like growth and technological implants. The piece creates a hybrid between organic and mechanical aesthetics, as if furniture has been colonized by some form of bio-technology. Its surface treatments and protrusions create multiple scales of detail, demanding close inspection while resisting comfortable use.",
-    "significance": "Students learn how furniture can embody anxieties about technology, biology, and human agency. This piece demonstrates that design can function as speculative fiction, imagining futures where objects have their own evolutionary agenda independent of human needs or desires.",
+    "significance": "The work reveals how furniture can embody anxieties about technology, biology, and human agency. This piece demonstrates that design can function as speculative fiction, imagining futures where objects have their own evolutionary agenda independent of human needs or desires.",
     "connections": [
       {
         "id": 375,
@@ -15525,7 +15525,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
     "description": "Number Six in the series presents perhaps the most aggressive interpretation of Vinci's concept, with sharp, angular protrusions that suggest both organic spines and technological antennae. The piece actively repels conventional use through its hostile surface treatments and unpredictable geometry. It functions as furniture that has developed its own defensive mechanisms, protecting itself from human interaction rather than facilitating it.",
-    "significance": "This work shows students how furniture can embody resistance to human dominance over objects. It demonstrates that design can critique anthropocentrism by creating objects that appear to have their own agency and defensive strategies, challenging the assumption that all designed objects exist solely for human benefit.",
+    "significance": "This work It reveals how furniture can embody resistance to human dominance over objects. It demonstrates that design can critique anthropocentrism by creating objects that appear to have their own agency and defensive strategies, challenging the assumption that all designed objects exist solely for human benefit.",
     "connections": [
       {
         "id": 376,
@@ -15567,7 +15567,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Furniture",
     "wikiTitle": null,
     "description": "The final piece in the series achieves full alien transformation, presenting furniture that has completely abandoned human-centered design logic. Its forms suggest complete evolutionary independence, with structures that appear to serve the object's own mysterious purposes rather than any recognizable human function. The piece functions as a monument to post-human design possibilities, imagining furniture after human civilization.",
-    "significance": "Students encounter here the ultimate challenge to anthropocentric design thinking. This piece demonstrates how conceptual design can imagine post-human futures, using furniture as a vehicle for considering what objects might become if freed from serving human needs and desires.",
+    "significance": "The work presents here the ultimate challenge to anthropocentric design thinking. This piece demonstrates how conceptual design can imagine post-human futures, using furniture as a vehicle for considering what objects might become if freed from serving human needs and desires.",
     "connections": [
       {
         "id": 377,
@@ -15614,7 +15614,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Documentation",
     "wikiTitle": null,
     "description": "This photograph documents Vinci's investigation into furniture as psychological architecture, capturing how domestic objects can embody narratives of alienation and belonging. The image serves as both documentation and conceptual statement, questioning the boundary between furniture and sculpture, function and meaning.",
-    "significance": "Students need to understand how documentation becomes part of the design argument itself. This work demonstrates how contemporary designers use photography not just to record objects but to construct critical narratives about design's role in shaping psychological space.",
+    "significance": "It is important to understand how documentation becomes part of the design argument itself. This work demonstrates how contemporary designers use photography not just to record objects but to construct critical narratives about design's role in shaping psychological space.",
     "connections": [
       {
         "id": 331,
@@ -15661,7 +15661,7 @@ export const ARCHIVE = [
     "movement": "Critical Design",
     "wikiTitle": null,
     "description": "This vessel explores the relationship between natural materials and industrial processes, questioning how design mediates our connection to botanical origins. The form emerges from Studio Formafantasma's investigation into material genealogies, making visible the industrial transformation of organic matter.",
-    "significance": "Students must understand how critical design uses material investigation to question assumptions about production and consumption. This work demonstrates how contemporary designers employ vessels as vehicles for material speculation rather than mere containers.",
+    "significance": "One must understand how critical design uses material investigation to question assumptions about production and consumption. This work demonstrates how contemporary designers employ vessels as vehicles for material speculation rather than mere containers.",
     "connections": [
       {
         "id": 3,
@@ -15703,7 +15703,7 @@ export const ARCHIVE = [
     "movement": "Digital Craft",
     "wikiTitle": null,
     "description": "This smartphone cover interrogates the relationship between protection and ornament in digital accessories, transforming a utilitarian object into a statement about contemporary material culture. The design questions how industrial objects can carry personal meaning through surface treatment and form modification.",
-    "significance": "Students need to understand how digital-age accessories function as sites of personal expression within mass production systems. This work demonstrates how contemporary designers negotiate between industrial standardization and individual identity through surface and form.",
+    "significance": "It is important to understand how digital-age accessories function as sites of personal expression within mass production systems. This work demonstrates how contemporary designers negotiate between industrial standardization and individual identity through surface and form.",
     "connections": [
       {
         "id": 10,
@@ -15750,7 +15750,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Ceramics",
     "wikiTitle": null,
     "description": "This vase employs reduction as a design strategy, using black glazing to eliminate surface decoration and focus attention on pure form. The work represents 1882 Ltd's investigation into how traditional ceramic techniques can produce contemporary expressions of minimalism.",
-    "significance": "Students must understand how contemporary ceramics negotiates between craft tradition and minimalist aesthetics. This work demonstrates how reduction can be a positive design strategy, creating presence through absence of ornament.",
+    "significance": "One must understand how contemporary ceramics negotiates between craft tradition and minimalist aesthetics. This work demonstrates how reduction can be a positive design strategy, creating presence through absence of ornament.",
     "connections": [
       {
         "id": 383,
@@ -15797,7 +15797,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Ceramics",
     "wikiTitle": null,
     "description": "This bowl demonstrates 1882 Ltd's commitment to functional minimalism, using traditional ceramic techniques to achieve contemporary expressions of utility. The form eliminates decorative elements to focus on the essential relationship between material, making, and use.",
-    "significance": "Students need to understand how contemporary craft can maintain traditional making processes while expressing current aesthetic values. This work shows how functional objects can embody design philosophy through material choice and formal reduction.",
+    "significance": "It is important to understand how contemporary craft can maintain traditional making processes while expressing current aesthetic values. This work shows how functional objects can embody design philosophy through material choice and formal reduction.",
     "connections": [
       {
         "id": 382,
@@ -15844,7 +15844,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Craft",
     "wikiTitle": null,
     "description": "A luxury handbag that mimics the form and graphics of a toothpaste tube, questioning the boundaries between high fashion and everyday objects. Wood's design uses precise Italian leather craftsmanship to elevate mundane packaging into a commentary on consumer culture and value systems. The bag functions perfectly as luxury goods while maintaining its conceptual critique of what we consider worth carrying.",
-    "significance": "This teaches students how contemporary design operates through conceptual frameworks rather than pure function. It demonstrates how designers can use familiar forms to create cognitive dissonance, making viewers question assumptions about value, luxury, and appropriateness in design.",
+    "significance": "This It demonstrates how contemporary design operates through conceptual frameworks rather than pure function. It demonstrates how designers can use familiar forms to create cognitive dissonance, making viewers question assumptions about value, luxury, and appropriateness in design.",
     "connections": [
       {
         "id": 9,
@@ -15885,7 +15885,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Craft",
     "wikiTitle": null,
     "description": "A development prototype that reveals the iterative process behind the Toothpaste bag concept. This handle component demonstrates how designers work through material and ergonomic challenges while maintaining conceptual integrity. The visible construction methods and unfinished quality provide insight into creative problem-solving in luxury goods development.",
-    "significance": "Students learn that even conceptual design requires rigorous technical development. This prototype shows how ideas must be tested, refined, and engineered to function in the real world — revealing design as both creative and systematic practice.",
+    "significance": "The point is that even conceptual design requires rigorous technical development. This prototype shows how ideas must be tested, refined, and engineered to function in the real world — revealing design as both creative and systematic practice.",
     "connections": [
       {
         "id": 385,
@@ -15926,7 +15926,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Design",
     "wikiTitle": "2012 Summer Olympics cauldron",
     "description": "A scale model of the Olympic cauldron that transformed from 204 individual copper petals into a unified flame bowl through mechanical choreography. Heatherwick's design rejected the typical monumental approach, instead creating a kinetic sculpture that literally brought together participating nations through synchronized movement. The copper petals, each representing a competing country, rose from ground level to form the cauldron — making the lighting ceremony about collective participation rather than singular spectacle.",
-    "significance": "This demonstrates how public design can embody political and cultural messages through mechanical systems. Students learn that architecture and ceremony design can argue for specific values — here, democratic participation over hierarchical display — through the behavior of objects, not just their appearance.",
+    "significance": "This demonstrates how public design can embody political and cultural messages through mechanical systems. The point is that architecture and ceremony design can argue for specific values — here, democratic participation over hierarchical display — through the behavior of objects, not just their appearance.",
     "connections": [
       {
         "id": 15,
@@ -15968,7 +15968,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Design",
     "wikiTitle": "Spun chair",
     "description": "A rotating chair created by spinning molten metal around a form, resulting in a seamless shell that can rock and spin on its base. The manufacturing process generates both the chair's form and its kinetic behavior — the spinning motion used in production becomes the spinning motion of use. Heatherwick eliminates traditional chair components (legs, back, arms) in favor of a single continuous surface that defines sitting through physics rather than convention.",
-    "significance": "Students see how manufacturing processes can become design concepts. This chair teaches that makers can question fundamental assumptions about what chairs must look like by focusing on how bodies interact with objects through movement and balance.",
+    "significance": "It reveals how manufacturing processes can become design concepts. This chair teaches that makers can question fundamental assumptions about what chairs must look like by focusing on how bodies interact with objects through movement and balance.",
     "connections": [
       {
         "id": 387,
@@ -16009,7 +16009,7 @@ export const ARCHIVE = [
     "movement": "Critical Design",
     "wikiTitle": null,
     "description": "This speculative design publication operates as both documentation and manifesto for critical futures thinking. The work functions through narrative construction rather than traditional graphic design, using editorial structure to present alternative scenarios for technological and social development. Each page operates as a speculative artifact, demonstrating how graphic design can become a tool for critical inquiry rather than commercial communication.",
-    "significance": "Students learn how graphic design can function as speculative methodology, using publication format to explore critical futures rather than promote existing products. The work shows design's capacity to generate debate about technological trajectories rather than merely visualize them.",
+    "significance": "The work reveals how graphic design can function as speculative methodology, using publication format to explore critical futures rather than promote existing products. The work shows design's capacity to generate debate about technological trajectories rather than merely visualize them.",
     "connections": [
       {
         "id": 327,
@@ -16051,7 +16051,7 @@ export const ARCHIVE = [
     "movement": "Consumer Robotics",
     "wikiTitle": "DJI Phantom",
     "description": "The Phantom democratizes aerial photography through systematic simplification of professional drone technology. Its white plastic housing conceals complex flight control systems behind consumer-friendly interfaces, making previously specialist equipment accessible to general users. The design operates through radical miniaturization and automation, transforming military surveillance technology into creative tools through careful human-machine interface design.",
-    "significance": "Students understand how consumer product design can democratize advanced technologies by hiding complexity behind intuitive interfaces. The work demonstrates design's role in transforming professional tools into mass-market products while maintaining technical sophistication.",
+    "significance": "It clarifies how consumer product design can democratize advanced technologies by hiding complexity behind intuitive interfaces. The work demonstrates design's role in transforming professional tools into mass-market products while maintaining technical sophistication.",
     "connections": [
       {
         "id": 10,
@@ -16093,7 +16093,7 @@ export const ARCHIVE = [
     "movement": "British Film Graphics",
     "wikiTitle": null,
     "description": "Chantrell's poster constructs horror through strategic color relationships and compositional tension rather than literal representation. The design operates through cinematic logic, using graphic elements to build psychological atmosphere that mirrors the film's narrative structure. Bold typography and saturated colors create visual impact designed for maximum street-level visibility while maintaining the gothic aesthetic requirements of the horror genre.",
-    "significance": "Students see how commercial graphics must balance artistic expression with marketing effectiveness, creating visual systems that communicate genre expectations while attracting audiences. The work demonstrates graphic design's role in shaping cultural understanding of film genres.",
+    "significance": "It reveals how commercial graphics must balance artistic expression with marketing effectiveness, creating visual systems that communicate genre expectations while attracting audiences. The work demonstrates graphic design's role in shaping cultural understanding of film genres.",
     "connections": [
       {
         "id": 88,
@@ -16135,7 +16135,7 @@ export const ARCHIVE = [
     "movement": "Constructivism",
     "wikiTitle": "Varvara Stepanova",
     "description": "Stepanova's textile design applies Constructivist principles to mass production, using geometric forms and industrial motifs to transform everyday flannel into revolutionary propaganda. The pattern integrates abstract shapes with mechanistic imagery, rejecting bourgeois decoration in favor of ideological content. The design functions as both clothing and political statement, embedding Soviet values into the fabric of daily life.",
-    "significance": "Students must understand how political movements use design to reshape society at the most intimate level. This textile demonstrates how avant-garde artists moved from gallery to factory, making design a tool of social transformation rather than mere decoration.",
+    "significance": "One must understand how political movements use design to reshape society at the most intimate level. This textile demonstrates how avant-garde artists moved from gallery to factory, making design a tool of social transformation rather than mere decoration.",
     "connections": [
       {
         "id": 250,
@@ -16219,7 +16219,7 @@ export const ARCHIVE = [
     "movement": "Art Nouveau",
     "wikiTitle": "Aubrey Beardsley",
     "description": "Beardsley's illustration for Wilde's Salome reduces complex psychological drama to stark black and white patterns, using the elimination of half-tones to create maximum visual impact. The design organizes the composition around flowing organic forms that echo Art Nouveau's natural motifs while maintaining graphic clarity through extreme contrast. Line becomes both decorative element and narrative device, carrying erotic tension through its sinuous movement.",
-    "significance": "Students must grasp how Beardsley's reduction technique influenced modern graphic design's use of simplified forms for mass reproduction. His work shows how illustration can carry complex literary and psychological content through purely visual means.",
+    "significance": "One must grasp how Beardsley's reduction technique influenced modern graphic design's use of simplified forms for mass reproduction. His work shows how illustration can carry complex literary and psychological content through purely visual means.",
     "connections": [
       {
         "id": 14,
@@ -16261,7 +16261,7 @@ export const ARCHIVE = [
     "movement": "Arts and Crafts",
     "wikiTitle": "Beggarstaff Brothers",
     "description": "The Beggarstaff Brothers' poster revolutionizes commercial graphics by applying Japanese woodblock principles to Western advertising, using flat color areas and minimal detail to create maximum impact at reading distance. Their technique eliminates unnecessary information while maintaining strong figural recognition through simplified silhouettes. The design demonstrates how artistic reduction can serve commercial communication more effectively than realistic detail.",
-    "significance": "This poster is crucial for understanding how modern advertising graphics developed from fine art principles. It shows students how artistic movements translate into commercial practice, creating new visual languages for mass communication.",
+    "significance": "This poster is crucial for understanding how modern advertising graphics developed from fine art principles. It reveals how artistic movements translate into commercial practice, creating new visual languages for mass communication.",
     "connections": [
       {
         "id": 395,
@@ -16303,7 +16303,7 @@ export const ARCHIVE = [
     "movement": "Art Deco",
     "wikiTitle": null,
     "description": "This architectural panel demonstrates the synthesis of modernist reduction with decorative surface treatment typical of 1930s commercial architecture. The panel's geometric patterning creates visual rhythm through repetitive modular elements, showing how industrial materials could carry symbolic and ornamental meaning. Its integration of structure and surface decoration reflects the period's attempt to humanize mechanized production.",
-    "significance": "Students need to understand how architects in the 1930s negotiated between functionalist doctrine and public expectation for visual richness. This panel shows that modernism wasn't monolithically austere — designers found ways to embed decoration within systematic approaches, prefiguring postmodern debates about meaning in architecture.",
+    "significance": "It is important to understand how architects in the 1930s negotiated between functionalist doctrine and public expectation for visual richness. This panel shows that modernism wasn't monolithically austere — designers found ways to embed decoration within systematic approaches, prefiguring postmodern debates about meaning in architecture.",
     "connections": [
       {
         "id": 13,
@@ -16350,7 +16350,7 @@ export const ARCHIVE = [
     "movement": "Beggarstaff Brothers",
     "wikiTitle": "James Pryde",
     "description": "This poster employs radical reduction of pictorial elements to create maximum visual impact in urban environments. Pryde uses bold, flat color areas and simplified forms to cut through visual noise, demonstrating how commercial graphics could adopt avant-garde techniques for mass communication. The design's economy of means anticipates modernist graphic principles while serving purely commercial ends.",
-    "significance": "This poster teaches students how avant-garde reduction techniques emerged from commercial necessity rather than aesthetic theory. It shows the symbiotic relationship between artistic innovation and market demands, proving that modernist graphic principles developed through practical problem-solving in consumer culture.",
+    "significance": "This poster It demonstrates how avant-garde reduction techniques emerged from commercial necessity rather than aesthetic theory. It shows the symbiotic relationship between artistic innovation and market demands, proving that modernist graphic principles developed through practical problem-solving in consumer culture.",
     "connections": [
       {
         "id": 352,
@@ -16397,7 +16397,7 @@ export const ARCHIVE = [
     "movement": "British Post-war Modernism",
     "wikiTitle": null,
     "description": "This radio demonstrates how British manufacturers adapted continental modernist principles to domestic consumer products in the immediate post-war period. The casing's simplified geometry and honest material expression reflect functionalist ideology while accommodating British preferences for domestic warmth. Its design reveals how international modernism was localized through manufacturing constraints and cultural expectations.",
-    "significance": "Students should understand how modernist principles were domesticated and commercialized in post-war Britain. This radio shows that modernism wasn't simply imported but actively translated, revealing how design movements adapt to local conditions and consumer expectations.",
+    "significance": "Viewers should understand how modernist principles were domesticated and commercialized in post-war Britain. This radio shows that modernism wasn't simply imported but actively translated, revealing how design movements adapt to local conditions and consumer expectations.",
     "connections": [
       {
         "id": 16,
@@ -16439,7 +16439,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Theater Design",
     "wikiTitle": null,
     "description": "This costume design demonstrates how contemporary theater design synthesizes digital and analog methods to create performative identity. Christie's approach combines traditional costume construction principles with digitally-informed aesthetic languages, creating garments that function both as clothing and as scenographic elements. The design shows how contemporary practice integrates multiple media to serve dramatic narrative.",
-    "significance": "Students need to understand how digital culture has transformed traditional design disciplines without eliminating their core functions. This costume design teaches how contemporary designers must navigate between physical craft knowledge and digital aesthetic languages to create meaningful cultural objects.",
+    "significance": "It is important to understand how digital culture has transformed traditional design disciplines without eliminating their core functions. This costume design teaches how contemporary designers must navigate between physical craft knowledge and digital aesthetic languages to create meaningful cultural objects.",
     "connections": [
       {
         "id": 69,
@@ -16486,7 +16486,7 @@ export const ARCHIVE = [
     "movement": "Toy Graphics",
     "wikiTitle": null,
     "description": "This leaflet demonstrates how commercial toy graphics adopted military and technical graphic conventions to create authenticity and narrative engagement for children. The design uses systematic information organization, technical drawing conventions, and institutional typography to simulate real military communications. Its graphic authority transforms play into role-playing, showing how design shapes behavioral expectations.",
-    "significance": "Students should understand how graphic design constructs social roles and behavioral scripts, particularly for children. This mission brief shows how commercial design borrows authority from institutional contexts, revealing design's role in cultural reproduction and identity formation.",
+    "significance": "Viewers should understand how graphic design constructs social roles and behavioral scripts, particularly for children. This mission brief shows how commercial design borrows authority from institutional contexts, revealing design's role in cultural reproduction and identity formation.",
     "connections": [
       {
         "id": 13,
@@ -16533,7 +16533,7 @@ export const ARCHIVE = [
     "movement": "British Wartime Design",
     "wikiTitle": null,
     "description": "Kestelman's wartime design work demonstrates how graphic designers adapted modernist principles to serve national communication needs. The design employs simplified forms and direct visual communication, stripping away decorative elements in favor of immediate legibility and emotional impact during a period of material scarcity and urgent messaging.",
-    "significance": "Students understand how external pressures reshape design language — war forcing economy of means that paralleled modernist aesthetics for different reasons. This shows design responding to social necessity rather than stylistic preference.",
+    "significance": "It clarifies how external pressures reshape design language — war forcing economy of means that paralleled modernist aesthetics for different reasons. This shows design responding to social necessity rather than stylistic preference.",
     "connections": [
       {
         "id": 14,
@@ -16569,7 +16569,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Remy's chest of drawers binds found furniture drawers with a canvas strap, creating functional storage while preserving individual histories. Each drawer retains its original character — different woods, handles, wear patterns — while the strap provides structural unity. The design argues that memory cannot be systematized or standardized.",
-    "significance": "Students learn how conceptual design challenges modernism's universal solutions by celebrating individual histories and imperfection. The work demonstrates how designers can create systems that accommodate rather than eliminate difference, making storage functional while keeping memory visible.",
+    "significance": "The work reveals how conceptual design challenges modernism's universal solutions by celebrating individual histories and imperfection. The work demonstrates how designers can create systems that accommodate rather than eliminate difference, making storage functional while keeping memory visible.",
     "connections": [
       {
         "id": 11,
@@ -16611,7 +16611,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Wanders' eggshell vase transforms fragile waste material into precious vessel through careful preservation of natural form. The design maintains the egg's original shape while creating functional interior space, celebrating organic geometry over manufactured perfection. The vase questions assumptions about valuable materials and manufacturing processes.",
-    "significance": "Students learn how Dutch design challenges material hierarchies by elevating humble origins. The work demonstrates conceptual sophistication through material transformation — making waste precious through careful attention rather than expensive processes.",
+    "significance": "The work reveals how Dutch design challenges material hierarchies by elevating humble origins. The work demonstrates conceptual sophistication through material transformation — making waste precious through careful attention rather than expensive processes.",
     "connections": [
       {
         "id": 3,
@@ -16653,7 +16653,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A ceramic bowl created by soaking a synthetic sponge in liquid porcelain slip, then firing it to burn away the sponge structure, leaving only the hardened ceramic shell that preserves every bubble and pore of the original foam. The manufacturing process transforms an industrial cleaning object into a luxury vessel through direct material translation. The bowl's surface texture records the exact cellular structure of industrial foam, making visible the hidden architecture of mass-produced materials.",
-    "significance": "Demonstrates how Dutch Design challenged manufacturing orthodoxy by using everyday objects as forming tools rather than traditional molds. Shows students how process innovation can create new aesthetic languages by embracing accident and material logic rather than controlling them.",
+    "significance": "Demonstrates how Dutch Design challenged manufacturing orthodoxy by using everyday objects as forming tools rather than traditional molds. It reveals how process innovation can create new aesthetic languages by embracing accident and material logic rather than controlling them.",
     "connections": [
       {
         "id": 9,
@@ -16700,7 +16700,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Like the Foam Bowl, this vase uses synthetic sponge as a forming matrix for liquid porcelain, creating a vessel whose surface records every cellular detail of the original foam structure. The firing process burns away the organic binder in the sponge while preserving the ceramic shell, resulting in a functional object that bears the exact textural imprint of industrial foam. The technique demonstrates how mass-production materials can become the tools for creating unique, high-value objects.",
-    "significance": "Shows students how a single process innovation can generate multiple typologies while maintaining consistent material logic. Demonstrates the Dutch Design principle of finding beauty in industrial waste materials and manufacturing accidents.",
+    "significance": "It demonstrates how a single process innovation can generate multiple typologies while maintaining consistent material logic. Demonstrates the Dutch Design principle of finding beauty in industrial waste materials and manufacturing accidents.",
     "connections": [
       {
         "id": 407,
@@ -16747,7 +16747,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A floor lamp constructed from multiple translucent fabric shades arranged in a vertical stack, creating layers of diffused light that can be adjusted by repositioning individual elements. The modular system allows users to configure the light output and visual composition according to need, with each shade acting as both functional diffuser and sculptural element. The soft, organic forms contrast with the rational stacking principle, creating tension between systematic organization and natural shapes.",
-    "significance": "Demonstrates early exploration of modular lighting systems that prioritize user agency over fixed designer intention. Shows students how systematic thinking can accommodate organic forms and variable configurations rather than determining single solutions.",
+    "significance": "Demonstrates early exploration of modular lighting systems that prioritize user agency over fixed designer intention. It reveals how systematic thinking can accommodate organic forms and variable configurations rather than determining single solutions.",
     "connections": [
       {
         "id": 3,
@@ -16794,7 +16794,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A lounge chair that exaggerates conventional seating proportions to create an oversized, enveloping form that emphasizes comfort and relaxation through its generous dimensions. The chair's simple geometric profile is inflated to accommodate multiple sitting positions, with deep cushioning and wide armrests that support both formal and casual use. The straightforward construction uses standard upholstery techniques applied to unconventional proportions.",
-    "significance": "Shows students how Dutch Design questioned conventional furniture scale and propriety, using humor and exaggeration to challenge assumptions about appropriate domestic objects. Demonstrates how proportional manipulation can transform familiar typologies into new experiences.",
+    "significance": "It reveals how Dutch Design questioned conventional furniture scale and propriety, using humor and exaggeration to challenge assumptions about appropriate domestic objects. Demonstrates how proportional manipulation can transform familiar typologies into new experiences.",
     "connections": [
       {
         "id": 63,
@@ -16841,7 +16841,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A dining chair that references the geometric vocabulary of Dutch architect H.P. Berlage through simplified rectangular forms and right-angled construction. The chair reduces seating to essential geometric elements—seat, back, and legs—arranged in orthogonal relationships that echo Berlage's architectural rationalism. Despite its minimal appearance, the proportions and angles are carefully calibrated for ergonomic comfort within the geometric constraints.",
-    "significance": "Demonstrates how contemporary Dutch designers engaged with their modernist architectural heritage, translating spatial principles into furniture design. Shows students how historical reference can be structural rather than merely stylistic, informing design logic rather than surface appearance.",
+    "significance": "Demonstrates how contemporary Dutch designers engaged with their modernist architectural heritage, translating spatial principles into furniture design. It reveals how historical reference can be structural rather than merely stylistic, informing design logic rather than surface appearance.",
     "connections": [
       {
         "id": 410,
@@ -16888,7 +16888,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Jewelry",
     "wikiTitle": null,
     "description": "Bakker strips jewelry to its essential function — marking the body — using minimal material to maximum effect. The piece challenges precious material traditions by using industrial processes to create precise geometric forms that frame rather than decorate the wearer. Its reductive approach transforms jewelry from ornament into spatial sculpture that exists in dialogue with the body.",
-    "significance": "Students learn how conceptual rigor can redefine entire disciplines. Bakker demonstrates that questioning fundamental assumptions — what makes jewelry valuable, decorative, or wearable — can produce radical new forms. The piece shows how Dutch design thinking applies systematic reduction to traditional craft practices.",
+    "significance": "The work reveals how conceptual rigor can redefine entire disciplines. Bakker demonstrates that questioning fundamental assumptions — what makes jewelry valuable, decorative, or wearable — can produce radical new forms. The piece shows how Dutch design thinking applies systematic reduction to traditional craft practices.",
     "connections": [
       {
         "id": 9,
@@ -16935,7 +16935,7 @@ export const ARCHIVE = [
     "movement": "Dutch Material Research",
     "wikiTitle": null,
     "description": "Jongerius creates textile samples that blur boundaries between natural and synthetic through controlled material experiments. Her process combines traditional weaving techniques with industrial fibers to produce unexpected surface qualities that reference organic growth patterns. The work demonstrates how systematic material research can generate new aesthetic possibilities from familiar production methods.",
-    "significance": "Students see how contemporary designers use material research as primary design methodology. Jongerius shows that innovation often comes from patient experimentation with making processes rather than dramatic formal gestures. The work demonstrates how textile design can function as speculative research into future material possibilities.",
+    "significance": "It reveals how contemporary designers use material research as primary design methodology. Jongerius shows that innovation often comes from patient experimentation with making processes rather than dramatic formal gestures. The work demonstrates how textile design can function as speculative research into future material possibilities.",
     "connections": [
       {
         "id": 109,
@@ -16982,7 +16982,7 @@ export const ARCHIVE = [
     "movement": "Dutch Material Research",
     "wikiTitle": null,
     "description": "Jongerius translates ceramic glazing effects into textile surfaces through advanced fiber treatment and weaving structures. The fabric creates optical depth through layered materials that shift between matte and reflective qualities, mimicking the unpredictable surface variations found in ceramic glazes. Her systematic exploration of material translation demonstrates how traditional craft knowledge can inform contemporary industrial processes.",
-    "significance": "Students learn how cross-disciplinary material research can generate entirely new product categories. Jongerius demonstrates that innovation comes from translating knowledge between different making traditions rather than inventing from scratch. The work shows how contemporary textile design can function as applied materials science.",
+    "significance": "The work reveals how cross-disciplinary material research can generate entirely new product categories. Jongerius demonstrates that innovation comes from translating knowledge between different making traditions rather than inventing from scratch. The work shows how contemporary textile design can function as applied materials science.",
     "connections": [
       {
         "id": 413,
@@ -17024,7 +17024,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Baas hand-carves wood to perfectly mimic mass-produced plastic chair forms, creating uncanny material contradictions. The piece requires extraordinary craft skill to achieve machine-like precision, inverting normal production hierarchies where plastic mimics natural materials. His meticulous carving process transforms cheap industrial design into precious handmade object while maintaining identical visual form.",
-    "significance": "Students understand how contemporary designers use conceptual contradiction to critique industrial production. Baas demonstrates that formal copying can be radical when it exposes assumptions about material value and making processes. The work teaches that conceptual art strategies can revitalize furniture design practice.",
+    "significance": "It clarifies how contemporary designers use conceptual contradiction to critique industrial production. Baas demonstrates that formal copying can be radical when it exposes assumptions about material value and making processes. The work teaches that conceptual art strategies can revitalize furniture design practice.",
     "connections": [
       {
         "id": 38,
@@ -17071,7 +17071,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Baas creates mirrors through controlled charring of wooden frames, using fire as precise design tool rather than destructive force. The burning process produces unique surface textures that cannot be replicated through conventional manufacturing, making each piece singular despite systematic production method. His technique transforms destruction into creation, questioning boundaries between making and unmaking.",
-    "significance": "Students learn how unconventional processes can generate entirely new aesthetic categories. Baas demonstrates that design innovation often comes from embracing rather than controlling unpredictable material behaviors. The work shows how conceptual art's process-based thinking can revitalize traditional object categories like mirrors.",
+    "significance": "The work reveals how unconventional processes can generate entirely new aesthetic categories. Baas demonstrates that design innovation often comes from embracing rather than controlling unpredictable material behaviors. The work shows how conceptual art's process-based thinking can revitalize traditional object categories like mirrors.",
     "connections": [
       {
         "id": 415,
@@ -17165,7 +17165,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A conceptual furniture piece that questions traditional typologies by literally placing one table upon another to create seating. The design challenges functional expectations while maintaining structural logic, using irony to examine how we categorize and use domestic objects. Its absurd simplicity reveals the arbitrary nature of furniture conventions.",
-    "significance": "Teaches students to question assumed relationships between form and function, demonstrating how conceptual approaches can reveal hidden assumptions in design thinking. Shows how Dutch design uses intellectual provocation rather than aesthetic innovation.",
+    "significance": "It demonstrates to question assumed relationships between form and function, demonstrating how conceptual approaches can reveal hidden assumptions in design thinking. Shows how Dutch design uses intellectual provocation rather than aesthetic innovation.",
     "connections": [
       {
         "id": 2,
@@ -17212,7 +17212,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A ceramic cow figure that demonstrates Wanders' approach to emotional design through traditional craft techniques applied to contemporary forms. The piece combines Dutch ceramic heritage with conceptual storytelling, creating objects that function as both decorative items and cultural commentary. Its deliberate sentimentality challenges modernist functionalism's emotional restraint.",
-    "significance": "Shows students how contemporary designers can reclaim decorative traditions while maintaining critical distance. Demonstrates the role of emotion and narrative in post-functionalist design approaches, particularly in Dutch design culture.",
+    "significance": "It reveals how contemporary designers can reclaim decorative traditions while maintaining critical distance. Demonstrates the role of emotion and narrative in post-functionalist design approaches, particularly in Dutch design culture.",
     "connections": [
       {
         "id": 9,
@@ -17259,7 +17259,7 @@ export const ARCHIVE = [
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
     "description": "A wall-mounted CD player that eliminates the traditional box housing by integrating the disc mechanism directly into a minimal circular form. The design reduces the product to its essential function - spinning the disc - while the pull-cord activation references familiar domestic appliances. This 'without thought' design philosophy makes technology feel intuitive and unobtrusive.",
-    "significance": "Demonstrates Fukasawa's 'Super Normal' approach that makes complex technology feel natural through familiar interaction patterns. Teaches students how reduction can enhance rather than diminish user experience by removing cognitive barriers.",
+    "significance": "Demonstrates Fukasawa's 'Super Normal' approach that makes complex technology feel natural through familiar interaction patterns. It demonstrates how reduction can enhance rather than diminish user experience by removing cognitive barriers.",
     "connections": [
       {
         "id": 16,
@@ -17306,7 +17306,7 @@ export const ARCHIVE = [
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
     "description": "Another iteration of Fukasawa's CD player concept, exploring alternative approaches to technology integration through different formal strategies. Like his wall-mounted version, it prioritizes intuitive operation over technological display, making the complex mechanics of digital playback feel natural and unforced. The design philosophy remains consistent: technology should feel inevitable rather than impressive.",
-    "significance": "Shows students how designers can explore the same functional brief through multiple formal approaches while maintaining consistent design philosophy. Demonstrates the Japanese concept of 'appropriateness' in technology design.",
+    "significance": "It reveals how designers can explore the same functional brief through multiple formal approaches while maintaining consistent design philosophy. Demonstrates the Japanese concept of 'appropriateness' in technology design.",
     "connections": [
       {
         "id": 420,
@@ -17588,7 +17588,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Joe Colombo (designer)",
     "description": "A modular storage trolley constructed from ABS plastic injection-molded components that stack and rotate on a central spine. Each drawer can be removed and reconfigured, with the entire unit rolling on four casters. The system demonstrates how industrial materials and manufacturing processes can create flexible domestic storage that adapts to user needs rather than dictating fixed arrangements.",
-    "significance": "Teaches students how modular design thinking translates abstract systems theory into practical objects. Shows how Italian designers used industrial plastics not just for cost reduction but to enable new kinds of user interaction and spatial flexibility.",
+    "significance": "It demonstrates how modular design thinking translates abstract systems theory into practical objects. Shows how Italian designers used industrial plastics not just for cost reduction but to enable new kinds of user interaction and spatial flexibility.",
     "connections": [
       {
         "id": 11,
@@ -17635,7 +17635,7 @@ export const ARCHIVE = [
     "movement": "Japanese Minimalism",
     "wikiTitle": "Tokujin Yoshioka",
     "description": "A chair constructed from hundreds of layers of honeycomb paper that transforms from a flat-packed block into seating through the user's body weight and movements. The material deforms to create a unique impression for each user, permanently recording their physical interaction. The piece exploits paper's structural honeycomb geometry to create furniture that is simultaneously lightweight, strong, and personally adaptive.",
-    "significance": "Demonstrates how understanding material properties at a structural level enables radical rethinking of manufacturing and user relationships. Shows students how Japanese design philosophy applies natural principles to create objects that respond and adapt rather than impose fixed forms.",
+    "significance": "Demonstrates how understanding material properties at a structural level enables radical rethinking of manufacturing and user relationships. It reveals how Japanese design philosophy applies natural principles to create objects that respond and adapt rather than impose fixed forms.",
     "connections": [
       {
         "id": 38,
@@ -17682,7 +17682,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Peter Saville",
     "description": "A record sleeve that appropriates Henri Fantin-Latour's 1890 painting 'A Basket of Roses' as the entire cover, with only a small color-coded identification system on the back. The design removes all conventional music industry signage, requiring viewers to decode meaning through art historical knowledge and Factory Records' systematic color coding. This strategy transforms commercial packaging into cultural critique about art, commerce, and meaning-making.",
-    "significance": "Teaches students how appropriation functions as design methodology, not just aesthetic choice. Demonstrates how graphic design can critique its own commercial context by refusing conventional promotional language and requiring active interpretation from audiences.",
+    "significance": "It demonstrates how appropriation functions as design methodology, not just aesthetic choice. Demonstrates how graphic design can critique its own commercial context by refusing conventional promotional language and requiring active interpretation from audiences.",
     "connections": [
       {
         "id": 430,
@@ -17729,7 +17729,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Malcolm Garrett",
     "description": "A record sleeve using geometric fragmentation and digital typography to reference WWI naval camouflage patterns and early computer graphics. The design layers sharp angular shapes with precise letterforms to create visual disruption that mirrors the album's electronic sound. Garrett employs military camouflage logic—breaking up recognizable forms—to challenge conventional record packaging hierarchy and rock music imagery.",
-    "significance": "Shows students how military and technological references can function as design methodology, not just aesthetic inspiration. Demonstrates how graphic design can embody music's conceptual content through visual strategy rather than literal illustration.",
+    "significance": "It reveals how military and technological references can function as design methodology, not just aesthetic inspiration. Demonstrates how graphic design can embody music's conceptual content through visual strategy rather than literal illustration.",
     "connections": [
       {
         "id": 429,
@@ -17776,7 +17776,7 @@ export const ARCHIVE = [
     "movement": "Post-Digital Art",
     "wikiTitle": null,
     "description": "Saville transforms rejected commercial design work into gallery pieces, recontextualizing graphic design's relationship to failure and value. The piece operates as both critique and documentation, presenting discarded ideas as archaeological evidence of the design process. This transformation from waste to art challenges hierarchies between applied and fine art.",
-    "significance": "Students learn how designers can reflect on their own practice, turning process documentation into critical work. It demonstrates how the same visual language operates differently in commercial and gallery contexts, making visible the usually hidden labor of design iteration.",
+    "significance": "The work reveals how designers can reflect on their own practice, turning process documentation into critical work. It demonstrates how the same visual language operates differently in commercial and gallery contexts, making visible the usually hidden labor of design iteration.",
     "connections": [
       {
         "id": 387,
@@ -17823,7 +17823,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
     "description": "The cover for Ultravox's final studio album uses restrained typography and muted color to communicate both musical sophistication and cultural melancholy. Saville's design reflects the band's transition from punk energy to electronic introspection. The minimal approach contrasts with earlier punk graphics, suggesting design maturity paralleling musical evolution.",
-    "significance": "Students see how graphic design can embody cultural transition, moving beyond simple promotional function to express complex emotional states. It demonstrates how restraint and reduction can communicate meaning as effectively as bold gesture, especially in conveying endings and loss.",
+    "significance": "It reveals how graphic design can embody cultural transition, moving beyond simple promotional function to express complex emotional states. It demonstrates how restraint and reduction can communicate meaning as effectively as bold gesture, especially in conveying endings and loss.",
     "connections": [
       {
         "id": 387,
@@ -17870,7 +17870,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": "Unknown Pleasures",
     "description": "Saville transforms scientific data from a pulsar radio telescope into Joy Division's debut album cover, creating one of graphic design's most recognizable images. The white lines on black background visualize radio waves from a dying star, matching the band's themes of isolation and cosmic insignificance. This appropriation of scientific visualization for cultural communication demonstrates how design can translate between knowledge systems.",
-    "significance": "Students learn how designers can source imagery from unexpected domains, transforming scientific data into emotional communication. It shows how the same image can function as objective measurement and subjective expression, teaching the power of context in determining meaning.",
+    "significance": "The work reveals how designers can source imagery from unexpected domains, transforming scientific data into emotional communication. It shows how the same image can function as objective measurement and subjective expression, teaching the power of context in determining meaning.",
     "connections": [
       {
         "id": 13,
@@ -17917,7 +17917,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
     "description": "Kelly applies his architectural approach to record sleeve design, treating the album cover as spatial rather than purely graphic problem. The design considers how typography and image create architectural relationships on the flat surface. This crossover between environmental and graphic design reflects Manchester's integrated creative scene of the 1980s.",
-    "significance": "Students see how designers can apply thinking from one discipline to another, bringing spatial awareness to flat graphics. It demonstrates the value of interdisciplinary approaches in design, showing how architectural training can inform graphic solutions.",
+    "significance": "It reveals how designers can apply thinking from one discipline to another, bringing spatial awareness to flat graphics. It demonstrates the value of interdisciplinary approaches in design, showing how architectural training can inform graphic solutions.",
     "connections": [
       {
         "id": 432,
@@ -17964,7 +17964,7 @@ export const ARCHIVE = [
     "movement": "Post-Digital Art",
     "wikiTitle": null,
     "description": "This specific Waste Painting transforms discarded luxury fashion graphics into gallery art, using the visual language of British heritage and status symbols. The title's reference to crown jewels makes explicit the transformation of commercial design waste into cultural treasure. Saville questions what gives design value beyond its original commercial purpose.",
-    "significance": "Students learn how designers can critique luxury culture while participating in it, using irony to examine their own complicity in status-driven design. It shows how the gallery context can transform meaning, making commercial graphics function as social commentary about design's relationship to power and prestige.",
+    "significance": "The work reveals how designers can critique luxury culture while participating in it, using irony to examine their own complicity in status-driven design. It shows how the gallery context can transform meaning, making commercial graphics function as social commentary about design's relationship to power and prestige.",
     "connections": [
       {
         "id": 431,
@@ -18011,7 +18011,7 @@ export const ARCHIVE = [
     "movement": "Post-Punk Graphics",
     "wikiTitle": null,
     "description": "This sleeve design extends Saville's investigation into the relationship between high and low culture, using photographic imagery that operates simultaneously as fashion photography and cultural commentary. The work demonstrates how graphic design can function as a form of social critique, questioning boundaries between commercial and artistic practice through deliberate ambiguity. The typography and layout create tension between readable information and aesthetic statement, forcing viewers to navigate between functional and conceptual reading.",
-    "significance": "Students learn how established design methodologies can be developed and refined over time, showing how a designer's signature approach can evolve while maintaining conceptual consistency. The work demonstrates graphic design's capacity to engage with complex cultural subjects through formal means rather than explicit messaging.",
+    "significance": "The work reveals how established design methodologies can be developed and refined over time, showing how a designer's signature approach can evolve while maintaining conceptual consistency. The work demonstrates graphic design's capacity to engage with complex cultural subjects through formal means rather than explicit messaging.",
     "connections": [
       {
         "id": 434,
@@ -18053,7 +18053,7 @@ export const ARCHIVE = [
     "movement": "British Critical Graphics",
     "wikiTitle": null,
     "description": "Barnbrook's panel work demonstrates his approach to typography as political and cultural critique, using letterform design and layout to create meaning that extends beyond mere textual communication. His methodology involves systematic manipulation of typographic elements to generate visual arguments about power, authority, and cultural control. The work shows how graphic design can function as a form of cultural resistance through formal strategies that question conventional approaches to information hierarchy and readability.",
-    "significance": "Students need to understand how typography can operate as a critical practice that questions cultural assumptions rather than simply organizing information. The work demonstrates how systematic approaches to letterform and layout can generate political meaning, teaching design's capacity for cultural critique through formal means.",
+    "significance": "It is important to understand how typography can operate as a critical practice that questions cultural assumptions rather than simply organizing information. The work demonstrates how systematic approaches to letterform and layout can generate political meaning, teaching design's capacity for cultural critique through formal means.",
     "connections": [
       {
         "id": 13,
@@ -18090,7 +18090,7 @@ export const ARCHIVE = [
     "movement": "British Critical Graphics",
     "wikiTitle": "Jonathan Barnbrook",
     "description": "Barnbrook's award design uses typography as ideological critique, employing deliberately aggressive letterforms to challenge the sanitized aesthetics of corporate recognition. The frame becomes part of the argument, containing and institutionalizing dissent. Typography functions as both message and medium, with formal decisions carrying political weight.",
-    "significance": "Students learn how graphic design can embed critique within institutional contexts, demonstrating that even ceremonial objects can carry subversive content. It shows how typography becomes a weapon of cultural resistance.",
+    "significance": "The work reveals how graphic design can embed critique within institutional contexts, demonstrating that even ceremonial objects can carry subversive content. It shows how typography becomes a weapon of cultural resistance.",
     "connections": [
       {
         "id": 398,
@@ -18131,7 +18131,7 @@ export const ARCHIVE = [
     "movement": "Critical Consumerism",
     "wikiTitle": null,
     "description": "This merchandise item functions as meta-critique of design commodification, using the very mechanisms of consumer culture to question them. The Honduras origin explicitly highlights global production inequalities. The object exists simultaneously as commodity and commentary, collapsing the distance between critique and complicity.",
-    "significance": "Students understand how contemporary design must address its own complicity in global production systems. It demonstrates design's capacity for self-reflexive critique while remaining embedded in the systems it questions.",
+    "significance": "It clarifies how contemporary design must address its own complicity in global production systems. It demonstrates design's capacity for self-reflexive critique while remaining embedded in the systems it questions.",
     "connections": [
       {
         "id": 438,
@@ -18172,7 +18172,7 @@ export const ARCHIVE = [
     "movement": "Feminist Activism Graphics",
     "wikiTitle": "Guerrilla Girls",
     "description": "The poster weaponizes the museum poster format to expose institutional bias, using statistical data as visual ammunition. The anonymous collective identity amplifies the message while protecting individual makers. Typography and layout mimic museum authority to subvert it from within.",
-    "significance": "Students see how design can expose institutional power structures by adopting their visual languages. It demonstrates the strategic use of anonymity and data in activist graphics, showing design as a tool for institutional accountability.",
+    "significance": "It reveals how design can expose institutional power structures by adopting their visual languages. It demonstrates the strategic use of anonymity and data in activist graphics, showing design as a tool for institutional accountability.",
     "connections": [
       {
         "id": 441,
@@ -18213,7 +18213,7 @@ export const ARCHIVE = [
     "movement": "Feminist Activism Graphics",
     "wikiTitle": "Guerrilla Girls",
     "description": "The poster uses bitter irony to expose systemic disadvantage, formatting genuine discrimination as fake benefits. Each 'advantage' reveals institutional barriers while maintaining the authoritative tone of career advice literature. The list format weaponizes bureaucratic neutrality to devastating effect.",
-    "significance": "Students learn how irony and mimicry can expose power structures more effectively than direct confrontation. It shows how adopting institutional voice can reveal institutional failure, demonstrating design's capacity for strategic subversion.",
+    "significance": "The work reveals how irony and mimicry can expose power structures more effectively than direct confrontation. It shows how adopting institutional voice can reveal institutional failure, demonstrating design's capacity for strategic subversion.",
     "connections": [
       {
         "id": 440,
@@ -18249,7 +18249,7 @@ export const ARCHIVE = [
     "movement": "Street Art Graphics",
     "wikiTitle": null,
     "description": "The sticker exploits urban infrastructure as distribution network, using the city itself as gallery space. Its small scale enables stealth deployment while maintaining visual impact through repetition. The format democratizes both production and consumption, requiring neither institutional approval nor audience commitment.",
-    "significance": "Students understand how scale and distribution method become fundamental design decisions. It demonstrates how democratic media can challenge institutional gatekeeping, showing design's capacity to operate outside traditional cultural channels.",
+    "significance": "It clarifies how scale and distribution method become fundamental design decisions. It demonstrates how democratic media can challenge institutional gatekeeping, showing design's capacity to operate outside traditional cultural channels.",
     "connections": [
       {
         "id": 440,
@@ -18332,7 +18332,7 @@ export const ARCHIVE = [
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
     "description": "Systematic documentation presenting data about gallery representation through stark listing format. The bureaucratic presentation style ironically highlights institutional bias through clinical objectivity. Form mimics official documentation to expose unofficial discrimination.",
-    "significance": "Demonstrates how design methodology can reveal hidden patterns in cultural institutions. Shows students how information design principles can serve activist purposes when data becomes evidence of systemic problems.",
+    "significance": "Demonstrates how design methodology can reveal hidden patterns in cultural institutions. It reveals how information design principles can serve activist purposes when data becomes evidence of systemic problems.",
     "connections": [
       {
         "id": 443,
@@ -18379,7 +18379,7 @@ export const ARCHIVE = [
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
     "description": "Low-cost distribution format using accessible printing methods to spread activist messages. The ephemeral nature suits guerrilla tactics while democratic production methods enable grassroots circulation. Design stripped to essential message delivery.",
-    "significance": "Shows how production constraints can strengthen political communication by forcing clarity and accessibility. Teaches students that radical design often emerges from material limitations rather than expensive production.",
+    "significance": "Shows how production constraints can strengthen political communication by forcing clarity and accessibility. It demonstrates that radical design often emerges from material limitations rather than expensive production.",
     "connections": [
       {
         "id": 444,
@@ -18421,7 +18421,7 @@ export const ARCHIVE = [
     "movement": "Guerrilla Graphics",
     "wikiTitle": null,
     "description": "Photocopy appropriation of segregation-era signage applied to contemporary art institutions. The historical reference exposes ongoing exclusion through visual parallel. Low-fi reproduction method suits the guerrilla intervention strategy.",
-    "significance": "Demonstrates how historical design languages can be recontextualized to critique present conditions. Shows students that appropriation becomes radical when it reveals continuities between past and present discrimination.",
+    "significance": "Demonstrates how historical design languages can be recontextualized to critique present conditions. It demonstrates that appropriation becomes radical when it reveals continuities between past and present discrimination.",
     "connections": [
       {
         "id": 445,
@@ -18463,7 +18463,7 @@ export const ARCHIVE = [
     "movement": "Corporate Identity Design",
     "wikiTitle": "Waldi (mascot)",
     "description": "Geometric reduction of dachshund form using systematic color application and modular construction. The striped pattern creates movement while maintaining visual consistency across applications. Reduces complex organic form to essential geometric components.",
-    "significance": "Shows how systematic design thinking can transform complex forms into memorable symbols. Teaches students that effective identity design requires both reduction to essentials and systematic application across media.",
+    "significance": "Shows how systematic design thinking can transform complex forms into memorable symbols. It demonstrates that effective identity design requires both reduction to essentials and systematic application across media.",
     "connections": [
       {
         "id": 24,
@@ -18510,7 +18510,7 @@ export const ARCHIVE = [
     "movement": "British Protest Graphics",
     "wikiTitle": null,
     "description": "Garland's march poster strips away all ornament to deliver pure information: route, date, purpose. The typography is deliberately functional—sans-serif, hierarchical, urgent. This is graphics as organizing tool, not persuasion device.",
-    "significance": "Students learn how reduction can amplify political urgency. The poster demonstrates that effective protest graphics prioritize clarity over decoration, using typography as direct action rather than aesthetic statement.",
+    "significance": "The work reveals how reduction can amplify political urgency. The poster demonstrates that effective protest graphics prioritize clarity over decoration, using typography as direct action rather than aesthetic statement.",
     "connections": [
       {
         "id": 449,
@@ -18557,7 +18557,7 @@ export const ARCHIVE = [
     "movement": "British Political Graphics",
     "wikiTitle": null,
     "description": "Garland's election poster applies systematic grid structure to political messaging. The typography creates visual hierarchy through scale and weight rather than decoration, organizing complex policy information into digestible units. The design logic prioritizes readability over persuasion.",
-    "significance": "Students see how systematic design can serve political communication without compromising clarity. The poster shows that effective political graphics require the same rigorous information architecture as any other design problem.",
+    "significance": "It reveals how systematic design can serve political communication without compromising clarity. The poster shows that effective political graphics require the same rigorous information architecture as any other design problem.",
     "connections": [
       {
         "id": 448,
@@ -18599,7 +18599,7 @@ export const ARCHIVE = [
     "movement": "British Film Graphics",
     "wikiTitle": null,
     "description": "Bragg's film poster reduces narrative to pure visual impact through extreme typographic scale and dramatic cropping. The single word 'KEN' dominates the composition, functioning as both title and visual element. The design eliminates explanatory text, trusting image and typography alone to communicate story.",
-    "significance": "Students learn how reduction can create psychological intensity. The poster demonstrates that effective communication sometimes requires eliminating rather than adding information, using scale and cropping to generate emotional response.",
+    "significance": "The work reveals how reduction can create psychological intensity. The poster demonstrates that effective communication sometimes requires eliminating rather than adding information, using scale and cropping to generate emotional response.",
     "connections": [
       {
         "id": 448,
@@ -18646,7 +18646,7 @@ export const ARCHIVE = [
     "movement": "Information Design",
     "wikiTitle": "London Underground map",
     "description": "Beck's working sketch reveals the intellectual process behind the world's most influential transit diagram. He abstracts London's geography into a electrical circuit diagram, using only horizontal, vertical, and 45-degree lines. The sketch shows how he prioritizes topological relationships over geographic accuracy.",
-    "significance": "Students see the design process that created modern information graphics. The sketch demonstrates how abstraction can clarify complex systems by eliminating irrelevant detail and emphasizing functional relationships.",
+    "significance": "We see the design process that created modern information graphics. The sketch demonstrates how abstraction can clarify complex systems by eliminating irrelevant detail and emphasizing functional relationships.",
     "connections": [
       {
         "id": 13,
@@ -18693,7 +18693,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Political Graphics",
     "wikiTitle": null,
     "description": "Oldham's austerity critique uses memorial typography to frame unemployment as death. The poster applies funeral announcement conventions to political protest, creating cognitive dissonance through inappropriate context. Black typography on white ground emphasizes the starkness of economic loss.",
-    "significance": "Students learn how existing typographic conventions can be subverted for political critique. The poster shows that effective protest graphics can appropriate familiar formats to make unfamiliar arguments about economic policy.",
+    "significance": "The work reveals how existing typographic conventions can be subverted for political critique. The poster shows that effective protest graphics can appropriate familiar formats to make unfamiliar arguments about economic policy.",
     "connections": [
       {
         "id": 448,
@@ -18927,7 +18927,7 @@ export const ARCHIVE = [
     "movement": "Art Deco Modernism",
     "wikiTitle": "Eileen Gray",
     "description": "Lacquered wood panels pivot on metal hinges to create flexible spatial divisions within modernist interiors. The geometric composition of solid and void areas demonstrates Gray's understanding of both Japanese screen traditions and European avant-garde aesthetics. Each panel functions as an autonomous composition while contributing to the screen's overall architectural presence.",
-    "significance": "Shows students how traditional building elements can be reconceived through modernist formal language. Demonstrates the importance of movable elements in creating flexible interior spaces. Critical for understanding how gender and cultural identity influenced modernist design development outside mainstream movements.",
+    "significance": "It reveals how traditional building elements can be reconceived through modernist formal language. Demonstrates the importance of movable elements in creating flexible interior spaces. Critical for understanding how gender and cultural identity influenced modernist design development outside mainstream movements.",
     "connections": [
       {
         "id": 11,
@@ -18974,7 +18974,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Gae Aulenti",
     "description": "A telescoping stainless steel stem supports a wing-like white methacrylate shade that can be adjusted for height and angle. The biomorphic form references a bat in flight while the technical mechanism allows precise light direction. The combination of organic aesthetics with mechanical function demonstrates Italian design's ability to merge poetic references with utilitarian performance.",
-    "significance": "Shows students how zoomorphic references can enhance rather than compromise functional performance. Demonstrates the Italian approach to lighting design that treats lamps as sculptural objects with technical capabilities. Essential for understanding how 1970s radical design challenged the austere modernist aesthetic while maintaining functional logic.",
+    "significance": "It reveals how zoomorphic references can enhance rather than compromise functional performance. Demonstrates the Italian approach to lighting design that treats lamps as sculptural objects with technical capabilities. Essential for understanding how 1970s radical design challenged the austere modernist aesthetic while maintaining functional logic.",
     "connections": [
       {
         "id": 1,
@@ -19021,7 +19021,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A chair fabricated using laser-cutting technology to achieve precise geometric forms impossible through traditional woodworking. The manufacturing method becomes the formal language, with clean edges and minimal material waste defining the aesthetic. Digital fabrication enables complex joinery without hardware, creating structural integrity through engineered form rather than additional components.",
-    "significance": "Demonstrates how production technology can become the primary design determinant, moving beyond ornamental application of new methods. Shows students how constraints of digital fabrication — precision, material efficiency, flat-pack logic — can generate new formal vocabularies in furniture design.",
+    "significance": "Demonstrates how production technology can become the primary design determinant, moving beyond ornamental application of new methods. It reveals how constraints of digital fabrication — precision, material efficiency, flat-pack logic — can generate new formal vocabularies in furniture design.",
     "connections": [
       {
         "id": 11,
@@ -19058,7 +19058,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "Somers creates a teapot where the ceramic body is suspended within a knitted cozy that becomes the primary structural element. The soft textile framework holds the hard ceramic vessel, inverting traditional object hierarchies where decoration serves structure. The knitted skin functions as both insulation and suspension system, making the cozy essential rather than optional.",
-    "significance": "This teapot demonstrates how Dutch designers interrogate material hierarchies and functional assumptions. Students learn how questioning which material should be primary can generate entirely new formal languages. It shows that innovation often comes from reversing established object logics.",
+    "significance": "This teapot demonstrates how Dutch designers interrogate material hierarchies and functional assumptions. The work reveals how questioning which material should be primary can generate entirely new formal languages. It shows that innovation often comes from reversing established object logics.",
     "connections": [
       {
         "id": 2,
@@ -19100,7 +19100,7 @@ export const ARCHIVE = [
     "movement": "Pop Art Textile Design",
     "wikiTitle": null,
     "description": "Squires translates electronic circuit diagrams into furnishing fabric, making technological infrastructure visible in domestic space. The pattern uses circuit board aesthetics — linear connections, component symbols, systematic organization — as decorative language. Rather than hiding technology, the design celebrates electronic logic as the new vernacular of modern life.",
-    "significance": "This fabric shows how Pop designers made emerging technologies culturally visible by translating technical languages into domestic objects. Students learn how design can make abstract systems comprehensible and how decorative patterns can carry cultural arguments about technological progress.",
+    "significance": "This fabric shows how Pop designers made emerging technologies culturally visible by translating technical languages into domestic objects. The work reveals how design can make abstract systems comprehensible and how decorative patterns can carry cultural arguments about technological progress.",
     "connections": [
       {
         "id": 15,
@@ -19137,7 +19137,7 @@ export const ARCHIVE = [
     "movement": "Pop Art Textile Design",
     "wikiTitle": null,
     "description": "Squires transforms the domestic interior through psychedelic pattern repetition that makes optical colour interactions the primary content. The fabric operates as environmental wallpaper, using high-contrast geometric forms to create perceptual afterimages that shift as viewers move through the space. Its synthetic colour palette — electric blues, acidic yellows, fluorescent pinks — exploits new chemical dyes that had no precedent in natural materials.",
-    "significance": "Students learn how pattern can function as spatial architecture rather than decoration. The work demonstrates how Pop designers weaponised commercial printing techniques to assault bourgeois domestic taste, turning homes into consciousness-altering environments.",
+    "significance": "The work reveals how pattern can function as spatial architecture rather than decoration. The work demonstrates how Pop designers weaponised commercial printing techniques to assault bourgeois domestic taste, turning homes into consciousness-altering environments.",
     "connections": [
       {
         "id": 10,
@@ -19174,7 +19174,7 @@ export const ARCHIVE = [
     "movement": "Commercial Modernism",
     "wikiTitle": null,
     "description": "Tolmer codifies asymmetrical layout as a commercial tool, arguing that dynamic composition generates sales through visual shock. His grid systems prioritise hierarchy and movement over the static balance of classical typography, using photography, bold sans-serifs, and diagonal compositions to capture the pace of modern commerce. The book functions as both manual and manifesto, proving avant-garde techniques could serve capitalist communication.",
-    "significance": "Students understand how Modernist typography entered mainstream practice through commercial necessity rather than aesthetic theory. Tolmer bridges the gap between Bauhaus experiment and Madison Avenue reality, showing how formal innovation serves persuasive function.",
+    "significance": "It clarifies how Modernist typography entered mainstream practice through commercial necessity rather than aesthetic theory. Tolmer bridges the gap between Bauhaus experiment and Madison Avenue reality, showing how formal innovation serves persuasive function.",
     "connections": [
       {
         "id": 14,
@@ -19211,7 +19211,7 @@ export const ARCHIVE = [
     "movement": "Postmodern Graphic Design",
     "wikiTitle": null,
     "description": "Coffey layers photomontage, typography, and geometric shapes to create visual complexity that mirrors the information overload of late capitalism. The poster abandons singular messaging for simultaneous narratives, using collage techniques that force viewers to construct meaning from fragmented elements. Her approach treats the poster plane as archaeological site where different media and temporal references accumulate rather than resolve into unified communication.",
-    "significance": "Students see how Postmodern design rejects Modernist clarity in favour of interpretive ambiguity. Coffey demonstrates that effective communication can emerge from complexity rather than reduction, anticipating the multi-layered media environment of digital culture.",
+    "significance": "It reveals how Postmodern design rejects Modernist clarity in favour of interpretive ambiguity. Coffey demonstrates that effective communication can emerge from complexity rather than reduction, anticipating the multi-layered media environment of digital culture.",
     "connections": [
       {
         "id": 465,
@@ -19248,7 +19248,7 @@ export const ARCHIVE = [
     "movement": "Institutional Design",
     "wikiTitle": null,
     "description": "Arad's contribution transforms the conventional album page into a sculptural document, employing his characteristic material manipulation to collapse the boundary between two and three dimensions. The page operates as both graphic surface and spatial object, questioning whether institutional commemoration requires traditional flatness or can embrace the dimensional thinking that defines his furniture practice.",
-    "significance": "Shows how designers extend their core methodologies across disciplines, demonstrating that material thinking transcends object categories. Students learn that conceptual consistency can bridge graphic and spatial design, challenging the boundaries between design disciplines.",
+    "significance": "Shows how designers extend their core methodologies across disciplines, demonstrating that material thinking transcends object categories. The point is that conceptual consistency can bridge graphic and spatial design, challenging the boundaries between design disciplines.",
     "connections": [
       {
         "id": 12,
@@ -19284,7 +19284,7 @@ export const ARCHIVE = [
     "movement": "Conceptual Art Product",
     "wikiTitle": "Laurie Simmons",
     "description": "Simmons scales down domestic furniture to dollhouse proportions while maintaining adult sophistication in form and material choices, creating objects that function simultaneously as children's toys and art objects. The pieces operate in the uncanny valley between representation and reality, where familiar domestic typologies become estranged through radical scale reduction while retaining their essential formal characteristics.",
-    "significance": "Demonstrates how scale transformation can critique rather than simply miniaturize, teaching students that changing one variable—size—can completely alter an object's meaning and cultural function. Essential for understanding how context shapes interpretation in design.",
+    "significance": "Demonstrates how scale transformation can critique rather than simply miniaturize, demonstrating that changing one variable—size—can completely alter an object's meaning and cultural function. Essential for understanding how context shapes interpretation in design.",
     "connections": [
       {
         "id": 472,
@@ -19321,7 +19321,7 @@ export const ARCHIVE = [
     "movement": "Hybrid Typology Design",
     "wikiTitle": "Tom Dixon",
     "description": "Dixon creates a hybrid object that functions simultaneously as floor light and occasional seating through a molded polyethylene form that diffuses light while supporting human weight. The single material and manufacturing process—rotational molding—produces both structural strength and optical properties, eliminating the need for separate technical and aesthetic components. The form's geometric simplicity masks sophisticated understanding of how plastic behaves under rotational molding constraints.",
-    "significance": "Students learn how single manufacturing processes can solve multiple functional requirements, demonstrating that efficiency in production can generate rather than limit formal possibilities. Essential for understanding how material properties can be leveraged to create hybrid typologies.",
+    "significance": "The work reveals how single manufacturing processes can solve multiple functional requirements, demonstrating that efficiency in production can generate rather than limit formal possibilities. Essential for understanding how material properties can be leveraged to create hybrid typologies.",
     "connections": [
       {
         "id": 4,
@@ -19358,7 +19358,7 @@ export const ARCHIVE = [
     "movement": "Inflated Minimalism",
     "wikiTitle": "Tom Dixon",
     "description": "Dixon inflates the traditional upholstered armchair to cartoonish proportions, using exaggerated scale to question the relationship between comfort and form. The chair's bloated geometry maintains recognizable armchair elements—arms, back, seat—while pushing each beyond functional necessity into pure formal gesture. The inflation process becomes a design method that transforms familiar domestic typology into sculptural object while retaining essential use patterns.",
-    "significance": "Demonstrates how formal exaggeration can critique design conventions, teaching students that distortion can be a legitimate design strategy for questioning assumptions about scale, comfort, and domestic objects. Shows how recognizable typologies can be pushed toward sculpture while maintaining function.",
+    "significance": "Demonstrates how formal exaggeration can critique design conventions, demonstrating that distortion can be a legitimate design strategy for questioning assumptions about scale, comfort, and domestic objects. Shows how recognizable typologies can be pushed toward sculpture while maintaining function.",
     "connections": [
       {
         "id": 12,
@@ -19395,7 +19395,7 @@ export const ARCHIVE = [
     "movement": "Experimental Making",
     "wikiTitle": null,
     "description": "Dixon rotomoulded recycled plastic waste into bowls during a live V&A demonstration, making visible the transformation of consumer plastic waste into new functional objects. The process reveals polymer behavior under heat and rotation, creating forms impossible through other making methods. Each bowl differs because waste plastic composition varies, making inconsistency the design feature rather than production flaw.",
-    "significance": "This teaches students how process visibility can become the product's primary value. It demonstrates how manufacturing demonstration transforms making from hidden industrial process into public performance, questioning where design thinking ends and production begins.",
+    "significance": "This It demonstrates how process visibility can become the product's primary value. It demonstrates how manufacturing demonstration transforms making from hidden industrial process into public performance, questioning where design thinking ends and production begins.",
     "connections": [
       {
         "id": 20,
@@ -19437,7 +19437,7 @@ export const ARCHIVE = [
     "movement": "Contextual Design",
     "wikiTitle": "Barber & Osgerby",
     "description": "Barber designed this chair specifically for Mendelsohn and Chermayeff's 1935 Modernist pavilion, using bent plywood to echo the building's curved concrete forms and horizontal emphasis. The chair's proportions respond to the pavilion's interior scale and seaside context, creating furniture that functions as architectural interpretation rather than generic seating. The plywood's grain direction follows the structural logic of the chair's cantilever, making material behavior visible.",
-    "significance": "Students learn how site-specific design creates meaning through architectural dialogue rather than autonomous object-making. This demonstrates how furniture can function as architectural criticism, responding to and interpreting existing spatial conditions through material and form.",
+    "significance": "The work reveals how site-specific design creates meaning through architectural dialogue rather than autonomous object-making. This demonstrates how furniture can function as architectural criticism, responding to and interpreting existing spatial conditions through material and form.",
     "connections": [
       {
         "id": 6,
@@ -19479,7 +19479,7 @@ export const ARCHIVE = [
     "movement": "British Minimalism",
     "wikiTitle": "Barber Osgerby",
     "description": "A single bent steel tube forms both structure and surface, creating a continuous loop that eliminates the distinction between legs and tabletop. The manufacturing process—cold-rolled steel bent into a precise radius—determines the form, with no added joints or connections. The table exists as pure structural logic made visible.",
-    "significance": "Demonstrates how manufacturing constraints can generate form rather than limit it. Shows students that structural honesty doesn't require exposing complexity—sometimes the most sophisticated engineering appears effortless.",
+    "significance": "Demonstrates how manufacturing constraints can generate form rather than limit it. It demonstrates that structural honesty doesn't require exposing complexity—sometimes the most sophisticated engineering appears effortless.",
     "connections": [
       {
         "id": 7,
@@ -19563,7 +19563,7 @@ export const ARCHIVE = [
     "movement": "Institutional Graphic Design",
     "wikiTitle": null,
     "description": "Abstract geometric forms in metallic print create a visual system that references both the museum's decorative arts collection and contemporary design practice. The layout uses negative space as actively as printed elements, allowing institutional identity to emerge through restraint rather than explicit branding.",
-    "significance": "Demonstrates how graphic designers can honor institutional heritage without resorting to historical pastiche. Shows students that contemporary design languages can respect cultural authority while maintaining visual independence.",
+    "significance": "Demonstrates how graphic designers can honor institutional heritage without resorting to historical pastiche. It demonstrates that contemporary design languages can respect cultural authority while maintaining visual independence.",
     "connections": [
       {
         "id": 16,
@@ -19605,7 +19605,7 @@ export const ARCHIVE = [
     "movement": "Design Research",
     "wikiTitle": null,
     "description": "Material and formal investigations explore the boundaries between functional objects and sculptural forms. The study uses physical modeling to test how subtle changes in proportion and surface treatment affect both practical performance and visual impact.",
-    "significance": "Shows students that established designers continue experimental practice alongside commercial work. Demonstrates that design research through making remains essential for developing new formal languages and understanding material behavior.",
+    "significance": "It demonstrates that established designers continue experimental practice alongside commercial work. Demonstrates that design research through making remains essential for developing new formal languages and understanding material behavior.",
     "connections": [
       {
         "id": 24,
@@ -19726,7 +19726,7 @@ export const ARCHIVE = [
     "movement": "Behavioural Design",
     "wikiTitle": null,
     "description": "A chair designed through systematic observation of how people actually sit, with a wide seat that accommodates crossed legs and slouching. The proportions reflect behavioral research rather than classical furniture geometry. The form follows discovered sitting patterns, not inherited chair typologies.",
-    "significance": "Demonstrates how ethnographic research can generate new furniture typologies — showing students that observation can be more radical than formal invention. Reveals how behavioral design challenges assumptions about 'correct' posture embedded in traditional chairs.",
+    "significance": "Demonstrates how ethnographic research can generate new furniture typologies — demonstrating that observation can be more radical than formal invention. Reveals how behavioral design challenges assumptions about 'correct' posture embedded in traditional chairs.",
     "connections": [
       {
         "id": 482,
@@ -19847,7 +19847,7 @@ export const ARCHIVE = [
     "movement": "British Expressionism",
     "wikiTitle": "Leon Kossoff",
     "description": "Kossoff's etching translates Poussin's classical composition through aggressive mark-making and layered linework. The printmaking process allows multiple states and revisions, building density through accumulated marks rather than single gestures. Each line carries physical weight, creating sculptural space through graphic means.",
-    "significance": "Demonstrates how printmaking enables iterative thinking in image-making. Shows students that graphic processes can carry sculptural logic, where accumulation of marks creates spatial depth without perspective systems.",
+    "significance": "Demonstrates how printmaking enables iterative thinking in image-making. It demonstrates that graphic processes can carry sculptural logic, where accumulation of marks creates spatial depth without perspective systems.",
     "connections": [
       {
         "id": 496,
@@ -19889,7 +19889,7 @@ export const ARCHIVE = [
     "movement": "Afrofuturism",
     "wikiTitle": "Yinka Ilori",
     "description": "Ilori's chair frame strips away upholstery to reveal structural logic while maintaining playful proportions. The exposed framework becomes the aesthetic language, using bright colors and bold geometry to challenge assumptions about 'serious' furniture design. Nigerian textile patterns inform the spatial relationships between structural elements.",
-    "significance": "Shows students how cultural references can drive structural decisions in furniture. Demonstrates that revealing construction can be both functional transparency and cultural statement — structure as storytelling device.",
+    "significance": "It reveals how cultural references can drive structural decisions in furniture. Demonstrates that revealing construction can be both functional transparency and cultural statement — structure as storytelling device.",
     "connections": [
       {
         "id": 12,
@@ -19931,7 +19931,7 @@ export const ARCHIVE = [
     "movement": "Digital Minimalism",
     "wikiTitle": "iPad",
     "description": "The iPad reduces computing to a single surface, eliminating physical keyboards and mice through multitouch interface. Its aluminum unibody construction achieves structural efficiency while the edge-to-edge glass creates the illusion of content floating above the device. The home button provides singular tactile reference in an otherwise smooth surface.",
-    "significance": "Teaches students how interface simplification can drive physical form. Demonstrates that successful product design often involves removing rather than adding features — reduction as a path to functional clarity.",
+    "significance": "It demonstrates how interface simplification can drive physical form. Demonstrates that successful product design often involves removing rather than adding features — reduction as a path to functional clarity.",
     "connections": [
       {
         "id": 495,
@@ -19973,7 +19973,7 @@ export const ARCHIVE = [
     "movement": "Digital Minimalism",
     "wikiTitle": "iPhone",
     "description": "The iPhone consolidates multiple devices into a single multitouch surface, eliminating physical keyboards and styluses. Its rounded rectangle form language balances grip ergonomics with screen maximization. The aluminum frame and glass surface create premium material hierarchy while enabling radio transparency.",
-    "significance": "Demonstrates how interface innovation can completely redefine product categories. Shows students that convergence design requires understanding multiple use contexts simultaneously — phone, music player, and internet device in one form.",
+    "significance": "Demonstrates how interface innovation can completely redefine product categories. It demonstrates that convergence design requires understanding multiple use contexts simultaneously — phone, music player, and internet device in one form.",
     "connections": [
       {
         "id": 496,
@@ -20015,7 +20015,7 @@ export const ARCHIVE = [
     "movement": "Translucent Design",
     "wikiTitle": "iMac G3",
     "description": "The iMac G3 uses translucent polycarbonate to reveal internal components while creating approachable, non-technical aesthetics. Its all-in-one form eliminates cable complexity by integrating monitor, computer, and speakers. The handle suggests portability despite desktop scale, humanizing professional computing equipment.",
-    "significance": "Shows students how material transparency can demystify technology while creating emotional connection. Demonstrates that revealing internal workings doesn't require industrial aesthetics — translucency as friendly transparency.",
+    "significance": "It demonstrates how material transparency can demystify technology while creating emotional connection. Demonstrates that revealing internal workings doesn't require industrial aesthetics — translucency as friendly transparency.",
     "connections": [
       {
         "id": 15,
@@ -20057,7 +20057,7 @@ export const ARCHIVE = [
     "movement": "Digital Minimalism",
     "wikiTitle": "iPhone 6",
     "description": "The iPhone 6 extends Ive's reductive language through dimensional tension: the screen enlarges to 4.7 inches while the body thins to 6.9mm, creating a surface-to-volume ratio that prioritizes interface over object. The aluminum unibody construction eliminates visible joints, making the device appear carved from a single block. Antenna bands become the only surface interruption, acknowledging technical necessity within formal reduction.",
-    "significance": "Students learn how digital products negotiate between increasing functionality and formal simplicity. The iPhone 6 demonstrates how manufacturing constraints—antenna placement, thermal management, structural integrity—become design opportunities rather than compromises.",
+    "significance": "The work reveals how digital products negotiate between increasing functionality and formal simplicity. The iPhone 6 demonstrates how manufacturing constraints—antenna placement, thermal management, structural integrity—become design opportunities rather than compromises.",
     "connections": [
       {
         "id": 49,
@@ -20099,7 +20099,7 @@ export const ARCHIVE = [
     "movement": "Digital Minimalism",
     "wikiTitle": "iPod Touch",
     "description": "The fifth-generation iPod Touch achieves 6.1mm thickness through component miniaturization and battery reduction, prioritizing portability over power. The aluminum back panel curves into chamfered edges, creating a continuous surface that eliminates the plastic antenna window required in cellular devices. The home button becomes the only physical interruption in an otherwise seamless interface plane.",
-    "significance": "Students understand how removing functionality—cellular radio, GPS, cellular antenna—enables formal reduction. The iPod Touch demonstrates that constraint drives innovation: without communication needs, the device becomes pure interface.",
+    "significance": "It clarifies how removing functionality—cellular radio, GPS, cellular antenna—enables formal reduction. The iPod Touch demonstrates that constraint drives innovation: without communication needs, the device becomes pure interface.",
     "connections": [
       {
         "id": 497,
@@ -20136,7 +20136,7 @@ export const ARCHIVE = [
     "movement": "Italian Industrial Design",
     "wikiTitle": "Olivetti Lexicon 80",
     "description": "The Lexicon 80 transforms the typewriter from mechanical assemblage to sculptural object through cast aluminum body work that conceals the typing mechanism entirely. Nizzoli shapes the housing as continuous curves, eliminating visible joints and creating surface tension between the ribbon cover and typing platform. The green painted finish unifies all components, while the chrome details—shift lock, margin stops, paper guides—provide functional punctuation within the monochromatic field.",
-    "significance": "Students see how industrial designers in the 1940s already understood products as communication devices. The Lexicon 80 demonstrates that form language can dignify mechanical function—users buy into Olivetti's design values, not just typing capability.",
+    "significance": "It reveals how industrial designers in the 1940s already understood products as communication devices. The Lexicon 80 demonstrates that form language can dignify mechanical function—users buy into Olivetti's design values, not just typing capability.",
     "connections": [
       {
         "id": 500,
@@ -20178,7 +20178,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Olivetti Valentine",
     "description": "The Valentine typewriter uses bright ABS plastic molding to celebrate rather than conceal mechanical function. Sottsass designs the carrying case as integral to the product—the typewriter clicks into the case bottom, which becomes the base during use. The red plastic field eliminates traditional typewriter materials—metal, rubber, chrome—creating visual continuity that transforms typing from office task to expressive act. The circular keys and sans-serif typography reject typewriter convention entirely.",
-    "significance": "Students learn how radical design challenges product categories through material choice. The Valentine demonstrates that changing materials changes meaning—ABS plastic makes typing playful rather than serious, portable rather than fixed, personal rather than institutional.",
+    "significance": "The work reveals how radical design challenges product categories through material choice. The Valentine demonstrates that changing materials changes meaning—ABS plastic makes typing playful rather than serious, portable rather than fixed, personal rather than institutional.",
     "connections": [
       {
         "id": 499,
@@ -20272,7 +20272,7 @@ export const ARCHIVE = [
     "movement": "American Corporate Modernism",
     "wikiTitle": "IBM Selectric typewriter",
     "description": "Noyes eliminates the forest of typebars that defined typewriter aesthetics for 80 years, replacing them with a single rotating sphere. The housing becomes a pure sculptural volume — no visible mechanism, no decorative elements, just a seamless shell that suggests precision through geometric restraint. The spherical typing element revolutionizes both function and form simultaneously.",
-    "significance": "Demonstrates how technical innovation enables formal reduction — the sphere mechanism allows Noyes to achieve unprecedented formal simplicity. Shows students that the best industrial design emerges when engineering breakthroughs and aesthetic vision reinforce each other.",
+    "significance": "Demonstrates how technical innovation enables formal reduction — the sphere mechanism allows Noyes to achieve unprecedented formal simplicity. The point is that the best industrial design emerges when engineering breakthroughs and aesthetic vision reinforce each other.",
     "connections": [
       {
         "id": 501,
@@ -20319,7 +20319,7 @@ export const ARCHIVE = [
     "movement": "Concrete Poetry",
     "wikiTitle": "Dom Sylvester Houédard",
     "description": "Houédard transforms the typewriter into an archaeological tool, using repetitive keystrokes to simulate excavated text fragments. Letters cluster and scatter across the page like artifacts partially buried in sediment. The typewriter becomes both excavation instrument and printing press, each keystroke both digging and marking, creating textual archaeology through mechanical rhythm.",
-    "significance": "Proves that existing technology can generate entirely new forms of meaning when used against its intended purpose. Shows students how systematic misuse of design tools can reveal alternative creative possibilities hidden within familiar mechanisms.",
+    "significance": "Proves that existing technology can generate entirely new forms of meaning when used against its intended purpose. It reveals how systematic misuse of design tools can reveal alternative creative possibilities hidden within familiar mechanisms.",
     "connections": [
       {
         "id": 502,
@@ -20361,7 +20361,7 @@ export const ARCHIVE = [
     "movement": "Concrete Poetry",
     "wikiTitle": "Dom Sylvester Houédard",
     "description": "Dense overtyping creates an impenetrable textual field where individual letters dissolve into pure pattern. Houédard builds up layers of characters until meaning disappears into ritual repetition. The typewriter becomes a prayer wheel, each keystroke both destroying and creating significance simultaneously. Mechanical rhythm replaces semantic content.",
-    "significance": "Demonstrates how systematic process can transform readable text into pure visual experience. Teaches students that meaning in design can emerge from method rather than content — the how becoming more important than the what.",
+    "significance": "Demonstrates how systematic process can transform readable text into pure visual experience. It demonstrates that meaning in design can emerge from method rather than content — the how becoming more important than the what.",
     "connections": [
       {
         "id": 503,
@@ -20782,7 +20782,7 @@ export const ARCHIVE = [
     "movement": "Global Manufacturing",
     "wikiTitle": "Wedgwood",
     "description": "This 2005 Wedgwood plate represents the tension between historic ceramic craft traditions and contemporary global manufacturing. The form maintains Wedgwood's signature neo-classical proportions and bone china composition while being manufactured in Indonesia rather than Staffordshire. The design preserves the visual codes of English refinement—the specific rim width, glazing techniques, and subtle surface modulation—but questions whether these material qualities can survive geographical displacement.",
-    "significance": "Students must grapple with how traditional design languages adapt to global manufacturing networks. This plate demonstrates that design authenticity lies not just in making processes but in understanding how cultural signifiers translate across different production contexts and craft traditions.",
+    "significance": "One must grapple with how traditional design languages adapt to global manufacturing networks. This plate demonstrates that design authenticity lies not just in making processes but in understanding how cultural signifiers translate across different production contexts and craft traditions.",
     "connections": [
       {
         "id": 6,
@@ -20824,7 +20824,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Glass Design",
     "wikiTitle": null,
     "description": "Conran's Strata tumbler exploits the optical properties of lead crystal through precise geometric layering that creates internal light refraction patterns. The cylindrical form is punctuated by horizontal bands cut at different depths, generating visual texture through pure geometry rather than applied decoration. Each band catches and redirects light differently, creating the 'strata' effect that gives the piece its name while maintaining the structural clarity essential to functional glassware.",
-    "significance": "Students should recognize how Conran uses material properties as the primary design generator. The Strata tumbler demonstrates that contemporary craft lies not in rejecting industrial precision but in using it to amplify inherent material qualities—here, crystal's refractive potential becomes both decorative strategy and functional logic.",
+    "significance": "Viewers should recognize how Conran uses material properties as the primary design generator. The Strata tumbler demonstrates that contemporary craft lies not in rejecting industrial precision but in using it to amplify inherent material qualities—here, crystal's refractive potential becomes both decorative strategy and functional logic.",
     "connections": [
       {
         "id": 516,
@@ -20866,7 +20866,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Glass Design",
     "wikiTitle": null,
     "description": "The Aura martini glass applies the same optical cutting strategy as Conran's Strata tumbler but adapts it to the specific proportions and cultural codes of cocktail service. The conical bowl maintains the precise 4:3 ratio essential to proper martini presentation while the stem incorporates subtle geometric cuts that echo the bowl's light-refracting patterns. The design balances the theatrical requirements of cocktail culture with the technical demands of lead crystal manufacturing.",
-    "significance": "Students learn how a consistent design methodology adapts to different functional requirements. The Aura glass shows that good design systems are not about repeating forms but about applying coherent principles—here, geometric light manipulation—across different use contexts and cultural expectations.",
+    "significance": "The work reveals how a consistent design methodology adapts to different functional requirements. The Aura glass shows that good design systems are not about repeating forms but about applying coherent principles—here, geometric light manipulation—across different use contexts and cultural expectations.",
     "connections": [
       {
         "id": 515,
@@ -21071,7 +21071,7 @@ export const ARCHIVE = [
     "movement": "Parametric Design",
     "wikiTitle": "Brit Awards",
     "description": "Hadid's BRIT award abandons traditional trophy verticality for a crystalline form that appears to emerge from liquid geometry frozen mid-flow. The award's faceted surfaces create multiple viewing planes that shift as light moves across them, making the object appear to change form from different angles. Each face is precisely angled to catch and refract light, transforming the trophy from static object into dynamic sculpture.",
-    "significance": "This demonstrates how parametric design principles can be applied to ceremonial objects, showing students how computational form-finding creates new symbolic languages. The piece argues that awards can embody the creative process they celebrate rather than simply representing it through figurative imagery.",
+    "significance": "This demonstrates how parametric design principles can be applied to ceremonial objects, revealing how computational form-finding creates new symbolic languages. The piece argues that awards can embody the creative process they celebrate rather than simply representing it through figurative imagery.",
     "connections": [
       {
         "id": 80,
@@ -21108,7 +21108,7 @@ export const ARCHIVE = [
     "movement": "Parametric Architecture",
     "wikiTitle": null,
     "description": "This model demonstrates Hadid's approach to architectural form as continuous landscape rather than discrete building elements. The structure appears to emerge from the ground plane through fluid deformation, with no clear distinction between foundation, wall, and roof. Digital fabrication allows the precise realization of complex double-curved surfaces that would be impossible to construct using traditional architectural drawing methods.",
-    "significance": "The model teaches students how parametric design challenges fundamental architectural categories like wall, floor, and ceiling. It demonstrates how computational tools enable architects to think beyond orthogonal geometry toward more performative, landscape-like built environments.",
+    "significance": "The model It demonstrates how parametric design challenges fundamental architectural categories like wall, floor, and ceiling. It demonstrates how computational tools enable architects to think beyond orthogonal geometry toward more performative, landscape-like built environments.",
     "connections": [
       {
         "id": 15,
@@ -21145,7 +21145,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Art",
     "wikiTitle": "Grayson Perry",
     "description": "Perry's print subverts the classical tradition of reclining figures by depicting the artist as both subject and creator, wearing feminine clothing in a pose typically reserved for idealized female nudes. The work layers personal identity politics over art historical reference, using traditional printmaking techniques to deliver contemporary content about gender, class, and artistic authority. The domestic scale and intimate medium contrast with the monumental pretensions of classical art.",
-    "significance": "This print demonstrates how contemporary artists use traditional media to interrogate established cultural hierarchies. Students learn how scale, medium choice, and iconographic reversal can transform familiar artistic conventions into vehicles for social critique.",
+    "significance": "This print demonstrates how contemporary artists use traditional media to interrogate established cultural hierarchies. The work reveals how scale, medium choice, and iconographic reversal can transform familiar artistic conventions into vehicles for social critique.",
     "connections": [
       {
         "id": 12,
@@ -21187,7 +21187,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Joe Colombo",
     "description": "Colombo's Boby trolley reimagines mobile storage through industrial materials and modular thinking. The injection-molded ABS plastic body contains multiple drawers that can be reconfigured according to use, while the wheels and handle transform the unit from furniture into tool. Each drawer operates independently, allowing users to remove individual storage modules for specific tasks. The bright plastic finish announces this as furniture for a technological future rather than traditional domesticity.",
-    "significance": "The Boby demonstrates how 1970s Italian designers used plastic manufacturing to challenge furniture typologies. Students learn how material choice can completely redefine object categories—here transforming storage from static architecture into mobile equipment.",
+    "significance": "The Boby demonstrates how 1970s Italian designers used plastic manufacturing to challenge furniture typologies. The work reveals how material choice can completely redefine object categories—here transforming storage from static architecture into mobile equipment.",
     "connections": [
       {
         "id": 11,
@@ -21276,7 +21276,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Universale chair",
     "description": "The world's first fully injection-molded, stackable chair transforms a single material shot into complex geometry in seconds. Colombo's interlocking legs create structural stability while enabling efficient stacking — each functional requirement solved through form rather than added components. The name 'Universale' reflects its intended global applicability across contexts and users.",
-    "significance": "Proves that mass production can achieve both formal sophistication and functional efficiency. Students learn how constraints — stackability, single-shot molding — become creative drivers rather than limitations when understood as design parameters.",
+    "significance": "Proves that mass production can achieve both formal sophistication and functional efficiency. The work reveals how constraints — stackability, single-shot molding — become creative drivers rather than limitations when understood as design parameters.",
     "connections": [
       {
         "id": 525,
@@ -21323,7 +21323,7 @@ export const ARCHIVE = [
     "movement": "Italian Industrial Design",
     "wikiTitle": null,
     "description": "Zanuso's transistor radio abandons the furniture-like proportions of previous radios for a compact, geometric form that expresses its electronic rather than mechanical nature. The clean plastic housing contains all components in minimal volume while the simple control layout makes operation intuitive. The radio's portability transforms it from furniture to personal object.",
-    "significance": "Demonstrates how miniaturization of technology enables new typologies — the radio becomes personal rather than domestic. Shows students how electronic innovation drives formal innovation, requiring designers to rethink established object categories.",
+    "significance": "Demonstrates how miniaturization of technology enables new typologies — the radio becomes personal rather than domestic. It reveals how electronic innovation drives formal innovation, requiring designers to rethink established object categories.",
     "connections": [
       {
         "id": 10,
@@ -21412,7 +21412,7 @@ export const ARCHIVE = [
     "movement": "German Functionalism",
     "wikiTitle": "Wilhelm Wagenfeld",
     "description": "A nested set of clear glass storage containers with ground glass lids that create perfect seals. Each box is proportionally related to the others, forming a systematic family of sizes. The transparent material makes contents immediately visible while the precise manufacturing creates functional reliability.",
-    "significance": "Demonstrates how industrial glass production could achieve both systematic thinking and domestic utility. Shows students how proportional relationships and material honesty can create product families that transcend mere function to become systematic design thinking.",
+    "significance": "Demonstrates how industrial glass production could achieve both systematic thinking and domestic utility. It reveals how proportional relationships and material honesty can create product families that transcend mere function to become systematic design thinking.",
     "connections": [
       {
         "id": 11,
@@ -21454,7 +21454,7 @@ export const ARCHIVE = [
     "movement": "Italian Rationalism",
     "wikiTitle": "Vico Magistretti",
     "description": "A table lamp composed of three pure geometric forms — cylinder, cone, and hemisphere — stacked to create a monumental presence. The opal glass diffuser sits atop a metal base, with the cone acting as both shade and formal mediator. The proportions reference classical architecture while the forms remain irreducibly simple.",
-    "significance": "Teaches how geometric reduction can create archetypal objects that feel both ancient and contemporary. Shows students that formal authority comes from proportional relationships rather than decorative complexity, establishing lighting as sculptural presence.",
+    "significance": "Teaches how geometric reduction can create archetypal objects that feel both ancient and contemporary. It reveals that formal authority comes from proportional relationships rather than decorative complexity, establishing lighting as sculptural presence.",
     "connections": [
       {
         "id": 8,
@@ -21496,7 +21496,7 @@ export const ARCHIVE = [
     "movement": "Italian Post-Rationalism",
     "wikiTitle": "Vico Magistretti",
     "description": "A modular seating system with deep, enveloping cushions supported by a minimal tubular steel frame. The oversized upholstered elements create intimate spatial enclosure while the exposed frame maintains visual lightness. Modules can be combined to form various configurations from single chairs to continuous landscapes.",
-    "significance": "Shows how modular thinking can address both comfort and spatial flexibility without sacrificing design coherence. Demonstrates to students that systematic approaches can accommodate human-scaled comfort while maintaining architectural logic in domestic environments.",
+    "significance": "Shows how modular thinking can address both comfort and spatial flexibility without sacrificing design coherence. Demonstrates that systematic approaches can accommodate human-scaled comfort while maintaining architectural logic in domestic environments.",
     "connections": [
       {
         "id": 6,
@@ -21538,7 +21538,7 @@ export const ARCHIVE = [
     "movement": "Italian Plastics Revolution",
     "wikiTitle": "Vico Magistretti",
     "description": "A single-piece injection-molded chair that achieves structural stability through S-curve geometry. The fiberglass shell curves from back through seat to front leg support, with rear legs attached as separate elements. The form exploits plastic's moldability while maintaining classical sitting proportions.",
-    "significance": "Demonstrates how new materials can generate entirely new structural solutions while respecting human ergonomics. Shows students that material innovation must solve both technical and formal problems simultaneously to create lasting design solutions.",
+    "significance": "Demonstrates how new materials can generate entirely new structural solutions while respecting human ergonomics. It demonstrates that material innovation must solve both technical and formal problems simultaneously to create lasting design solutions.",
     "connections": [
       {
         "id": 87,
@@ -21580,7 +21580,7 @@ export const ARCHIVE = [
     "movement": "Italian Industrial Design",
     "wikiTitle": null,
     "description": "A portable television that transforms electronic equipment into sculptural objects through precise geometric forms and high-quality materials. The design uses a black plastic housing with chrome accents to create visual weight and technical credibility, while the compact proportions make advanced technology domestically acceptable. The control layout and screen proportions follow ergonomic principles while maintaining formal coherence.",
-    "significance": "Shows students how Italian designers elevated consumer electronics from functional appliances to design objects. Critical for understanding how industrial design can make complex technology approachable through formal sophistication, and how material choices communicate quality and desirability.",
+    "significance": "It reveals how Italian designers elevated consumer electronics from functional appliances to design objects. Critical for understanding how industrial design can make complex technology approachable through formal sophistication, and how material choices communicate quality and desirability.",
     "connections": [
       {
         "id": 88,
@@ -21622,7 +21622,7 @@ export const ARCHIVE = [
     "movement": "Italian Rationalism",
     "wikiTitle": null,
     "description": "The Castiglioni brothers' radiogram challenges traditional hi-fi furniture through radical formal reduction — a perfect cube that opens to reveal turntable and controls, eliminating the horizontal console format that mimicked domestic sideboards. The cube proportion makes no reference to existing furniture typology, instead asserting the device's identity as pure electronic instrument. When closed, the smooth cube surface provides no visual clues to its function, requiring user interaction to reveal its purpose.",
-    "significance": "This teaches students how radical reduction can redefine product categories — the Castiglionis reject the assumption that audio equipment should look like furniture, instead creating a new formal language for electronic media. The cube's mystery when closed demonstrates how designers can use unfamiliarity to force users to reconsider their relationship with technology.",
+    "significance": "This It demonstrates how radical reduction can redefine product categories — the Castiglionis reject the assumption that audio equipment should look like furniture, instead creating a new formal language for electronic media. The cube's mystery when closed demonstrates how designers can use unfamiliarity to force users to reconsider their relationship with technology.",
     "connections": [
       {
         "id": 147,
@@ -21669,7 +21669,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": null,
     "description": "Pesce's Crosby Chair employs controlled imperfection through resin casting that ensures each chair emerges with unique surface variations and color distributions. The manufacturing process deliberately introduces unpredictability — liquid resin poured into molds creates surface textures and color patterns that cannot be precisely controlled, making each chair an individual rather than identical product. This challenges industrial design's pursuit of perfect reproducibility, instead embracing the accidents inherent in material processes.",
-    "significance": "Students learn how designers can reject mass production's emphasis on identical reproduction, instead using manufacturing processes to create uniqueness within systematic production. Pesce demonstrates that industrial materials like resin can be used expressively rather than just efficiently, showing how controlled accident can become a design method.",
+    "significance": "The work reveals how designers can reject mass production's emphasis on identical reproduction, instead using manufacturing processes to create uniqueness within systematic production. Pesce demonstrates that industrial materials like resin can be used expressively rather than just efficiently, showing how controlled accident can become a design method.",
     "connections": [
       {
         "id": 20,
@@ -21711,7 +21711,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": null,
     "description": "A revolutionary foam chair compressed in vacuum-sealed PVC packaging that expands when opened, transforming from flat package to fully-formed seating. The chair's final form varies slightly with each use, questioning mass production's pursuit of identical objects. The soft, yielding polyurethane foam contradicts the structural rigidity expected of furniture.",
-    "significance": "Students learn how packaging can become part of the design process, challenging assumptions about furniture distribution and storage. The chair demonstrates how industrial processes can introduce controlled variation rather than standardization, anticipating customization debates in contemporary design.",
+    "significance": "The work reveals how packaging can become part of the design process, challenging assumptions about furniture distribution and storage. The chair demonstrates how industrial processes can introduce controlled variation rather than standardization, anticipating customization debates in contemporary design.",
     "connections": [
       {
         "id": 55,
@@ -21758,7 +21758,7 @@ export const ARCHIVE = [
     "movement": "Postmodern Graphic Design",
     "wikiTitle": null,
     "description": "An exhibition invitation that functions as both printed matter and three-dimensional object, folding to reveal sculptural forms when opened. The typography integrates with physical manipulation, requiring reader participation to access information. The card's material properties become part of its communicative strategy.",
-    "significance": "Students understand how graphic design can extend beyond flat surfaces into spatial experience, anticipating interactive digital media. The invitation demonstrates how participation can be designed into print communication, making the reader complicit in message construction.",
+    "significance": "It clarifies how graphic design can extend beyond flat surfaces into spatial experience, anticipating interactive digital media. The invitation demonstrates how participation can be designed into print communication, making the reader complicit in message construction.",
     "connections": [
       {
         "id": 540,
@@ -21799,7 +21799,7 @@ export const ARCHIVE = [
     "movement": "Postmodern Furniture",
     "wikiTitle": null,
     "description": "A one-off chair made for Pratt Institute that demonstrates resin casting's potential for unique objects rather than multiple production. Each element appears deliberately imperfect, with visible drips and irregularities that celebrate rather than disguise manufacturing traces. The chair exists as both functional object and material experiment.",
-    "significance": "Students learn how educational commissions allow designers to test ideas without commercial constraints, understanding patronage's role in design development. The chair shows how industrial materials can be used for craft-like production, questioning the opposition between handmaking and machine production.",
+    "significance": "The work reveals how educational commissions allow designers to test ideas without commercial constraints, understanding patronage's role in design development. The chair shows how industrial materials can be used for craft-like production, questioning the opposition between handmaking and machine production.",
     "connections": [
       {
         "id": 536,
@@ -21841,7 +21841,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Radical Design",
     "wikiTitle": null,
     "description": "A shelving system where each unit differs from others through controlled variation in manufacturing, using resin's unpredictable behavior to ensure uniqueness. The shelves appear to sag under their own weight, subverting expectations of structural stability. The system questions whether storage furniture should prioritize efficiency or expressive potential.",
-    "significance": "Students understand how digital manufacturing can enable variation rather than standardization, anticipating mass customization debates. The shelves demonstrate how functional furniture can embody conceptual positions about individuality versus conformity in contemporary production.",
+    "significance": "It clarifies how digital manufacturing can enable variation rather than standardization, anticipating mass customization debates. The shelves demonstrate how functional furniture can embody conceptual positions about individuality versus conformity in contemporary production.",
     "connections": [
       {
         "id": 11,
@@ -21888,7 +21888,7 @@ export const ARCHIVE = [
     "movement": "Material Graphic Design",
     "wikiTitle": null,
     "description": "An invitation card for Pesce's glass exhibition that employs translucent materials to reference the show's content. The card functions as material sample as well as information carrier, allowing recipients to experience glass's optical properties through the invitation itself. Typography appears embedded within rather than applied to the substrate.",
-    "significance": "Students learn how exhibition invitations can function as conceptual extensions of the shows they announce, making graphic design integral to curatorial strategy. The card demonstrates how material choice can carry meaning independently of visual design decisions.",
+    "significance": "The work reveals how exhibition invitations can function as conceptual extensions of the shows they announce, making graphic design integral to curatorial strategy. The card demonstrates how material choice can carry meaning independently of visual design decisions.",
     "connections": [
       {
         "id": 537,
@@ -21930,7 +21930,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": null,
     "description": "Mazza's Toga chair wraps a continuous fiberglass shell around the sitter like draped fabric, eliminating the structural distinction between seat, back and arms. The molding process creates a single gesture that supports the body through compound curves rather than discrete components. This monolithic approach transforms seating from assembled furniture into sculptural form.",
-    "significance": "Students learn how material properties can drive formal innovation — the chair exists because fiberglass allows complex curves impossible in wood or metal. It demonstrates how Italian designers used new plastics not just for cost reduction but to explore entirely new typologies of support and enclosure.",
+    "significance": "The work reveals how material properties can drive formal innovation — the chair exists because fiberglass allows complex curves impossible in wood or metal. It demonstrates how Italian designers used new plastics not just for cost reduction but to explore entirely new typologies of support and enclosure.",
     "connections": [
       {
         "id": 95,
@@ -21972,7 +21972,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Finnish Design",
     "wikiTitle": null,
     "description": "Toikka's Dodo reduces the rocking chair to its essential motion through a curved plywood base that creates instability rather than static support. The bird-like silhouette emerges from the functional requirement for balance, with the child's shifting weight becoming the primary structural element. The chair teaches movement through use rather than constraining it.",
-    "significance": "This demonstrates how children's furniture can embody developmental psychology — the Dodo requires active engagement to maintain equilibrium, turning sitting into a learning experience. Students see how playful form can emerge from rigorous analysis of use patterns and behavioral requirements.",
+    "significance": "This demonstrates how children's furniture can embody developmental psychology — the Dodo requires active engagement to maintain equilibrium, turning sitting into a learning experience. It reveals how playful form can emerge from rigorous analysis of use patterns and behavioral requirements.",
     "connections": [
       {
         "id": 543,
@@ -22014,7 +22014,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Finnish Design",
     "wikiTitle": null,
     "description": "Aarnio's Puppy translates his 1960s space-age aesthetic into child-appropriate scale and material. The rotomolded polyethylene creates a seamless, washable surface while the four-legged stance provides absolute stability for developing motor skills. The dog form suggests companionship while the bright colors signal play rather than serious furniture.",
-    "significance": "Students learn how successful adult designs can be recontextualized for different users — Aarnio demonstrates that scaling isn't just about proportion but about understanding fundamentally different behavioral needs. The Puppy shows how symbolic form can support functional requirements rather than compromise them.",
+    "significance": "The work reveals how successful adult designs can be recontextualized for different users — Aarnio demonstrates that scaling isn't just about proportion but about understanding fundamentally different behavioral needs. The Puppy shows how symbolic form can support functional requirements rather than compromise them.",
     "connections": [
       {
         "id": 100,
@@ -22056,7 +22056,7 @@ export const ARCHIVE = [
     "movement": "Italian Postmodernism",
     "wikiTitle": null,
     "description": "Branzi's Labrador sauceboat transforms utilitarian serving into theatrical performance through anthropomorphic form. The vessel's dog-like posture — head down, tail up — suggests the animal's eagerness to serve while the polished steel construction maintains professional kitchen functionality. The spoon becomes a leash, completing the metaphorical relationship between server and served.",
-    "significance": "Students learn how postmodern designers used familiar forms to critique modernist functionalism — the Labrador performs its task perfectly while questioning the emotional neutrality of rational design. It demonstrates how metaphor can enhance rather than compromise utility, making users conscious participants in design narratives.",
+    "significance": "The work reveals how postmodern designers used familiar forms to critique modernist functionalism — the Labrador performs its task perfectly while questioning the emotional neutrality of rational design. It demonstrates how metaphor can enhance rather than compromise utility, making users conscious participants in design narratives.",
     "connections": [
       {
         "id": 9,
@@ -22098,7 +22098,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Archizoom Associati",
     "description": "Archizoom's chair dismantles conventional seating through exaggerated anthropomorphism and deliberate formal awkwardness. The oversized proportions and biomorphic references challenge both ergonomic rationalism and aesthetic refinement. This anti-design stance uses furniture as a vehicle for critiquing consumer society's normative expectations about domestic objects.",
-    "significance": "Students learn how Italian radicals used furniture to challenge social conventions embedded in design orthodoxy. This shows design's capacity for institutional critique, demonstrating how formal strategies can embody political positions about consumption and domesticity.",
+    "significance": "The work reveals how Italian radicals used furniture to challenge social conventions embedded in design orthodoxy. This shows design's capacity for institutional critique, demonstrating how formal strategies can embody political positions about consumption and domesticity.",
     "connections": [
       {
         "id": 106,
@@ -22139,7 +22139,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Michele De Lucchi",
     "description": "De Lucchi's early lamp abandons rational lighting design for expressive, almost sculptural form-making. The organic silhouette and unconventional proportions prioritize visual impact over lighting efficiency. This approach treats the lamp as an art object that happens to provide illumination, challenging modernist orthodoxies about form following function.",
-    "significance": "Students see how radical designers reconceptualized lighting from functional tool to expressive medium. This demonstrates the transition from rationalist design to postmodern practice, showing how objects can embody cultural positions through formal strategies.",
+    "significance": "It reveals how radical designers reconceptualized lighting from functional tool to expressive medium. This demonstrates the transition from rationalist design to postmodern practice, showing how objects can embody cultural positions through formal strategies.",
     "connections": [
       {
         "id": 162,
@@ -22180,7 +22180,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": null,
     "description": "A table that abandons the rational grid of modernist furniture for expressive angularity and material contrast. The form suggests movement through asymmetrical legs that appear to dance rather than simply support, using laminate surfaces in bold colors that reject wood's natural associations. De Lucchi treats the table as sculpture first, function second, making the act of dining into theater.",
-    "significance": "Students learn how Memphis designers used furniture to critique modernist orthodoxy, proving that domestic objects could be manifestos. It demonstrates how material choices—industrial laminates instead of honest materials—can carry ideological weight about mass production and authenticity.",
+    "significance": "The work reveals how Memphis designers used furniture to critique modernist orthodoxy, proving that domestic objects could be manifestos. It demonstrates how material choices—industrial laminates instead of honest materials—can carry ideological weight about mass production and authenticity.",
     "connections": [
       {
         "id": 12,
@@ -22222,7 +22222,7 @@ export const ARCHIVE = [
     "movement": "Japanese Avant-garde Fashion",
     "wikiTitle": null,
     "description": "A garment that treats the body as an industrial design problem, using molded plastic to create structure without traditional tailoring. The bustier explores fashion's relationship to manufacturing, replacing fabric construction with thermoplastic forming techniques borrowed from automotive and electronics industries. Miyake questions whether clothing must be textile, proposing instead that garments can be engineered objects that reshape rather than simply cover the body.",
-    "significance": "Students learn how designers can challenge fundamental assumptions about materials and processes within established typologies. It demonstrates how Japanese designers in the 1980s pioneered cross-disciplinary thinking that would later influence product design, architecture, and digital fabrication.",
+    "significance": "The work reveals how designers can challenge fundamental assumptions about materials and processes within established typologies. It demonstrates how Japanese designers in the 1980s pioneered cross-disciplinary thinking that would later influence product design, architecture, and digital fabrication.",
     "connections": [
       {
         "id": 50,
@@ -22259,7 +22259,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Japanese Design",
     "wikiTitle": null,
     "description": "A bag constructed from triangulated polyurethane panels that transform from flat geometry into three-dimensional form through use. The tessellated surface responds to contents and handling, creating infinite variations within a systematic structure. Miyake applies origami logic to industrial materials, where folding patterns determine both aesthetic and functional properties through mathematical precision.",
-    "significance": "Students understand how computational design thinking can create objects that perform differently through interaction. It shows how Japanese design philosophy—accepting change and impermanence—can guide contemporary manufacturing to create products that evolve with use rather than maintain static form.",
+    "significance": "It clarifies how computational design thinking can create objects that perform differently through interaction. It shows how Japanese design philosophy—accepting change and impermanence—can guide contemporary manufacturing to create products that evolve with use rather than maintain static form.",
     "connections": [
       {
         "id": 548,
@@ -22301,7 +22301,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Japanese Design",
     "wikiTitle": null,
     "description": "A lamp that arrives flat and gains form through user assembly, using the same pleating technology Miyake developed for garments. The recycled polyethylene shade opens like an accordion, creating sculptural volume from efficient packaging while diffusing light through material translucency. The lamp demonstrates how fashion's concern with body movement can inform lighting design, where the shade's flexibility allows users to adjust both form and light quality.",
-    "significance": "Students see how designers can transfer core methodologies across disciplines, proving that material research in one field can revolutionize others. It teaches how packaging efficiency and user experience can become design drivers rather than afterthoughts, anticipating flat-pack culture and sustainable distribution.",
+    "significance": "It reveals how designers can transfer core methodologies across disciplines, proving that material research in one field can revolutionize others. It teaches how packaging efficiency and user experience can become design drivers rather than afterthoughts, anticipating flat-pack culture and sustainable distribution.",
     "connections": [
       {
         "id": 548,
@@ -22343,7 +22343,7 @@ export const ARCHIVE = [
     "movement": "Japanese Avant-garde Fashion",
     "wikiTitle": null,
     "description": "A rigid handbag constructed from pleated polyester that maintains its spiral form through engineered fabric memory. The bag's structure emerges from Miyake's pleating technology, where heat-setting creates permanent geometric forms that eliminate the need for internal frameworks. The spiral shape demonstrates how textile engineering can replace traditional bag construction methods.",
-    "significance": "Shows how material innovation can fundamentally change product typologies. Students learn that structural properties can be embedded in materials themselves, making the fabric both surface and skeleton. Essential for understanding how Japanese design philosophy integrates making process with final form.",
+    "significance": "Shows how material innovation can fundamentally change product typologies. The point is that structural properties can be embedded in materials themselves, making the fabric both surface and skeleton. Essential for understanding how Japanese design philosophy integrates making process with final form.",
     "connections": [
       {
         "id": 123,
@@ -22385,7 +22385,7 @@ export const ARCHIVE = [
     "movement": "Japanese Avant-garde Fashion",
     "wikiTitle": "Pleats Please Issey Miyake",
     "description": "A garment that demonstrates Miyake's revolutionary pleating process where oversized pieces are cut, sewn, then permanently pleated through heat and pressure. The pleats provide both structure and elasticity, allowing the dress to move with the body while maintaining its geometric precision. This process inverts traditional garment construction by adding texture after assembly rather than before.",
-    "significance": "Revolutionizes understanding of how process sequence affects final performance in design. Students see how reversing conventional making logic - pleating after rather than before construction - creates new functional possibilities. Critical for comprehending how industrial processes can be reimagined to serve aesthetic and practical goals simultaneously.",
+    "significance": "Revolutionizes understanding of how process sequence affects final performance in design. It reveals how reversing conventional making logic - pleating after rather than before construction - creates new functional possibilities. Critical for comprehending how industrial processes can be reimagined to serve aesthetic and practical goals simultaneously.",
     "connections": [
       {
         "id": 551,
@@ -22427,7 +22427,7 @@ export const ARCHIVE = [
     "movement": "Digital Fashion Design",
     "wikiTitle": "A-POC",
     "description": "Part of Miyake's A-POC (A Piece of Cloth) system where complete garments are knitted as continuous tubes using computer-controlled industrial knitting machines. Cut lines are programmed directly into the fabric, allowing multiple garments to be produced from a single length without waste. The t-shirt demonstrates how digital manufacturing can eliminate pattern-making and traditional cutting processes.",
-    "significance": "Shows students how digital technology can fundamentally restructure manufacturing workflows. Critical for understanding how computational design can eliminate waste while creating new formal possibilities. Demonstrates the convergence of industrial production and craft logic through digital mediation.",
+    "significance": "It reveals how digital technology can fundamentally restructure manufacturing workflows. Critical for understanding how computational design can eliminate waste while creating new formal possibilities. Demonstrates the convergence of industrial production and craft logic through digital mediation.",
     "connections": [
       {
         "id": 13,
@@ -22469,7 +22469,7 @@ export const ARCHIVE = [
     "movement": "Computational Fashion Design",
     "wikiTitle": null,
     "description": "A dress created using Miyake's 132 5. system where flat geometric patterns are folded along predetermined crease lines to create three-dimensional garments. The folding algorithm ensures the dress can return to completely flat storage while maintaining its sculptural form when worn. This demonstrates how origami principles can be applied to industrial textile production through computational geometry.",
-    "significance": "Essential for understanding how ancient folding techniques can be systematized through digital design tools. Students learn how computational geometry can bridge traditional craft knowledge with contemporary manufacturing. Shows how flatpack logic can be applied beyond furniture to soft materials and wearable objects.",
+    "significance": "Essential for understanding how ancient folding techniques can be systematized through digital design tools. The work reveals how computational geometry can bridge traditional craft knowledge with contemporary manufacturing. Shows how flatpack logic can be applied beyond furniture to soft materials and wearable objects.",
     "connections": [
       {
         "id": 553,
@@ -22511,7 +22511,7 @@ export const ARCHIVE = [
     "movement": "Japanese Deconstructionism",
     "wikiTitle": null,
     "description": "Miyake's suit employs flat pattern-making techniques that transform two-dimensional fabric into three-dimensional form through calculated cuts and pleating. The garment demonstrates how industrial production methods can be applied to clothing construction, eliminating traditional tailoring's reliance on curved seams and darts. Each piece is designed to fold flat for shipping, then expand into its final form when worn.",
-    "significance": "Shows how systematic thinking can revolutionize traditional craft processes. Students learn how reducing complexity in manufacturing can increase functional performance — the suit's minimal seaming actually improves fit and movement.",
+    "significance": "Shows how systematic thinking can revolutionize traditional craft processes. The work reveals how reducing complexity in manufacturing can increase functional performance — the suit's minimal seaming actually improves fit and movement.",
     "connections": [
       {
         "id": 127,
@@ -22558,7 +22558,7 @@ export const ARCHIVE = [
     "movement": "Italian Radical Design",
     "wikiTitle": "Autoprogettazione",
     "description": "Mari publishes construction drawings for nineteen furniture pieces built from standard pine boards using only nails — no complex joints, no special tools. Each design optimizes material use while teaching basic structural principles through making. The chair uses simple mortise connections and diagonal bracing, demonstrating how elementary techniques can achieve sophisticated results.",
-    "significance": "Argues that design education happens through making, not theory. Shows students how constraints (standard lumber, basic tools) can generate innovation rather than limitation.",
+    "significance": "Argues that design education happens through making, not theory. It reveals how constraints (standard lumber, basic tools) can generate innovation rather than limitation.",
     "connections": [
       {
         "id": 11,
@@ -22600,7 +22600,7 @@ export const ARCHIVE = [
     "movement": "British Craft Revival",
     "wikiTitle": null,
     "description": "Gell machines interlocking wooden elements that assemble into multiple configurations — stool, side table, sculptural object. Each piece's geometry contains connection points for various arrangements, teaching spatial relationships through manipulation. The beech components achieve structural stability through precise tolerances and interlocking joints rather than hardware.",
-    "significance": "Demonstrates how play can be a serious design method. Shows students that multi-functionality emerges from understanding geometric relationships, not adding features.",
+    "significance": "Demonstrates how play can be a serious design method. It demonstrates that multi-functionality emerges from understanding geometric relationships, not adding features.",
     "connections": [
       {
         "id": 556,
@@ -22642,7 +22642,7 @@ export const ARCHIVE = [
     "movement": "Italian Postmodernism",
     "wikiTitle": null,
     "description": "De Vecchi transforms the traditional Milanese coffee pot through geometric abstraction — cylindrical body, conical spout, triangular handle create a composition of pure forms. Stainless steel construction eliminates decorative elements while the proportional relationships between geometric volumes create visual tension. The spout angle and handle position optimize pouring ergonomics within the formal constraint.",
-    "significance": "Shows how functional objects can operate as geometric manifestos. Teaches students that even utilitarian design can argue for specific aesthetic positions about form, proportion, and meaning.",
+    "significance": "Shows how functional objects can operate as geometric manifestos. It demonstrates that even utilitarian design can argue for specific aesthetic positions about form, proportion, and meaning.",
     "connections": [
       {
         "id": 12,
@@ -22684,7 +22684,7 @@ export const ARCHIVE = [
     "movement": "Italian Postmodernism",
     "wikiTitle": null,
     "description": "De Vecchi's coffee pot rejects functional orthodoxy through deliberate geometrical games. The cube-within-cube composition creates visual tension between containing and contained volumes. The spout and handle emerge as minimal interruptions to the pure geometric statement, suggesting function while prioritizing formal experiment.",
-    "significance": "Students learn how Italian designers used domestic objects to challenge modernist functionalism. The pot demonstrates how postmodern designers transformed everyday rituals into opportunities for formal play, arguing that meaning-making can be more important than ergonomic optimization.",
+    "significance": "The work reveals how Italian designers used domestic objects to challenge modernist functionalism. The pot demonstrates how postmodern designers transformed everyday rituals into opportunities for formal play, arguing that meaning-making can be more important than ergonomic optimization.",
     "connections": [
       {
         "id": 140,
@@ -22731,7 +22731,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Japanese Ceramics",
     "wikiTitle": null,
     "description": "Kuroda's platter achieves maximum surface expression through controlled ceramic deformation. The irregular rim and undulating surface transform the flat serving plane into a landscape of subtle valleys and peaks. Each firing creates unique stress patterns that become integral to the object's identity rather than manufacturing flaws to be corrected.",
-    "significance": "Students understand how contemporary makers use industrial materials to achieve craft expression. The platter demonstrates post-digital making where controlled accidents become design features, teaching students about embracing process variation rather than eliminating it.",
+    "significance": "It clarifies how contemporary makers use industrial materials to achieve craft expression. The platter demonstrates post-digital making where controlled accidents become design features, revealing embracing process variation rather than eliminating it.",
     "connections": [
       {
         "id": 37,
@@ -22778,7 +22778,7 @@ export const ARCHIVE = [
     "movement": "Critical Regionalism",
     "wikiTitle": "David Chipperfield",
     "description": "Chipperfield's courthouse uses local travertine and repetitive window modules to create institutional gravitas without classical pastiche. The facade system responds to Mediterranean light conditions through deep reveals and rhythmic shadows. The building argues that contemporary public architecture can achieve dignity through material authenticity and proportional discipline rather than historical reference.",
-    "significance": "Students learn how architects negotiate between global modernism and local context without falling into nostalgic regionalism. The project demonstrates architectural diplomacy — how buildings can be contemporary yet contextually sensitive, showing design as cultural mediation.",
+    "significance": "The work reveals how architects negotiate between global modernism and local context without falling into nostalgic regionalism. The project demonstrates architectural diplomacy — how buildings can be contemporary yet contextually sensitive, showing design as cultural mediation.",
     "connections": [
       {
         "id": 15,
@@ -22862,7 +22862,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery",
     "wikiTitle": "Hans Coper",
     "description": "A hand-built ceramic vessel with an enclosed, swelling form that narrows to a small opening at the top. The pot's surface bears the mark of Coper's throwing and building process, with visible ridges and texture that record each stage of construction. Its organic profile suggests natural growth while maintaining the essential ceramic relationship between interior volume and exterior surface.",
-    "significance": "Demonstrates how studio ceramics challenged the division between functional objects and sculptural forms. Shows students how making processes become integral to meaning — the pot's character emerges from Coper's direct engagement with clay rather than predetermined design.",
+    "significance": "Demonstrates how studio ceramics challenged the division between functional objects and sculptural forms. It reveals how making processes become integral to meaning — the pot's character emerges from Coper's direct engagement with clay rather than predetermined design.",
     "connections": [
       {
         "id": 20,
@@ -22899,7 +22899,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery",
     "wikiTitle": "Hans Coper",
     "description": "A tall ceramic vessel with a narrow base expanding to broad shoulders marked by horizontal ridges, then contracting to a wide circular rim. The ridged texture results from Coper's coil-building technique, where each addition of clay creates a visible ring that becomes part of the pot's surface language. The proportional relationship between base, body, and rim creates architectural stability while maintaining ceramic fluidity.",
-    "significance": "Shows how traditional ceramic techniques can generate contemporary formal languages. Teaches students that making processes need not be hidden — the ridges become decorative and structural simultaneously, demonstrating how craft knowledge translates into design vocabulary.",
+    "significance": "Shows how traditional ceramic techniques can generate contemporary formal languages. It demonstrates that making processes need not be hidden — the ridges become decorative and structural simultaneously, demonstrating how craft knowledge translates into design vocabulary.",
     "connections": [
       {
         "id": 564,
@@ -22941,7 +22941,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery",
     "wikiTitle": "Hans Coper",
     "description": "A ceramic vessel compressed into an extremely flattened oval profile with sharp edges, resembling an industrial spade or paddle. The pot's radical flattening challenges conventional ceramic volumes, creating maximum surface area while minimising depth. Its geometric severity contrasts with typical pottery curves, suggesting mechanical rather than organic origins while maintaining the essential ceramic hollow.",
-    "significance": "Demonstrates how ceramics can reference industrial forms while remaining hand-made. Shows students that functional categories are not fixed — by flattening the pot nearly flat, Coper questions what constitutes a viable ceramic container and how much distortion traditional forms can withstand.",
+    "significance": "Demonstrates how ceramics can reference industrial forms while remaining hand-made. It demonstrates that functional categories are not fixed — by flattening the pot nearly flat, Coper questions what constitutes a viable ceramic container and how much distortion traditional forms can withstand.",
     "connections": [
       {
         "id": 2,
@@ -22978,7 +22978,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery",
     "wikiTitle": "Hans Coper",
     "description": "A ceramic vessel with an elongated oval body that gradually contracts toward an elliptical opening. The pot's profile suggests architectural monumentality despite its domestic scale, with the elliptical sections creating a geometric progression from wide base to narrow top. The form's mathematical precision emerges from Coper's direct manipulation of clay rather than mechanical production, showing how hand-building can achieve geometric consistency.",
-    "significance": "Illustrates how geometric precision can be achieved through craft methods rather than industrial processes. Teaches students that mathematical forms need not be mechanically produced — Coper's hand creates elliptical consistency that rivals machine precision while retaining the subtle irregularities that mark human making.",
+    "significance": "Illustrates how geometric precision can be achieved through craft methods rather than industrial processes. It demonstrates that mathematical forms need not be mechanically produced — Coper's hand creates elliptical consistency that rivals machine precision while retaining the subtle irregularities that mark human making.",
     "connections": [
       {
         "id": 565,
@@ -23234,7 +23234,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery Revival",
     "wikiTitle": "Edmund de Waal",
     "description": "A thrown porcelain teapot that strips away decorative elements to focus on essential functional form. De Waal uses precise throwing techniques to achieve walls of consistent thinness, creating a vessel that feels light despite its ceramic mass. The unglazed surface reveals the porcelain's natural color and texture, emphasizing material honesty over surface treatment.",
-    "significance": "Represents the 1990s return to craft values within contemporary ceramics. Teaches students how reduction can be a positive design strategy - removing elements to reveal essential qualities rather than adding complexity.",
+    "significance": "Represents the 1990s return to craft values within contemporary ceramics. It demonstrates how reduction can be a positive design strategy - removing elements to reveal essential qualities rather than adding complexity.",
     "connections": [
       {
         "id": 147,
@@ -23271,7 +23271,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Installation Ceramics",
     "wikiTitle": "Edmund de Waal",
     "description": "An installation of hundreds of small porcelain vessels arranged across shelving systems. Each vessel is individually thrown but collectively forms a systematic exploration of minimal variations in form. The work transforms the intimate scale of ceramics into architectural presence through accumulation and repetition, while maintaining the handmade quality of each component.",
-    "significance": "Demonstrates how seriality can amplify rather than diminish craft meaning. Shows students how contemporary ceramics can engage with conceptual art strategies while maintaining material specificity.",
+    "significance": "Demonstrates how seriality can amplify rather than diminish craft meaning. It reveals how contemporary ceramics can engage with conceptual art strategies while maintaining material specificity.",
     "connections": [
       {
         "id": 11,
@@ -23313,7 +23313,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Studio Pottery",
     "wikiTitle": "Edmund de Waal",
     "description": "A porcelain vessel with fitted lid that demonstrates the precision possible in wheel-thrown ceramics. The lid sits without visible join lines, requiring exact calculation of shrinkage rates during firing. The form eliminates decorative elements to focus attention on proportional relationships and the subtle variations in wall thickness that throwing produces. The matte white surface emphasizes form over pattern.",
-    "significance": "Shows how technical mastery enables aesthetic refinement. Demonstrates to students that craft knowledge includes understanding material behavior through multiple manufacturing stages - from wet clay to fired ceramic.",
+    "significance": "Shows how technical mastery enables aesthetic refinement. Demonstrates that craft knowledge includes understanding material behavior through multiple manufacturing stages - from wet clay to fired ceramic.",
     "connections": [
       {
         "id": 574,
@@ -23355,7 +23355,7 @@ export const ARCHIVE = [
     "movement": "Studio Pottery Revival",
     "wikiTitle": "Edmund de Waal",
     "description": "De Waal's beaker demonstrates how wheel-thrown porcelain can achieve both structural clarity and material honesty through minimal formal gestures. The vessel's proportions follow classical ceramic logic while its unadorned surface allows the clay's inherent qualities to speak directly.",
-    "significance": "Shows how contemporary ceramics can engage with modernist reduction while maintaining craft authenticity. Students learn that 'less' requires deeper understanding of material properties and throwing techniques.",
+    "significance": "Shows how contemporary ceramics can engage with modernist reduction while maintaining craft authenticity. The point is that 'less' requires deeper understanding of material properties and throwing techniques.",
     "connections": [
       {
         "id": 159,
@@ -23402,7 +23402,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Art",
     "wikiTitle": "Grayson Perry",
     "description": "Perry's print work extends his ceramic practice into two dimensions, using etching and lithography to create densely layered narratives that combine autobiography with social commentary. The print medium allows him to work at scale while maintaining the intimate, decorative sensibility of his ceramic vessels.",
-    "significance": "Shows how artists can maintain consistent conceptual approaches across different media. Students learn how printmaking can serve narrative construction rather than just image reproduction.",
+    "significance": "Shows how artists can maintain consistent conceptual approaches across different media. The work reveals how printmaking can serve narrative construction rather than just image reproduction.",
     "connections": [
       {
         "id": 578,
@@ -23444,7 +23444,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Art",
     "wikiTitle": "Grayson Perry",
     "description": "Perry's vase subverts the ceramic vessel's traditional role as decorative object by loading its surface with transgressive imagery and text. The classical form provides respectable context for content that challenges masculinity, class, and artistic hierarchy through deliberate aesthetic clash.",
-    "significance": "Demonstrates how familiar object typologies can be hijacked for cultural critique. Students learn that form and content operate in productive tension — the vessel's respectability makes its content more provocative.",
+    "significance": "Demonstrates how familiar object typologies can be hijacked for cultural critique. The point is that form and content operate in productive tension — the vessel's respectability makes its content more provocative.",
     "connections": [
       {
         "id": 576,
@@ -23491,7 +23491,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Art",
     "wikiTitle": "Grayson Perry",
     "description": "Perry's etching uses traditional printmaking techniques to create a satirical map of English regional identity, layering stereotypes and personal observations into a dense visual commentary. The print medium's capacity for fine detail serves his interest in embedding multiple narratives within single compositions.",
-    "significance": "Shows how printmaking's traditional techniques can serve contemporary social critique. Students see how regional identity becomes material for artistic investigation rather than celebration.",
+    "significance": "Shows how printmaking's traditional techniques can serve contemporary social critique. It reveals how regional identity becomes material for artistic investigation rather than celebration.",
     "connections": [
       {
         "id": 577,
@@ -23538,7 +23538,7 @@ export const ARCHIVE = [
     "movement": "Contemporary British Art",
     "wikiTitle": null,
     "description": "Perry's ceramic vessels explore gender identity through the classical vase form, using decorative techniques to embed contemporary social commentary in traditional craft methods. The pairing creates dialogue between masculine and feminine coded imagery within identical forms.",
-    "significance": "Teaches students how traditional craft forms can carry radical contemporary content. Demonstrates the power of repetition and variation in communicating complex social ideas through objects.",
+    "significance": "It demonstrates how traditional craft forms can carry radical contemporary content. Demonstrates the power of repetition and variation in communicating complex social ideas through objects.",
     "connections": [
       {
         "id": 164,
@@ -23580,7 +23580,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Memorial Design",
     "wikiTitle": "April Ashley",
     "description": "The postcard format memorializes April Ashley, a pioneering transgender model and activist, through accessible graphic design that democratizes commemoration. The Museum of Transology uses the humble postcard to create distributed memorial architecture.",
-    "significance": "Shows students how graphic design can create alternative memorial systems outside traditional institutional structures. Demonstrates the power of democratic formats in preserving marginalized histories.",
+    "significance": "It reveals how graphic design can create alternative memorial systems outside traditional institutional structures. Demonstrates the power of democratic formats in preserving marginalized histories.",
     "connections": [
       {
         "id": 7,
@@ -23622,7 +23622,7 @@ export const ARCHIVE = [
     "movement": "American Studio Craft",
     "wikiTitle": "June Schwarcz",
     "description": "Schwarcz's enamel vessel demonstrates the American studio craft movement's synthesis of traditional techniques with contemporary artistic expression. The electroformed copper structure creates possibilities for surface treatment that traditional pottery cannot achieve.",
-    "significance": "Shows students how American artists developed alternatives to European ceramic traditions through technological innovation. Demonstrates the relationship between making process and aesthetic possibility in studio craft.",
+    "significance": "It reveals how American artists developed alternatives to European ceramic traditions through technological innovation. Demonstrates the relationship between making process and aesthetic possibility in studio craft.",
     "connections": [
       {
         "id": 147,
@@ -23664,7 +23664,7 @@ export const ARCHIVE = [
     "movement": "Japanese Studio Pottery",
     "wikiTitle": null,
     "description": "Yanagihara transforms the vessel from functional container to expressive sculpture, using ceramic's plasticity to create anthropomorphic forms that blur boundaries between craft and art. The 'laughing mouth' opening rejects traditional vessel logic, where form follows containment function, instead prioritizing emotional communication through material gesture.",
-    "significance": "Demonstrates how Japanese makers in the 1980s challenged Western modernist ceramics by embracing figuration and emotional expression. Shows students that vessel design can communicate beyond utility, using clay's sculptural potential to create objects that function as psychological containers rather than merely physical ones.",
+    "significance": "Demonstrates how Japanese makers in the 1980s challenged Western modernist ceramics by embracing figuration and emotional expression. It demonstrates that vessel design can communicate beyond utility, using clay's sculptural potential to create objects that function as psychological containers rather than merely physical ones.",
     "connections": [
       {
         "id": 147,
@@ -23706,7 +23706,7 @@ export const ARCHIVE = [
     "movement": "American Studio Craft",
     "wikiTitle": null,
     "description": "Schwarcz uses enamel on copper to create vessels that prioritize surface over form, developing painting-like compositions that wrap around three-dimensional objects. Her numbering system treats each piece as part of a systematic investigation into how pictorial space can be mapped onto vessel surfaces, making the container secondary to its graphic skin.",
-    "significance": "Shows students how American studio craft approached vessels as canvases for surface investigation rather than exercises in pure form. Demonstrates systematic working methods where consistent formal frameworks enable extensive material experimentation — essential methodology for developing coherent bodies of work.",
+    "significance": "It reveals how American studio craft approached vessels as canvases for surface investigation rather than exercises in pure form. Demonstrates systematic working methods where consistent formal frameworks enable extensive material experimentation — essential methodology for developing coherent bodies of work.",
     "connections": [
       {
         "id": 170,
@@ -23748,7 +23748,7 @@ export const ARCHIVE = [
     "movement": "Critical Design",
     "wikiTitle": null,
     "description": "Unknown Fields Division creates ceramics from rare earth mining waste in Baotou, China, making visible the toxic byproducts of digital device production. The vessels function as material evidence of environmental destruction, using traditional ceramic techniques to transform industrial waste into objects that force confrontation with technology's hidden costs.",
-    "significance": "Demonstrates critical design's method of making invisible systems tangible through material intervention. Teaches students that design research can produce objects that function as evidence and argument simultaneously, showing how traditional making processes can reveal contemporary technological relationships.",
+    "significance": "Demonstrates critical design's method of making invisible systems tangible through material intervention. It demonstrates that design research can produce objects that function as evidence and argument simultaneously, showing how traditional making processes can reveal contemporary technological relationships.",
     "connections": [
       {
         "id": 37,
@@ -23790,7 +23790,7 @@ export const ARCHIVE = [
     "movement": "American Studio Craft",
     "wikiTitle": null,
     "description": "Schwarcz adapts the medieval plique-à-jour enamel technique to create vessel walls that function like stained glass windows, using transparent enamel suspended in metal frameworks to achieve luminous, architectural effects. The technique transforms the vessel into a light-filtering object where translucency becomes the primary visual experience rather than solid form.",
-    "significance": "Shows students how studio craftspeople in the 1970s researched historical techniques to solve contemporary formal problems. Demonstrates how systematic numbering enables experimental work to develop coherently over time, essential methodology for sustained investigation into materials and processes.",
+    "significance": "It reveals how studio craftspeople in the 1970s researched historical techniques to solve contemporary formal problems. Demonstrates how systematic numbering enables experimental work to develop coherently over time, essential methodology for sustained investigation into materials and processes.",
     "connections": [
       {
         "id": 584,
@@ -23832,7 +23832,7 @@ export const ARCHIVE = [
     "movement": "Scandinavian Modernism",
     "wikiTitle": null,
     "description": "Friberg reduces the vessel to essential proportions while developing complex crystalline glazes that create surface depth through controlled chemical reactions. Working at Gustavsberg, he demonstrates how industrial pottery can maintain craft values, using systematic glaze chemistry to achieve effects that appear random but result from precise technical control.",
-    "significance": "Shows students how Scandinavian modernism balanced reduction with material richness, achieving complexity through controlled accident rather than decorative application. Demonstrates the relationship between industrial context and craft values, essential for understanding how authentic making can survive within commercial production.",
+    "significance": "It reveals how Scandinavian modernism balanced reduction with material richness, achieving complexity through controlled accident rather than decorative application. Demonstrates the relationship between industrial context and craft values, essential for understanding how authentic making can survive within commercial production.",
     "connections": [
       {
         "id": 7,
@@ -23873,7 +23873,7 @@ export const ARCHIVE = [
     "movement": "New Simplicity / Biomorphism",
     "wikiTitle": "Lockheed Lounge",
     "description": "A chaise longue formed from fibreglass-reinforced polyester resin, clad in hand-beaten aluminium sheets fixed with blind rivets. Three rubber-footed legs descend from a continuous organic profile inspired loosely by David's Portrait of Madame Récamier and the riveted fuselage panels of Lockheed aircraft. Each piece in the edition of ten took six months, with every aluminium panel individually cut, filed, and fitted — making each one unique despite being editioned.",
-    "significance": "The most expensive object ever sold by a living designer (£2.4m, 2015). Shows students that limited-edition furniture can function as both design and contemporary art — and that the hand-making process itself becomes part of the object's cultural value. Raises questions about whether design's significance comes from function, craft, or narrative.",
+    "significance": "The most expensive object ever sold by a living designer (£2.4m, 2015). It demonstrates that limited-edition furniture can function as both design and contemporary art — and that the hand-making process itself becomes part of the object's cultural value. Raises questions about whether design's significance comes from function, craft, or narrative.",
     "connections": [
       {
         "id": 9,
@@ -23914,7 +23914,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Three bronze casts of classical chair backs are inserted into a fallen tree trunk, transforming found natural material into a public bench. Only the bronze backs are sold — Bey insists it is ridiculous to transport trees when they are locally available. The piece was originally designed for the park at Oranienbaum, where nature and culture physically intersect in a cultivated landscape.",
-    "significance": "The definitive Droog statement: design as idea rather than object. Forces students to ask what the designer actually designed — the backs, the concept, or the permission to see a fallen tree as furniture. Challenges industrial design's assumption that the designer controls all material, and suggests that the most radical move is designing less.",
+    "significance": "The definitive Droog statement: design as idea rather than object. It forces us to ask what the designer actually designed — the backs, the concept, or the permission to see a fallen tree as furniture. Challenges industrial design's assumption that the designer controls all material, and suggests that the most radical move is designing less.",
     "connections": [
       {
         "id": 7,
@@ -23950,7 +23950,7 @@ export const ARCHIVE = [
     "movement": "Creative Salvage",
     "wikiTitle": "Rover_chair",
     "description": "A leather seat salvaged from a scrapped Rover 2000 car, mounted on a tubular steel frame with Kee Klamp scaffold fittings. The industrial clamps allow height adjustment but are left deliberately raw — no attempt to disguise the assembly method. The car seat provides genuine ergonomic comfort that no designer could improve upon; Arad simply recontextualises it.",
-    "significance": "Launched the Creative Salvage movement and Arad's career simultaneously. Shows students that design intelligence can be curatorial — recognising that a car seat is already the result of millions of pounds of ergonomic research, and that reframing it is a more honest act than redesigning it. The Kee Klamp fittings are the design — the seat is the found art.",
+    "significance": "Launched the Creative Salvage movement and Arad's career simultaneously. It proves that design intelligence can be curatorial — recognising that a car seat is already the result of millions of pounds of ergonomic research, and that reframing it is a more honest act than redesigning it. The Kee Klamp fittings are the design — the seat is the found art.",
     "connections": [
       {
         "id": 11,
@@ -23986,7 +23986,7 @@ export const ARCHIVE = [
     "movement": "Post-Industrial Design",
     "wikiTitle": "Bookworm_(bookshelf)",
     "description": "A continuous extruded PVC strip that can be bent into any sinuous wall-mounted form, held in place by steel bookend brackets at intervals. The shelf has no fixed shape — each installation is unique, determined by the owner. Originally conceived in steel for gallery editions, Arad worked with Kartell to translate the concept into injection-moulded thermoplastic for mass production.",
-    "significance": "Demonstrates the rare journey from gallery one-off to mass-market product without losing conceptual integrity. Shows students that the same idea can exist at two price points if the designer understands material translation. The user becomes co-designer — a democratic gesture from a designer known for exclusive editions.",
+    "significance": "Demonstrates the rare journey from gallery one-off to mass-market product without losing conceptual integrity. The point is that the same idea can exist at two price points if the designer understands material translation. The user becomes co-designer — a democratic gesture from a designer known for exclusive editions.",
     "connections": [
       {
         "id": 1,
@@ -24022,7 +24022,7 @@ export const ARCHIVE = [
     "movement": "Radical Design / Anti-Design",
     "wikiTitle": "Up_(chair)",
     "description": "An anthropomorphic polyurethane foam armchair in the form of a voluptuous female body, sold vacuum-packed flat and expanding to full size when the packaging is opened. A spherical ottoman attached by a cord references a ball and chain. The foam is covered in stretch jersey fabric. The vacuum-packing reduced shipping volume by 90%, turning logistics into spectacle — the unboxing becomes performance.",
-    "significance": "Pesce described it as a political statement about women's captivity throughout history. Shows students that furniture can carry ideological content without being didactic — the form communicates before any explanation. The vacuum-packaging innovation predates flat-pack by decades and turns the moment of purchase into theatre.",
+    "significance": "Pesce described it as a political statement about women's captivity throughout history. It demonstrates that furniture can carry ideological content without being didactic — the form communicates before any explanation. The vacuum-packaging innovation predates flat-pack by decades and turns the moment of purchase into theatre.",
     "connections": [
       {
         "id": 9,
@@ -24058,7 +24058,7 @@ export const ARCHIVE = [
     "movement": "Space Age Design",
     "wikiTitle": null,
     "description": "Two padded cushions of different sizes connected by a central joint, allowing the chair to assume multiple configurations — upright seat, low lounge, bed. No frame, no mechanism — just the relationship between two soft geometric volumes and gravity. The user physically rearranges the components to switch between postures.",
-    "significance": "Colombo's domestic habitat research compressed into a single object. Shows students that adaptive furniture doesn't require technology — just intelligent geometry and trust in the user. The absence of a frame is the design decision: Colombo removes structure to create freedom.",
+    "significance": "Colombo's domestic habitat research compressed into a single object. It demonstrates that adaptive furniture doesn't require technology — just intelligent geometry and trust in the user. The absence of a frame is the design decision: Colombo removes structure to create freedom.",
     "connections": [
       {
         "id": 3,
@@ -24094,7 +24094,7 @@ export const ARCHIVE = [
     "movement": "Post-Industrial Craft",
     "wikiTitle": null,
     "description": "Each chair in this series is intentionally different — cast in polyurethane resin using a deliberately imprecise mould that allows material to overflow, pool, and set in unpredictable ways. Colours bleed into each other. No two are alike. Pesce instructed Brazilian workers to embrace error rather than correct it, embedding imperfection into the production method itself.",
-    "significance": "A direct challenge to industrial design's obsession with consistency. Shows students that serial production doesn't have to mean identical production — that variation can be a feature rather than a defect. Pesce asks: what if mass production celebrated the hand rather than erasing it?",
+    "significance": "A direct challenge to industrial design's obsession with consistency. It demonstrates that serial production doesn't have to mean identical production — that variation can be a feature rather than a defect. Pesce asks: what if mass production celebrated the hand rather than erasing it?",
     "connections": [
       {
         "id": 4,
@@ -24130,7 +24130,7 @@ export const ARCHIVE = [
     "movement": "Biomorphism",
     "wikiTitle": null,
     "description": "A moulded fibreglass shell covered in neoprene foam padding, resting on chromed tubular steel legs. The organic seat curves wrap around the sitter like a protective pod. Newson described it as the first piece where he identified a discernible personal style — the fusion of organic form with industrial finish that became his signature.",
-    "significance": "The piece that established Newson's design language before the Lockheed Lounge made him famous. Shows students the difference between a breakthrough object (Lockheed) and the developmental work that made it possible. The neoprene covering transfers wetsuit technology to furniture — a material leap that defines Newson's cross-disciplinary thinking.",
+    "significance": "The piece that established Newson's design language before the Lockheed Lounge made him famous. It reveals the difference between a breakthrough object (Lockheed) and the developmental work that made it possible. The neoprene covering transfers wetsuit technology to furniture — a material leap that defines Newson's cross-disciplinary thinking.",
     "connections": [
       {
         "id": 10,
@@ -24161,7 +24161,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A generic wooden chair form — the kind found in every school and church — rendered in high-gloss black lacquer that transforms the ordinary into the precious. Hans takes the most anonymous, overlooked furniture archetype and elevates it through surface treatment alone. The title references the alchemical transformation of base material into gold.",
-    "significance": "Demonstrates that design innovation doesn't require new form — it can operate through recontextualisation. Shows students that the 'ordinary' is itself a rich design territory. Hans's work consistently asks what happens when we pay attention to objects we've learned to ignore.",
+    "significance": "Demonstrates that design innovation doesn't require new form — it can operate through recontextualisation. The point is that the 'ordinary' is itself a rich design territory. Hans's work consistently asks what happens when we pay attention to objects we've learned to ignore.",
     "connections": [
       {
         "id": 7,
@@ -24197,7 +24197,7 @@ export const ARCHIVE = [
     "movement": "New Baroque / Contemporary Craft",
     "wikiTitle": null,
     "description": "A rotational-moulded polyethylene shell armchair with an optional fabric-covered interior and brass-finished turned wooden legs. The form references classical wingback chairs but is executed in playground-grade plastic, creating a deliberate collision between aristocratic silhouette and democratic material. Available with or without a canopy extension that frames the sitter like a stage.",
-    "significance": "Hayon's breakthrough piece that established his position between art, craft, and design. Shows students that historical references in contemporary design don't have to be ironic or postmodern — they can be celebratory. The rotational moulding makes baroque form accessible at non-baroque prices.",
+    "significance": "Hayon's breakthrough piece that established his position between art, craft, and design. It demonstrates that historical references in contemporary design don't have to be ironic or postmodern — they can be celebratory. The rotational moulding makes baroque form accessible at non-baroque prices.",
     "connections": [
       {
         "id": 3,
@@ -24233,7 +24233,7 @@ export const ARCHIVE = [
     "movement": "Art-Design / Contemporary Craft",
     "wikiTitle": null,
     "description": "An oversized ceramic chicken sculpture finished in glossy emerald green glaze, standing roughly a metre tall. Part of Hayon's 'Mediterranean Digital Baroque' collection that merged traditional European ceramic craft with cartoon-like exaggeration. Hand-made in Bosa's Italian workshops using centuries-old ceramic techniques, then glazed in colours no traditional ceramicist would choose.",
-    "significance": "Blurred the boundary between design object, decorative art, and sculpture at a moment when contemporary design was dominated by minimalism. Shows students that humour and craft mastery aren't mutually exclusive — and that rejecting seriousness can itself be a serious design position.",
+    "significance": "Blurred the boundary between design object, decorative art, and sculpture at a moment when contemporary design was dominated by minimalism. It demonstrates that humour and craft mastery aren't mutually exclusive — and that rejecting seriousness can itself be a serious design position.",
     "connections": [
       {
         "id": 9,
@@ -24264,7 +24264,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Discarded classical furniture — ornate chairs, settees, side tables — is coated in a translucent PVC skin that shrink-wraps around the existing form. The original furniture remains visible beneath the plastic membrane like objects in amber. The coating preserves the form while fundamentally changing the object's material presence and relationship to its own history.",
-    "significance": "Bey's most museum-collected work. Asks students to consider when an object stops being one thing and becomes another — is this still a chair, or is it now a comment about a chair? The PVC skin simultaneously preserves and erases identity, making visible the tension between heritage and contemporary intervention.",
+    "significance": "Bey's most museum-collected work. It asks us to consider when an object stops being one thing and becomes another — is this still a chair, or is it now a comment about a chair? The PVC skin simultaneously preserves and erases identity, making visible the tension between heritage and contemporary intervention.",
     "connections": [
       {
         "id": 6,
@@ -24300,7 +24300,7 @@ export const ARCHIVE = [
     "movement": "Brazilian Design / Design Art",
     "wikiTitle": "Favela_Chair",
     "description": "Hundreds of small irregular pieces of raw wood — offcuts, scraps, salvaged fragments — are nailed and glued together by hand to form the rough silhouette of a conventional armchair. No two pieces of wood are the same. The Campanas originally built them from wood collected in São Paulo's streets; Edra's Italian production uses hand-selected pine offcuts assembled by skilled craftspeople.",
-    "significance": "Brought Brazilian design to international attention and challenged the European assumption that good design requires precision. Shows students that vernacular building methods — the improvised construction of favela architecture — contain design intelligence that formal education overlooks.",
+    "significance": "Brought Brazilian design to international attention and challenged the European assumption that good design requires precision. It demonstrates that vernacular building methods — the improvised construction of favela architecture — contain design intelligence that formal education overlooks.",
     "connections": [
       {
         "id": 4,
@@ -24336,7 +24336,7 @@ export const ARCHIVE = [
     "movement": "Fashion-Design Crossover",
     "wikiTitle": null,
     "description": "In Chalayan's Autumn/Winter 2000 show 'Afterwords', models removed the covers from furniture on stage and wore them as garments — a coffee table became a skirt, chair covers became dresses. The finale saw the set stripped bare as clothing and furniture merged into a single system. Not a product but a performed argument about the relationship between the body, clothing, and domestic space.",
-    "significance": "The most radical fusion of fashion and furniture design ever staged. Shows students that disciplinary boundaries are intellectual habits, not material realities — a chair cover and a dress solve the same problem of wrapping a body. Chalayan trained as a fashion designer but thinks as an architect.",
+    "significance": "The most radical fusion of fashion and furniture design ever staged. It demonstrates that disciplinary boundaries are intellectual habits, not material realities — a chair cover and a dress solve the same problem of wrapping a body. Chalayan trained as a fashion designer but thinks as an architect.",
     "connections": [
       {
         "id": 10,
@@ -24367,7 +24367,7 @@ export const ARCHIVE = [
     "movement": "Deconstructionism / Anti-Fashion",
     "wikiTitle": null,
     "description": "Garments with padded protrusions sewn into unexpected locations — hips, shoulders, backs — that distort the natural body silhouette into unfamiliar organic forms. The padding uses stretch gingham and down-filled inserts that shift as the wearer moves, creating a body that is never the same shape twice. Kawakubo said the collection was about the space between the body and dress.",
-    "significance": "The Met devoted its 2017 Costume Institute exhibition to Kawakubo — only the second living designer so honoured after Yves Saint Laurent. Shows students that design can question the most fundamental assumption of all: the shape of the human body. If product design serves the body as it is, Kawakubo designs for the body as it could be.",
+    "significance": "The Met devoted its 2017 Costume Institute exhibition to Kawakubo — only the second living designer so honoured after Yves Saint Laurent. It proves that design can question the most fundamental assumption of all: the shape of the human body. If product design serves the body as it is, Kawakubo designs for the body as it could be.",
     "connections": [
       {
         "id": 2,
@@ -24398,7 +24398,7 @@ export const ARCHIVE = [
     "movement": "Radical Design",
     "wikiTitle": "Pratone_(furniture)",
     "description": "A monumental block of flexible polyurethane foam sculpted into oversized blades of grass, painted green. Users nestle between the giant grass blades, which bend and support the body in unpredictable configurations. Standing nearly a metre tall, the piece transforms a room into a surreal landscape — domestic furniture as environmental sculpture.",
-    "significance": "The purest expression of Italian Radical Design's rejection of functionalism. Shows students that the line between furniture and art installation was being questioned fifty years before today's 'design art' market. Gufram's production of these pieces — serious industrial manufacturing of deliberately absurd objects — is itself a radical act.",
+    "significance": "The purest expression of Italian Radical Design's rejection of functionalism. The point is that the line between furniture and art installation was being questioned fifty years before today's 'design art' market. Gufram's production of these pieces — serious industrial manufacturing of deliberately absurd objects — is itself a radical act.",
     "connections": [
       {
         "id": 9,
@@ -24429,7 +24429,7 @@ export const ARCHIVE = [
     "movement": "Democratic Design / Political Design",
     "wikiTitle": "Autoprogettazione",
     "description": "A book of technical drawings for 19 pieces of furniture — tables, chairs, shelves, beds — that anyone can build using only rough-sawn planks and nails. No special tools, no skill required. Mari published the plans and invited people to send him photographs of their results. The designs are deliberately basic: the simplest possible construction that achieves each function.",
-    "significance": "Open-source design forty years before the term existed. Mari's political conviction was that people should understand how the objects in their lives are made — that mass production creates passive consumers. Shows students that the most radical design gesture might be giving away the design entirely.",
+    "significance": "Open-source design forty years before the term existed. Mari's political conviction was that people should understand how the objects in their lives are made — that mass production creates passive consumers. The point is that the most radical design gesture might be giving away the design entirely.",
     "connections": [
       {
         "id": 4,
@@ -24465,7 +24465,7 @@ export const ARCHIVE = [
     "movement": "Japanese Postmodernism / Design Art",
     "wikiTitle": "Miss_Blanche",
     "description": "An armchair cast in transparent acrylic resin with artificial red paper roses suspended within the clear material, appearing to float inside the chair's volume. The aluminium legs emerge from the resin block like stems. Named after Blanche DuBois from Tennessee Williams's A Streetcar Named Desire. Only 56 were made before Kuramata's death in 1991.",
-    "significance": "Possibly the most beautiful chair ever made. Shows students that furniture can be pure poetry — Kuramata said he wanted to capture 'the memory of a rose.' The limited production and Kuramata's early death give the piece a tragic resonance that transcends design into art. The resin technology was experimental and each casting unique.",
+    "significance": "Possibly the most beautiful chair ever made. It demonstrates that furniture can be pure poetry — Kuramata said he wanted to capture 'the memory of a rose.' The limited production and Kuramata's early death give the piece a tragic resonance that transcends design into art. The resin technology was experimental and each casting unique.",
     "connections": [
       {
         "id": 9,
@@ -24496,7 +24496,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "Classical furniture is deliberately set on fire, then the burning is arrested at the precise moment when the form is charred but still structurally sound. The blackened remains are sealed with clear epoxy resin to preserve the fire-damaged state permanently. Baas's graduation project from Design Academy Eindhoven — he burned everything from ornate rococo chairs to simple children's furniture.",
-    "significance": "Baas's degree show sold out within hours and launched his career at 24. Shows students that destruction can be a design method — that burning a chair reveals something about its construction that no amount of refinement could. The moment of arresting the fire is the design decision, requiring extraordinary judgement about material behaviour.",
+    "significance": "Baas's degree show sold out within hours and launched his career at 24. It demonstrates that destruction can be a design method — that burning a chair reveals something about its construction that no amount of refinement could. The moment of arresting the fire is the design decision, requiring extraordinary judgement about material behaviour.",
     "connections": [
       {
         "id": 4,
@@ -24532,7 +24532,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A closed cube of 0.8mm stainless steel, delivered with a sledgehammer. The owner beats the cube into a chair shape of their own making. Each Do Hit is unique because each owner's violence, strength, and sense of form is different. The cube arrives as industrial perfection; it leaves as personal expression. The sledgehammer is part of the design.",
-    "significance": "The most extreme statement of user-as-designer in the Droog catalogue. Shows students that the 'user experience' can begin with physical violence — and that this violence is itself a form of creative expression. The piece asks who the designer really is: van der Poll who conceived it, or the owner who forms it.",
+    "significance": "The most extreme statement of user-as-designer in the Droog catalogue. The point is that the 'user experience' can begin with physical violence — and that this violence is itself a form of creative expression. The piece asks who the designer really is: van der Poll who conceived it, or the owner who forms it.",
     "connections": [
       {
         "id": 4,
@@ -24568,7 +24568,7 @@ export const ARCHIVE = [
     "movement": "Design Art / Recombination",
     "wikiTitle": null,
     "description": "Part of Gamper's '100 Chairs in 100 Days' project: 100 unique chairs made by disassembling found chairs and recombining their parts into new hybrids. A Thonet leg meets a Windsor back meets a plastic seat. Each chair is a collision of furniture histories, functional and genuinely usable despite its Frankenstein assembly. The project took exactly 100 consecutive days.",
-    "significance": "Proves that the history of furniture is itself a material you can work with. Shows students that every chair contains the DNA of every chair before it — and that making this visible through physical recombination is a legitimate design method. Gamper trained as a carpenter under Michelangelo Pistoletto before studying with Ron Arad at the RCA.",
+    "significance": "Proves that the history of furniture is itself a material you can work with. It demonstrates that every chair contains the DNA of every chair before it — and that making this visible through physical recombination is a legitimate design method. Gamper trained as a carpenter under Michelangelo Pistoletto before studying with Ron Arad at the RCA.",
     "connections": [
       {
         "id": 6,
@@ -24604,7 +24604,7 @@ export const ARCHIVE = [
     "movement": "Dutch-Japanese Craft",
     "wikiTitle": null,
     "description": "A tableware collection produced in the 400-year-old porcelain workshops of Arita, Japan, applying Dutch colour sensibilities to traditional Japanese ceramic forms. Pastel gradients and delicate grids are hand-painted onto classical shapes. Each piece required the Arita craftsmen to develop new techniques to achieve the colour precision Scholten & Baijings specified — a genuine cross-cultural technical collaboration.",
-    "significance": "Shows students that cultural exchange in design can be genuinely reciprocal rather than extractive. The Dutch designers didn't impose their aesthetic on Japanese craft — they negotiated a hybrid that expanded both traditions. The project also demonstrates that 'innovation' in ceramics can mean new colour rather than new form.",
+    "significance": "It demonstrates that cultural exchange in design can be genuinely reciprocal rather than extractive. The Dutch designers didn't impose their aesthetic on Japanese craft — they negotiated a hybrid that expanded both traditions. The project also demonstrates that 'innovation' in ceramics can mean new colour rather than new form.",
     "connections": [
       {
         "id": 2,
@@ -24635,7 +24635,7 @@ export const ARCHIVE = [
     "movement": "Material-Led Design",
     "wikiTitle": null,
     "description": "A cylindrical resin light that appears to glow from within, with colour graduating from opaque at the base to transparent at the top. The casting process — pouring pigmented resin in layers of decreasing saturation — creates the gradient. No visible light source; the LED is concealed in the base and the resin itself becomes the diffuser. Each piece is unique due to the unpredictability of resin curing.",
-    "significance": "Marcelis works with resin the way a painter works with pigment — the material IS the design. Shows students that when you understand a material deeply enough, form becomes secondary to material behaviour. Her Eindhoven graduation launched a practice now commissioned by Céline, OMA, and the Vitra Design Museum.",
+    "significance": "Marcelis works with resin the way a painter works with pigment — the material IS the design. It demonstrates that when you understand a material deeply enough, form becomes secondary to material behaviour. Her Eindhoven graduation launched a practice now commissioned by Céline, OMA, and the Vitra Design Museum.",
     "connections": [
       {
         "id": 2,
@@ -24666,7 +24666,7 @@ export const ARCHIVE = [
     "movement": "Geometric Rationalism",
     "wikiTitle": "Chair_One",
     "description": "A die-cast aluminium chair composed of flat triangulated planes that form a faceted, almost crystalline shell. The geometric surface — resembling a football's panel structure — is both the aesthetic and the engineering. Each flat plane resists bending forces the way a folded sheet of paper becomes rigid. Available in concrete, aluminium, or with an upholstered seat pad.",
-    "significance": "Proves that algorithmic geometry can produce comfortable, beautiful furniture. Shows students that the triangulated surface is not decorative — it is structural. Grcic's background in cabinetmaking (trained with John Makepeace) grounds his computational thinking in physical material understanding.",
+    "significance": "Proves that algorithmic geometry can produce comfortable, beautiful furniture. The point is that the triangulated surface is not decorative — it is structural. Grcic's background in cabinetmaking (trained with John Makepeace) grounds his computational thinking in physical material understanding.",
     "connections": [
       {
         "id": 6,
@@ -24702,7 +24702,7 @@ export const ARCHIVE = [
     "movement": "Biomorphism",
     "wikiTitle": "Orgone_(lounge)",
     "description": "A perforated aluminium chaise with an organic double-curved shell resting on three legs. The hundreds of precision-drilled holes reduce weight and create a shimmering moiré effect as light passes through. The form references both aircraft fuselage construction and the biomorphic sculptures of Hans Arp. Unlike the hand-beaten Lockheed Lounge, the Orgone was designed for series production.",
-    "significance": "Newson translating his gallery language into industrial production without losing formal ambition. Shows students the engineering required to make an organic freeform shape structurally viable in thin aluminium — the perforation pattern isn't decorative, it's a weight-reduction strategy borrowed from aerospace.",
+    "significance": "Newson translating his gallery language into industrial production without losing formal ambition. It reveals the engineering required to make an organic freeform shape structurally viable in thin aluminium — the perforation pattern isn't decorative, it's a weight-reduction strategy borrowed from aerospace.",
     "connections": [
       {
         "id": 6,
@@ -24732,7 +24732,7 @@ export const ARCHIVE = [
     "movement": "Biomorphism",
     "wikiTitle": null,
     "description": "A single sheet of fibreglass-reinforced felt, stiffened with resin into a self-supporting shell. The chair uses no frame — the felt IS the structure once impregnated. The material retains its textile appearance and soft edges while performing as a rigid monocoque. Three slender steel legs support the shell at minimal contact points.",
-    "significance": "Challenges students' assumptions about what constitutes a 'structural' material. Felt is associated with softness, warmth, craft — not load-bearing furniture. Newson makes it do both simultaneously, proving that material innovation often means finding structural potential in unexpected places.",
+    "significance": "Challenges assumptions about what constitutes a 'structural' material. Felt is associated with softness, warmth, craft — not load-bearing furniture. Newson makes it do both simultaneously, proving that material innovation often means finding structural potential in unexpected places.",
     "connections": [
       {
         "id": 2,
@@ -24762,7 +24762,7 @@ export const ARCHIVE = [
     "movement": "Dutch Neo-Baroque",
     "wikiTitle": null,
     "description": "An oversized floor lamp in the silhouette of a classical bedside lamp — shade, stem, base — scaled up to nearly two metres tall. The form is instantly recognisable as 'lamp' but the scale transforms the familiar into the surreal. Made from lacquered polyester. The shadow it casts on the wall is the shadow of a 'normal' lamp, adding a further layer of scale confusion.",
-    "significance": "Wanders at his most playful — taking the most generic lamp form imaginable and making it extraordinary through scale alone. Shows students that conceptual power doesn't require formal invention. Sometimes the strongest design move is making the ordinary enormous and forcing people to see it fresh.",
+    "significance": "Wanders at his most playful — taking the most generic lamp form imaginable and making it extraordinary through scale alone. It demonstrates that conceptual power doesn't require formal invention. Sometimes the strongest design move is making the ordinary enormous and forcing people to see it fresh.",
     "connections": [
       {
         "id": 2,
@@ -24793,7 +24793,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A stacking chair made entirely from industrial felt — thick, stiff wool felt cut and stitched into a structural form without any internal frame. The material is honest: what you see is what holds you up. The simple geometric cuts fold like origami to create seat, back, and legs from a near-flat pattern. Stacks ten high for storage.",
-    "significance": "Hans proves that felt can be both structure and surface, eliminating the distinction between upholstery and frame. Shows students that reducing a chair to a single material isn't just an aesthetic decision — it simplifies manufacturing, eliminates assembly, and makes the object fully recyclable.",
+    "significance": "Hans proves that felt can be both structure and surface, eliminating the distinction between upholstery and frame. It proves that reducing a chair to a single material isn't just an aesthetic decision — it simplifies manufacturing, eliminates assembly, and makes the object fully recyclable.",
     "connections": [
       {
         "id": 6,
@@ -24824,7 +24824,7 @@ export const ARCHIVE = [
     "movement": "Democratic Design",
     "wikiTitle": null,
     "description": "An open-source flat-pack chair designed to be CNC-milled from a single sheet of plywood by anyone with access to a digital fabrication lab. All joints are friction-fit — no glue, screws, or tools required. Hans published the cutting files freely online, inviting global makers to produce, modify, and improve the design. Each maker's version is legitimate.",
-    "significance": "Hans updating Enzo Mari's Autoprogettazione for the digital age — where Mari used planks and nails, Hans uses CNC files and plywood. Shows students that open-source design doesn't mean low quality. The precision of digital fabrication actually enables tighter joints than hand-building, while the open distribution model is more radical than any gallery edition.",
+    "significance": "Hans updating Enzo Mari's Autoprogettazione for the digital age — where Mari used planks and nails, Hans uses CNC files and plywood. It demonstrates that open-source design doesn't mean low quality. The precision of digital fabrication actually enables tighter joints than hand-building, while the open distribution model is more radical than any gallery edition.",
     "connections": [
       {
         "id": 4,
@@ -24855,7 +24855,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A classical chandelier enclosed inside a cylindrical one-way mirror shade. When the light is off, the shade appears as a simple reflective chrome cylinder. When illuminated, the mirror becomes transparent and the ornate chandelier inside is revealed — a baroque ghost materialising inside a minimalist shell. The piece physically contains two design philosophies simultaneously.",
-    "significance": "Bey's most commercially successful piece, produced by Moooi. Brilliantly literalises the tension between decorative and minimal that defines contemporary design. Shows students that you don't have to choose between ornament and reduction — you can design an object that is both, switching between them with the flick of a switch.",
+    "significance": "Bey's most commercially successful piece, produced by Moooi. Brilliantly literalises the tension between decorative and minimal that defines contemporary design. It proves that you don't have to choose between ornament and reduction — you can design an object that is both, switching between them with the flick of a switch.",
     "connections": [
       {
         "id": 2,
@@ -24891,7 +24891,7 @@ export const ARCHIVE = [
     "movement": "New Playfulness",
     "wikiTitle": null,
     "description": "A children's furniture set where table legs are monkey arms, chair backs are monkey faces, and the forms are executed in high-quality lacquered wood with the finish precision of adult designer furniture. Hayon refuses the assumption that children's design should be cheap or disposable — these pieces are made with the same care as his gallery editions.",
-    "significance": "Challenges the industry assumption that designing for children means designing down. Shows students that playfulness and craft excellence aren't mutually exclusive — and that the best children's design respects its audience by giving them objects as considered as anything in the adult world.",
+    "significance": "Challenges the industry assumption that designing for children means designing down. It proves that playfulness and craft excellence aren't mutually exclusive — and that the best children's design respects its audience by giving them objects as considered as anything in the adult world.",
     "connections": [
       {
         "id": 9,
@@ -24921,7 +24921,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Craft",
     "wikiTitle": null,
     "description": "A solid oak armchair with exaggerated turned legs and a high curved back, combining Spanish vernacular carpentry with cartoon-like proportions. The turnings reference traditional Mediterranean woodwork but are inflated and simplified — chunky where tradition would be delicate. Hand-finished in Hayon's studio with obsessive attention to curve transitions and surface quality.",
-    "significance": "Hayon demonstrating that tradition and personality aren't contradictory. Shows students that vernacular craft can be a living design resource rather than a museum reference — you can work with turnings and carved wood without being retro if you bring your own formal language to the technique.",
+    "significance": "Hayon demonstrating that tradition and personality aren't contradictory. It demonstrates that vernacular craft can be a living design resource rather than a museum reference — you can work with turnings and carved wood without being retro if you bring your own formal language to the technique.",
     "connections": [
       {
         "id": 6,
@@ -24952,7 +24952,7 @@ export const ARCHIVE = [
     "movement": "Brazilian Design",
     "wikiTitle": null,
     "description": "Hundreds of plush stuffed animals — bears, dogs, rabbits — are sewn into a steel frame chair structure, creating a seat that is simultaneously comforting and unsettling. The toys are commercially available stuffed animals, not custom-made. The effect is overwhelming abundance: the chair appears to be consuming or birthing its own cushioning. Each example uses different animals, making every chair unique.",
-    "significance": "The Campanas at their most provocative — using childhood comfort objects en masse to create something between furniture and art installation. Shows students that found materials can include mass-produced consumer goods, and that accumulation can be as powerful a design strategy as reduction.",
+    "significance": "The Campanas at their most provocative — using childhood comfort objects en masse to create something between furniture and art installation. It demonstrates that found materials can include mass-produced consumer goods, and that accumulation can be as powerful a design strategy as reduction.",
     "connections": [
       {
         "id": 4,
@@ -24983,7 +24983,7 @@ export const ARCHIVE = [
     "movement": "Brazilian Design",
     "wikiTitle": null,
     "description": "500 metres of red cotton rope hand-wound around an aluminium and steel frame in a seemingly random pattern that actually follows a precise winding logic. The rope creates both the seat surface and the visual identity — no upholstery, no covering, just rope and structure. Each chair takes hours of hand-winding and no two are identical despite following the same method.",
-    "significance": "The piece that established the Campanas internationally. Shows students that 'handmade' doesn't have to mean 'primitive' — the winding technique requires genuine skill and the result is both structurally sound and visually extraordinary. The red rope is simultaneously structure, surface, and decoration.",
+    "significance": "The piece that established the Campanas internationally. It demonstrates that 'handmade' doesn't have to mean 'primitive' — the winding technique requires genuine skill and the result is both structurally sound and visually extraordinary. The red rope is simultaneously structure, surface, and decoration.",
     "connections": [
       {
         "id": 2,
@@ -25014,7 +25014,7 @@ export const ARCHIVE = [
     "movement": "Sculptural Design / Neo-Brutalism",
     "wikiTitle": null,
     "description": "A bulbous fibreglass armchair composed of oversized cylindrical volumes — two fat arms, a rounded back, a drum seat — assembled like a child's drawing of a chair made real. Originally cast in raw fibreglass with visible cloth texture, later produced by Driade in rotational-moulded polyethylene. The proportions are deliberately clumsy, rejecting the refinement associated with 'good' furniture design.",
-    "significance": "Toogood trained as an art historian, not a designer, and it shows — the Roly Poly treats furniture as sculpture first. Shows students that challenging 'good taste' in furniture can be as radical as challenging function. The deliberate clumsiness is a considered aesthetic position, not a lack of skill.",
+    "significance": "Toogood trained as an art historian, not a designer, and it shows — the Roly Poly treats furniture as sculpture first. It demonstrates that challenging 'good taste' in furniture can be as radical as challenging function. The deliberate clumsiness is a considered aesthetic position, not a lack of skill.",
     "connections": [
       {
         "id": 6,
@@ -25045,7 +25045,7 @@ export const ARCHIVE = [
     "movement": "Sculptural Design",
     "wikiTitle": null,
     "description": "A freestanding wardrobe constructed from raw steel plates welded into a monolithic box, with doors that open to reveal a polished brass interior. The exterior is left deliberately unfinished — weld marks visible, surface oxidised — while the interior gleams. The contrast between brutal outside and precious inside mirrors the act of dressing: the private self concealed within the public.",
-    "significance": "Toogood designing furniture as emotional narrative rather than functional problem-solving. Shows students that a wardrobe isn't just storage — it's a threshold between private and public identity. The material contrast makes this argument physically, without explanation.",
+    "significance": "Toogood designing furniture as emotional narrative rather than functional problem-solving. It demonstrates that a wardrobe isn't just storage — it's a threshold between private and public identity. The material contrast makes this argument physically, without explanation.",
     "connections": [
       {
         "id": 1,
@@ -25076,7 +25076,7 @@ export const ARCHIVE = [
     "movement": "Maximalist Craft",
     "wikiTitle": null,
     "description": "Stacked sculptural vessels in laminated wood, each layer turned on a lathe then laminated with hand-applied patterned veneers and coloured laminates. The patterns clash deliberately — stripes meet florals meet geometric grids — creating objects that vibrate with chromatic energy. Each piece is unique, assembled from Wood's archive of patterned materials collected from markets worldwide.",
-    "significance": "Wood is the anti-minimalist — her work argues that more is more, and that pattern, colour, and decoration are legitimate design territories that modernism wrongly dismissed. Shows students that maximalism requires as much discipline as minimalism; the pattern combinations are carefully orchestrated, not random.",
+    "significance": "Wood is the anti-minimalist — her work argues that more is more, and that pattern, colour, and decoration are legitimate design territories that modernism wrongly dismissed. It demonstrates that maximalism requires as much discipline as minimalism; the pattern combinations are carefully orchestrated, not random.",
     "connections": [
       {
         "id": 1,
@@ -25107,7 +25107,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Craft",
     "wikiTitle": null,
     "description": "A collection of functional domestic objects — trays, bowls, serving boards — made from wood marquetry using industrial laminate offcuts. The geometric inlay patterns reference traditional Italian marquetry techniques but use Formica and melamine instead of precious veneers. Each piece is handmade in Wood's London studio, combining centuries-old craft technique with disposable industrial material.",
-    "significance": "Wood collapsing the hierarchy between precious and cheap materials. Shows students that craft technique can elevate industrial waste, and that the distinction between 'noble' and 'base' materials is a cultural construction, not a material fact.",
+    "significance": "Wood collapsing the hierarchy between precious and cheap materials. It proves that craft technique can elevate industrial waste, and that the distinction between 'noble' and 'base' materials is a cultural construction, not a material fact.",
     "connections": [
       {
         "id": 11,
@@ -25138,7 +25138,7 @@ export const ARCHIVE = [
     "movement": "Critical Design / Research Design",
     "wikiTitle": null,
     "description": "A body of research and designed objects investigating the global supply chain of electronic waste. The project includes furniture made from recycled phone screens and computer components, a film documenting e-waste processing in China, and a comprehensive mapping of how materials flow from mines to products to landfills. Commissioned by the National Gallery of Victoria.",
-    "significance": "Formafantasma demonstrating that design research can be as important as design production. Shows students that understanding where materials come from and where they go is itself a design discipline — and that the most responsible design response might be making the system visible rather than adding more objects to it.",
+    "significance": "Formafantasma demonstrating that design research can be as important as design production. It demonstrates that understanding where materials come from and where they go is itself a design discipline — and that the most responsible design response might be making the system visible rather than adding more objects to it.",
     "connections": [
       {
         "id": 4,
@@ -25169,7 +25169,7 @@ export const ARCHIVE = [
     "movement": "Research Design",
     "wikiTitle": null,
     "description": "A multi-year investigation into the global timber industry, encompassing a Serpentine Gallery exhibition, a fully searchable online platform, furniture prototypes using reclaimed wood, and policy recommendations. The project traces wood from forest to product, exposing the environmental and political structures that shape material availability. Commissioned as both art exhibition and actionable industry research.",
-    "significance": "The most ambitious design research project of the decade. Shows students that designers can operate at policy level — that understanding forestry governance, certification systems, and supply chains is as much a design competency as sketching chairs. Formafantasma expand the definition of what a design studio can do.",
+    "significance": "The most ambitious design research project of the decade. It demonstrates that designers can operate at policy level — that understanding forestry governance, certification systems, and supply chains is as much a design competency as sketching chairs. Formafantasma expand the definition of what a design studio can do.",
     "connections": [
       {
         "id": 7,
@@ -25200,7 +25200,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design",
     "wikiTitle": null,
     "description": "A functional table with legs and surface modelled in synthetic clay over a hidden steel structure, then left with every fingerprint, thumb-mark, and imperfection visible in the finished surface. The clay is industrial — durable and permanent — but shaped with the deliberate awkwardness of a child's first pottery attempt. No smoothing, no refinement. The making process is frozen in the surface.",
-    "significance": "Baas extending his Smoke series philosophy: where Smoke arrested destruction, Clay arrests construction at its most raw. Shows students that 'unfinished' can be a deliberate aesthetic — that stopping before refinement preserves an honesty that polishing destroys.",
+    "significance": "Baas extending his Smoke series philosophy: where Smoke arrested destruction, Clay arrests construction at its most raw. It demonstrates that 'unfinished' can be a deliberate aesthetic — that stopping before refinement preserves an honesty that polishing destroys.",
     "connections": [
       {
         "id": 4,
@@ -25231,7 +25231,7 @@ export const ARCHIVE = [
     "movement": "Dutch Conceptual Design / Performance",
     "wikiTitle": null,
     "description": "A 12-hour video of a man in a rubbish-filled room who continuously sweeps debris into the positions of clock hands, displayed on a screen framed as a clock face. Every minute, he reshapes the debris to show the new time. The full cycle requires 12 hours of continuous performance, filmed in real time. Installed permanently at Schiphol Airport's arrivals hall where millions of travellers check it daily.",
-    "significance": "Baas replacing mechanism with human labour — every minute of timekeeping requires a person's physical effort. Shows students that the most powerful critique of automation might be re-inserting the human body into a process we've forgotten involves bodies. Schiphol's commission makes it one of the most-seen design artworks in the world.",
+    "significance": "Baas replacing mechanism with human labour — every minute of timekeeping requires a person's physical effort. The point is that the most powerful critique of automation might be re-inserting the human body into a process we've forgotten involves bodies. Schiphol's commission makes it one of the most-seen design artworks in the world.",
     "connections": [
       {
         "id": 13,
@@ -25262,7 +25262,7 @@ export const ARCHIVE = [
     "movement": "Contemporary European Design",
     "wikiTitle": null,
     "description": "A high-backed sofa whose walls rise to create a semi-enclosed space — part furniture, part architecture. The tall fabric panels absorb sound, block sightlines, and create a private zone within open-plan offices or public spaces. Available in multiple configurations from two-seat to full booth. The Bouroullecs describe it as 'a room within a room.'",
-    "significance": "Redefined office furniture by addressing the real problem of open-plan work: the need for privacy without walls. Shows students that the most successful designs often operate between categories — the Alcove is neither sofa nor partition nor room, but something new that didn't have a name until they designed it.",
+    "significance": "Redefined office furniture by addressing the real problem of open-plan work: the need for privacy without walls. The point is that the most successful designs often operate between categories — the Alcove is neither sofa nor partition nor room, but something new that didn't have a name until they designed it.",
     "connections": [
       {
         "id": 10,
@@ -25293,7 +25293,7 @@ export const ARCHIVE = [
     "movement": "Democratic Scandinavian-French Design",
     "wikiTitle": null,
     "description": "A comprehensive outdoor furniture system — chairs, benches, tables, loungers — made from hot-dip galvanised steel tube and flat bar. The diagonal cross-bracing pattern that gives the collection its name provides structural rigidity without added weight. Every piece stacks. The steel construction allows year-round outdoor use without degradation. Designed for HAY's accessible price point.",
-    "significance": "The Bouroullecs proving they can design for democratic production as effectively as for Vitra's premium market. Shows students that designing affordable outdoor furniture for a mass market is as legitimate an ambition as designing gallery editions — and arguably harder, because every gram of material and every weld has a cost consequence.",
+    "significance": "The Bouroullecs proving they can design for democratic production as effectively as for Vitra's premium market. It demonstrates that designing affordable outdoor furniture for a mass market is as legitimate an ambition as designing gallery editions — and arguably harder, because every gram of material and every weld has a cost consequence.",
     "connections": [
       {
         "id": 6,
@@ -25324,7 +25324,7 @@ export const ARCHIVE = [
     "movement": "Industrial Rationalism",
     "wikiTitle": null,
     "description": "A portable utility lamp with a polypropylene body, integrated hook for hanging, and a handle that doubles as a cord winder. Designed as a modern reinterpretation of the mechanic's inspection lamp — honest, functional, meant to go where light is needed rather than sit decoratively. The cone-shaped shade directs light precisely. Costs under €50.",
-    "significance": "Grcic distilling a lamp to pure function with the rigour of Dieter Rams but the material honesty of a workshop tool. Shows students that designing a cheap, useful object well is among the hardest things in design — every curve in the Mayday has a functional reason, and the MoMA acquisition proves that affordability and design quality aren't contradictions.",
+    "significance": "Grcic distilling a lamp to pure function with the rigour of Dieter Rams but the material honesty of a workshop tool. It demonstrates that designing a cheap, useful object well is among the hardest things in design — every curve in the Mayday has a functional reason, and the MoMA acquisition proves that affordability and design quality aren't contradictions.",
     "connections": [
       {
         "id": 1,
@@ -25355,7 +25355,7 @@ export const ARCHIVE = [
     "movement": "Speculative Design / Critical Design",
     "wikiTitle": null,
     "description": "Eight prototype electronic objects designed to address the psychological anxiety caused by invisible electromagnetic radiation in the home. None of them actually protect against radiation — they function as emotional props, like a child's security blanket. A compass table wobbles when electronic devices are nearby. A nipple chair vibrates in the presence of mobile phone signals. The objects were placed in volunteers' homes and their responses documented.",
-    "significance": "The founding project of speculative design as a practice. Shows students that design doesn't have to solve problems — it can make problems visible, felt, and discussed. The 'placebo' in the title is the point: design as psychological intervention rather than technical solution.",
+    "significance": "The founding project of speculative design as a practice. It proves that design doesn't have to solve problems — it can make problems visible, felt, and discussed. The 'placebo' in the title is the point: design as psychological intervention rather than technical solution.",
     "connections": [
       {
         "id": 4,
@@ -25386,7 +25386,7 @@ export const ARCHIVE = [
     "movement": "Speculative Design",
     "wikiTitle": null,
     "description": "A speculative project imagining the United Kingdom divided into four self-governing counties, each organised around a different political philosophy: digitarians (techno-libertarians), communo-nuclearists (nuclear-powered communists), anarcho-evolutionists (self-experimenters), and bioliberals (biotechnology enthusiasts). For each county, Dunne & Raby designed the vehicles, objects, and landscapes that would logically emerge from its values.",
-    "significance": "Design fiction at its most ambitious — not designing objects but designing entire political-material cultures. Shows students that the designer's real power might be in imagining alternative futures rather than optimising the present. The project asks: if our politics were different, how would our objects be different?",
+    "significance": "Design fiction at its most ambitious — not designing objects but designing entire political-material cultures. The point is that the designer's real power might be in imagining alternative futures rather than optimising the present. The project asks: if our politics were different, how would our objects be different?",
     "connections": [
       {
         "id": 13,
@@ -25417,7 +25417,7 @@ export const ARCHIVE = [
     "movement": "Material-Led Design",
     "wikiTitle": null,
     "description": "A monolithic resin cube that functions as a side table, stool, or display plinth. Cast in a single pour of tinted polyester resin, each cube is a solid block of translucent colour. The material glows when light hits it, changing character throughout the day. No joints, no assembly, no visible construction — just a pure volume of colour. Available in a spectrum from deep amber to pale rose.",
-    "significance": "Marcelis reducing furniture to its most essential gesture: a coloured volume you can put things on or sit on. Shows students that when material itself is beautiful enough, form becomes almost irrelevant. The cube is the simplest possible furniture shape; the resin is the entire design.",
+    "significance": "Marcelis reducing furniture to its most essential gesture: a coloured volume you can put things on or sit on. It demonstrates that when material itself is beautiful enough, form becomes almost irrelevant. The cube is the simplest possible furniture shape; the resin is the entire design.",
     "connections": [
       {
         "id": 7,
@@ -25448,7 +25448,7 @@ export const ARCHIVE = [
     "movement": "Dutch Material Research",
     "wikiTitle": null,
     "description": "Tableware collection where each piece begins as a paper model — folded, scored, and taped — which is then reproduced in unglazed porcelain. The ceramic versions retain the visual language of paper: visible fold lines, sharp creases, flat planes. The transformation from disposable paper to permanent porcelain freezes a temporary material gesture in an eternal one.",
-    "significance": "Shows students that material translation itself can be the design concept. The 'mistake' of a paper prototype — its folds, its cheapness, its fragility — becomes the aesthetic of the final ceramic. Scholten & Baijings ask: what if we valued the development process as much as the finished product?",
+    "significance": "It demonstrates that material translation itself can be the design concept. The 'mistake' of a paper prototype — its folds, its cheapness, its fragility — becomes the aesthetic of the final ceramic. Scholten & Baijings ask: what if we valued the development process as much as the finished product?",
     "connections": [
       {
         "id": 2,
