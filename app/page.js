@@ -8,42 +8,24 @@ const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", 
 function getConnection(id) { return ARCHIVE.find(item => item.id === id); }
 
 function ImageWithFallback({ item, aspectRatio = "4/3" }) {
-  const [imgUrl, setImgUrl] = useState(null);
+  const [imgUrl, setImgUrl] = useState(item.imageUrl || null);
   const [failed, setFailed] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(!item.imageUrl);
 
   useEffect(() => {
+    if (item.imageUrl || !item.wikiTitle) { setLoading(false); return; }
     let cancelled = false;
-    // Always try local image first — allows overriding any source
-    const formats = ['jpg', 'png', 'webp'];
-    let formatIdx = 0;
-    const tryNext = () => {
-      if (formatIdx >= formats.length) {
-        // No local image — try V&A imageUrl
-        if (item.imageUrl) { setImgUrl(item.imageUrl); setLoading(false); return; }
-        // Try Wikipedia
-        if (item.wikiTitle) {
-          fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(item.wikiTitle)}`)
-            .then(r => r.json())
-            .then(data => {
-              if (cancelled) return;
-              const src = data?.thumbnail?.source?.replace(/\/\d+px-/, '/800px-') || data?.originalimage?.source;
-              if (src) setImgUrl(src); else setFailed(true);
-              setLoading(false);
-            })
-            .catch(() => { if (!cancelled) { setFailed(true); setLoading(false); } });
-        } else { setFailed(true); setLoading(false); }
-        return;
-      }
-      const img = new Image();
-      const path = `/images/${item.id}.${formats[formatIdx]}`;
-      img.onload = () => { if (!cancelled) { setImgUrl(path); setLoading(false); } };
-      img.onerror = () => { if (!cancelled) { formatIdx++; tryNext(); } };
-      img.src = path;
-    };
-    tryNext();
+    fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(item.wikiTitle)}`)
+      .then(r => r.json())
+      .then(data => {
+        if (cancelled) return;
+        const src = data?.thumbnail?.source?.replace(/\/\d+px-/, '/800px-') || data?.originalimage?.source;
+        if (src) setImgUrl(src); else setFailed(true);
+        setLoading(false);
+      })
+      .catch(() => { if (!cancelled) { setFailed(true); setLoading(false); } });
     return () => { cancelled = true; };
-  }, [item.id, item.imageUrl, item.wikiTitle]);
+  }, [item.wikiTitle, item.imageUrl]);
 
   const fallbackEl = (
     <div style={{ aspectRatio, background: '#EDEADE', display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', padding: '24px', position: 'relative', overflow: 'hidden' }}>
