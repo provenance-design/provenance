@@ -25201,7 +25201,8 @@ export const ARCHIVE = [
       "Italian-Dutch",
       "systems design"
     ],
-    "id": 626
+    "id": 626,
+    "imageUrl": "/images/626.jpg"
   },
   {
     "title": "Cambio",
@@ -25232,7 +25233,8 @@ export const ARCHIVE = [
       "Italian-Dutch",
       "governance"
     ],
-    "id": 627
+    "id": 627,
+    "imageUrl": "/images/627.jpg"
   },
   {
     "title": "Clay Table",
@@ -25263,7 +25265,8 @@ export const ARCHIVE = [
       "surface",
       "process visible"
     ],
-    "id": 628
+    "id": 628,
+    "imageUrl": "/images/628.jpg"
   },
   {
     "title": "Real Time: Sweepers Clock",
@@ -25294,7 +25297,8 @@ export const ARCHIVE = [
       "Dutch design",
       "public art"
     ],
-    "id": 629
+    "id": 629,
+    "imageUrl": "/images/629.jpg"
   },
   {
     "title": "Ronan & Erwan Bouroullec Alcove Sofa",
@@ -25325,7 +25329,8 @@ export const ARCHIVE = [
       "Bouroullec brothers",
       "room within room"
     ],
-    "id": 630
+    "id": 630,
+    "imageUrl": "/images/630.jpg"
   },
   {
     "title": "Palissade Outdoor Collection",
@@ -25356,7 +25361,8 @@ export const ARCHIVE = [
       "Bouroullec brothers",
       "democratic"
     ],
-    "id": 631
+    "id": 631,
+    "imageUrl": "/images/631.jpg"
   },
   {
     "title": "Konstantin Grcic Mayday Lamp",
@@ -25418,7 +25424,8 @@ export const ARCHIVE = [
       "British design",
       "research"
     ],
-    "id": 633
+    "id": 633,
+    "imageUrl": "/images/633.jpg"
   },
   {
     "title": "United Micro Kingdoms",
@@ -25449,7 +25456,8 @@ export const ARCHIVE = [
       "RCA",
       "scenarios"
     ],
-    "id": 634
+    "id": 634,
+    "imageUrl": "/images/634.jpg"
   },
   {
     "title": "Sabine Marcelis Candy Cube",
@@ -25480,7 +25488,8 @@ export const ARCHIVE = [
       "material-led",
       "single pour"
     ],
-    "id": 635
+    "id": 635,
+    "imageUrl": "/images/635.jpg"
   },
   {
     "title": "Scholten & Baijings Paper Porcelain",
@@ -25511,6 +25520,7 @@ export const ARCHIVE = [
       "tableware",
       "folded"
     ],
-    "id": 636
+    "id": 636,
+    "imageUrl": "/images/636.jpg"
   }
 ];
