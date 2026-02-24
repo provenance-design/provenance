@@ -627,7 +627,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "method",
-        "reason": "Both required designers to work inside engineering constraints — Rams redesigned Braun's innards, Zanuso redesigned Siemens' electronics"
+        "reason": "Rams redesigned the SK 4's internal components so the turntable, radio and amplifier could share a single minimalist housing — the engineering dictated the form. Zanuso and Sapper redesigned Siemens' telephone internals so the earpiece could fold onto the mouthpiece — the engineering enabled the fold. Both had to convince an electronics company that a designer could improve their circuitry."
       },
       {
         "id": 14,
@@ -1658,7 +1658,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "method",
-        "reason": "Both required designers to work inside engineering constraints imposed by another industry — Grillo with Siemens electronics, Eames with Navy specifications."
+        "reason": "Eames shaped his leg splint to fit the Navy's medical specifications exactly — the military brief constrained every curve. Zanuso and Sapper shaped the Grillo to fit Siemens' existing telephone electronics — the circuit board constrained the fold. Both produced iconic forms by working inside engineering boundaries they didn't set."
       }
     ],
     "keywords": [
@@ -3220,7 +3220,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both designed in Jacobsen's 1958 commission for the SAS Royal Hotel, showing how a single designer can apply consistent formal principles across different scales — from handheld cutlery to room-scale seating"
+        "reason": "Jacobsen designed the AJ cutlery and the Egg Chair in the same year for the same building — the SAS Royal Hotel in Copenhagen. The cutlery's asymmetric handle and the chair's enveloping shell both emerge from how the hand grips and how the body sits. Same designer, same commission, same principle (form from use) applied at the scale of a fork and the scale of a room."
       },
       {
         "id": 11,
@@ -3266,7 +3266,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Jacobsen reduces every vessel to perfect cylindrical geometry, Castiglioni reduces the lamp to a cable and a clip — both pursue purity, but one finds it in mathematical form, the other in functional absence"
+        "reason": "Jacobsen spent years perfecting Cylinda-Line's seamless stainless steel cylinder — no visible joints, no handles, pure mathematical form. Castiglioni's Parentesi has no form at all: a cable, a bracket shaped like a parenthesis, a light. Jacobsen's purity is additive (polish until perfect); Castiglioni's is subtractive (remove until only the mechanism remains)."
       },
       {
         "id": 9,
@@ -3307,7 +3307,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "sameProblem",
-        "reason": "Both cantilever beyond their footprint — Wegner's Shell Chair extends plywood over three legs, the Arco extends steel 2.7 metres over a marble block. Maximum reach from minimum base, in seating and lighting"
+        "reason": "Wegner's Shell Chair cantilevers a plywood seat over three splayed legs — the furthest point of the shell floats unsupported. The Arco cantilevers a steel arc 2.7 metres over a marble block — the lamp head floats over the dining table. Both solve reach through overhang, but Wegner's span is centimetres and Castiglioni's is metres."
       },
       {
         "id": 6,
@@ -3354,7 +3354,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Wegner's Chair 24 reveals its plywood-to-steel joints as honest construction — the Taccia conceals its light source beneath an inverted glass bowl. Both make material assembly the design, but through revelation versus concealment"
+        "reason": "Wegner exposes Chair 24's joints — you can see exactly where plywood meets steel, where wood meets metal. The Taccia conceals its light source — the bulb fires upward, hits a concave aluminium reflector, and bounces indirect light off the ceiling through a glass diffuser you can't see past. Both are about the joint between components, but Wegner shows it and the Castiglionis hide it."
       },
       {
         "id": 16,
@@ -3448,7 +3448,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both designers faced the challenge of making complex electronic interfaces comprehensible, but Rams achieves clarity through geometric reduction while Zanuso uses organic forms that fit the hand"
+        "reason": "Rams's RT 20 makes a complex radio comprehensible through spatial separation — each control occupies its own clear zone on the face. Zanuso makes the Grillo comprehensible through physical separation — earpiece folds away from mouthpiece, the two functions literally hinge apart. Rams clarifies by spacing; Zanuso clarifies by folding."
       }
     ],
     "keywords": [
@@ -3490,7 +3490,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Rams's HLD 31 is a precision tool — pistol grip, controls at thumb reach. The Snoopy generates personality from functional logic — marble as counterweight, glass as transparency, reflector as namesake. German efficiency against Italian wit"
+        "reason": "Rams's HLD 31 is a precision tool — pistol grip, rocker switch, three heat settings, everything calibrated to the hand and the task. The Snoopy generates charm from the same functional logic — the marble base is a counterweight, the glass stem is transparent so the bulb doesn't dominate, the metal reflector tilts to direct light. Both are completely functional. Only one makes you smile."
       },
       {
         "id": 7,
@@ -3537,7 +3537,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "zeitgeist",
-        "reason": "Both 1962 designs use cantilever engineering to minimize visual mass while maximizing function — reflecting the period's faith in technology to solve spatial problems"
+        "reason": "Rams's RZ 62 cantilevers the sitter over a thin aluminium base — structural calculation making the chair look impossible. The Arco cantilevers a lamp over a 65kg marble block — counterbalance making the arc look weightless. Both are 1962 exercises in defying expectation through engineering, German and Italian."
       },
       {
         "id": 7,
@@ -3574,7 +3574,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Rams makes the mixer's function transparent — motor shape dictates housing, attachment system stays visible. The Castiglionis make the Snoopy's function charming — every technical decision produces visual character. Clarity versus personality"
+        "reason": "Rams makes the mixer's engineering legible — you can see the motor housing dictate the form, the attachment system exposed and logical. The Castiglionis make the Snoopy's engineering endearing — the marble counterweight gives it a heavy bottom, the glass stem gives it a neck, the metal shade gives it a head. Both are honest about function, but Rams communicates clarity and the Castiglionis communicate character."
       },
       {
         "id": 14,
@@ -3621,7 +3621,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Both reduce a domestic object to its essential mechanism — Rams makes process visible through transparent acrylic, Castiglioni makes structure visible through tensioned cable. German clarity against Italian wit"
+        "reason": "Rams makes the juicer's internal process the aesthetic — you watch the fruit compress through transparent acrylic. Castiglioni makes the lamp's gravitational physics the aesthetic — you see the cable held taut between floor and ceiling by its own tension. Both insist you understand how the object works, but Rams shows you chemistry and Castiglioni shows you physics."
       },
       {
         "id": 91,
@@ -3663,7 +3663,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve personal electronics through geometric reduction, but Zanuso's telephone prioritizes tactile interaction while Rams' radio emphasizes electromagnetic transparency"
+        "reason": "Rams's T 1000 is a radio you hold to your ear — a personal device that prioritises acoustic fidelity through a precise speaker grille. The Grillo is a phone you hold to your ear — a personal device that prioritises conversational intimacy through ergonomic shaping. Both are palm-sized electronics designed for the ear, German precision against Italian sculptural warmth."
       },
       {
         "id": 16,
@@ -3826,7 +3826,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "While the Arco creates ambient domestic atmosphere, the Cosmolux prioritizes precise therapeutic function—two opposing approaches to lighting as experience versus utility"
+        "reason": "The Cosmolux is a medical-grade UV lamp housed in a precise white geometric enclosure — light as measured therapeutic dosage. The Arco delivers incandescent light through a 2.7-metre steel arc — light as spatial drama. Rams designs light you quantify; Castiglioni designs light you experience."
       },
       {
         "id": 14,
@@ -3836,7 +3836,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "zeitgeist",
-        "reason": "Both 1960s designs apply systematic thinking to lighting, but Rams pursues geometric reduction while Castiglioni explores mechanical expression"
+        "reason": "Cosmolux and Parentesi both address directed domestic light from the mid-1960s, but Rams encloses the mechanism in a precise geometric housing while Castiglioni eliminates housing entirely — the cable IS the structure, the bracket IS the adjustment. Rams hides engineering inside geometry; Castiglioni makes engineering the only visible thing."
       }
     ],
     "keywords": [
@@ -3878,7 +3878,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "argument",
-        "reason": "While Zanuso and Sapper express mechanical complexity through articulated form, Braun conceals complexity behind smooth geometric surfaces"
+        "reason": "The Braun Pocket hides its mechanism behind a smooth rectilinear surface — you slide a switch and music appears, the engineering invisible. The Grillo exposes its mechanism — the hinge that lets it fold IS the design, the two halves articulating visibly. Braun conceals complexity; Zanuso and Sapper celebrate it."
       }
     ],
     "keywords": [
@@ -3989,7 +3989,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Eames's DCM connects plywood to steel through visible rubber shock mounts — the Taccia hides its bulb beneath a glass diffuser that bounces light off the ceiling. Both solve the connection between components, Eames celebrating it, the Castiglionis concealing it"
+        "reason": "Eames's DCM uses visible rubber shock mounts to connect plywood seat to steel frame — the interface between materials is the design detail. The Taccia uses an inverted glass bowl to intercept the bulb's direct light before it reaches your eyes — the interface between light source and room is the design detail. Eames celebrates the connection; the Castiglionis dissolve it."
       },
       {
         "id": 7,
@@ -4242,7 +4242,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "material",
-        "reason": "Both use die-cast aluminum and precision manufacturing to create objects that feel engineered rather than crafted, demonstrating 1950s faith in industrial materials for personal objects"
+        "reason": "Eames's Aluminium Group chair uses die-cast aluminium side frames and a tensioned sling seat — precision engineering creating a chair that looks effortless. The Grillo uses injection-moulded ABS and a precision hinge — engineering creating a phone that folds effortlessly. Both trust 1950s-60s manufacturing to produce objects that feel lighter than their technology."
       }
     ],
     "keywords": [
@@ -4321,12 +4321,12 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "material",
-        "reason": "Both demonstrate how laminated wood construction enables structural forms impossible with solid timber, using industrial processes to achieve continuous curves"
+        "reason": "Summers cuts a single birch plywood sheet, scores it, and bends it into a complete dining chair — one material, one operation. The Arco assembles marble, steel and aluminium — three materials, each performing a distinct structural role. Both achieve elegant seating/lighting from first principles, but Summers integrates everything and Castiglioni articulates everything."
       },
       {
         "id": 38,
         "type": "sameProblem",
-        "reason": "Both solve comfortable seating through a single forming principle — Summers cuts and bends one sheet of plywood, Mathsson curves a beech frame to match the spine's profile. Geometry from material versus geometry from the body"
+        "reason": "Summers cuts a single sheet of birch plywood, scores it, and bends it into a complete dining chair — one material, one operation. Mathsson bends laminated beech into curves that trace the spine's natural profile, then weaves hemp webbing between the rails. Summers's geometry comes from what plywood can do; Mathsson's geometry comes from what the body needs."
       },
       {
         "id": 27,
@@ -4415,7 +4415,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Where Castiglioni's lamp disappears into pure function and spatial efficiency, Sottsass makes the lamp a sculptural protagonist in the room"
+        "reason": "Sottsass's Ashoka lamp is a painted metal totem — symbolic, colourful, asserting presence in a room like a small monument. The Arco's marble block and steel arc assert presence through sheer physical fact — 65 kilograms of counterweight and 2.7 metres of reach. Both demand attention, but Ashoka through cultural symbolism and Arco through gravitational physics."
       },
       {
         "id": 5,
@@ -4865,7 +4865,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "method",
-        "reason": "Both eliminate conventional joints through continuous forming — Breuer's nesting tables use a single bent plywood frame per table, the Arco uses a single telescoping steel arc. Reduction of structure to one gesture"
+        "reason": "Breuer bends a single plywood sheet into each nesting table's frame — one continuous curve per table, no joints. The Castiglionis telescope sections of steel into a single extending arc — one continuous line from base to lamp head, no joints. Both achieve their structure through a single forming gesture, thirty years apart."
       },
       {
         "id": 11,
@@ -5016,7 +5016,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve the problem of integrating multiple functions into a compact handheld form — Breuer's wooden armchair joins timber and jute cord, the Grillo folds earpiece onto mouthpiece. Different scales, shared principle of component integration"
+        "reason": "Breuer's first chair joins timber rails with traditional mortise-and-tenon joinery — the craft holding it together is invisible inside the joints. The Grillo joins earpiece to mouthpiece with a visible steel hinge — the mechanism holding it together is the most prominent feature. Both are about connection, but Breuer hides the joint and Zanuso displays it."
       },
       {
         "id": 1,
@@ -5068,7 +5068,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "method",
-        "reason": "Breuer's B33 makes the cantilever principle visible in continuous bent steel tubing — the Taccia makes indirect light visible through an inverted glass bowl. Both achieve their effect through a single structural/optical idea executed with precision"
+        "reason": "Breuer's B33 is one continuous bent steel tube — you can trace the cantilever from floor to seat to back, the structural principle visible as a single line. The Taccia's optical principle is equally singular: light fires upward, bounces off a concave reflector, passes through a glass bowl, and emerges as soft indirect illumination. One structural idea, one optical idea, both executed with no wasted elements."
       }
     ],
     "keywords": [
@@ -5115,7 +5115,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Breuer adds continuous tubular armrests to create the B64 — Zanuso & Sapper add a hinge to create the first flip phone. Both innovations are structural additions that transform how the object is used"
+        "reason": "Breuer adds continuous tubular steel armrests to the B33 to create the B64 — a single structural innovation transforming the chair's comfort and cantilevered reach. Zanuso and Sapper add a hinge to create the Grillo — a single mechanical innovation transforming the telephone's portability and pocketability. Both are design advances achieved through one added component."
       }
     ],
     "keywords": [
@@ -5199,7 +5199,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "argument",
-        "reason": "Breuer simplifies the cantilever to essential steel and plywood — the Castiglionis simplify the table lamp to a column, a bulb and a glass diffuser. Both reduce to minimum means, Breuer in structure, the Castiglionis in light"
+        "reason": "Breuer strips the dining chair to bent steel tube and cane seat — the minimum that can hold a person. The Castiglionis strip the table lamp to an aluminium column, a bulb, and a glass diffuser — the minimum that can bounce light off a ceiling. Both pursue irreducible function, but Breuer's minimum is structural and the Castiglionis' is optical."
       },
       {
         "id": 28,
@@ -5251,7 +5251,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Breuer's cantilever eliminates back legs by trusting steel's spring — the Taccia eliminates visible light source by trusting the glass bowl's diffusion. Both remove the expected component and make the physics do the work"
+        "reason": "Breuer eliminates the back legs by trusting tubular steel's cantilever spring. The Castiglionis eliminate the visible bulb by trusting the glass bowl's ability to scatter reflected light uniformly. Both remove the component everyone expects (back legs, visible light source) and make an invisible physical property do the job instead — elasticity in steel, diffusion in glass."
       },
       {
         "id": 28,
@@ -5303,7 +5303,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Breuer's B5 is his first experiment bending a single tube into structure — the Grillo is Zanuso & Sapper's experiment folding a phone in half. Both firsts: the first tubular steel chair, the first flip phone. New structural ideas changing their categories"
+        "reason": "Breuer's B5 is the first tubular steel chair — Marcel Breuer looking at his bicycle handlebars and recognising that bent steel tube could support a person. The Grillo is the first flip phone — Zanuso and Sapper recognising that a hinge could halve a telephone's footprint. Both are founding gestures: Breuer invents a furniture type, Zanuso invents a product type."
       }
     ],
     "keywords": [
@@ -5340,12 +5340,12 @@ export const ARCHIVE = [
       {
         "id": 37,
         "type": "sameProblem",
-        "reason": "Both solve domestic comfort problems — Saarinen's Ottoman creates a soft floor-level landscape for the body, the Margrethe Bowl creates a non-slip surface for one-handed whisking. Different scales of care, same attention to how people actually behave"
+        "reason": "Saarinen's Ottoman is a fabric-covered shell that cradles your feet — domestic comfort at floor level, the body at rest. The Margrethe Bowl has a rubber ring that grips the countertop while you whisk with one hand — domestic efficiency at worktop level, the body in action. Both solve ergonomic problems invisible until a designer noticed them: where to put tired feet, how to stabilise a mixing bowl."
       },
       {
         "id": 1,
         "type": "argument",
-        "reason": "Saarinen's Ottoman creates soft organic landscape at floor level, the Arco creates precise directional light from floor level — both reimagine what a floor-standing object can reach, through opposite material strategies"
+        "reason": "Saarinen's Ottoman is a soft fabric-covered shell on a pedestal — you put your feet up and the world recedes. The Arco is a marble block with a steel arc — you sit beneath its lamp and the table is properly lit. Both are floor-standing objects that complete a domestic scene, but the Ottoman completes comfort and the Arco completes function."
       }
     ],
     "keywords": [
@@ -5424,7 +5424,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Jacobs's Jason Chair creates a continuous plywood shell on splayed legs — the Taccia creates a continuous light wash from a single glass diffuser on an aluminium column. Same principle of one surface doing all the work, in seating and lighting"
+        "reason": "Jacobs moulds a single plywood shell that becomes seat and back simultaneously — one surface doing two jobs. The Taccia's glass bowl simultaneously diffuses light and shields the eye from glare — one component doing two jobs. Same economy of means: the Jason in 1950s Danish plywood, the Taccia in 1960s Italian glass."
       },
       {
         "id": 2,
@@ -5461,12 +5461,12 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "sameProblem",
-        "reason": "Baresel-Bofinger integrates seat, back and legs in one injection moulding — Mathsson separates beech frame from hemp webbing, making each do what it does best: structure and give. Integration versus articulation"
+        "reason": "Baresel-Bofinger moulds seat, back and legs from a single shot of polypropylene — everything integrated, nothing articulated. Mathsson deliberately separates the beech frame (rigid structure) from the hemp webbing (flexible surface) — each material performing only its best trick. Total integration versus deliberate separation, both achieving comfortable seating."
       },
       {
         "id": 8,
         "type": "argument",
-        "reason": "Baresel-Bofinger integrates seat, back and legs in single-material injection moulding — the Taccia integrates column, housing and light source in a single aluminium body. Both pursue total integration, in plastic and metal respectively"
+        "reason": "Baresel-Bofinger uses injection moulding to make seat, back and legs from one shot of polypropylene — total material integration. The Taccia goes the other way: aluminium base (weight and stability), steel column (height), glass bowl (diffusion) — three materials, each doing what it does best. Integration versus articulation as strategies for functional clarity."
       },
       {
         "id": 1,
@@ -5550,7 +5550,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "method",
-        "reason": "Both achieve structural stability without conventional joinery — Noguchi through interlocking counterbalanced bases, Castiglioni through a tensioned cable. Gravity and geometry do the work that screws usually do"
+        "reason": "Noguchi's Coffee Table stays still — two identical walnut bases interlock and balance a glass top through pure geometry, no hardware. The Parentesi moves — its bracket slides freely up and down a tensioned cable, locking at any height through friction alone. Both eliminate fasteners, but Noguchi uses counterbalance and Castiglioni uses gravity."
       },
       {
         "id": 27,
@@ -5638,7 +5638,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Noguchi's costume uses flowing organic curves to suggest character, Castiglioni's lamp uses a mechanical bracket to solve a problem — the sculptor's intuition against the engineer's logic"
+        "reason": "Noguchi designs Cordelia's costume as flowing sculptural planes that move with the actor's body — form follows performance. Castiglioni designs the Parentesi as a bracket that slides to wherever you need light — form follows use. Both are incomplete without human action: the costume needs the body, the lamp needs the hand."
       },
       {
         "id": 63,
@@ -5766,7 +5766,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Both reduce complex requirements to geometric essentials — Noguchi distils a character into angular planes, Castiglioni distils a lighting system into a cable and a clip. Theatrical reduction against functional reduction"
+        "reason": "Noguchi reduces Albany to angular geometric planes that communicate severity without words. Castiglioni reduces the Parentesi to a floor-to-ceiling cable that communicates 'adjustable light' without controls. Both achieve clarity through radical abstraction, but Noguchi abstracts character and Castiglioni abstracts function."
       },
       {
         "id": 13,
@@ -5808,7 +5808,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "method",
-        "reason": "Both achieve maximum performance from minimal geometric means — Noguchi's curved planes create dramatic presence on stage, Castiglioni's bracket creates adjustable light from a single cable"
+        "reason": "Noguchi's Cornwall costume achieves dramatic presence through just a few curved fabric planes. The Parentesi achieves domestic presence through just a cable and a sliding bracket. But the difference is intent: Noguchi wants you to notice — the costume commands the stage. Castiglioni wants you to forget — the lamp should disappear into its own usefulness."
       },
       {
         "id": 63,
@@ -5892,7 +5892,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both use sculptural form to humanize electronic communication devices, but Noguchi's organic curves suggest natural protection while Zanuso's folding geometry emphasizes portable efficiency"
+        "reason": "Noguchi's Radio Nurse (1937) disguises a baby monitor as a smooth sculptural form — the electronics hidden inside an organic walnut-coloured shell, making surveillance feel protective. The Grillo (1965) makes its electronics audible and visible — the hinge articulates openly, the mechanism is the personality. Both humanise electronic communication, through concealment and expression."
       },
       {
         "id": 16,
@@ -5939,7 +5939,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Both exploit glass as expressive material, but the Vetrate Grosse pursues architectural scale and spatial division while the Savoy Vase emphasizes sculptural form and functional containment"
+        "reason": "Ponti's Vetrate Grosse fills architectural space with coloured glass panels that transform light into spectacle — light as subject. The Parentesi spans floor to ceiling but refuses spectacle — it delivers light as a service, directing it precisely where needed through a sliding bracket on a tensioned cable. Both are architectural in scale, opposite in ambition."
       },
       {
         "id": 15,
@@ -5981,7 +5981,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "lineage",
-        "reason": "Sapper's work on the Grillo with Zanuso established his approach to electronic product housing, which he refines in the Black 201's more minimalist geometric treatment"
+        "reason": "Sapper worked with Zanuso on the Grillo first — learning how to fold a telephone's electronics into a sculptural ABS shell. Years later, he applied the same thinking to the Black 201 television: how to make electronic housing disappear. The Grillo is expressive; the Black 201 is silent. Sapper moved from celebrating the mechanism to erasing it."
       },
       {
         "id": 16,
@@ -6023,12 +6023,12 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "zeitgeist",
-        "reason": "Both 1971 lamps explore user-adjustable lighting systems, but the Hebi uses articulated joints while the Parentesi employs a tensioned cable system to achieve positional flexibility"
+        "reason": "Hosoe's Hebi (1971) gives you control through articulated mechanical joints — you push segments into position and friction holds them. Castiglioni's Parentesi (1971) gives you control through gravity — you slide the bracket and weight locks it. Same year, same problem, same city (Milan), but Hebi trusts mechanics and Parentesi trusts physics."
       },
       {
         "id": 1,
         "type": "sameProblem",
-        "reason": "Both lamps solve the problem of directing light without fixed positioning, but the Hebi uses mechanical articulation while the Arco achieves this through its extended cantilever form"
+        "reason": "Hosoe's Hebi gives you adjustable light through articulated rubber-jointed segments — you push the lamp head into position like a snake. The Arco gives you fixed directional light through a 2.7-metre arc calculated to place the reflector exactly over a dining table. Hebi is infinitely adjustable and small; Arco is precisely fixed and monumental."
       },
       {
         "id": 45,
@@ -6117,12 +6117,12 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Where Castiglioni positions light through dramatic cantilever, Henningsen controls it through mathematical shielding, showing two approaches to directing illumination"
+        "reason": "Henningsen spent three decades perfecting shade geometry to control glare — the Artichoke's 72 copper leaves are an optical instrument disguised as a lamp. The Arco ignores optics entirely and solves positioning — a marble counterweight and steel arc that put light over a table without touching the ceiling. One masters how light behaves; the other masters where light goes."
       },
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both solve adjustable lighting but Henningsen through fixed optical geometry, Castiglioni through moveable mechanical positioning"
+        "reason": "Henningsen spent decades calculating shade angles to eliminate glare from every sightline — the Artichoke's 72 leaves are an optical solution. The Parentesi doesn't solve glare at all; it solves position. You slide the bracket to put light where you need it. Henningsen asks 'how should light behave?' Castiglioni asks 'where should light be?'"
       },
       {
         "id": 5,
@@ -6263,7 +6263,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Vignelli reduces the carafe to a perfect geometric cylinder, Castiglioni reduces the lamp to a cable and a sliding bracket — both pursue formal purity, but Vignelli finds it in ideal geometry, Castiglioni in functional absence"
+        "reason": "Vignelli's carafe is a Platonic cylinder — the ideal geometric vessel, every proportion calculated. The Parentesi has no ideal form. It's a cable tensioned between floor and ceiling, with a bracket you slide to wherever suits you. Vignelli designs a fixed perfection; Castiglioni designs a system that the user completes."
       },
       {
         "id": 7,
@@ -6639,7 +6639,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Where Castiglioni's Arco solves spatial lighting problems through engineering elegance, Bedin's Terminus creates lighting as domestic theater through character design"
+        "reason": "Bedin's Terminus is a Memphis lamp designed as a character — limbs, a head, a personality standing on your table. The Arco is an engineering solution designed as infrastructure — marble, steel, aluminium standing on your floor. Both are present in a room, but Terminus has charisma and Arco has authority."
       },
       {
         "id": 162,
@@ -6681,12 +6681,12 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Castiglioni's Parentesi uses minimal intervention to solve spatial lighting problems, while de Lucchi's Oceanic prioritizes sculptural presence over spatial efficiency"
+        "reason": "De Lucchi's Oceanic lamp arrives in a room as a sculptural personality — biomorphic form, Memphis colour, deliberate visual weight. The Parentesi arrives as almost nothing — a thin cable from floor to ceiling, a small bracket. Oceanic says 'look at me.' Parentesi says 'look at what I'm illuminating.'"
       },
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Both address task lighting for surfaces but with opposite formal strategies—Castiglioni's classical reflection geometry versus de Lucchi's marine-inspired sculptural form"
+        "reason": "De Lucchi's Oceanic is a Memphis lamp that presents itself to you — biomorphic shape, colour, character. The Taccia presents light to the ceiling and lets the ceiling return it to you indirectly. Oceanic is the subject; the Taccia makes the room the subject. Self-regarding design versus self-effacing design."
       },
       {
         "id": 12,
@@ -6728,12 +6728,12 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "argument",
-        "reason": "Where Zanuso's phone prioritizes ergonomic efficiency in a compact functional form, Memphis transforms the timepiece into a decorative sculpture that happens to tell time"
+        "reason": "The Memphis Swatch wraps bold geometric graphics around a cheap quartz movement — the watch as cultural statement, the timekeeping almost incidental. The Grillo wraps sculptural ABS around Siemens' telephone internals — the phone as design object, the communication enhanced by how it feels in the hand. Both make technology into cultural expression, but Memphis is ironic and the Grillo is earnest."
       },
       {
         "id": 24,
         "type": "argument",
-        "reason": "Memphis Swatch applies bold anti-functional geometry to a mass-produced watch — Jacobsen's Egg wraps functional geometry around the body in a hotel lobby. Both shape objects to make cultural statements, but Memphis provokes where Jacobsen protects"
+        "reason": "The Memphis Swatch wraps De Lucchi's geometric graphics around a cheap plastic watch — industrial object as cultural provocation. The Egg wraps sculpted foam around a fibreglass shell — industrial object as physical sanctuary. Both use geometry to transform mass-produced objects, but Memphis wants to startle you and Jacobsen wants to shelter you."
       }
     ],
     "keywords": [
@@ -6764,7 +6764,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Zanini builds a vessel from architectural volumes of hand-blown Murano glass, Castiglioni strips a lamp to a tensioned cable — Memphis accumulation against Italian Rationalist reduction"
+        "reason": "Zanini builds Alpha Centauri from hand-blown Murano glass — each colour layer trapped inside the next, the vessel accumulating material richness. The Parentesi accumulates nothing. Cable, bracket, lamp holder. Zanini's Memphis philosophy adds until the object radiates meaning; Castiglioni's rationalism subtracts until only the task remains."
       },
       {
         "id": 12,
@@ -6846,7 +6846,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Sowden's Metropole clock treats timekeeping as Memphis architectural spectacle — Jacobsen's Egg treats seating as architectural enclosure. Both scale architecture down to object size, postmodern theatre versus modernist shelter"
+        "reason": "Sowden's Metropole clock is a miniature Memphis building — stepped forms, bright colours, architecture reduced to timekeeping. The Egg is also architecture reduced to seating — a private room sculpted from foam and fabric, creating enclosure without walls. Both shrink buildings to object scale, but Sowden builds a monument and Jacobsen builds a shelter."
       },
       {
         "id": 12,
@@ -6985,7 +6985,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Selmanagic adapts Bauhaus tubular steel to post-war institutional needs — the Castiglionis adapt architectural indirect lighting to the domestic table lamp. Both translate a larger-scale principle down to furniture scale"
+        "reason": "Selmanagic takes Bauhaus-era tubular steel and adapts it for postwar East German institutions — an architectural principle (cantilevered structure) reduced to chair scale. The Castiglionis take architectural indirect lighting (the ceiling-bounce used in office buildings) and reduce it to table-lamp scale. Both shrink a building-scale principle to fit on furniture."
       },
       {
         "id": 27,
@@ -7027,7 +7027,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Siedhoff-Buscher's Bauhaus ship set teaches children through primary geometric forms — Jacobsen's Egg teaches the body through sculpted shell geometry. Both use form as education, cognitive in one, physical in the other"
+        "reason": "Siedhoff-Buscher's Bauhaus ship set teaches spatial thinking through primary forms children can assemble — learning through physical manipulation. The Egg teaches the body how to sit through its sculpted interior — the foam curves train your posture, guiding you into the position Jacobsen intended. Both educate through form, cognitively and physically."
       },
       {
         "id": 33,
@@ -7163,7 +7163,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both wallpapers use Morris's method of overlapping natural forms to create dense, non-hierarchical patterns that reject industrial regularity in favour of medieval craft principles"
+        "reason": "Morris's Indian wallpaper builds dense botanical interlacing through hand-block printing — layer upon layer of applied colour creating ornamental depth. Dixon builds the S Chair from a single bent steel rod — one material, one operation, one continuous line. Morris accumulates complexity; Dixon reduces to essence. Both create objects of conviction."
       },
       {
         "id": 176,
@@ -7257,7 +7257,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Morris's Wreath wallpaper organises botanical motifs into circular geometric order — Jacobsen's Egg organises the seated body into continuous shell geometry. Both impose order on organic subject matter, decorative versus structural"
+        "reason": "Morris organises Wreath's botanical chaos into circular geometric discipline — wild nature trained into repeating ornamental order. Jacobsen organises the seated body's sprawl into a continuous fibreglass shell — chaotic posture contained within a single sculptural curve. Both impose geometric control on organic subjects: plant forms and human forms."
       },
       {
         "id": 173,
@@ -7309,7 +7309,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "material",
-        "reason": "Both employ natural plant dyes and hand-printing processes to achieve colours impossible with industrial synthetic dyes — material choice becomes ideological statement about craft versus industrial production"
+        "reason": "Morris's Wandle fabric requires multiple hand-printing stages with natural dyes — indigo discharge on madder, each colour laid down separately. Dixon's S Chair requires a single operation — bending a steel rod into a continuous cantilever. Maximum process against minimum process, both producing objects with total material integrity."
       },
       {
         "id": 5,
@@ -7402,7 +7402,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "sameProblem",
-        "reason": "Both solve the challenge of depicting three-dimensional natural forms in repeating two-dimensional patterns, but Willow Bough achieves depth through overlapping planes while Strawberry Thief uses figural narrative"
+        "reason": "Morris layers three visual planes into Willow Bough wallpaper — background, middle-ground branches, foreground leaves creating pictorial depth on a flat surface. Dixon's S Chair has no layers at all — a single bent rod that IS the background, the structure and the foreground simultaneously. Depth through accumulation against depth through reduction."
       },
       {
         "id": 3,
@@ -7535,7 +7535,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "material",
-        "reason": "Both use Aalto's signature glass-forming technique where heat manipulation creates organic curves, but the flower dish applies this method to modular vessel systems while the Savoy vase creates singular sculptural objects"
+        "reason": "Aalto's flower dishes use free-form glass curves that nestle and stack — organic geometry enabling a modular system. The Parentesi uses a straight tensioned cable enabling infinite vertical positions. Both create flexibility from geometric simplicity, but Aalto's system is horizontal and organic while Castiglioni's is vertical and linear."
       },
       {
         "id": 179,
@@ -7545,7 +7545,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "method",
-        "reason": "Both demonstrate Aalto's approach to systematic design where individual pieces can combine into larger systems — the stackable stools and combinable dishes both use modular logic while preserving organic character"
+        "reason": "Aalto's flower dishes use free-form glass curves that nest and combine — organic geometry creating a modular system on a table. The Arco's steel arc telescopes out from a marble block to position a lamp over that same table. Both serve the domestic surface, but Aalto furnishes it with combinable objects and Castiglioni illuminates it from a fixed point."
       },
       {
         "id": 9,
@@ -7581,12 +7581,12 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Where Castiglioni's Arco uses a marble base to cantilever light over furniture, Carwardine's spring-tensioned joints achieve positioning through mechanical balance, contrasting weight-based stability with dynamic equilibrium as solutions for directional lighting"
+        "reason": "Carwardine's Anglepoise uses four springs in a parallelogram linkage to counterbalance the lamp head — you can position it anywhere and it stays. The Arco uses a 65kg marble block to counterbalance a 2.7-metre arc — the lamp reaches across the room and stays. Both solve the same problem (position light, keep it there) through counterbalance at radically different scales."
       },
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both solve adjustable task lighting through visible mechanical systems — Carwardine's spring joints providing infinite positioning while Castiglioni's cable-and-sleeve system offers vertical adjustment, each making their operating logic the aesthetic"
+        "reason": "Carwardine's Anglepoise (1932) solves adjustable light through spring-loaded parallelogram arms — an engineering solution that became an archetype. The Parentesi (1971) solves it through a bracket sliding on a tensioned cable — an architectural solution that remained a one-off. Both expose their mechanics as the design, but Carwardine created a type and Castiglioni created an anomaly."
       },
       {
         "id": 5,
@@ -7722,7 +7722,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "London Design Festival distributes blank poster templates across the city for public expression — Rams designs a juicer that strips expression away entirely, leaving only function. Democratised voice against functional silence"
+        "reason": "Rams designs the MPZ 2 juicer so its mechanism is transparently visible — you see the fruit compress through acrylic, every function legible. The London Poster Project distributes blank poster templates across the city — you see the framework, the content comes from whoever picks one up. Both make the structure visible and invite the user to complete the process."
       }
     ],
     "keywords": [
@@ -7811,7 +7811,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve the problem of making complex mechanical systems intuitive for domestic users, though Singer through familiar craft metaphors and Zanuso through behavioral design"
+        "reason": "Singer's 'New Family' sewing machine makes a complex mechanism approachable through familiar Victorian domestic furniture language — the machine dressed as a table. The Grillo makes telephone electronics approachable through a sculptural folding form — the circuitry dressed as a friendly object. Both domesticate complex technology, but Singer uses disguise and Zanuso uses charm."
       }
     ],
     "keywords": [
@@ -7885,7 +7885,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Crompton integrates geometric pattern into functional textile through careful embroidery — the Castiglionis integrate visual character into functional lighting through material assembly. Craft decoration against engineering personality"
+        "reason": "Crompton stitches geometric pattern into functional linen through meticulous embroidery — each stitch placed with deliberate care to build a coherent surface. The Castiglionis stack three components — marble, glass, metal — each chosen for a specific optical or structural task. Both build meaning from precise assembly, but Crompton accumulates thread and the Castiglionis accumulate materials."
       },
       {
         "id": 109,
@@ -7932,7 +7932,7 @@ export const ARCHIVE = [
       {
         "id": 69,
         "type": "sameProblem",
-        "reason": "Both solve the problem of representing complex subjects through simplified visual means — Crompton reduces the horse to essential embroidered forms, Chermayeff & Geismar unify TWA's identity across every touchpoint. Simplification as design strategy in craft and branding"
+        "reason": "Crompton embroiders a horse into linen using hundreds of carefully placed stitches — the animal recognisable through accumulated textile marks. Chermayeff reduces TWA's identity to a typographic and geometric system — the airline recognisable through consistent visual rules. Both build recognition, but Crompton through handmade figuration and Chermayeff through systematic abstraction."
       }
     ],
     "keywords": [
@@ -7974,7 +7974,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Shared 1930s commitment to educational design through systematic geometric relationships, both teaching through regulated pattern rather than ornamental display"
+        "reason": "Crompton's sampler teaches embroidery technique through systematic geometric exercises — each panel demonstrating a different stitch, progressing from simple to complex. Jacobsen's Egg demonstrates what foam-over-fibreglass shell construction can achieve when the entire chair is a single curve. Both are technical demonstrations: Crompton demonstrates needlework, Jacobsen demonstrates industrial upholstery."
       },
       {
         "id": 14,
@@ -8340,7 +8340,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "method",
-        "reason": "Both abstract form to geometric essentials — Gray's overlapping circles create visual rhythm on the floor, Castiglioni's parenthesis-shaped bracket creates adjustable light from the ceiling. Geometric reduction as shared method across textile and lighting"
+        "reason": "Gray overlaps circles in her carpet to create rhythm on the floor plane. Castiglioni stretches a cable from floor to ceiling to create adjustment on the vertical plane. Both work with pure geometry — Gray's circles and Castiglioni's line — but Gray makes pattern from repetition and Castiglioni makes function from a single element."
       },
       {
         "id": 104,
@@ -8350,7 +8350,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "sameProblem",
-        "reason": "Both generate complex form from simple geometric operations — Gray overlaps circles to create spatial depth in a carpet, Dixon bends a single steel rod to create a cantilevered seat. Geometric economy as shared method"
+        "reason": "Gray overlaps circles at different scales to create rhythmic depth in a carpet — repetition and intersection building visual complexity. Dixon bends a single steel rod into the S Chair's continuous curve — one gesture creating structural complexity. Both generate rich form from spare geometric means, but Gray repeats and Dixon extends."
       }
     ],
     "keywords": [
@@ -8476,7 +8476,7 @@ export const ARCHIVE = [
       {
         "id": 54,
         "type": "sameProblem",
-        "reason": "Both solve the problem of communicating complex ideas through linear means — Gray's chair drawing uses orthographic projection to reveal structural geometry, Bass's title sequence uses spiralling curves to reveal psychological disorientation"
+        "reason": "Gray's chair drawing uses careful orthographic projection to communicate tubular steel's structural logic on paper — how the tubes bend, where they connect, what carries the load. Bass's Vertigo sequence uses Lissajous spirals to communicate psychological vertigo on screen — how the mind spins, where equilibrium breaks, what creates fear. Both use linear precision to make invisible forces visible."
       },
       {
         "id": 137,
@@ -8491,7 +8491,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "method",
-        "reason": "Gray's tubular steel chair engages with International Style structural principles — the Taccia's squat aluminium column engages with the classical architectural column. Both reference architectural ideas at furniture scale, modernist and classical respectively"
+        "reason": "Gray's Metal Frame Chair drawing uses orthographic projection to communicate structural logic — you understand how the tubes connect by reading the drawing. The Taccia's squat aluminium column references the classical architectural column — you understand the lamp's dignity by recognising the proportion. Both borrow from architectural conventions at furniture scale, one technical, one formal."
       }
     ],
     "keywords": [
@@ -8931,12 +8931,12 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "material",
-        "reason": "Day extends polypropylene from chair to armchair through the same moulding logic — the Taccia extends architectural ceiling-bounce lighting to table-lamp scale through the same optical principle. Consistent method adapted across variants"
+        "reason": "Day extends his polypropylene chair into an armchair using the same moulding logic — arms added to the same structural principle. The Taccia extends architectural ceiling-bounce lighting to the tabletop — the same optical principle applied at domestic scale. Both are exercises in consistent method working across variants."
       },
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Both emerge from 1960s experiments in plastic furniture, representing the period's optimism about synthetic materials and new manufacturing possibilities"
+        "reason": "Day extends polypropylene into an armchair by adding armrests to the same moulding logic — plastic accommodating the brief. Mathsson designed the Eva decades earlier by curving laminated beech to the body's own blueprint — wood accommodating the spine. Both solve the armchair, but Day works from manufacturing constraints and Mathsson works from anatomy."
       },
       {
         "id": 81,
@@ -8988,7 +8988,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "material",
-        "reason": "Both demonstrate how polypropylene enables complex curved forms through injection moulding, though Day creates furniture where Sapper and Zanuso create products"
+        "reason": "Day's Polypropylene Chair moulds complex compound curves in a single plastic shot — injection moulding enabling fluid form at mass scale. The Grillo moulds two ABS halves that hinge together — injection moulding enabling a folding telephone at consumer scale. Both prove that plastic injection moulding can create not just shapes but behaviours."
       }
     ],
     "keywords": [
@@ -9025,7 +9025,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "material",
-        "reason": "Day adapts Scandinavian plywood technique for British mass production, the Castiglionis adapt the cantilever principle from furniture to lighting — both transplant proven structural logic into new territory"
+        "reason": "Day takes Scandinavian bent-plywood stacking logic and adapts it for British mass production — a proven structural idea in a new manufacturing context. The Castiglionis take the cantilever principle from furniture engineering and apply it to lighting — a proven structural idea in a new product category. Both transplant working solutions rather than inventing from nothing."
       },
       {
         "id": 164,
@@ -9072,7 +9072,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both domesticate communication technology, but Zanuso/Sapper emphasize portability and tactile interaction while Day prioritizes integration with existing furniture"
+        "reason": "Day's Pye television integrates the screen into living-room furniture — the TV set disguised as a cabinet. The Grillo integrates earpiece and mouthpiece into a pocket-sized fold — the telephone liberated from the desk. Day domesticates technology by hiding it in furniture; Zanuso liberates technology by making it portable."
       },
       {
         "id": 83,
@@ -9208,7 +9208,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Day's geometric carpet balances modernist abstraction with domestic warmth — Dixon's welded steel chair refuses domestication entirely, bringing workshop rawness into the living room"
+        "reason": "Day's Leo carpet brings geometric modernism into domestic comfort — abstract pattern softened by wool pile, bold form made warm underfoot. Dixon's S Chair brings industrial construction into the living room with no softening at all — raw welded steel, no upholstery, no paint. Both are modernist domestic objects, but Day domesticates the geometry and Dixon refuses to."
       },
       {
         "id": 156,
@@ -9255,7 +9255,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Day's Q Rod Chair uses a minimal steel frame to support separate comfort elements — the Taccia uses a minimal aluminium column to support a separate glass diffuser. Both separate structure from function: frame from seat, column from light"
+        "reason": "Day's Q Rod Chair separates a minimal steel rod frame from the upholstered seat elements — structure and comfort remain distinct, each visible. The Taccia separates an aluminium column from a glass diffusing bowl — structure and optics remain distinct, each legible. Both achieve clarity by refusing to merge their systems."
       },
       {
         "id": 164,
@@ -9354,12 +9354,12 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Day reduces organic forms to angular geometric abstraction in carpet, Dixon lets organic form emerge directly from bending steel rod — geometric control against material improvisation"
+        "reason": "Day cuts organic shapes into angular fragments for her carpet sample — nature disciplined into geometric abstraction through the designer's editing hand. Dixon lets the steel rod's own behaviour guide the S Chair's curve — the material's springiness determining the form through the maker's physical hand. Intellectual control against material dialogue."
       },
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both designed in the mid-1950s, they represent the British adoption of Swiss geometric modernism, adapting Continental systematic design for domestic production"
+        "reason": "Day's carpet sample reduces organic forms to angular geometric abstraction — nature made sharp-edged and systematic. Jacobsen's Egg reduces the wing chair to a continuous shell — the traditional high-backed armchair made seamless and modern. Both take something familiar (a plant, a chair type) and abstract it until only the essential gesture survives."
       },
       {
         "id": 14,
@@ -9448,7 +9448,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "zeitgeist",
-        "reason": "Both designed in the early 1960s, they represent the peak of modernist confidence in systematic design, Day using geometric abstraction while Castiglioni uses structural logic to solve domestic problems"
+        "reason": "Day's Night and Day glass towel uses geometric abstraction to bring contemporary art into the kitchen. The Arco uses engineering to bring overhead light to the dining table without ceiling fixtures. Both 1960s objects solve domestic problems that nobody had articulated as problems — ugly tea towels, awkward pendant lights — until the designer noticed."
       },
       {
         "id": 156,
@@ -9495,7 +9495,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Race uses surplus aircraft aluminium for cast-frame chairs — the Castiglionis use aluminium for the Taccia's squat column body. Both exploit aluminium's combination of lightness and formability, in postwar furniture and lighting"
+        "reason": "Race cast surplus aircraft aluminium into the frames of his BA3 chairs — wartime material finding a postwar domestic role. The Castiglionis spun aluminium into the Taccia's squat column body — the same metal's formability creating a very different shape. Both exploit aluminium's willingness to take any form you give it."
       },
       {
         "id": 16,
@@ -9725,12 +9725,12 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Both 1960s products of Scandinavian furniture thinking — Race adapts British plywood craft to polystyrene moulding, Mathsson's beech-and-hemp approach already perfected its response to the human body three decades earlier"
+        "reason": "Race moulds the Sheppey from polystyrene in a single shell — a 1960s bet on synthetic material replacing craft construction entirely. Mathsson's Eva was already three decades old by then, its beech-and-hemp formula unchanged because it didn't need to change — the body it was designed for hadn't changed either."
       },
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Race's injection-moulded polystyrene chair eliminates joints in a single shell — the Taccia's glass bowl eliminates multiple light sources in a single diffuser. Both achieve simplicity through one-component solutions"
+        "reason": "Race's Sheppey eliminates joints by moulding the entire chair shell from a single polystyrene shot. The Taccia's glass bowl eliminates multiple light fittings by diffusing a single upward-firing bulb into uniform ambient light. Both solve complexity through a single-component solution: one shell, one bowl."
       },
       {
         "id": 164,
@@ -9787,7 +9787,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both solve portability through mechanical ingenuity—Cormorant folds for transport while Parentesi adjusts for different lighting needs, showing parallel thinking about adaptable design"
+        "reason": "Race's Cormorant folds its aluminium frame and canvas seat for portable outdoor use — the whole chair collapses flat. The Parentesi's cable and bracket can be removed and reinstalled in a different room in minutes — the whole lamp relocates. Both solve repositioning, but Race folds the object and Castiglioni unfastens the system."
       }
     ],
     "keywords": [
@@ -9918,7 +9918,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Day abstracts botanical forms into simplified ceramic pattern, Dixon abstracts the cantilever principle into bent steel rod — reductive methods applied to decoration and structure respectively"
+        "reason": "Day stylises Columbine flowers into flat ceramic decoration — botanical specificity abstracted into applied surface pattern. Dixon has no reference to anything natural — the S Chair's form comes entirely from what a single steel rod can do when you bend it. Day starts with the world and simplifies; Dixon starts with the material and follows."
       },
       {
         "id": 156,
@@ -10031,7 +10031,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Day's Winter plate evokes seasonal dormancy through stark linear ceramic composition — Jacobsen's Egg creates enclosure through continuous fibreglass curves. Both use formal reduction to evoke atmosphere: exposure and shelter respectively"
+        "reason": "Day's Winter plate evokes seasonal dormancy through stark, branching lines on white ceramic — the cold made visible. The Egg creates enclosure through a continuous foam-and-fabric shell — warmth made physical. Both address the body's relationship to environment: Day depicts exposure on a surface, Jacobsen builds shelter as a form."
       },
       {
         "id": 16,
@@ -10124,7 +10124,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "zeitgeist",
-        "reason": "Both from 1962 represent the decade's move toward bold geometric forms, though Castiglioni's industrial minimalism contrasts with Day's decorative pattern-making"
+        "reason": "Day's Club plate uses bold intersecting circles in ceramic glaze — strong graphic gesture on a small domestic surface. The Arco uses a bold steel arc over a marble block — strong engineering gesture in a domestic room. Both are 1962 objects that bring confidence into the home, graphic and structural."
       },
       {
         "id": 24,
@@ -10171,12 +10171,12 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Day captures autumn through abstracted leaf forms and ceramic glaze subtlety, Dixon captures post-industrial energy through raw welded steel — nature domesticated versus industry domesticated"
+        "reason": "Day paints abstracted autumn leaves onto ceramic plates — seasonal observation translated into decorative surface. Dixon welds scrap steel into a cantilevered chair — salvage-yard observation translated into structural form. Both look carefully at something and make an object from what they see, but Day looks at nature and Dixon looks at industry."
       },
       {
         "id": 3,
         "type": "zeitgeist",
-        "reason": "Both 1950s–60s responses to the postwar domestic interior — Day brings abstracted nature onto ceramic tableware, Castiglioni brings adjustable light onto a single cable. Different strategies for modernising the home"
+        "reason": "Day paints abstracted autumn leaves onto ceramic plates — nature stylised for the domestic table. Castiglioni runs a steel cable from floor to ceiling — industrial infrastructure domesticated for the living room. Both bring something foreign into the home: Day brings the garden in, Castiglioni brings the building's structure in."
       }
     ],
     "keywords": [
@@ -10223,7 +10223,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both reduce form to essential linear elements — Day's Calyx strips plant forms to screen-printed lines, Dixon's S Chair strips the cantilever chair to a single bent steel rod. Linear economy in textile and furniture"
+        "reason": "Day's Calyx reduces plant forms to screen-printed linear elements — stems, leaves and seeds drawn as clean graphic marks on cotton. Dixon reduces the cantilever chair to a single bent steel rod — seat, back and legs drawn as one continuous metallic line. Both find their form through linear economy, but Day's lines are printed flat and Dixon's line stands in space."
       }
     ],
     "keywords": [
@@ -10312,7 +10312,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Day constructs visual rhythm from intersecting abstract lines on cotton, Dixon constructs physical structure from a continuous bent steel line — pattern-making versus form-making, both through linear abstraction"
+        "reason": "Day builds visual rhythm on Rig fabric by intersecting abstract lines at different angles — complexity from crossing. Dixon builds structural strength in the S Chair by curving a single steel rod into an S — stability from continuous bending. Both work with lines, but Day crosses many and Dixon curves one."
       },
       {
         "id": 251,
@@ -10443,7 +10443,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "lineage",
-        "reason": "Day's early textile simplifies botanical motifs into geometric repeat — decades later, Dixon's S Chair takes reduction further, stripping the chair to a single structural line. A trajectory from simplified decoration to stripped construction"
+        "reason": "Day's 1939 furnishing fabric simplifies floral motifs into geometric repeat pattern — botanical reference still legible beneath the abstraction. Dixon's 1987 S Chair eliminates all reference — no flowers, no history, no ornament, just what a steel rod does when you bend it. Fifty years from simplified nature to pure material behaviour."
       },
       {
         "id": 193,
@@ -10500,7 +10500,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both objects solve human interface challenges through ergonomic analysis, though the telephone requires complex internal mechanisms while the door handle achieves sophistication through pure mechanical leverage"
+        "reason": "Grange's door handle is a solid aluminium lever designed entirely around the hand's closing grip — pure haptic engineering. The Grillo is a folding ABS shell designed around the hand's holding gesture and the ear's listening position — sculptural ergonomics. Both are interface designs shaped by how the hand actually behaves, at architectural and product scales."
       },
       {
         "id": 7,
@@ -10542,7 +10542,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve the problem of making complex technology approachable through form - Grange's rounded grip versus Sapper's sculptural compactness"
+        "reason": "Grange rounds the Kenwood Chefette's grip so it sits comfortably in the cook's hand — appliance ergonomics. Zanuso and Sapper fold the Grillo so it sits compactly in the user's palm — telephone ergonomics. Both make complex electric machinery approachable through the shape of the handle: Grange's grip and Zanuso's fold."
       },
       {
         "id": 256,
@@ -10735,12 +10735,12 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both solve the problem of flexible positioning without permanent installation, but Castiglioni uses tension cables while Grange employs modular wall mounting"
+        "reason": "Grange's Variset hooks mount to a wall rail and slide laterally — you choose where each hook sits along the track. The Parentesi's bracket mounts to a vertical cable and slides up and down — you choose the height. Same principle of user-defined positioning, but Grange works horizontally in aluminium and Castiglioni works vertically in steel."
       },
       {
         "id": 1,
         "type": "argument",
-        "reason": "Both address positioning flexibility but represent opposite approaches - Castiglioni creates a self-contained sculptural object while Grange develops an architectural attachment system"
+        "reason": "Grange's Variset hooks mount to a wall-fixed aluminium rail — discreet, architectural, part of the building. The Arco stands free on a marble block — monumental, moveable, a piece of furniture. Both position things where you need them, but Grange integrates with architecture and Castiglioni stands independent of it."
       }
     ],
     "keywords": [
@@ -10965,7 +10965,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Both use precise geometric forms derived from scientific and mathematical principles to create functional objects that educate users about systematic thinking"
+        "reason": "Mellor's Insulin wallpaper translates insulin's molecular structure into geometric repeat pattern — science made decorative. The Egg translates ergonomic research into a sculpted shell — science made comfortable. Both embed technical knowledge inside designed objects, but Mellor's science is visible (you see the molecule) and Jacobsen's is felt (you experience the posture)."
       },
       {
         "id": 115,
@@ -11059,7 +11059,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both balance geometric structure with organic energy — Webster through systematic repetition of natural forms in Festival-era fabric, Dixon through the hand-bent curves of a continuous steel rod"
+        "reason": "Webster repeats natural forms in systematic geometric arrangements for Festival-era fabric — nature ordered into modernist pattern through disciplined repetition. Dixon bends a single steel rod into a chair using his hands and a workshop vice — structure achieved through physical improvisation. Systematic making against intuitive making, both producing furniture-era British design."
       },
       {
         "id": 156,
@@ -11096,7 +11096,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both designed in 1951 and demonstrate the Festival period's faith that abstract scientific principles could generate beautiful, rational forms for everyday use"
+        "reason": "Peake's Boric Acid wallpaper renders chemical crystal structures as Festival-era geometric decoration — atomic form as domestic ornament. The Egg renders the seated human posture as a continuous fibreglass curve — body form as structural shell. Both are 1950s objects that translate complex three-dimensional reality into elegant geometric abstraction."
       },
       {
         "id": 156,
@@ -11148,7 +11148,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Conran reduces leaf forms to bold graphic elements on fabric, Dixon reduces the chair to a single bent steel line — graphic simplification in textile against structural simplification in furniture"
+        "reason": "Conran reduces leaf forms to bold graphic silhouettes on fabric — the leaf recognisable but flattened into a print. Dixon reduces the chair to a single bent steel S-curve — the chair recognisable but stripped to a structural line. Both simplify until only the essential gesture remains, graphic and structural."
       }
     ],
     "keywords": [
@@ -11190,7 +11190,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Conran translates natural growth rings into decorative textile pattern, Castiglioni eliminates decoration to leave only structure — the case for ornament derived from nature against the case for no ornament at all"
+        "reason": "Conran translates tree-ring cross-sections into printed textile pattern — natural structure becoming decorative surface. Castiglioni leaves the cable's structural tension visible and undisguised — industrial structure remaining honestly structural. Both are interested in how things are made, but Conran turns structure into ornament and Castiglioni refuses to."
       }
     ],
     "keywords": [
@@ -11227,7 +11227,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Both use geometric abstraction and systematic repetition to achieve clarity, showing how Swiss design principles influenced British contemporary style"
+        "reason": "Misha Black's Geometry Stripe uses systematic geometric repetition to create a calm, ordered wallpaper surface. The Egg uses a single continuous geometric curve to create a calm, ordered sitting experience. Both achieve serenity through geometric discipline — pattern on a wall, form around a body."
       },
       {
         "id": 156,
@@ -11274,7 +11274,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "sameProblem",
-        "reason": "Both bring restrained modernism to domestic objects — Conran through simplified ceramic form with considered decoration, the Castiglionis through marble, glass and an enamelled reflector that earns a cartoon nickname. British propriety against Italian humour"
+        "reason": "Conran simplifies Midwinter tableware by removing excess ornament but keeping a warm decorative touch — modernism made friendly for British kitchens. The Castiglionis simplify the table lamp to base, stem and shade but keep a playful silhouette — modernism made charming for Italian living rooms. Both prove that functional reduction doesn't require emotional austerity."
       },
       {
         "id": 274,
@@ -11284,7 +11284,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Conran modernises British tableware through simplified form and restrained decoration — Castiglioni goes further, stripping the lamp to cable, bracket and spotlight. Both reduce, but Conran keeps ornament where Castiglioni removes it"
+        "reason": "Conran's Midwinter bowl modernises British tableware through simplified forms with restrained floral decoration — reduction that preserves warmth. The Parentesi reduces the table lamp to a cable between floor and ceiling with a sliding bracket — reduction that preserves nothing except the ability to direct light. Two degrees of minimalism: Conran's keeps comfort, Castiglioni's keeps only function."
       }
     ],
     "keywords": [
@@ -11316,7 +11316,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Conran brings botanical motifs into accessible ceramic modernism, Dixon strips decoration from furniture entirely — one argues for pattern as modern, the other for raw structure as modern"
+        "reason": "Conran applies botanical surface decoration to ceramic bowls — pattern as the modernising strategy, bringing contemporary graphics to traditional Staffordshire pottery. Dixon applies no surface treatment at all to the S Chair — raw steel IS the statement, the weld marks left visible as evidence of making. Conran modernises through decoration; Dixon modernises through its absence."
       },
       {
         "id": 273,
@@ -11593,7 +11593,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "XR revives traditional relief printing for urgent political messaging — Rams refines industrial production for quiet domestic function. Urgent craft against measured engineering, both reducing to essentials for opposite purposes"
+        "reason": "XR revives letterpress printing — a slow, physical, labour-intensive technique — to produce urgent political messaging that demands immediate attention. Rams applies systematic industrial design — refined, measured, efficiency-optimised — to produce a juicer for quiet domestic use. Maximum urgency from primitive technology versus maximum calm from advanced manufacturing."
       }
     ],
     "keywords": [
@@ -11976,7 +11976,7 @@ export const ARCHIVE = [
       {
         "id": 209,
         "type": "sameProblem",
-        "reason": "Both reduce complex systems to navigable form — the Heathrow leaflet reduces an airport to information hierarchy, Kuramata reduces the cabinet to bulging, almost breathing geometry. Wayfinding and furniture, both making the complex approachable"
+        "reason": "The Heathrow leaflet reduces an airport to navigable information hierarchy — a complex building made comprehensible through graphic organisation. Kuramata's chest of drawers abandons orthogonal furniture logic — drawers bulge from the body like organic growths, storage made uncanny. Both take something familiar (an airport, a chest of drawers) and restructure it until the original logic feels strange."
       },
       {
         "id": 293,
@@ -12028,7 +12028,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "Bold protest typography communicating political resistance — Rams's juicer communicating nothing except how to extract juice. Maximum message against zero message, both through formal reduction"
+        "reason": "Bold protest typography on a placard, designed to be read from a distance by a crowd in a political moment. Rams's juicer, designed to be held by one person in a kitchen, communicating nothing except how to extract juice. Both are exercises in functional legibility — one at the scale of the street, the other at the scale of the hand."
       }
     ],
     "keywords": [
@@ -12154,7 +12154,7 @@ export const ARCHIVE = [
       {
         "id": 209,
         "type": "lineage",
-        "reason": "Both use photography and form to question established frameworks — Aboutboul combines photo and text for political advocacy, Kuramata combines drawers and curves to question furniture assumptions. Established forms made strange for new purposes"
+        "reason": "Aboutboul combines photography and political text to advocate for women's rights across Europe — the image serving an argument. Kuramata warps a conventional chest of drawers into irregular bulging forms — the furniture serving a question about what furniture should be. Both use familiar formats (poster, cabinet) to challenge the assumptions embedded in them."
       },
       {
         "id": 299,
@@ -12248,7 +12248,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "zeitgeist",
-        "reason": "Hladík's commemorative poster uses restrained typography to honour Masaryk — Rams's juicer uses restrained form to honour function. Both demonstrate that reduction can be a form of respect"
+        "reason": "Hladík's poster uses restrained typography and white space to honour Masaryk — dignity through what's withheld. Rams uses restrained form and material honesty to serve the juicing process — clarity through what's removed. Both find power in subtraction, commemorative and functional."
       }
     ],
     "keywords": [
@@ -12290,7 +12290,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "Klucis layers heroic worker imagery with industrial symbols for Soviet propaganda — Rams strips away all imagery to reveal operational logic. Maximum ideological content against zero ideological content, both through rigorous visual discipline"
+        "reason": "Klucis layers photomontage — heroic workers, industrial gears, Soviet text — building meaning through visual accumulation. Rams strips the juicer to transparent housing, visible mechanism, no graphics — building function through material reduction. Propaganda through layering versus product design through removal."
       },
       {
         "id": 303,
@@ -12645,7 +12645,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Emeco's 111 Navy Chair moulds recycled bottles into a stackable chair — the Taccia moulds aluminium into a classical column that houses a light source. Both demonstrate how a single forming process can create objects of quiet authority"
+        "reason": "Emeco's 111 chair compresses 111 recycled PET bottles into a stackable seat through a single moulding operation — waste transformed into civic furniture. The Taccia compresses the complexity of indirect architectural lighting into a single aluminium column and glass bowl — a building system transformed into a table lamp. Both distil something large into something compact."
       },
       {
         "id": 164,
@@ -12833,7 +12833,7 @@ export const ARCHIVE = [
       {
         "id": 199,
         "type": "sameProblem",
-        "reason": "Both demonstrate how manufacturing precision enables complex geometry — the 3D-printed door handle uses laser sintering for organic form, Gray's drawing uses orthographic precision to specify tubular steel curves. Digital and analogue precision, both in service of geometry"
+        "reason": "Gray's Transatlantique drawing maps every tubular steel curve in orthographic projection — a set of instructions for bending metal that also happens to be beautiful. The 3D-printed door handle is generated from a computational mesh — a set of algorithms for laser-sintering that produces organic form impossible to draw by hand. Both exist at the boundary between technical specification and finished design, but Gray's drawing preceded the object and the digital file preceded the print."
       },
       {
         "id": 9,
@@ -12917,7 +12917,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "sameProblem",
-        "reason": "Both calibrate form to specific function — Park's 3D-printed comb spaces teeth precisely for different hair types, the Castiglionis angle the Snoopy's reflector precisely for reading light. Digital precision and analogue precision, same rigour"
+        "reason": "Park's 3D-printed comb varies tooth spacing precisely for different hair types — form calibrated to specific use through computational precision. The Snoopy angles its metal reflector at precisely the right tilt for reading light — form calibrated to specific use through observational intelligence. Both are shaped by how people actually use them, forty years and several technologies apart."
       },
       {
         "id": 315,
@@ -12964,7 +12964,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both integrate multiple functions into minimal form — Kao's 3D-printed tray builds drainage and grip into its geometry, Castiglioni's Parentesi makes structure, adjustment and locking a single gesture"
+        "reason": "Kao's 3D-printed tray integrates drainage channels, grip texture and serving surface into a single digitally-optimised form. The Parentesi integrates structure, adjustment and light-direction into three analogue components — cable, bracket, lamp holder. Both pack multiple functions into minimal means, but forty years of technology apart: computed optimisation versus observed simplicity."
       },
       {
         "id": 317,
@@ -12974,7 +12974,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Kao integrates drainage and grip into a 3D-printed tray's geometry — the Castiglionis integrate counterweight, reflection and light direction into three visible components. Both make function inseparable from form"
+        "reason": "Kao integrates drainage channels, grip ridges and serving surface into a single 3D-printed tray geometry. The Castiglionis integrate counterweight (marble base), transparency (glass stem), and light direction (metal reflector) into three stacked components. Both achieve multiple functions from minimal means — Kao through digital optimisation, the Castiglionis through material selection."
       },
       {
         "id": 7,
@@ -13026,7 +13026,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "sameProblem",
-        "reason": "Both reinterpret an archetype — Brunner's 3D-printed flint rethinks the fire tool, Jacobsen's Egg rethinks the wing chair. Same problem (fire-starting, sitting in a hotel lobby) solved through radically new forming processes"
+        "reason": "Brunner's 3D-printed flint reinterprets humanity's oldest tool through digital fabrication — same function (spark), new technology (additive manufacturing). Jacobsen's Egg reinterprets the wing chair through industrial upholstery — same function (sheltered seating), new technology (foam over fibreglass). Both solve ancient human needs through the manufacturing of their moment."
       }
     ],
     "keywords": [
@@ -13058,7 +13058,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Noh reduces scissors by eliminating finger loops for a pinch grip — the Castiglionis reduce the table lamp to base, stem and reflector. Both remove the expected mechanism, leaving only what's needed"
+        "reason": "Noh redesigns scissors by eliminating the finger loops entirely — you pinch instead of grip, and the cutting action becomes more precise. The Castiglionis design the Snoopy by giving each component exactly one job — marble holds it down, glass lets light through, metal directs the beam. Both strip the expected mechanism back to what the task actually requires."
       },
       {
         "id": 2,
@@ -13194,7 +13194,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "sameProblem",
-        "reason": "Balashova's 3D-printed earring exploits geometric complexity impossible in traditional making — the Snoopy achieves visual complexity from the simplest possible assembly. Digital intricacy against analogue elegance"
+        "reason": "Balashova's 3D-printed earring creates geometric complexity impossible in traditional jewellery-making — digital fabrication enabling new form. The Snoopy creates visual complexity from the simplest possible assembly — three stacked components that together look like a small creature. Digital intricacy against analogue wit."
       }
     ],
     "keywords": [
@@ -13226,7 +13226,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "The Castiglionis' Arco achieves dramatic lighting through pure engineering logic, while Studio Drift's chandelier prioritizes poetic metaphor over optical efficiency — opposing approaches to how lighting design should create meaning"
+        "reason": "Studio Drift suspends real dandelion seeds in LED-lit glass tubes to make a chandelier that looks like it might float away. The Castiglionis anchor a 65kg marble block to the floor so a steel arc can reach a lamp over your table. Both are overhead light, but Drift designs weightlessness and Castiglioni designs weight."
       },
       {
         "id": 3,
@@ -13350,7 +13350,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Both objects embody 1960s space-age aesthetics through molded white forms that suggested technological optimism and futuristic domesticity"
+        "reason": "Holdaway's Tomotom is a fibreglass side table in a perfect space-age sphere — 1960s pop optimism made solid, white, and weightless-looking. Mathsson's Eva is a 1930s beech frame with hemp webbing — Swedish craft tradition made permanent. Both are products of their decade's confidence, but the Tomotom trusts the future and the Eva trusts the body."
       },
       {
         "id": 65,
@@ -13610,7 +13610,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Both 1960s explorations of alternative seating — Orenstein's inflatable PVC pillow collapses and reinflates, Mathsson's hemp webbing flexes and recovers. Air versus fibre, both responsive to the body"
+        "reason": "Orenstein's inflatable PVC pillow collapses to nothing and reinflates — seating that's temporary, disposable, pop. Mathsson's hemp webbing flexes under the body's weight and springs back — seating that's permanent, maintained, craft. Both respond to the body, but the inflatable is air enclosed in plastic and the Eva is fibre stretched between wood."
       },
       {
         "id": 12,
@@ -13788,7 +13788,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Both 1960s chairs exploit new plastic molding techniques to create seamless single-shell forms that reject traditional furniture construction methods."
+        "reason": "The Contour chair moulds a single plastic shell into a seamless seat — new synthetic material enabling continuous form. Mathsson achieves continuous support from natural materials — laminated beech curving to the spine, hemp webbing stretching to the body's pressure. The Contour trusts chemistry (plastics); the Eva trusts physics (tension and curvature)."
       },
       {
         "id": 65,
@@ -14080,7 +14080,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "method",
-        "reason": "Morrison's Bottlerack references Duchamp's readymade while functioning as genuine storage — the Snoopy references a cartoon dog while functioning as genuine lighting. Both objects have dual identities: cultural allusion and practical tool"
+        "reason": "Morrison's Bottlerack is a functional wine rack that also references Duchamp's famous readymade — it works and it winks. The Snoopy is a functional reading lamp that also resembles the Peanuts character — it works and it charms. Both objects carry cultural reference without sacrificing utility, but Morrison's reference is art-historical and the Castiglionis' is popular."
       }
     ],
     "keywords": [
@@ -14206,7 +14206,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Dahlström reduces the chair to bent steel tube and minimal plywood — the Castiglionis reduce the table lamp to aluminium column and glass bowl. Same reductive discipline applied across Swedish furniture and Italian lighting"
+        "reason": "Dahlström reduces the BD:1 chair to bent steel tube and a thin plywood seat — every element doing only structural work. The Castiglionis reduce the Taccia to aluminium column and glass bowl — every element doing only optical or structural work. Swedish furniture discipline and Italian lighting discipline arriving at the same economy."
       },
       {
         "id": 81,
@@ -14295,7 +14295,7 @@ export const ARCHIVE = [
       {
         "id": 37,
         "type": "sameProblem",
-        "reason": "Both solve the problem of designing for real human use rather than formal elegance — Jongerius's UN Lounge Chair balances institutional durability with human comfort, the Margrethe balances mixing efficiency with one-handed grip. Ergonomics of care"
+        "reason": "Jongerius reupholsters the UN's North Delegates' Lounge chairs to balance institutional durability with human comfort — 200 chairs that must survive diplomats and still feel inviting. Bernadotte and Bjørn shape the Margrethe's interior to balance mixing efficiency with pouring control — one bowl that must survive bakers and still pour cleanly. Both design for hard use by real people, not for photographic elegance."
       },
       {
         "id": 36,
@@ -14389,7 +14389,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Jongerius introduces deliberate imperfection into ceramic beakers — the Snoopy's perfection is the point, every surface precise, the marble polished, the glass stem exact. Two positions on whether domestic objects should reveal or conceal their making"
+        "reason": "Jongerius deliberately introduces cracks, bumps and rough textures into her B-set beakers — imperfection as philosophical statement about how objects should feel. The Snoopy has no imperfections at all — the marble is polished, the glass is clear, the metal is precise. Two positions on craftsmanship: Jongerius values the trace of making, the Castiglionis value the disappearance of making."
       },
       {
         "id": 350,
@@ -14535,7 +14535,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both lamps address flexible positioning in domestic space, but where Castiglioni used architectural tension cables, Grcic employs workshop-derived pivot mechanisms for more direct user control"
+        "reason": "Grcic's Mayday is a cheap polypropylene lamp with a hook and a handle — grab it, hang it, move it. The Parentesi is a cable and bracket spanning floor to ceiling — install it, slide it, leave it. Both reject the fixed table lamp, but Mayday is portable (you carry it to the problem) and Parentesi is adjustable (you move it along the cable to the problem)."
       },
       {
         "id": 277,
@@ -14623,12 +14623,12 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "argument",
-        "reason": "Grcic's injection-moulded chair adds 360° rotation to stacking efficiency — Mathsson's Eva adds nothing beyond what the body needs. Mechanical versatility versus ergonomic purity"
+        "reason": "Grcic adds a swivel mechanism to the 360° chair's injection-moulded shell — engineering versatility into a mass-produced seat. Mathsson adds nothing to the Eva beyond what the body requires — no swivel, no adjustment, no mechanism. The beech frame curves exactly where the spine curves. Grcic designs options; Mathsson designs certainty."
       },
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Grcic's 360° chair combines injection-moulded shell with swivelling base — the Taccia combines aluminium column with a glass bowl that catches and scatters light in all directions. Both achieve 360-degree performance through simple mechanisms"
+        "reason": "Grcic's 360° chair lets you swivel in any direction from a fixed point — one axis of rotation. The Taccia's glass bowl scatters reflected light in every direction from a fixed column — one point of illumination filling the room. Both achieve 360-degree performance from a single vertical axis."
       }
     ],
     "keywords": [
@@ -14710,7 +14710,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Blin's laser-cut tray assembles without hardware through interlocking joints — the Snoopy assembles through stacking: marble base, glass stem, metal reflector. Both designs where assembly logic is the aesthetic"
+        "reason": "Blin's laser-cut wooden tray assembles through interlocking joints — no glue, no screws, the geometry holds it together. The Snoopy assembles through stacking — marble base, glass stem, metal reflector, gravity holds it together. Both are designs where the assembly method IS the design."
       }
     ],
     "keywords": [
@@ -14746,7 +14746,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "material",
-        "reason": "Both use tension systems to create three-dimensional structures, though Castiglioni's cable creates linear extension where the Bouroullecs' clips create planar multiplication"
+        "reason": "The Bouroullecs' Algue clips interlock into branching planar screens — users build two-dimensional surfaces from repeated identical elements. The Parentesi offers one-dimensional adjustment — a bracket moving up and down a single cable. Both are user-completed systems, but Algue multiplies in two dimensions and Parentesi adjusts in one."
       },
       {
         "id": 12,
@@ -14839,7 +14839,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Nendo's Mimicry Chairs distort familiar chair proportions to question assumptions — the Taccia uses a familiar column form to deliver unfamiliar indirect light. Both use recognition to set up surprise"
+        "reason": "Nendo's Mimicry Chairs stretch and distort familiar chair proportions just enough to create unease — you recognise the chair but something feels wrong. The Taccia uses a familiar column form (classical, architectural) to deliver unfamiliar indirect light from below — you recognise the shape but the light behaves unexpectedly. Both use familiarity to stage a surprise."
       },
       {
         "id": 13,
@@ -14891,7 +14891,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "material",
-        "reason": "Nendo bends 21.4 metres of continuous aluminium into chair form — the Snoopy stacks three distinct materials into lamp form. Single-material continuity against multi-material composition, both achieving structural clarity"
+        "reason": "Nendo bends 21.4 metres of continuous aluminium rod into a conceptual chair — material quantity as the design idea. The Snoopy stacks three materials (marble, glass, metal) into a table lamp — material contrast as the design idea. Both are reducible to a single sentence, but nendo's sentence is about length and the Castiglionis' is about combination."
       }
     ],
     "keywords": [
@@ -14928,7 +14928,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "zeitgeist",
-        "reason": "Both represent 2008's renewed interest in craft-informed design, showing how global designers were simultaneously exploring traditional making methods within contemporary contexts"
+        "reason": "Fukasawa's Hiroshima Chair uses Japanese wood joinery so precise that no hardware is visible — joints disappearing into seamless timber. The Grillo uses an Italian precision hinge so neatly integrated that the fold feels inevitable — mechanism becoming gesture. Both achieve apparent simplicity through hidden manufacturing precision."
       },
       {
         "id": 1,
@@ -14970,7 +14970,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both translate a higher cultural register into domestic object — Saint Laurent brings couture precision to a silk scarf, Dixon brings sculptural ambition to a steel chair"
+        "reason": "Saint Laurent translates haute couture discipline into a silk scarf — precision cutting, considered colour, luxury materials, the designer's authority expressed through refinement. Dixon translates metalwork skill into a steel chair — hand bending, visible welds, salvaged material, the maker's authority expressed through directness. Refinement and rawness as equally valid forms of craft confidence."
       },
       {
         "id": 104,
@@ -15175,7 +15175,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "material",
-        "reason": "Both make light the material of design — Libenský casts glass to channel and sculpt light through thickness and curvature, Castiglioni uses a tensioned cable to position a spotlight precisely in space"
+        "reason": "Libenský casts glass so that light transforms as it passes through varying thicknesses — the sculpture IS the light, channelled by mass. The Parentesi positions a spotlight on a cable — the lamp delivers the light, guided by gravity. Both make light the design material, but Libenský sculpts it through solid glass and Castiglioni aims it through empty space."
       },
       {
         "id": 12,
@@ -15227,7 +15227,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "sameProblem",
-        "reason": "Clarke's fish slice turns a utensil into narrative through a fishing-rod handle — the Snoopy turns a lamp into a character through its reflector profile. Both generate meaning from functional form without adding anything decorative"
+        "reason": "Clarke's fish slice uses a fishing-rod handle where a utensil handle should be — material narrative, the object tells a story about where it belongs. The Snoopy uses a marble base where a cheaper base would work — material logic, the weight keeps the lamp stable when you tilt the reflector. Clarke designs for storytelling; the Castiglionis design for physics."
       },
       {
         "id": 2,
@@ -15269,7 +15269,7 @@ export const ARCHIVE = [
       {
         "id": 69,
         "type": "sameProblem",
-        "reason": "Both solve the problem of translating complex visual identity across physical surfaces — Utrillo's costume carries his painted street scenes onto a moving performer, Chermayeff & Geismar carry TWA's red logotype across airports, aircraft and print. Visual identity in motion"
+        "reason": "Utrillo paints his characteristic Montmartre street scenes directly onto stage costumes — architectural imagery wrapped around a moving body. Chermayeff applies TWA's visual identity across terminal signage, ticket counters and printed materials — corporate imagery wrapped around an architectural space. Both translate visual vocabularies across surfaces they weren't originally made for."
       },
       {
         "id": 54,
@@ -15284,7 +15284,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both translate fine art into functional design — Utrillo makes stage costume from his painterly vocabulary, Dixon makes seating from sculptural welding. Art methods becoming design methods"
+        "reason": "Utrillo paints his street scenes directly onto stage costumes — the painter's visual vocabulary transferred to wearable performance. Dixon brings his welding and metal-bending vocabulary directly into furniture — the metalworker's skill transferred to domestic seating. Both make their primary craft the design method, refusing the boundary between art/craft and functional design."
       }
     ],
     "keywords": [
@@ -15729,7 +15729,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both address how communication devices can embody personal identity within industrial systems, though Missé works with surface modification while Zanuso and Sapper integrated expression into the core form"
+        "reason": "Missé's smartphone cover wraps personal expression around a standardised device — identity applied to the surface after the phone exists. The Grillo builds identity into the phone's structure — the fold, the shape, the feel are inseparable from the function. Surface customisation versus integral design, forty years apart."
       },
       {
         "id": 100,
@@ -15838,7 +15838,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Both demonstrate how traditional making techniques can produce contemporary formal expressions, using material honesty and functional clarity as design principles"
+        "reason": "1882 Ltd's small bowl is slip-cast in Stoke-on-Trent using methods unchanged for generations — traditional British ceramic craft producing a contemporary reductive form. The Arco is machined from Carrara marble, drawn steel and spun aluminium — Italian engineering producing a contemporary structural form. Both achieve modernity through material mastery rather than novelty."
       }
     ],
     "keywords": [
@@ -15999,7 +15999,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "argument",
-        "reason": "Heatherwick's Spun Chair rotates and rocks through its shell geometry — Mathsson's Eva sits still, curving exactly where the body needs support. Kinetic spectacle versus ergonomic precision"
+        "reason": "Heatherwick's Spun Chair is a rotational-moulded metal top that spins and rocks — sitting as kinetic play, the body in constant motion. Mathsson's Eva holds you in a fixed position calculated from spinal anatomy — sitting as precise support, the body at deliberate rest. Movement versus stillness as seating philosophies."
       },
       {
         "id": 2,
@@ -16077,7 +16077,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both make complex communication technologies accessible through careful interface design — Zanuso/Sapper for telephony, DJI for aerial robotics"
+        "reason": "DJI's Phantom makes aerial photography accessible through intuitive controls and stable flight software — complex robotics simplified for consumers. The Grillo made telephony portable through a folding shell and compact electronics — complex circuitry simplified for domestic users. Both democratise advanced technology through physical design that reduces cognitive load."
       },
       {
         "id": 16,
@@ -16334,7 +16334,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Both demonstrate how systematic geometric principles could create both functional clarity and visual pleasure, proving that reduction need not eliminate human-centered design qualities."
+        "reason": "Behrens's architectural panel uses geometric grid logic to organise ornamental surface — rationality as decoration. Jacobsen's Egg uses a single continuous curve to organise the seated body — rationality as comfort. Both apply systematic geometric thinking to human-scale problems, but Behrens works on flat surface and Jacobsen works in three-dimensional space."
       },
       {
         "id": 14,
@@ -16773,7 +16773,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "sameProblem",
-        "reason": "Both create adjustable lighting systems through modular components, but Parentesi uses mechanical adjustment while Set Up Shades uses repositionable elements"
+        "reason": "Wanders' Set Up Shades gives you a cluster of lampshades you arrange like a still life — lighting as decorative composition. The Parentesi gives you a single bracket you slide up or down a cable — lighting as spatial calibration. Both are adjustable, but Wanders adjusts for beauty and Castiglioni adjusts for precision."
       },
       {
         "id": 314,
@@ -16783,7 +16783,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Both address the problem of adjustable floor lighting, but Arco uses mechanical precision while Set Up Shades embraces soft, reconfigurable elements"
+        "reason": "Wanders' Set Up Shades cluster fabric lampshades at different heights on flexible cables — adjustable, soft, ambient, like a gathering of lights. The Arco positions a single aluminium reflector at the end of a rigid 2.7-metre arc — fixed, precise, directional, like an engineering instrument. Both light a room, but Wanders creates atmosphere and Castiglioni creates focus."
       },
       {
         "id": 11,
@@ -16882,7 +16882,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Both apply geometric reduction principles derived from architectural thinking, demonstrating systematic approaches to functional object design"
+        "reason": "Berlage's chair applies architectural proportional systems to furniture — the whole form governed by geometric ratios derived from building design. Jacobsen's Egg applies sculptural intuition to furniture — the whole form governed by how foam curves around a sitting body. Both bridge architecture and furniture, but Berlage through proportion and Jacobsen through ergonomics."
       }
     ],
     "keywords": [
@@ -16961,7 +16961,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "argument",
-        "reason": "Jongerius blurs boundaries between natural and synthetic through controlled textile experiments — Dixon's S Chair makes no such negotiation, declaring itself purely industrial steel. Subtlety against directness"
+        "reason": "Jongerius's Reef textile blurs the line between natural coral and synthetic yarn through careful colour-matching and fibre blending — you can't tell where nature ends and artifice begins. Dixon's S Chair makes no such ambiguity: it is unmistakably industrial steel, visibly welded, proudly raw. Jongerius negotiates between worlds; Dixon declares one."
       },
       {
         "id": 303,
@@ -17050,7 +17050,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "argument",
-        "reason": "Baas hand-carves wood to mimic plastic chair forms, questioning material authenticity — Mathsson's beech frame is unapologetically itself, every curve derived from how the body actually sits. Conceptual commentary versus functional commitment"
+        "reason": "Baas hand-carves solid wood to replicate the exact form of a cheap plastic garden chair — a conceptual joke about material authenticity, wood pretending to be plastic. Mathsson's beech frame has never pretended to be anything — every curve responds to the spine's needs, every piece of hemp webbing responds to the body's pressure. Irony versus sincerity."
       },
       {
         "id": 2,
@@ -17144,7 +17144,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "sameProblem",
-        "reason": "Mass-produced polypropylene stacking chair optimised for cost — the Taccia is a precisely engineered lamp designed without compromise. Both are products of industrial logic, but from opposite positions: minimum cost versus maximum refinement"
+        "reason": "The HS-011 is engineered for the largest possible market — cheap polypropylene, stacking geometry, minimal material per unit. The Taccia is engineered for the most refined possible experience — spun aluminium, blown glass, reflected light. Same industrial intelligence, opposite ambitions: economy of cost versus economy of light."
       },
       {
         "id": 164,
@@ -17154,7 +17154,7 @@ export const ARCHIVE = [
       {
         "id": 38,
         "type": "zeitgeist",
-        "reason": "Mass-produced polypropylene chair optimised for cost and stackability — Mathsson's Eva optimised for the single human body, hemp webbing giving where pressure increases. Industrial efficiency versus anatomical intelligence"
+        "reason": "The HS-011 stacking chair is optimised for cost-per-seat-per-square-metre — polypropylene, stackable, minimal material. Mathsson's Eva is optimised for one spine in one position — laminated beech curves, hemp webbing tension, every surface responding to where the body presses hardest. Industrial efficiency versus anatomical precision."
       },
       {
         "id": 418,
@@ -17290,12 +17290,12 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both integrate complex electronic functions into simplified forms, but Zanuso/Sapper emphasize sculptural identity while Fukasawa pursues invisibility"
+        "reason": "Fukasawa's wall-mounted CD-player eliminates the box entirely — pull a cord and music starts, the mechanism exposed on the wall like an appliance. The Grillo eliminates the desk entirely — fold it open and talk, the mechanism held in the hand like a tool. Both free electronic devices from furniture, Fukasawa through wall mounting and Zanuso through pocket portability."
       },
       {
         "id": 24,
         "type": "method",
-        "reason": "Both eliminate conventional housing — Fukasawa mounts the CD mechanism directly on the wall, Jacobsen moulds a chair from a single fiberglass shell. Both remove the box around the function"
+        "reason": "Fukasawa mounts the CD-player directly on the wall and pulls a cord to start it — eliminating the box, the shelf, the conventional housing. Jacobsen eliminates the chair's conventional structure — legs, arms, frame, back — replacing it all with a single tilted shell. Both remove the expected container around the function."
       },
       {
         "id": 421,
@@ -17389,7 +17389,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve the challenge of creating intimate communication devices, but where Grillo uses bold sculptural form, NEON achieves intimacy through surface subtlety and tactile refinement"
+        "reason": "Fukasawa's au NEON reduces the mobile phone to a smooth surfaced pebble — intimacy through material softness and simple form. The Grillo creates intimacy through sculptural compactness and the physical gesture of folding open — the act of unfolding is the act of initiating conversation. Both design phones for the hand's pleasure, forty years apart."
       },
       {
         "id": 24,
@@ -17478,7 +17478,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "Both derive form from bodily behaviour — Fukasawa maps the phone's buttons to the thumb's natural movement, Castiglioni maps the lamp to gravity's pull. Objects shaped by how people actually use them"
+        "reason": "Fukasawa arranges the Infobar's buttons so your thumb falls naturally onto the most-used functions — the interface mapped to the hand's geometry. Castiglioni positions the Parentesi's bracket at whatever height your task demands — the light mapped to the room's needs. Both design from observed behaviour rather than aesthetic theory."
       },
       {
         "id": 79,
@@ -17520,7 +17520,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "material",
-        "reason": "Both reduce a functional object to geometric minimum — Hohmann's circular basin eliminates every unnecessary ceramic surface, Castiglioni's Parentesi eliminates every unnecessary component. Shared method of reduction across bathroom and lighting"
+        "reason": "Hohmann's circular washbasin at the Barbican eliminates every surface that isn't the bowl itself — pure ceramic reduction. The Parentesi eliminates every component that isn't the cable, the bracket and the lamp holder — pure functional reduction. Both reach the same destination (nothing superfluous) through different material logics: ceramic geometry and steel tension."
       },
       {
         "id": 5,
@@ -17582,7 +17582,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both represent the application of Bauhaus systematic thinking to everyday objects, creating templates for rational living through designed relationships"
+        "reason": "Wagenfeld's storage boxes nest in calculated proportional relationships — each size relates mathematically to the next, creating systematic domestic order. The Egg is a single form with no system — one chair, one shell, one gesture. Wagenfeld designs relationships between objects; Jacobsen designs a self-contained world within one object."
       }
     ],
     "keywords": [
@@ -17629,7 +17629,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "material",
-        "reason": "Both exploit ABS plastic's moldability for complex forms, demonstrating how material properties enable new functional configurations in consumer products"
+        "reason": "Colombo's Boby trolley exploits ABS plastic's ability to create complex rotating compartments in a single moulding — plastic enabling spatial ingenuity. The Grillo exploits ABS plastic's ability to create two shells connected by a precision hinge — plastic enabling mechanical ingenuity. Both are 1960s Italian demonstrations that injection-moulded plastic enables new functional behaviours."
       }
     ],
     "keywords": [
@@ -17676,7 +17676,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "zeitgeist",
-        "reason": "Both demonstrate maximum result from minimum means — Yoshioka's honeycomb paper unfolds into seating through body weight alone, Castiglioni's cable holds a spotlight through gravity alone. Structure activated by elementary physics"
+        "reason": "Yoshioka's honeycomb paper chair ships flat and unfolds into seating when someone sits on it — the user's body weight opens 120 layers into a structural form. The Parentesi ships as a cable and bracket that the user tensions between floor and ceiling — gravity holds it taut, friction holds the light in position. Both are activated by elementary physics (weight, gravity), doing no more than Newton requires."
       }
     ],
     "keywords": [
@@ -17723,7 +17723,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "Saville appropriates Fantin-Latour's 1890 painting as an entire album cover — Rams strips away all cultural reference to leave only the juicer's mechanism. Maximum art-historical content against zero content, both striking"
+        "reason": "Saville places Fantin-Latour's 1890 still-life painting directly onto New Order's album sleeve — the entire cover is an appropriated image, no original design. Rams designs the MPZ 2 from first principles — every element original, nothing borrowed, form following function. Cultural theft versus functional invention."
       }
     ],
     "keywords": [
@@ -17770,7 +17770,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "material",
-        "reason": "Garrett fragments record sleeve into geometric dazzle pattern, Jacobsen unifies the chair into a single continuous shell — fragmentation versus integration as responses to the same modernist impulse"
+        "reason": "Garrett fragments OMD's Dazzle Ships sleeve into broken geometric planes that disorient the eye — a surface designed to disrupt pattern recognition. Jacobsen wraps the Egg in a single unbroken surface that encloses the body — a form designed to provide uninterrupted comfort. Fragmentation against continuity, both through rigorous geometry."
       }
     ],
     "keywords": [
@@ -17859,7 +17859,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "Saville's Lament cover uses restrained typography and muted colour for emotional understatement — Rams's juicer uses restrained form and transparent acrylic for functional clarity. Both achieve power through what they leave out"
+        "reason": "Saville's Lament cover uses muted colour and sparse typography to evoke grief — emotional restraint in graphic design. Rams uses neutral colour and sparse components to evoke functional clarity — operational restraint in product design. Both refuse loudness, but Saville's quiet is emotional and Rams's quiet is rational."
       },
       {
         "id": 12,
@@ -17901,7 +17901,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Saville turns pulsar data into Joy Division's iconic cover through radical reduction — Jacobsen turns the wing chair archetype into a foam shell through radical simplification. Both strip away convention to find an essential form"
+        "reason": "Saville reduces Joy Division's identity to a stacked-line data visualisation — the band's complexity compressed into one stark graphic. Jacobsen reduces the wing chair to a continuous foam shell — the chair type's complexity compressed into one sculpted form. Both achieve iconic status through radical simplification of something previously elaborate."
       },
       {
         "id": 14,
@@ -18489,7 +18489,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both products of German systematic design thinking in the postwar period, using geometric reduction and modular principles"
+        "reason": "Aicher reduces the dachshund to geometric modules for the 1972 Munich Olympics — identity through systematic abstraction. Jacobsen reduces the seated body to a continuous shell for the SAS Royal Hotel — comfort through formal abstraction. Both create design identities for specific architectural commissions through geometric reduction."
       },
       {
         "id": 13,
@@ -18504,7 +18504,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "lineage",
-        "reason": "Aicher reduces a dachshund to geometric modules and systematic colour — Rams reduces a juicer to geometric essentials and functional transparency. Both Ulm-connected designers applying systematic reduction, to mascot and machine"
+        "reason": "Aicher reduces Munich's Olympic dachshund mascot to modular geometric components — a dog made from circles and rectangles, identity through systematic abstraction. Rams reduces the juicer to geometric components — a machine made from cylinders and transparent housing, function through systematic reduction. Both German, both systematic, both proving that geometry can carry warmth."
       }
     ],
     "keywords": [
@@ -18551,7 +18551,7 @@ export const ARCHIVE = [
       {
         "id": 92,
         "type": "argument",
-        "reason": "Garland strips the CND march poster to pure information: route, date, purpose — Rams strips the juicer to pure function: reamer, vessel, spout. Both achieve clarity through the discipline of removing everything unnecessary"
+        "reason": "Garland strips the CND march poster to pure information — route, date, purpose, nothing decorative. Rams strips the juicer to pure function — motor, press, container, nothing decorative. Both remove everything except what the user needs: Garland's marcher needs directions, Rams's cook needs juice."
       }
     ],
     "keywords": [
@@ -18677,7 +18677,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both abstract complex reality into clean geometry — Beck's sketch reduces London's geography to a schematic diagram, Jacobsen's Egg reduces the seated body to a continuous shell. Diagrammatic and spatial reduction, shaped by the same modernist instinct"
+        "reason": "Beck's sketch abandons London's actual geography for a diagrammatic network — truth sacrificed for usability. Jacobsen's Egg abandons conventional chair construction (legs, frame, cushions) for a monolithic shell — tradition sacrificed for enclosure. Both are radical abstractions that succeed because they solve the user's real need better than literal accuracy would."
       },
       {
         "id": 14,
@@ -18766,7 +18766,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "lineage",
-        "reason": "Wegner's 1944 exploration of steam-bent ash and traditional joinery directly informed his later plywood experiments in the Shell Chair, showing his progression from solid wood to laminated construction"
+        "reason": "Wegner refines his armchair through multiple iterations of steam-bent ash joints — each version tightening the relationship between structure and comfort. Zanuso and Sapper refine the telephone through the Grillo's hinge — one mechanical innovation tightening the relationship between function and portability. Both achieve elegance through persistent refinement of a single structural idea."
       },
       {
         "id": 6,
@@ -18823,7 +18823,7 @@ export const ARCHIVE = [
       {
         "id": 8,
         "type": "zeitgeist",
-        "reason": "Both emerge from the same postwar moment of material optimism — Eames transfers wartime plywood moulding to furniture, the Castiglionis apply architectural lighting principles to the table lamp. American engineering and Italian design thinking, parallel postwar inventions"
+        "reason": "Eames transfers wartime plywood-moulding techniques to the living room — military R&D becoming domestic furniture. The Castiglionis transfer architectural indirect-lighting techniques to the tabletop — building services becoming a table lamp. Both are postwar translations from one context to another, American and Italian."
       },
       {
         "id": 1,
@@ -19000,12 +19000,12 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "sameProblem",
-        "reason": "Both solve directional lighting through adjustable mechanisms, but Castiglioni uses marble counterweights while Aulenti employs telescoping stems, showing different approaches to balancing form and mechanical function"
+        "reason": "Aulenti's Pipistrello telescope-extends its stainless steel stem so you can raise or lower the opaline glass shade — the adjustment built into the lamp itself. The Arco's steel arc is a fixed span calculated exactly for a dining table — no adjustment, no options. Aulenti designs flexibility; Castiglioni designs certainty."
       },
       {
         "id": 3,
         "type": "zeitgeist",
-        "reason": "Both designed in the early 1970s when Italian designers were exploring adjustable lighting systems, but Aulenti's biomorphic approach contrasts with Castiglioni's mechanical minimalism"
+        "reason": "Aulenti's Pipistrello (1965) solves adjustable height through a telescoping stem — the stainless steel column extends and retracts like a periscope. Castiglioni's Parentesi (1971) solves adjustable height through a sliding bracket on a fixed cable. Aulenti builds the adjustment into the lamp itself; Castiglioni builds it into the architecture."
       },
       {
         "id": 274,
@@ -19094,7 +19094,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "method",
-        "reason": "Somers suspends a ceramic teapot inside a knitted cosy that becomes structure — the Snoopy sits a metal reflector on a glass stem above a marble base. Both invert expected material hierarchies: soft supporting hard, light supporting heavy"
+        "reason": "Somers suspends a ceramic teapot inside a knitted cosy that becomes both insulation and structure — the textile holds the vessel. The Snoopy sits a metal reflector on a glass stem that sits on a marble base — each component supports the next. Both work through material stacking, but Somers's stack is soft and the Castiglionis' is hard."
       }
     ],
     "keywords": [
@@ -19163,7 +19163,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "argument",
-        "reason": "Where Circuit uses electrical metaphors to suggest technological optimism, Colourtron deploys pure optical sensation to overwhelm rational perception — two approaches to 1960s futurism through pattern"
+        "reason": "Colourtron's textile uses pure optical colour sensation to overwhelm rational perception — you don't think, you react. The Grillo uses sculptural form and a satisfying folding action to overwhelm rational analysis — you don't evaluate, you pick it up. Both bypass intellectual engagement through immediate sensory appeal."
       },
       {
         "id": 12,
@@ -19279,7 +19279,7 @@ export const ARCHIVE = [
       {
         "id": 109,
         "type": "method",
-        "reason": "Both demonstrate Arad's consistent approach of treating expected materials as sculptural mediums—whether steel rod in furniture or paper in graphic design—to question the assumed properties and behaviors of conventional typologies."
+        "reason": "Arad's V&A album page treats paper as a sculptural material — folded, pressed, metallic-coated — refusing the flat conventions of print. Dixon's S Chair treats steel rod as a sculptural material — bent, welded, left unfinished — refusing the upholstered conventions of furniture. Both use their material's physical behaviour as the design idea, not a surface applied to it."
       }
     ],
     "keywords": [
@@ -19631,7 +19631,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Barber's experimental studies blur boundaries between functional objects and sculptural forms — Jacobsen's Egg sits precisely on that boundary, a fiberglass sculpture that happens to be the perfect chair"
+        "reason": "Barber's experimental studies deliberately blur the line between functional object and sculpture — you can't tell if it's a vessel or an artwork. The Egg occupies exactly the same ambiguity: it's a fully functional hotel chair that looks like it belongs in a sculpture gallery. Both exist productively at the boundary between use and art."
       },
       {
         "id": 18,
@@ -19841,7 +19841,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both objects solve the problem of integrating electronic devices into domestic space, but the telephone achieves intimacy through compact handling while the TV uses furniture scale for room presence"
+        "reason": "The Bouroullecs' Serif TV uses a thin profile and fabric-textured back so the television works as furniture — technology disguised as domestic object. The Grillo used sculptural ABS and a folding mechanism so the telephone worked as personal accessory — technology elevated to designed object. Both integrate electronics into domestic life, but the Serif hides and the Grillo displays."
       }
     ],
     "keywords": [
@@ -19883,7 +19883,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "method",
-        "reason": "Kossoff layers aggressive etched marks onto classical composition, Jacobsen layers smooth foam onto a fiberglass shell — both work through accumulation onto structure, from opposite aesthetic positions"
+        "reason": "Kossoff builds up etched lines in aggressive layers over a classical composition — Poussin's orderly scene buried under accumulated gestural marks. Jacobsen builds up foam in smooth curves over a fibreglass shell — the wing chair's traditional construction buried under a seamless industrial surface. Both work through layered material accumulation, rough and smooth."
       }
     ],
     "keywords": [
@@ -19925,7 +19925,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Ilori strips a chair to its frame and makes the exposure playful — the Castiglionis strip a lamp to base, stem and shade and make the simplicity charming. Both find character in structural honesty"
+        "reason": "Ilori strips a chair to its bare wooden frame and paints it in bold African-inspired colours — the exposure becomes the decoration. The Castiglionis strip a table lamp to base, stem and shade and let the material contrasts — marble, glass, metal — become the visual interest. Both find richness in structural honesty."
       }
     ],
     "keywords": [
@@ -20004,7 +20004,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both phones reimagine human-device interaction, but Zanuso and Sapper focus on ergonomic form while Ive eliminates physical interface entirely"
+        "reason": "The iPhone eliminates all physical buttons except one — interaction moves entirely to the glass screen. The Grillo makes its single physical action (the fold) the defining interaction — everything about the phone hinges on the hinge. Apple removes the interface; Zanuso and Sapper make the interface the design."
       },
       {
         "id": 14,
@@ -20167,7 +20167,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "zeitgeist",
-        "reason": "Both represent Italian design's post-war strategy of transforming utilitarian communication devices into objects of desire, using sculptural form language to elevate everyday technology"
+        "reason": "Nizzoli sculpts the Lexicon 80's body into flowing aluminium curves that make a typewriter feel like a sports car — Italian design elevating office equipment into desirable objects. Zanuso and Sapper sculpt the Grillo into folding ABS curves that make a telephone feel like a personal accessory. Same Italian strategy: industrial product transformed through sculptural form language."
       },
       {
         "id": 16,
@@ -20308,7 +20308,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "zeitgeist",
-        "reason": "Both represent early 1960s corporate commitment to sculptural minimalism in communication technology, but Selectric's monolithic form contrasts with Grillo's articulated folding mechanism"
+        "reason": "IBM's Selectric is a sealed monolith — smooth curves concealing a revolutionary typeball mechanism, the engineering completely hidden. The Grillo is an articulated shell — the hinge mechanism visible and celebrated, the fold defining the object's identity. Both are early 1960s designs that make complex mechanisms feel simple, through concealment and expression."
       },
       {
         "id": 50,
@@ -20523,7 +20523,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both solve the problem of making electronic communication devices truly portable, though the Walkman makes broadcast media personal while the Grillo makes interpersonal communication mobile"
+        "reason": "Sony's Stowaway Walkman makes broadcast media personal — headphones creating a private listening bubble in public space. The Grillo makes interpersonal communication portable — a folding shell creating a private phone call away from the desk. Both liberate electronic devices from fixed locations, audio and voice."
       },
       {
         "id": 49,
@@ -20695,7 +20695,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "argument",
-        "reason": "The Sports Walkman prioritizes visibility and durability over elegance, contrasting with the Grillo's refined formal integration that emphasizes sophisticated use contexts"
+        "reason": "Sony's Sports Walkman wraps electronics in bright yellow rubber — visibility and durability for outdoor use, the casing screaming 'active lifestyle.' The Grillo wraps electronics in matt ABS with a precision hinge — sophistication for domestic use, the form whispering 'considered design.' Same decade, same portability problem, opposite material rhetoric."
       }
     ],
     "keywords": [
@@ -20813,7 +20813,7 @@ export const ARCHIVE = [
       {
         "id": 37,
         "type": "material",
-        "reason": "Both carry the weight of ceramic tradition into contemporary production — Wedgwood's plate negotiates between historic English craft and global manufacturing, the Margrethe established a new Danish tradition of designed domesticity in melamine"
+        "reason": "Wedgwood's plate carries 260 years of English ceramic tradition in its profile and glaze — every curve referencing the pottery's archive. The Margrethe Bowl carries no historical reference at all — its melamine form comes entirely from watching people bake. One negotiates with tradition; the other starts from scratch with behaviour."
       },
       {
         "id": 13,
@@ -21223,7 +21223,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "material",
-        "reason": "Both designers exploit injection-molded plastic's ability to create complex forms impossible in traditional furniture materials, enabling new functional possibilities"
+        "reason": "Colombo moulds the Boby Trolley's rotating ABS compartments so the entire storage system pivots on a central axis — plastic enabling rotational function. Zanuso and Sapper mould the Grillo's two ABS halves so the entire phone pivots on a central hinge — plastic enabling folding function. Both use injection moulding not just for form but for mechanical behaviour."
       }
     ],
     "keywords": [
@@ -21349,7 +21349,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "method",
-        "reason": "Both Zanuso projects use plastic forming to create compact housings for electronic components, establishing the formal language of Italian consumer electronics design"
+        "reason": "The TS502 is Zanuso's radio — a hinged clamshell in bright plastic that folds shut into a geometric solid. The Grillo is Zanuso's telephone — a hinged clamshell in ABS that folds shut into a compact pocket form. Same designer, same structural idea (the fold), applied across two product types: the portable radio and the portable phone."
       },
       {
         "id": 525,
@@ -21485,7 +21485,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "zeitgeist",
-        "reason": "Both represent 1960s-70s Italian lighting that treats lamps as architectural elements — Castiglioni through structural cantilever, Magistretti through monumental stacking"
+        "reason": "Magistretti's Atollo stacks a hemisphere on a cylinder on a cone — three geometric primitives locked into a single sculptural column, light emerging from the top. The Arco extends a steel arc from a marble block — a single structural gesture, light delivered at the far end. Atollo compresses form; Arco extends it."
       },
       {
         "id": 7,
@@ -21700,7 +21700,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "argument",
-        "reason": "Pesce's resin chairs emerge differently from each casting, celebrating imprecision — every Snoopy is identical, celebrating precision. Controlled chaos against controlled exactness, both as Italian design philosophies"
+        "reason": "Pesce pours resin so it overflows and hardens unpredictably — every Crosby Chair is different because the process is deliberately imprecise. Every Snoopy is identical because the process is deliberately precise — marble turned, glass blown, metal pressed to exact specification. Pesce celebrates the accident; the Castiglionis eliminate it."
       },
       {
         "id": 9,
@@ -22175,7 +22175,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Where Castiglioni's Arco solves lighting problems through rational engineering, de Lucchi's Sinerpica prioritizes expressive form over functional efficiency"
+        "reason": "De Lucchi's Sinerpica extends organic tendrils from a base like a growing plant — form expressing energy and growth. The Arco extends a steel arc from a marble block like a crane — form expressing counterbalance and reach. Both are floor-standing lamps that occupy space dramatically, but Sinerpica is biological and Arco is mechanical."
       }
     ],
     "keywords": [
@@ -22332,7 +22332,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "argument",
-        "reason": "While Castiglioni creates adjustable lighting through mechanical systems, Miyake achieves flexibility through material properties—opposing approaches to user customization"
+        "reason": "Miyake's Light lamp uses pleated recycled polyester that the user can reshape — the material's memory allows the shade to hold any form you give it. The Parentesi uses gravity and friction to hold its bracket wherever you slide it. Both let the user define the final form, but Miyake works through textile flexibility and Castiglioni through gravitational mechanics."
       },
       {
         "id": 549,
@@ -22594,7 +22594,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "zeitgeist",
-        "reason": "Mari publishes furniture plans anyone can build from pine boards and nails — the Castiglionis design a lamp whose construction is immediately legible: base, stem, shade. Both make design logic transparent, Mari through democracy, the Castiglionis through elegance"
+        "reason": "Mari publishes dimensioned drawings so anyone can build furniture from standard pine boards and nails — the design is the instruction. The Snoopy's design is the assembly: stack marble, add glass, top with metal. Both are transparent about how they're made, but Mari invites you to make it and the Castiglionis invite you to see it."
       }
     ],
     "keywords": [
@@ -22767,7 +22767,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "Kuroda's platter achieves expression through controlled ceramic deformation — Jacobsen's Egg achieves enclosure through controlled fiberglass forming. Both use a single material's plasticity to create form that feels both precise and organic"
+        "reason": "Kuroda's platter achieves expression through controlling exactly how far the clay deforms under heat — the kiln does the work, the potter sets the limits. Jacobsen achieves enclosure through controlling exactly how far the fibreglass curves around the body — the mould does the work, the designer sets the geometry. Both use a forming process as creative partner."
       },
       {
         "id": 6,
@@ -22846,7 +22846,7 @@ export const ARCHIVE = [
       {
         "id": 37,
         "type": "material",
-        "reason": "Both apply precise forming to utilitarian objects — Rie's wartime button mould shapes ceramic for mass production, the Margrethe Bowl shapes melamine for kitchen use. Craft precision serving everyday function"
+        "reason": "Rie's wartime button moulds shape ceramic with the same precision she brings to her studio vessels — the utilitarian object made with an artist's standards. The Margrethe Bowl shapes melamine with the same ergonomic precision as Bernadotte and Bjørn's industrial design practice — the domestic object made with an engineer's standards. Both elevate the mundane through disciplined forming."
       },
       {
         "id": 11,
@@ -23145,7 +23145,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "zeitgeist",
-        "reason": "Both late 1950s objects demonstrate the period's confidence in modernist design's ability to improve everyday life — Zanuso through ergonomic innovation, Coper through sculptural dignity, both elevating utilitarian objects"
+        "reason": "Coper throws a washbasin and pedestal on a potter's wheel — a utilitarian bathroom fixture elevated through the dignity of hand-thrown form. Zanuso and Sapper fold a telephone in half through a precision hinge — a utilitarian communication device elevated through the dignity of sculptural engineering. Both ennoble the everyday."
       }
     ],
     "keywords": [
@@ -23485,7 +23485,7 @@ export const ARCHIVE = [
       {
         "id": 5,
         "type": "zeitgeist",
-        "reason": "Perry loads his ceramic vessels with transgressive imagery and text — the Snoopy carries no message at all, only function that happens to produce character. Maximum semiotic content against zero semiotic content, in objects of similar domestic scale"
+        "reason": "Perry covers his ceramic pots with hand-drawn figures, slogans, heraldic motifs — every surface loaded with meaning and provocation. The Snoopy's surfaces carry nothing — polished marble, clear glass, painted metal. Perry argues that objects should be covered in culture; the Castiglionis argue that objects should be covered in nothing."
       }
     ],
     "keywords": [
@@ -23658,7 +23658,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "zeitgeist",
-        "reason": "Both emerge from 1980s experimentation with industrial materials in artistic practice, though Schwarcz works through craft traditions"
+        "reason": "Schwarcz hammers and folds copper and silver into vessel forms that blur craft and sculpture — industrial metalworking techniques applied with artistic intent. Jacobsen moulds fibreglass and foam into a chair that blurs furniture and sculpture — industrial fabrication applied with ergonomic and aesthetic intent. Both use industrial skills to make objects that transcend their category."
       }
     ],
     "keywords": [
@@ -24086,7 +24086,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "lineage",
-        "reason": "The Multi Chair extends Colombo's modular philosophy from the Componibili — both use simple geometric forms that the user recombines, but here the body replaces the container"
+        "reason": "Colombo's Multi Chair hinges two foam cushions that the user pivots into different seating configurations — sit, lounge, or recline. The Parentesi slides a bracket that the user positions at any height along a cable — task light, reading light, or ambient. Both give the user multiple functions from a single object through simple mechanical transformation."
       },
       {
         "id": 10,
@@ -24123,7 +24123,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Pesce's deliberately imprecise mould makes every chair unique through uncontrolled resin overflow — the Castiglionis mount a bicycle saddle on a steel column for taking phone calls standing up. Both challenge what chairs should be: Pesce through material chaos, the Castiglionis through readymade wit"
+        "reason": "Pesce pours resin into a deliberately imprecise mould so every chair emerges unique — celebrating manufacturing error as creative act. The Castiglionis found a ready-made tractor seat in a catalogue, screwed it to a steel stem, and weighted it with a cast-iron doorstop. Pesce makes uniqueness through controlled chaos; the Castiglionis make a one-off from three found objects that were already perfect."
       },
       {
         "id": 3,
@@ -24160,7 +24160,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "method",
-        "reason": "Newson moulds fibreglass into an organic shell covered in neoprene — Zanuso & Sapper fold a plastic shell into the first flip phone. Both use single-shell moulding to create organic form, at furniture and product scale"
+        "reason": "Newson moulds fibreglass into the Embryo Chair's organic shell and covers it in neoprene — a single-material enclosure shaped by the body's form. Zanuso and Sapper mould ABS into the Grillo's folding shell — a single-material enclosure shaped by the hand's form. Both use moulded shells to create objects that feel biological rather than industrial."
       }
     ],
     "keywords": [
@@ -24228,7 +24228,7 @@ export const ARCHIVE = [
       {
         "id": 3,
         "type": "method",
-        "reason": "Both use industrial processes to rethink domestic archetypes — Hayon's rotational-moulded shell reinterprets the classical armchair, Castiglioni's Parentesi reinterprets the table lamp as tensioned cable and sliding bracket"
+        "reason": "Hayon's Showtime rotational-moulds a plastic shell into a generous armchair that wraps around you — industrial process producing an enveloping domestic object. The Parentesi tensions a steel cable from floor to ceiling with a sliding bracket — industrial components producing a domestic lighting system. Both domesticate industrial methods, but Hayon makes them warm and Castiglioni makes them invisible."
       },
       {
         "id": 9,
@@ -24333,7 +24333,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "The Campanas nail hundreds of irregular wood scraps into a chair — the Castiglionis mount a bicycle saddle on a column. Both make seating from found material, Brazilian abundance against Italian precision, accumulation against reduction"
+        "reason": "The Campanas walk through São Paulo favelas collecting scrap wood and nail it piece by piece into a chair — accumulation as method, the city's debris as material. The Castiglionis walk through a hardware catalogue and select a saddle, a column and a doorstop — selection as method, industry's existing output as material. Both refuse to design from scratch. Both trust what already exists."
       },
       {
         "id": 7,
@@ -24369,7 +24369,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "argument",
-        "reason": "Chalayan's Bubble Chair transforms furniture into wearable garment on the runway — the Grillo transforms a telephone by folding it in half. Both rethink their object through a single structural operation: wearing and folding"
+        "reason": "Chalayan's Bubble Dress transforms a garment into furniture through a mechanical frame that expands on the runway — clothing gaining volume through structure. The Grillo transforms a desk telephone into a pocket device through a hinge that collapses the volume. Both use a single mechanical action to change an object's relationship to the body."
       }
     ],
     "keywords": [
@@ -24464,7 +24464,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Mari publishes plans for furniture anyone can build from pine and nails — the Castiglionis mount a found saddle on a found doorstop. Both challenge who gets to design: Mari through democratic instruction, the Castiglionis through readymade assemblage"
+        "reason": "Mari publishes dimensioned drawings so anyone with pine boards and nails can build their own furniture — democratic design through shared instructions. The Castiglionis assemble a tractor seat, a steel tube and a cast-iron base into a telephone stool without manufacturing anything new — democratic design through recognising that industry has already solved the components."
       },
       {
         "id": 7,
@@ -24533,7 +24533,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Baas arrests burning classical furniture at the precise moment of destruction — the Castiglionis arrest a bicycle saddle at the precise height for telephone calls. Both freeze a moment of use or transformation, destructive and functional"
+        "reason": "Baas applies controlled fire to a classical wooden chair, stopping the burning at the precise moment the charred surface becomes a new material quality. The Castiglionis apply controlled observation to domestic behaviour, stopping at the precise moment they recognise that a tractor seat at standing height is already the perfect telephone perch. Both arrest a process to create a design."
       },
       {
         "id": 7,
@@ -24570,7 +24570,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Van der Poll delivers a steel cube with a sledgehammer for the owner to beat into shape — the Castiglionis assemble a bicycle saddle on a steel column and doorstop. Both make the user complicit: one through violent participation, the other through the recognition of everyday objects repurposed"
+        "reason": "Van der Poll ships you a polished steel cube and a sledgehammer. You beat it into your own chair — violence as personalisation. The Castiglionis present you with a tractor seat on a pole weighted by a doorstop. You perch on it to make phone calls — recognition as function. Van der Poll makes the user a maker; the Castiglionis make the user an accomplice in seeing the ordinary differently."
       },
       {
         "id": 1,
@@ -24867,7 +24867,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Hans designs a flat-pack CNC-milled open-source chair from a single plywood sheet — the Castiglionis assemble a bicycle saddle, steel column and cast-iron doorstop. Both rethink who makes furniture and how: digital democracy against readymade assemblage"
+        "reason": "Hans distributes digital files for a flat-pack chair anyone can CNC-mill from a single plywood sheet — open-source design, the user as fabricator. The Castiglionis assembled three catalogue objects anyone could buy — found-object design, the user as recogniser. Both challenge who 'designs': Hans opens the factory, the Castiglionis open the hardware store."
       }
     ],
     "keywords": [
@@ -24998,7 +24998,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "The Campanas sew hundreds of plush stuffed animals into a steel chair frame — the Castiglionis mount a bicycle saddle on a steel column. Both assemble the unexpected into seating: toys and found parts, Brazilian excess and Italian economy"
+        "reason": "The Campanas stitch hundreds of plush toy animals onto a steel chair frame until the structure disappears beneath accumulated softness. The Castiglionis expose every component — saddle, stem, doorstop — each object legible, each function visible. Brazilian excess buries the structure; Italian wit reveals it."
       }
     ],
     "keywords": [
@@ -25188,7 +25188,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Formafantasma investigates electronic waste supply chains through designed objects — the Castiglionis investigate everyday objects by recontextualising them as furniture. Both use design to reveal hidden relationships: global industry and domestic readymades"
+        "reason": "Formafantasma traces the supply chain of electronic waste from Lagos to China, making the invisible global infrastructure of disposal into visible designed objects. The Castiglionis trace the supply chain of everyday hardware — tractor seats, steel tubes, doorstops — making the invisible infrastructure of industry into visible furniture. Both reveal systems hidden in plain sight."
       }
     ],
     "keywords": [
@@ -25252,7 +25252,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Baas models synthetic clay over hidden steel to create furniture that looks handmade — the Castiglionis mount a factory bicycle saddle on a found doorstop. Both play with authenticity: Baas simulates handcraft, the Castiglionis celebrate the industrial object as-found"
+        "reason": "Baas moulds synthetic clay over a hidden steel armature, creating furniture that performs handmade authenticity while concealing its industrial skeleton. The Castiglionis do the opposite: they leave the tractor seat visibly a tractor seat, the doorstop visibly a doorstop, the steel tube visibly a steel tube. Baas designs fakeness; the Castiglionis design honesty."
       }
     ],
     "keywords": [
@@ -25316,7 +25316,7 @@ export const ARCHIVE = [
       {
         "id": 10,
         "type": "sameProblem",
-        "reason": "Both create enclosure through folding — the Bouroullecs' Alcove Sofa raises walls to create semi-enclosed space, the Grillo folds earpiece onto mouthpiece to create a compact object. Architectural furniture and folding phone, both using the hinge"
+        "reason": "The Bouroullecs' Alcove Sofa raises high walls around a conventional seat to create semi-enclosed space — architecture added to furniture. The Grillo folds the earpiece down to halve the phone's footprint — architecture subtracted from a product. Both use a single formal move (raising walls, folding halves) to transform the object's spatial relationship to the user."
       }
     ],
     "keywords": [
@@ -25411,7 +25411,7 @@ export const ARCHIVE = [
       {
         "id": 4,
         "type": "argument",
-        "reason": "Dunne & Raby design electronic objects to address anxiety about invisible radiation — the Castiglionis mount a bicycle saddle for the anxious moment of waiting by the telephone. Both design for psychological states rather than physical comfort"
+        "reason": "Dunne & Raby design a Faraday cage disguised as domestic furniture to shield the user from electromagnetic radiation — the chair addresses an invisible anxiety. The Castiglionis designed Sella for the visible anxiety of telephone calls — the restless perching, the half-standing, the need to move while talking. Both design for psychological states rather than seated comfort."
       }
     ],
     "keywords": [
