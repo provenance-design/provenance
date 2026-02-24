@@ -1,3 +1,7 @@
+export const CONNECTION_TYPES = {"argument": {"label": "Argument", "symbol": "⟷", "color": "#8B4513"}, "lineage": {"label": "Lineage", "symbol": "→", "color": "#2F5233"}, "material": {"label": "Material Thread", "symbol": "◆", "color": "#4A6741"}, "sameProblem": {"label": "Same Problem", "symbol": "◎", "color": "#5B7065"}, "zeitgeist": {"label": "Zeitgeist", "symbol": "≈", "color": "#6B7B6F"}, "method": {"label": "Shared Method", "symbol": "●", "color": "#7A8B7A"}};
+
+export const DISCIPLINES = ["Product", "Furniture", "Graphic", "Lighting", "Architecture", "Typography", "Textile", "Transport", "Ceramic", "Glass", "Metalwork"];
+
 export const ARCHIVE = [
   {
     "id": 1,
