@@ -2607,6 +2607,11 @@ export const ARCHIVE = [
         "id": 65,
         "type": "method",
         "reason": "Helvetica aims for neutrality — no calligraphic stress, no personality, just content. Müller-Brockmann's grid aims for the same — no intuitive composition, just mathematical structure. The typeface and the methodology: Swiss graphic design's two tools for making the designer disappear."
+      },
+      {
+        "id": 14,
+        "type": "method",
+        "reason": "Helvetica gives every letterform neutral, objective proportions — the typeface designed to have no personality, to serve any message equally. Tschichold gives every Penguin cover standardised margins, type sizes, and colour coding — the book designed to have no individual expression, to serve any author equally. Two Swiss-influenced systems that achieve universality by eliminating the particular. The question both raise: does neutrality liberate content or suppress it?"
       }
     ],
     "keywords": [
@@ -13111,6 +13116,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "method",
         "reason": "Assemble’s bookends show their construction — the concrete pour, the mould marks, the imperfections. The Pompidou shows its construction — the steel trusses, the service runs, the gerberettes. Democratic transparency at craft scale and institutional scale."
+      },
+      {
+        "id": 600,
+        "type": "method",
+        "reason": "Assemble's Bookends use granby workshop waste — ceramic fragments, plaster offcuts, salvaged aggregate — pressed into functional objects. The Campanas' Favela Chair nails scrap wood from São Paulo streets into a functional seat. Both practices insist that the roughness of reclaimed material isn't a compromise — it's the entire visual and political argument."
       }
     ],
     "keywords": [
@@ -13234,6 +13244,11 @@ export const ARCHIVE = [
         "id": 120,
         "type": "argument",
         "reason": "Assemble uses raw found stone as lamp base and light source — Sottsass uses primary-coloured ceramic cones as condiment vessels. Both reimagine mundane domestic objects (lamp, cruet set) through unexpected material and formal choices"
+      },
+      {
+        "id": 632,
+        "type": "argument",
+        "reason": "Assemble's Rock Lamp uses waste aggregate and rubble cast into a sculptural base — the material's roughness celebrated, each lamp unique because each batch of waste is different. Grcic's Mayday uses injection-moulded polypropylene in a universal form — the material's precision celebrated, every lamp identical because the mould is exact. Community workshop versus industrial production: two arguments about how utility lighting should be made and who should make it."
       }
     ],
     "keywords": [
@@ -19143,6 +19158,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "argument",
         "reason": "Simmons makes a dollhouse where every object is a designed critique of domestic life — architecture as commentary at 1:6 scale. Piano and Rogers make a building where every pipe is exposed — architecture as commentary at 1:1 scale. Two approaches to making the built environment answer back."
+      },
+      {
+        "id": 104,
+        "type": "argument",
+        "reason": "The Eames House (1948) is a real home built from industrial catalogue parts — architecture as proof that modern materials can make domestic life beautiful. Simmons's Kaleidoscope House (2001) is a dollhouse built from designer furniture miniatures — sculpture as proof that domestic life is already a performance. One invites you to live inside design. The other asks you to look at yourself living inside design."
       }
     ],
     "keywords": [
@@ -19222,6 +19242,11 @@ export const ARCHIVE = [
         "id": 9,
         "type": "method",
         "reason": "Dixon’s Fat Chair inflates a familiar form until it becomes absurd. Starck’s Juicy Salif inflates a familiar tool until it becomes alien. Exaggeration as critique — the bloated and the elongated."
+      },
+      {
+        "id": 471,
+        "type": "lineage",
+        "reason": "The Fat Chair (1991): Dixon inflates an armchair's silhouette to absurd proportions using reclaimed materials and rough welding — the self-taught designer finding form through physical excess. The Jack Light (1996): Dixon stacks a rotational-moulded polyethylene form that functions alone or in clusters — the same designer discovering industrial production. Five years from scrapyard to factory."
       }
     ],
     "keywords": [
@@ -19931,6 +19956,11 @@ export const ARCHIVE = [
         "id": 498,
         "type": "sameProblem",
         "reason": "iPhone 6 (2014): rounded aluminium, thinner profile — the phone as precision instrument. iPod Touch (2012): similar glass slab, narrower purpose — the player as media window. Apple refining the same glass-and-metal language for communication versus consumption."
+      },
+      {
+        "id": 528,
+        "type": "argument",
+        "reason": "Ive's iPhone 6 eliminates physical buttons to create a surface that becomes whatever app you open — the device as infinite potential, always demanding attention. Fukasawa's Muji CD Player eliminates everything except a pull-cord — the device as single function, asking nothing of you. Two designers removing interface to opposite ends: one makes technology omnipresent, the other makes it ambient."
       }
     ],
     "keywords": [
@@ -19968,6 +19998,11 @@ export const ARCHIVE = [
         "id": 48,
         "type": "argument",
         "reason": "Where the iPad embraces screen scale for productivity, the iPod Touch maintains pocket-sized intimacy, representing Apple's internal debate about optimal interface dimensions for different use cases"
+      },
+      {
+        "id": 96,
+        "type": "lineage",
+        "reason": "The iPod Touch inherits the ET66's conviction that a grid of identically sized elements can organise complex information — Rams does it with calculator keys, Ive does it with app icons. But where the ET66's grid is fixed (each key has one permanent function), the iPod's grid is fluid (each icon opens a different world). The rational grid, liberated from rationality."
       }
     ],
     "keywords": [
@@ -20403,6 +20438,11 @@ export const ARCHIVE = [
         "id": 96,
         "type": "zeitgeist",
         "reason": "Sony's Walkman (1990): minimal controls, precise proportions — the cassette player as pocket instrument. Rams's ET66 (1987): minimal keys, precise grid — the calculator as desk instrument. Late-1980s electronic design treating small objects with the seriousness of architecture."
+      },
+      {
+        "id": 10,
+        "type": "sameProblem",
+        "reason": "Zanuso folds the Grillo's handset back onto its own dial in 1965 — the telephone compacted into a single hinged object you can carry room to room. Sony compresses the Walkman's tape mechanism into a belt-clip rectangle in 1990 — music compacted into a single sealed object you can carry street to street. Twenty-five years of the same engineering question: how small can this get before you lose the experience?"
       }
     ],
     "keywords": [
@@ -20693,6 +20733,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "material",
         "reason": "Piano and Rogers used structural transparency to reveal building systems; Conran uses optical transparency to reveal light behavior—both exploit their materials' inherent properties as aesthetic strategy"
+      },
+      {
+        "id": 609,
+        "type": "method",
+        "reason": "Conran's Strata layers coloured glass in horizontal bands — the tumbler's cross-section reveals its own construction, geology made drinkable. Scholten & Baijings graduate pigment across porcelain surfaces — the plate's colour shifts record systematic glaze experiments, chemistry made edible. Two tableware designers who treat the dining table as a site for material research rather than decoration."
       }
     ],
     "keywords": [
@@ -20735,6 +20780,11 @@ export const ARCHIVE = [
         "id": 5,
         "type": "sameProblem",
         "reason": "The Aura Martini glass manages light through cut crystal — geometric facets directing refraction. The Snoopy lamp manages light through a painted metal reflector — a curved surface directing illumination. Two objects controlling where light goes: one through the vessel, the other through the shade."
+      },
+      {
+        "id": 153,
+        "type": "sameProblem",
+        "reason": "Conran's Aura: a martini glass where the stem, bowl, and base are calculated as a single continuous curve — no joint, no interruption, the geometry is the luxury. Vignelli's carafe: a glass vessel where cylinder meets cone in a precise ratio — no handle, no spout, the geometry is the function. Two arguments that glassware needs nothing beyond the mathematics of its own profile."
       }
     ],
     "keywords": [
@@ -21333,6 +21383,11 @@ export const ARCHIVE = [
         "id": 7,
         "type": "argument",
         "reason": "Where Bill's stool reduces form to essential structural logic, Magistretti's lamp adds symbolic weight through classical proportions — functional versus archetypal approaches to geometric reduction"
+      },
+      {
+        "id": 531,
+        "type": "lineage",
+        "reason": "Magistretti's Atollo stacks a cylinder, cone, and hemisphere into a lamp — three geometric primitives, no visible joints, the form IS the engineering. His Selene chair injection-moulds a single S-curve from fibreglass — one geometric gesture, no assembly, the material IS the structure. Same designer reaching the same conclusion in light and in seating: reduce until only the essential geometry survives."
       }
     ],
     "keywords": [
@@ -21459,6 +21514,11 @@ export const ARCHIVE = [
         "id": 55,
         "type": "zeitgeist",
         "reason": "Zanuso's Black ST 201 (1969): a folding television transforming consumer electronics into lifestyle object — Italian flair. Vignelli's subway signage (1966): Helvetica grid transforming urban navigation into systematic design — Italian rigour. Late-1960s Italian design talent, exported to living rooms and underground stations."
+      },
+      {
+        "id": 528,
+        "type": "argument",
+        "reason": "Zanuso's Black 201 (1969) makes the television disappear by reducing it to a matte black cube — the screen floating in darkness, the object refusing to be furniture. Fukasawa's Muji CD Player (1999) makes the stereo disappear by mounting it on a wall like a bathroom fan — the disc spinning visibly, the object refusing to be electronics. Thirty years of the same question: what happens when you strip all the signifiers of 'technology' from a technological object?"
       }
     ],
     "keywords": [
@@ -21637,6 +21697,11 @@ export const ARCHIVE = [
         "id": 14,
         "type": "argument",
         "reason": "Where Tschichold's rules establish typography as invisible infrastructure, Pesce's invitation makes typography's material presence explicit and central to meaning-making."
+      },
+      {
+        "id": 607,
+        "type": "method",
+        "reason": "Pesce's Mourmans invitation is a designed object that must be physically manipulated to read — the graphic design demands bodily engagement, not just looking. Van der Poll's Do Hit Chair is a steel cube that must be physically beaten with a sledgehammer to sit in — the furniture demands bodily violence, not just sitting. Two objects that refuse to function until the user has physically changed them."
       }
     ],
     "keywords": [
@@ -21762,6 +21827,11 @@ export const ARCHIVE = [
         "id": 50,
         "type": "zeitgeist",
         "reason": "Pesce's transparent invitation (1993): resin you look through — the gallery announcement as optical object. Nelson's Platform Bench (1946): wood you sit on — the domestic surface as modular system. Two designers making materials perform unexpected roles."
+      },
+      {
+        "id": 594,
+        "type": "lineage",
+        "reason": "Pesce's gallery invitation (1993): each printed piece is deliberately different — colour bleeds, misregistrations, the printing process producing unique variations from every press run. His Nobody's Perfect Chair (2002): each moulded piece is deliberately different — resin drips, uneven surfaces, the casting process producing unique variations from every pour. Same designer, same principle, nine years apart: the manufacturing error is the design."
       }
     ],
     "keywords": [
@@ -23585,6 +23655,11 @@ export const ARCHIVE = [
         "id": 50,
         "type": "zeitgeist",
         "reason": "Schwarcz's Vessel #2169 (2000): electroformed copper with jewel-like surface texture — craft-scale preciousness. Nelson's Platform Bench (1946): slatted wood with modular functionality — furniture-scale versatility. Two objects from different centuries of making, each treating surface as the carrier of meaning."
+      },
+      {
+        "id": 565,
+        "type": "method",
+        "reason": "Schwarcz hammers and folds copper into a vessel so compressed it barely contains space — the metalwork refusing conventional volume. Coper throws and reassembles clay into a pot so flattened it barely functions as a container — the ceramic refusing conventional roundness. Two postwar vessel-makers pushing their materials toward the same impossibility: a container that has almost no interior."
       }
     ],
     "keywords": [
@@ -23669,6 +23744,11 @@ export const ARCHIVE = [
         "id": 73,
         "type": "material",
         "reason": "Schwarcz's plique-à-jour vessel (1972): enamel suspended without backing, light passing through coloured glass — the vessel as stained-glass window. Aalto's Savoy vase (1936): mouth-blown glass with organic undulation — the vessel as frozen liquid. Two transparent objects, each letting light do the work."
+      },
+      {
+        "id": 610,
+        "type": "material",
+        "reason": "Schwarcz's plique-à-jour technique removes the backing metal after enamelling, leaving translucent enamel windows in a copper vessel — the material becomes a stained-glass lantern. Marcelis's Dawn Light graduates pigment through cast resin — the material becomes a glowing cylinder. Two objects that engineer translucency where opacity was expected, turning solid craft into captured light."
       }
     ],
     "keywords": [
@@ -25073,6 +25153,11 @@ export const ARCHIVE = [
         "id": 622,
         "type": "argument",
         "reason": "Hayon's Dino Chair exaggerates a dining chair's proportions until it looks like a cartoon — playfulness achieved through figurative distortion. Toogood's Roly Poly exaggerates an armchair's proportions until it looks like a boulder — gravity achieved through abstract mass. Two contemporary designers making furniture for adults that refuses adult seriousness, from opposite directions: one adds character, the other removes it."
+      },
+      {
+        "id": 598,
+        "type": "lineage",
+        "reason": "Hayon's Green Chicken (2004): oversized ceramic animal in glossy glaze — folk craft scaled up to pop sculpture. His Dino Chair (2017): oversized wooden armchair with cartoon turnings — vernacular carpentry scaled up to designer furniture. Thirteen years between the same instinct: that decorative exuberance and skilled making aren't opposites of serious design, they're alternatives to it."
       }
     ],
     "keywords": [
