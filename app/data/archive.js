@@ -166,7 +166,8 @@ export const ARCHIVE = [
       "bicycle saddle",
       "observation",
       "lean"
-    ]
+    ],
+    "imageUrl": "/images/4.jpg"
   },
   {
     "id": 5,
@@ -1474,7 +1475,8 @@ export const ARCHIVE = [
       "Bernadotte",
       "60 million",
       "kitchen"
-    ]
+    ],
+    "imageUrl": "/images/37.jpg"
   },
   {
     "id": 38,
@@ -1513,7 +1515,8 @@ export const ARCHIVE = [
       "pressure distribution",
       "Mathsson",
       "laminated beech"
-    ]
+    ],
+    "imageUrl": "/images/38.jpg"
   },
   {
     "id": 39,
@@ -1668,7 +1671,8 @@ export const ARCHIVE = [
       "wartime",
       "moulded plywood",
       "150,000 units"
-    ]
+    ],
+    "imageUrl": "/images/42.jpg"
   },
   {
     "id": 43,
@@ -1863,7 +1867,8 @@ export const ARCHIVE = [
       "light sculpture",
       "handmade",
       "diffusion"
-    ]
+    ],
+    "imageUrl": "/images/47.jpg"
   },
   {
     "id": 48,
@@ -1902,7 +1907,8 @@ export const ARCHIVE = [
       "Irving Harper",
       "spatial time",
       "attribution"
-    ]
+    ],
+    "imageUrl": "/images/48.jpg"
   },
   {
     "id": 49,
@@ -1980,7 +1986,8 @@ export const ARCHIVE = [
       "Herman Miller",
       "Storage Wall",
       "flexible"
-    ]
+    ],
+    "imageUrl": "/images/50.webp"
   },
   {
     "id": 51,
@@ -2019,7 +2026,8 @@ export const ARCHIVE = [
       "sculpture",
       "space",
       "welded steel"
-    ]
+    ],
+    "imageUrl": "/images/51.jpg"
   },
   {
     "id": 52,
@@ -2058,7 +2066,8 @@ export const ARCHIVE = [
       "commissioning",
       "spatial design",
       "corporate modern"
-    ]
+    ],
+    "imageUrl": "/images/52.jpg"
   },
   {
     "id": 53,
@@ -2097,7 +2106,8 @@ export const ARCHIVE = [
       "decoration",
       "Vitra",
       "100,000 objects"
-    ]
+    ],
+    "imageUrl": "/images/53.jpg"
   },
   {
     "id": 54,
@@ -2448,7 +2458,8 @@ export const ARCHIVE = [
       "Knoll",
       "ottoman",
       "comfort"
-    ]
+    ],
+    "imageUrl": "/images/62.webp"
   },
   {
     "id": 63,
@@ -2526,7 +2537,8 @@ export const ARCHIVE = [
       "chromed steel",
       "Cassina",
       "reclining curve"
-    ]
+    ],
+    "imageUrl": "/images/64.jpg"
   },
   {
     "id": 65,
@@ -2643,7 +2655,8 @@ export const ARCHIVE = [
       "texture",
       "learning",
       "54 cards"
-    ]
+    ],
+    "imageUrl": "/images/67.jpg"
   },
   {
     "id": 68,
@@ -2720,7 +2733,8 @@ export const ARCHIVE = [
       "TWA",
       "total system",
       "logotype"
-    ]
+    ],
+    "imageUrl": "/images/69.jpg"
   },
   {
     "id": 70,
@@ -2759,7 +2773,8 @@ export const ARCHIVE = [
       "rattan",
       "Artek",
       "L-leg"
-    ]
+    ],
+    "imageUrl": "/images/70.webp"
   },
   {
     "id": 71,
@@ -2798,7 +2813,8 @@ export const ARCHIVE = [
       "universal",
       "four legs",
       "veneer"
-    ]
+    ],
+    "imageUrl": "/images/71.webp"
   },
   {
     "id": 72,
@@ -2876,7 +2892,8 @@ export const ARCHIVE = [
       "family",
       "system",
       "glass"
-    ]
+    ],
+    "imageUrl": "/images/73.jpg"
   },
   {
     "id": 74,
@@ -2915,7 +2932,8 @@ export const ARCHIVE = [
       "Herman Miller",
       "factory components",
       "ESU"
-    ]
+    ],
+    "imageUrl": "/images/74.jpg"
   },
   {
     "id": 75,
@@ -2954,7 +2972,8 @@ export const ARCHIVE = [
       "Fritz Hansen",
       "surface",
       "identity"
-    ]
+    ],
+    "imageUrl": "/images/75.jpg"
   },
   {
     "id": 76,
@@ -2992,7 +3011,8 @@ export const ARCHIVE = [
       "scale contrast",
       "Swiss",
       "Knoll advertising"
-    ]
+    ],
+    "imageUrl": "/images/76.jpg"
   },
   {
     "id": 77,
@@ -3031,7 +3051,8 @@ export const ARCHIVE = [
       "Propst",
       "Herman Miller",
       "misunderstood"
-    ]
+    ],
+    "imageUrl": "/images/77.jpg"
   },
   {
     "id": 78,
@@ -3070,7 +3091,8 @@ export const ARCHIVE = [
       "children",
       "molecular",
       "play"
-    ]
+    ],
+    "imageUrl": "/images/78.webp"
   },
   {
     "id": 79,
@@ -23922,7 +23944,8 @@ export const ARCHIVE = [
       "Australian design",
       "craft excess"
     ],
-    "id": 588
+    "id": 588,
+    "imageUrl": "/images/588.jpg"
   },
   {
     "title": "Tree Trunk Bench",
@@ -23958,7 +23981,8 @@ export const ARCHIVE = [
       "site-specific",
       "anti-industrial"
     ],
-    "id": 589
+    "id": 589,
+    "imageUrl": "/images/589.jpg"
   },
   {
     "title": "Rover Chair",
@@ -24315,7 +24339,8 @@ export const ARCHIVE = [
       "conceptual",
       "Centraal Museum"
     ],
-    "id": 599
+    "id": 599,
+    "imageUrl": "/images/599.jpg"
   },
   {
     "title": "Favela Chair",
@@ -24351,7 +24376,8 @@ export const ARCHIVE = [
       "MoMA",
       "improvisation"
     ],
-    "id": 600
+    "id": 600,
+    "imageUrl": "/images/600.jpg"
   },
   {
     "title": "Bubble Chair",
@@ -24382,7 +24408,8 @@ export const ARCHIVE = [
       "Design Museum",
       "disciplinary crossover"
     ],
-    "id": 601
+    "id": 601,
+    "imageUrl": "/images/601.jpg"
   },
   {
     "title": "Body Meets Dress, Dress Meets Body",
@@ -24726,7 +24753,8 @@ export const ARCHIVE = [
       "structural surface",
       "John Makepeace"
     ],
-    "id": 611
+    "id": 611,
+    "imageUrl": "/images/611.webp"
   },
   {
     "title": "Orgone Lounge",
@@ -24756,7 +24784,8 @@ export const ARCHIVE = [
       "chaise",
       "Australian design"
     ],
-    "id": 612
+    "id": 612,
+    "imageUrl": "/images/612.jpg"
   },
   {
     "title": "Felt Chair",
@@ -24786,7 +24815,8 @@ export const ARCHIVE = [
       "material innovation",
       "Australian design"
     ],
-    "id": 613
+    "id": 613,
+    "imageUrl": "/images/613.jpg"
   },
   {
     "title": "Big Shadows",
@@ -24980,7 +25010,8 @@ export const ARCHIVE = [
       "exaggerated",
       "contemporary craft"
     ],
-    "id": 619
+    "id": 619,
+    "imageUrl": "/images/619.jpg"
   },
   {
     "title": "Campana Banquete Chair",
@@ -25107,7 +25138,8 @@ export const ARCHIVE = [
       "emotional design",
       "monolithic"
     ],
-    "id": 623
+    "id": 623,
+    "imageUrl": "/images/623.jpg"
   },
   {
     "title": "Bethan Laura Wood Totem",
@@ -25170,7 +25202,8 @@ export const ARCHIVE = [
       "British design",
       "offcuts"
     ],
-    "id": 625
+    "id": 625,
+    "imageUrl": "/images/625.jpg"
   },
   {
     "title": "Ore Streams",
@@ -25393,7 +25426,8 @@ export const ARCHIVE = [
       "affordable",
       "inspection lamp"
     ],
-    "id": 632
+    "id": 632,
+    "imageUrl": "/images/632.webp"
   },
   {
     "title": "Dunne & Raby Placebo Project",
