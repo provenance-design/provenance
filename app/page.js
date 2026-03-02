@@ -301,7 +301,7 @@ export default function Page() {
               ))}
             </div>
             <p style={{ fontSize: '15px', lineHeight: 1.75, color: '#555', marginBottom: '16px' }}>
-              Entries are generated from institutional archive metadata (Cooper Hewitt, V&amp;A, MoMA, Design Museum, Vitra, Triennale). Images are sourced from Wikimedia Commons under Creative Commons licensing. The archive is designed to grow — each new entry creates new connections across the existing collection.
+              Entries are developed from institutional archive metadata (Cooper Hewitt, V&amp;A, MoMA, Design Museum, Vitra, Triennale). Object images are used for educational criticism and review. The archive is designed to grow — each new entry creates new connections across the existing collection.
             </p>
             <div style={{ fontSize: '13px', color: '#AAA', marginTop: '36px', paddingTop: '24px', borderTop: '1px solid #E4E0D8', lineHeight: 1.65 }}>
               Provenance is an open educational resource for design students and educators.
@@ -316,9 +316,8 @@ export default function Page() {
         )}
       </div>
 
-      <footer style={{ borderTop: '1px solid #E4E0D8', padding: '28px 44px', marginTop: '80px', display: 'flex', justifyContent: 'space-between', fontSize: '10.5px', color: '#CCC' }}>
-        <span>Provenance © 2025</span>
-        <span>Images via Wikimedia Commons · CC BY-SA</span>
+      <footer style={{ borderTop: '1px solid #E4E0D8', padding: '20px 44px', marginTop: '80px', display: 'flex', justifyContent: 'center', fontSize: '10px', color: '#C0BDB6', letterSpacing: '0.04em' }}>
+        <span>© Neil Housego 2025 · The Provenance Archive is an independent educational resource</span>
       </footer>
     </div>
   );
