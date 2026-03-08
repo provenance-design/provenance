@@ -59,6 +59,15 @@ export default function Page() {
   const [featured] = useState(() => ARCHIVE[0]);
   const scrollPosRef = useRef(0);
 
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const entryId = params.get('entry');
+    if (entryId) {
+      const item = ARCHIVE.find(i => i.id === parseInt(entryId));
+      if (item) { setSelectedItem(item); setView('detail'); }
+    }
+  }, []);
+
   const filteredArchive = ARCHIVE.filter(item => {
     const d = selectedDiscipline === "All" || item.discipline === selectedDiscipline;
     const q = searchQuery.toLowerCase();
