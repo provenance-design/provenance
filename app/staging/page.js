@@ -311,12 +311,12 @@ function NetworkCanvas() {
   const neighbors = panelNode ? (S.adj.get(panelNode.id) || []).map(id => S.nodeMap.get(id)).filter(Boolean) : [];
 
   return (
-    <div style={{ position: 'relative', width: '100%', height: 'calc(100vh - 140px)', background: '#1E2228', borderRadius: '2px', overflow: 'hidden' }}>
+    <div style={{ position: 'relative', width: '100%', height: '100vh', background: '#1E2228', overflow: 'hidden' }}>
       <canvas ref={canvasRef} style={{ display: 'block', width: '100%', height: '100%' }} />
 
       <div style={{ position: 'absolute', top: 16, left: 20, pointerEvents: 'none' }}>
-        <div style={{ fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#666' }}>
-          {S.nodes.length} objects · {S.edges.length} connections · Full archive topology
+        <div style={{ fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#666', marginTop: '36px' }}>
+          {S.nodes.length} objects · {S.edges.length} connections
         </div>
       </div>
 
@@ -434,6 +434,25 @@ export default function StagingPage() {
     );
   };
 
+  // ── FULL-SCREEN NETWORK MODE ──
+  if (view === 'network') {
+    return (
+      <div style={{ width: '100vw', height: '100vh', overflow: 'hidden', background: '#1E2228' }}>
+        <NetworkCanvas />
+        <button onClick={() => setView('featured')} style={{
+          position: 'fixed', top: 20, left: 24, zIndex: 20, fontFamily: "'DM Sans', sans-serif",
+          fontSize: '10px', letterSpacing: '0.1em', textTransform: 'uppercase',
+          padding: '6px 14px', border: '1px solid #555', background: 'rgba(30,34,40,0.8)',
+          color: '#AAA', cursor: 'pointer', backdropFilter: 'blur(4px)',
+        }}>← Back</button>
+        <div style={{ position: 'fixed', top: 22, left: 120, zIndex: 20, display: 'flex', alignItems: 'baseline', gap: '10px', pointerEvents: 'none' }}>
+          <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: '20px', color: '#E8E4DC', letterSpacing: '-0.02em' }}>Provenance</span>
+          <span style={{ fontSize: '8px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8763C' }}>Network</span>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div style={{ minHeight: '100vh' }}>
       {/* HEADER */}
@@ -465,6 +484,7 @@ export default function StagingPage() {
           )}
         </div>
       </header>
+
 
       <div style={{ padding: '44px', maxWidth: '1100px', margin: '0 auto' }}>
 
@@ -593,9 +613,6 @@ export default function StagingPage() {
             </div>
           </div>
         )}
-
-        {/* NETWORK */}
-        {view === 'network' && <NetworkCanvas />}
 
         {/* ABOUT */}
         {view === 'about' && (
