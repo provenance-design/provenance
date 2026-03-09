@@ -1,12 +1,7 @@
-// Provenance Archive — Combined Staging Candidates
-// 94 entries total (IDs 637–730)
-//
-// Batch 1+2 (44): Historical canon, discipline gaps, post-1990 contemporary
-// Batch 3 (50): 1980s onwards deep expansion — Maurer trilogy, architecture,
-//   installation/experiential, speculative/critical, craft-meets-computation,
-//   graphic design canon, biodesign, post-streetwear, sound design
-//
-// Combined archive would reach: 598 + 94 = 692 entries
+// Provenance Archive — Combined Staging Candidates (hub-audited, deduped)
+// 94 entries (IDs 637–730)
+// Hub connections redistributed | All duplicate connections resolved
+// Combined archive: 598 + 94 = 692 entries
 
 export const CANDIDATES = [
   {
@@ -70,9 +65,9 @@ export const CANDIDATES = [
         "reason": "Ponti spends eight years shaving a traditional fisherman's chair down to 1.7kg — lightness through refinement. Prouvé makes rear legs heavier than front legs because the stress diagram demands it — honesty through engineering. Two routes to structural truth: Ponti's subtracts, Prouvé's differentiates."
       },
       {
-        "id": 15,
+        "id": 684,
         "type": "zeitgeist",
-        "reason": "Prouvé's Standard Chair makes structure legible by showing where the forces go — thick legs where the load is, thin where it isn't. Piano and Rogers' Pompidou makes structure legible by putting it on the outside. Two French objects that refuse to hide how they stand up."
+        "reason": "Prouvé's Standard Chair (1934) and Hadid's Vitra Fire Station (1993) are both structures where the forces are made visible — Prouvé thickens legs where stress concentrates, Hadid tilts walls where tension demands it. Both refuse to hide how their objects stand up, but Prouvé reveals through engineering honesty while Hadid reveals through spatial aggression."
       },
       {
         "id": 51,
@@ -360,9 +355,9 @@ export const CANDIDATES = [
         "reason": "Rams's TP1 (1959) miniaturises the record player into a portable companion — the machine as discreet servant. Maurer's Bulb Lamp (1966) magnifies the lightbulb into a sculptural object — the component as Pop monument. German design in the 1960s arguing with itself about whether technology should disappear or be celebrated."
       },
       {
-        "id": 9,
+        "id": 546,
         "type": "argument",
-        "reason": "Starck's Juicy Salif (1990) turns a kitchen tool into a sculptural talking point — function sacrificed for meaning. Maurer's Bulb Lamp (1966) turns an electrical component into a sculptural talking point — function preserved inside its own image. Both weaponise scale distortion, but Maurer's object still works perfectly as a lamp."
+        "reason": "De Lucchi's Sinerpica Lamp (1983) treats a lamp as a Memphis character — personality through colour and angle. Maurer's Bulb Lamp (1966) treats a lamp as a Pop portrait — personality through tautological scale. Both give lighting fixtures emotional presence, but de Lucchi's lamp performs while Maurer's lamp stares."
       }
     ],
     "keywords": [
@@ -1048,9 +1043,9 @@ export const CANDIDATES = [
     "significance": "Mahdavi makes furniture that operates at the intersection of design, sculpture, and play. The Bishop Stool works — you can sit on it — but its real function is to transform a room into a stage. It's Pop art's interest in scale and recognition applied to furniture, but with a sophistication of surface and colour that Pop rarely achieved.",
     "connections": [
       {
-        "id": 9,
-        "type": "sameProblem",
-        "reason": "Starck's Juicy Salif (1990) makes a kitchen tool into a talking point through sculptural distortion. Mahdavi's Bishop (2004) makes a stool into a talking point through figurative distortion. Both are domestic objects whose primary function is provoking conversation — furniture and homewares as social catalysts."
+        "id": 598,
+        "type": "argument",
+        "reason": "Hayon's Green Chicken (2004) and Mahdavi's Bishop Stool (2004) both use figurative form — an animal and a chess piece — as functional furniture, produced in the same year. Both argue that representation in furniture is not regression but expansion: the chicken is a side table, the bishop is a stool, and neither apologises for being recognisable."
       },
       {
         "id": 618,
@@ -1463,9 +1458,9 @@ export const CANDIDATES = [
         "reason": "Rams's RT 20 radio (1961) applies precise design thinking to a ubiquitous domestic object — the radio becomes a considered presence rather than visual noise. Fadell's Nest (2011) applies precise design thinking to a ubiquitous building component — the thermostat becomes a considered presence rather than visual noise. Fifty years between two designers who looked at the things everyone else ignored."
       },
       {
-        "id": 11,
+        "id": 390,
         "type": "method",
-        "reason": "Rams's 606 system (1960) creates a shelf that disappears into the wall — infrastructure designed to be invisible. Fadell's Nest (2011) creates a thermostat that commands the wall — infrastructure designed to be visible. Two opposite strategies for the same problem: how should technology relate to architecture?"
+        "reason": "DJI's Phantom Drone (2013) and Fadell's Nest (2011) both apply consumer-electronics design thinking to categories that had never been 'designed' — aerial photography and home heating. Both transform industrial-looking technology into desirable domestic products. Both prove that the biggest design opportunities hide in the categories nobody thinks to redesign."
       },
       {
         "id": 373,
@@ -1581,9 +1576,9 @@ export const CANDIDATES = [
     "significance": "Kéré — the first African architect to win the Pritzker Prize (2022) — demonstrated that architectural knowledge flows in both directions. The pavilion brings West African spatial principles (the communal tree, the open enclosure, the rain as celebratory element) into the heart of the Western architectural establishment. It argues that the most progressive architecture might emerge from the world's least industrialised building traditions.",
     "connections": [
       {
-        "id": 15,
-        "type": "argument",
-        "reason": "Piano and Rogers' Pompidou (1977) declares architecture's power through exposed industrial technology — steel, glass, and mechanical services displayed as spectacle. Kéré's Serpentine Pavilion (2017) declares architecture's power through exposed community logic — timber, rain, and gathering displayed as ritual. Western high-tech versus African vernacular, both making architecture publicly legible."
+        "id": 717,
+        "type": "zeitgeist",
+        "reason": "Shigeru Ban's Paper Log House (1995) and Kéré's Serpentine Pavilion (2017) both argue that the most progressive architecture emerges from the simplest materials and communal construction — Ban uses paper tubes and beer crates, Kéré uses indigo timber and community assembly. Both Pritzker laureates who prove that architectural ambition doesn't require industrial sophistication."
       },
       {
         "id": 35,
@@ -1745,9 +1740,9 @@ export const CANDIDATES = [
     "significance": "Anastassiades reduced a lamp to a geometric relationship — a sphere touching a disc — and made the act of lighting a room into a physical ritual. The lamp has no buttons, no cords, no visible technology. It is the most copied lighting design of the 2010s precisely because its simplicity is deceptive: the engineering required to make a brass sphere balance, charge wirelessly, and illuminate from a contact point is considerable. Form conceals complexity.",
     "connections": [
       {
-        "id": 3,
-        "type": "lineage",
-        "reason": "Castiglioni's Parentesi (1971) reduces a lamp to a cable, a bracket, and gravity. Anastassiades's Tip of the Tongue (2013) reduces a lamp to a sphere, a disc, and contact. Both are 'non-lamps' — objects that eliminate everything except the minimum physical gesture required to produce light."
+        "id": 644,
+        "type": "zeitgeist",
+        "reason": "Mouille's Three-Arm (1952) and Anastassiades's Tip of the Tongue (2013) are both lamps designed by former metalworkers — Mouille a silversmith, Anastassiades trained in industrial design with a jeweller's sensibility. Both treat the lamp as a precious object rather than a household appliance, but Mouille sculpts at room scale while Anastassiades distils at palm scale."
       },
       {
         "id": 645,
@@ -1755,9 +1750,9 @@ export const CANDIDATES = [
         "reason": "Maurer's Bulb Lamp (1966) makes the light source into a sculptural spectacle — the lamp as Pop monument. Anastassiades's Tip of the Tongue (2013) makes the light source invisible — the lamp as geometric mystery. Two approaches to the question of where the light comes from: Maurer celebrates the source, Anastassiades hides it."
       },
       {
-        "id": 644,
-        "type": "zeitgeist",
-        "reason": "Mouille's Three-Arm (1952) and Anastassiades's Tip of the Tongue (2013) are both lamps designed by former metalworkers — Mouille a silversmith, Anastassiades trained in industrial design with a jeweller's sensibility. Both treat the lamp as a precious object rather than a household appliance."
+        "id": 22,
+        "type": "argument",
+        "reason": "Henningsen's PH 5 (1958) uses calculated geometry to eliminate glare — mathematical precision as lighting method. Anastassiades's Tip of the Tongue (2013) uses geometric contact to eliminate switches — physical ritual as lighting method. Both reduce a lamp to pure principle, but Henningsen controls photons while Anastassiades controls gesture."
       }
     ],
     "keywords": [
@@ -1914,9 +1909,9 @@ export const CANDIDATES = [
         "reason": "Baas's Smoke Chair (2002) burns a chair and preserves the charred result — destruction as production method. Maurer's Porca Miseria! (1994) smashes crockery and preserves the scattered shards — destruction as production method. Both start with violence against a domestic object and end with a new one. Baas burns furniture; Maurer explodes tableware."
       },
       {
-        "id": 9,
-        "type": "argument",
-        "reason": "Starck's Juicy Salif (1990) takes a kitchen object and makes it sculptural but static — the lemon squeezer as monument. Maurer's Porca Miseria! (1994) takes kitchen objects and makes them sculptural but kinetic — the place setting as explosion. Both weaponise domestic ordinariness, but Starck freezes function while Maurer detonates it."
+        "id": 607,
+        "type": "method",
+        "reason": "Van der Poll's Do Hit Chair (2000) invites the owner to beat a steel cube with a sledgehammer — controlled violence as forming process. Maurer's Porca Miseria! (1994) throws dishes at a lamp and freezes the shards — spontaneous violence as forming process. Both make destruction literal and productive, but van der Poll hands you the hammer while Maurer has already swung."
       },
       {
         "id": 681,
@@ -2001,9 +1996,9 @@ export const CANDIDATES = [
         "reason": "Ando's Church of the Light (1989) reduces Japanese architecture to concrete and subtracted light — Western material, Eastern spatial thought. Kuma's GC Prostho Museum (2010) reduces Japanese architecture to wooden sticks and filtered light — traditional material, contemporary spatial thought. Two Japanese architects with opposite material strategies, both achieving transcendence through reduction."
       },
       {
-        "id": 7,
-        "type": "sameProblem",
-        "reason": "Bill's Ulm Stool (1954) slots three panels together without glue — a sitting structure from pure geometry. Kuma's GC Prostho Museum (2010) slots 6,000 sticks together without nails — a building structure from pure geometry. Same principle at two radically different scales: the stool and the museum, both held together by nothing but their own logic."
+        "id": 659,
+        "type": "method",
+        "reason": "Chareau's Maison de Verre (1932) uses glass blocks as a structural screen — light passes through but views don't. Kuma's GC Prostho Museum (2010) uses interlocking cypress sticks as a structural screen — light passes through and views dissolve. Both treat the building envelope as a filter rather than a barrier, but Chareau filters with glass while Kuma filters with wood."
       }
     ],
     "keywords": [
@@ -2042,9 +2037,9 @@ export const CANDIDATES = [
         "reason": "Zumthor's Therme Vals (1996) makes architecture you experience through temperature, touch, and sound — the body before the eye. Snøhetta's Oslo Opera House (2008) makes architecture you experience through walking, climbing, and sitting — the feet before the eye. Both prioritise the body over the photograph."
       },
       {
-        "id": 1,
+        "id": 561,
         "type": "material",
-        "reason": "Castiglioni's Arco (1962) uses Carrara marble as counterweight — 65kg of stone anchoring a lamp. Snøhetta's Oslo Opera House (2008) uses Carrara marble as public ground — 36,000 square metres of stone forming a walkable roof. Same quarry, opposite scales: the marble that holds a lamp down and the marble that lifts a city up."
+        "reason": "Chipperfield's Palace of Justice in Salerno (2012) and Snøhetta's Oslo Opera House (2008) both use stone as civic surface — Chipperfield wraps a court in travertine, Snøhetta slopes a roof in Carrara marble. Both argue that public buildings earn their authority through the weight and warmth of stone, not through glass and steel spectacle."
       }
     ],
     "keywords": [
@@ -2119,9 +2114,9 @@ export const CANDIDATES = [
         "reason": "Piano and Rogers' Pompidou (1977) builds a new cultural machine from scratch — maximum technology, maximum spectacle. Lacaton & Vassal's Palais de Tokyo (2012) strips an existing building to its bones — minimum intervention, maximum space. Two Parisian art buildings with opposite strategies: one adds everything, the other removes everything."
       },
       {
-        "id": 3,
-        "type": "method",
-        "reason": "Castiglioni's Parentesi (1971) achieves a lighting system through minimum components — cable, bracket, gravity. Lacaton & Vassal's Palais de Tokyo (2012) achieves a gallery system through minimum finishes — structure, space, nothing else. Both demonstrate that the most powerful design gesture is often what you refuse to add."
+        "id": 689,
+        "type": "argument",
+        "reason": "Lacaton & Vassal at the Palais de Tokyo (2012) strip an existing building to raw concrete — the past erased to create space. Chipperfield at the Neues Museum (2009) complete a ruined building with new concrete — the past preserved to create continuity. Two approaches to existing structures: one empties, the other fills."
       },
       {
         "id": 690,
@@ -2606,14 +2601,14 @@ export const CANDIDATES = [
     "significance": "The Louis Ghost is the most commercially successful single chair in contemporary design history — over 1.5 million units sold. It proves that a historical form, emptied of its material, can become radically new. The chair is simultaneously antique and contemporary, ornamental and minimal, expensive-looking and affordable. Starck solved a problem no one thought to articulate: what if you could own a Louis XVI chair for €200?",
     "connections": [
       {
-        "id": 9,
-        "type": "lineage",
-        "reason": "Starck's Juicy Salif (1990) turns a kitchen tool into a talking point — function sacrificed for provocation. The Louis Ghost (2002) turns a royal chair into a commodity — history preserved at mass-market price. Starck's career arc: from design as irritant to design as democrat."
-      },
-      {
         "id": 605,
         "type": "material",
         "reason": "Kuramata's Miss Blanche (1988) encases artificial roses in acrylic resin — transparency imprisoning ornament. Starck's Louis Ghost (2002) replicates a rococo armchair in polycarbonate — transparency replacing ornament. Both use see-through plastic to transform historical beauty: Kuramata freezes it, Starck empties it."
+      },
+      {
+        "id": 595,
+        "type": "lineage",
+        "reason": "Newson's Embryo Chair (1988) and Starck's Louis Ghost (2002) both use synthetic materials to produce chairs that look like they belong in a future that never quite arrived — Newson's neoprene-covered fibreglass and Starck's transparent polycarbonate both achieve a quality of uncanny elegance. Newson invents a new form; Starck makes a historical form vanish."
       },
       {
         "id": 30,
@@ -2693,9 +2688,9 @@ export const CANDIDATES = [
         "reason": "Morrison's Pill Stool (2006) reduces a stool to the minimum noticeable form — Super Normal as furniture. Hecht and Colin's Formwork (2014) reduces desk accessories to the minimum noticeable forms — Super Normal as micro-architecture. Morrison's student and collaborator, applying the same principle at a smaller scale."
       },
       {
-        "id": 11,
-        "type": "method",
-        "reason": "Rams's 606 shelving (1960) creates a system that organises domestic space through modular components — architecture for the wall. Hecht and Colin's Formwork (2014) creates a system that organises desk space through modular components — architecture for the surface. Both use systematic modularity to bring order to chaos, sixty years apart."
+        "id": 355,
+        "type": "lineage",
+        "reason": "Grcic's Mono Table (2002) reduces a table to its geometric essence for SCP — nothing unnecessary, nothing expressive. Hecht and Colin's Formwork (2014) reduces desk accessories to their geometric essence for Herman Miller — nothing unnecessary, nothing expressive. Both practise Super Normal at the scale of daily use, one generation apart."
       },
       {
         "id": 358,
@@ -3595,9 +3590,9 @@ export const CANDIDATES = [
         "reason": "Maurer's Zettel'z (1997) invites visitors to inscribe paper sheets that become part of the lamp — the user completes the light. Suzuki's Looks Like Music (2013) invites visitors to draw coloured lines that become part of the composition — the user completes the music. Both surrender authorship to the public; both accumulate meaning over time."
       },
       {
-        "id": 13,
+        "id": 677,
         "type": "method",
-        "reason": "Beck's Underground Map (1931) translates spatial geography into a diagrammatic score — the city as readable system. Suzuki's Looks Like Music (2013) translates drawn diagrams into musical scores — the drawing as playable system. Both create systems where one type of information (spatial) is translated into another (navigational or musical)."
+        "reason": "Sagmeister's AIGA poster (1999) makes the designer's body the medium — typography carved into skin. Suzuki's Looks Like Music (2013) makes the visitor's hand the medium — melody drawn in coloured ink. Both collapse the distance between the human body and the designed output, but Sagmeister performs alone in pain while Suzuki invites everyone to play."
       },
       {
         "id": 671,
@@ -3677,9 +3672,9 @@ export const CANDIDATES = [
         "reason": "SANAA's 21st Century Museum (2004) uses curved glass walls to dissolve the boundary between inside and outside — transparency as democracy. Ishigami's KAIT Workshop (2008) uses frameless glass and hair-thin columns to dissolve the boundary between building and forest — transparency as nature. Both Japanese architects make glass buildings that barely seem to exist."
       },
       {
-        "id": 3,
-        "type": "method",
-        "reason": "Castiglioni's Parentesi (1971) uses a single tensioned cable to hold a lamp — minimum structure, maximum effect. Ishigami's KAIT Workshop (2008) uses 305 hair-thin columns to hold a roof — minimum structure multiplied, maximum effect. Both achieve structural impossibility through engineering precision that hides itself."
+        "id": 657,
+        "type": "argument",
+        "reason": "Zumthor's Therme Vals (1996) achieves architectural weightlessness through 60,000 stacked stone slabs — mass that feels immaterial. Ishigami's KAIT Workshop (2008) achieves architectural weightlessness through 305 hair-thin steel columns — structure that feels absent. Both make substantial buildings seem to barely exist, but Zumthor dissolves weight through material accumulation while Ishigami dissolves weight through structural distribution."
       },
       {
         "id": 59,
