@@ -1,7 +1,8 @@
 // Provenance Archive — Full Staging Candidates
-// 217 entries (IDs 637–855)
-// Combined archive: 598 + 217 = 815 entries
-// Duplicates removed: 705 (Walkman), 839 (Savoy Flower Vase)
+// 247 entries (IDs 637–855, 906–935)
+// Combined archive: 598 + 247 = 845 entries
+// Connection audit: 28 total rewires for cross-discipline spread + hub reduction
+// Contemporary batch (906–935): 30 entries, fact-checked, no connections yet
 
 export const CANDIDATES = [
   {
@@ -19,9 +20,9 @@ export const CANDIDATES = [
     "significance": "The Red Blue Chair is where furniture stops being about sitting and starts being about space. Each linear element reads independently — the chair disassembles visually into a spatial diagram. It proved that a chair could argue for an entire worldview. That it's desperately uncomfortable is almost the point: comfort would have made it furniture again.",
     "connections": [
       {
-        "id": 7,
-        "type": "sameProblem",
-        "reason": "Rietveld's Red Blue Chair (1917): thirteen battens screwed at crossings, every joint visible — the stool as spatial manifesto. Bill's Ulm Stool (1954): three panels slotted without glue — the stool as structural proof. Two objects that treat joinery as philosophy."
+        "id": 765,
+        "type": "zeitgeist",
+        "reason": "Rietveld's Red Blue Chair (1917) and El Lissitzky's Beat the Whites (1919) are both De Stijl/Constructivist works that reduce their medium to primary colours and geometric planes — one a chair, the other a poster. Both prove that the same abstract geometric language can operate across furniture and graphic design."
       },
       {
         "id": 60,
@@ -110,9 +111,9 @@ export const CANDIDATES = [
         "reason": "Pesce's UP5 (1969) moulds the female body into the chair's form — the body as political image. Bo Bardi's Bowl Chair (1951) liberates the body from any prescribed position — the body as political agent. Two chairs that make gender visible in how they hold you."
       },
       {
-        "id": 108,
-        "type": "argument",
-        "reason": "The Eames Aluminium Group (1958) engineers precise ergonomic support through suspension fabric and tilt mechanisms — the office chair as optimised machine. Bo Bardi's Bowl Chair (1951) offers a hemisphere and lets the body figure it out — the chair as open invitation. Control versus trust."
+        "id": 800,
+        "type": "method",
+        "reason": "Bo Bardi's Bowl Chair (1951) creates a form the body discovers for itself — the hemisphere refuses prescribed posture. Miyake's Waterfall Dress (1984) creates a garment the body shapes for itself — the fabric refuses prescribed silhouette. Both Brazilian and Japanese designers letting the user's body determine the form."
       }
     ],
     "keywords": [
@@ -151,9 +152,9 @@ export const CANDIDATES = [
         "reason": "Noguchi's Coffee Table (1947) and Mollino's Arabesque (1949) both use biomorphic forms under glass — organic curves supporting a transparent plane. But Noguchi's form is stable, grounded, serene. Mollino's form is taut, airborne, anxious. Two temperaments expressed through the same material logic."
       },
       {
-        "id": 132,
-        "type": "argument",
-        "reason": "Saarinen's Ottoman (1946) uses gentle curves to create quiet domestic comfort — biomorphism in service of rest. Mollino's Arabesque Table (1949) uses violent curves to create visual tension — biomorphism in service of spectacle. Two Italian-Americans, two opposite readings of what organic form is for."
+        "id": 846,
+        "type": "zeitgeist",
+        "reason": "Mollino's Arabesque Table (1949) and Bertoni's Citroën DS (1955) are both mid-century biomorphic masterpieces — one in bent plywood, the other in pressed steel. Both achieve organic curves that look grown rather than manufactured. Italian furniture and French transport arriving at the same sculptural language."
       }
     ],
     "keywords": [
@@ -192,9 +193,9 @@ export const CANDIDATES = [
         "reason": "Jacobsen's Ant Chair (1952) bends a single sheet of plywood into seat and back, connected by a pinched waist. Jalk's GJ Chair (1963) bends two sheets into interlocking shells that eliminate the frame entirely. Jacobsen simplifies the plywood chair; Jalk dissolves it."
       },
       {
-        "id": 133,
-        "type": "zeitgeist",
-        "reason": "Race's Flamingo Armchair (1957) and Jalk's GJ Chair (1963) both attempt sweeping curves in materials that resist them — Race in rod steel and plywood, Jalk in laminated teak alone. Both hit manufacturing limits. Both prove that ambition in form is meaningless without ambition in production."
+        "id": 784,
+        "type": "method",
+        "reason": "Jalk's GJ Chair (1963) uses moulded plywood's natural flex as the seating mechanism — material behaviour as design. Sudo's Jellyfish textile (1993) uses polyester's differential shrinkage as the surface effect — material behaviour as design. Both exploit a material's inherent properties rather than imposing form on reluctant substance."
       }
     ],
     "keywords": [
@@ -304,9 +305,9 @@ export const CANDIDATES = [
     "significance": "Mouille was France's answer to the Italian lighting designers, but where the Castiglionis engineered and Sarfatti decorated, Mouille sculpted. The Three-Arm is closer to Calder's mobiles than to any lighting fixture — it treats light as a spatial event, something that occupies a room rather than illuminates a surface. Each one is slightly different because hand-forming is inherently variable.",
     "connections": [
       {
-        "id": 1,
-        "type": "sameProblem",
-        "reason": "Castiglioni's Arco (1962) reaches light across a room from a floor-standing marble base — mass as counterbalance. Mouille's Three-Arm (1952) reaches light across a room from a ceiling rose — gesture as suspension. Same spatial ambition, opposite structural strategies: one pushes up from the ground, the other drops down from above."
+        "id": 789,
+        "type": "method",
+        "reason": "Mouille's Three-Arm Ceiling Lamp (1952) shapes sheet metal into organic arms through hand-forming — the metalworker as sculptor. Hiroshi Suzuki's silver vessel (2005) shapes flat silver into organic waves through hand-raising — the silversmith as sculptor. Both treat metal as a medium for organic expression, formed by the maker's hands rather than machines."
       },
       {
         "id": 21,
@@ -843,9 +844,9 @@ export const CANDIDATES = [
         "reason": "Mies's Farnsworth House (1951) dissolves the wall into glass — the building disappears so that nature can enter visually. Zumthor's Therme Vals (1996) thickens the wall into mountain stone — the building absorbs so that nature can enter physically. Glass versus quartzite, transparency versus immersion."
       },
       {
-        "id": 25,
+        "id": 836,
         "type": "method",
-        "reason": "Jacobsen's SAS Royal Hotel (1960) designs everything from the building to the cutlery — total design as visual control. Zumthor's Therme Vals (1996) designs everything from the building to the water temperature — total design as sensory control. Both are Gesamtkunstwerk; Jacobsen controls what you see, Zumthor controls what you feel."
+        "reason": "Zumthor's Therme Vals (1996) creates an architecture experienced through the body — temperature, steam, stone under bare feet. The Raku tea bowl (c.1580) creates a ceramic experienced through the body — warmth, weight, roughness in cupped hands. Both are objects whose meaning is inaccessible through photographs — you must touch them to understand them."
       },
       {
         "id": 35,
@@ -1376,9 +1377,9 @@ export const CANDIDATES = [
         "reason": "Van der Poll's Do Hit Chair (2000) asks the user to beat a steel cube with a sledgehammer — violence as forming process. Lamb's Pewter Stool (2007) asks the designer to dig a mould in sand with bare hands — landscape as forming process. Both strip manufacture to a single dramatic gesture."
       },
       {
-        "id": 628,
+        "id": 794,
         "type": "zeitgeist",
-        "reason": "Baas's Clay Table (2006) moulds industrial clay by hand over a metal frame — the handmade visible in every surface. Lamb's Pewter Stool (2007) casts pewter into a hand-carved sand mould — the handmade visible in every surface. Two young designers in the mid-2000s arguing that the hand is a manufacturing tool, not a nostalgic gesture."
+        "reason": "Max Lamb's Pewter Stool (2007) casts molten metal into a beach sand mould — the landscape as factory, the material recording the process. Tokujin Yoshioka's Water Block (2002) polishes optical glass to trap internal light — the studio as laboratory, the material denying its process. Both make furniture from unlikely materials; Lamb shows everything, Yoshioka hides everything."
       },
       {
         "id": 589,
@@ -1422,9 +1423,9 @@ export const CANDIDATES = [
         "reason": "Rams's ET66 calculator (1987) reduces digital interaction to the minimum number of buttons required — clarity through constraint. Teenage Engineering's OP-1 (2011) reduces music production to the minimum number of knobs required — creativity through constraint. Both use physical interface limitation as a design principle, not a compromise."
       },
       {
-        "id": 496,
+        "id": 770,
         "type": "zeitgeist",
-        "reason": "Ive's iMac G3 (1998) and Teenage Engineering's OP-1 (2011) both argue that a computer can be a beautiful physical object — not just a vessel for software. The iMac makes the computer desirable through colour and transparency; the OP-1 makes music production desirable through tactile immediacy. Both fight the assumption that digital means dematerialised."
+        "reason": "Teenage Engineering's OP-1 (2011) applies maximum design intelligence to a portable music tool — every surface, every knob, every screen considered as a total aesthetic experience. Vaughan Oliver's 4AD sleeves (1983) apply maximum design intelligence to music packaging — every photograph, every typeface, every texture considered as a total aesthetic experience. Both treat music culture as a design discipline, not just a market."
       }
     ],
     "keywords": [
@@ -1740,9 +1741,9 @@ export const CANDIDATES = [
     "significance": "Anastassiades reduced a lamp to a geometric relationship — a sphere touching a disc — and made the act of lighting a room into a physical ritual. The lamp has no buttons, no cords, no visible technology. It is the most copied lighting design of the 2010s precisely because its simplicity is deceptive: the engineering required to make a brass sphere balance, charge wirelessly, and illuminate from a contact point is considerable. Form conceals complexity.",
     "connections": [
       {
-        "id": 644,
-        "type": "zeitgeist",
-        "reason": "Mouille's Three-Arm (1952) and Anastassiades's Tip of the Tongue (2013) are both lamps designed by former metalworkers — Mouille a silversmith, Anastassiades trained in industrial design with a jeweller's sensibility. Both treat the lamp as a precious object rather than a household appliance, but Mouille sculpts at room scale while Anastassiades distils at palm scale."
+        "id": 796,
+        "type": "method",
+        "reason": "Anastassiades's Tip of the Tongue (2013) reduces a lamp to a brass sphere balanced on a disc — the minimum elements required to hold light. Berthier's Tykho Radio (1997) reduces a radio to a rubber cube with two dials — the minimum elements required to receive sound. Both achieve beauty through radical elimination of everything unnecessary."
       },
       {
         "id": 645,
@@ -1827,9 +1828,9 @@ export const CANDIDATES = [
         "reason": "Maurer's Bulb Lamp (1966) puts a lightbulb inside a lightbulb — the source as Pop subject. Lucellino (1992) puts wings on a lightbulb — the source as animate creature. Twenty-six years between two treatments of the naked bulb: one frames it, the other releases it."
       },
       {
-        "id": 47,
-        "type": "argument",
-        "reason": "Noguchi's Akari (1951) wraps a bulb in washi paper to diffuse and warm the light — nature tamed into a shade. Maurer's Lucellino (1992) clips goose feathers to a bare bulb — nature grafted onto a source. Noguchi hides the technology; Maurer makes it sprout."
+        "id": 798,
+        "type": "method",
+        "reason": "Maurer's Lucellino (1992) grafts goose feathers onto a bare bulb — adding organic material to industrial light. Arai's Melted-Off textile (1987) dissolves metallic yarn from fabric — removing industrial material from organic cloth. Both transform their medium by crossing the boundary between natural and industrial, but Maurer adds while Arai subtracts."
       },
       {
         "id": 324,
@@ -2027,9 +2028,9 @@ export const CANDIDATES = [
     "significance": "Snøhetta dissolved the distinction between building and ground. The Oslo Opera House is both architecture and landscape — a hill you can climb that happens to contain a 1,364-seat auditorium. It redefined what a public building owes its city: not a façade to admire from a distance but a surface to occupy. The marble roof is the most democratic gesture in recent architecture — it belongs to everyone who walks on it.",
     "connections": [
       {
-        "id": 35,
-        "type": "sameProblem",
-        "reason": "Utzon's Sydney Opera House (1973) creates an opera house as sculptural landmark — shells rising from a harbour, to be seen from the water. Snøhetta's Oslo Opera House (2008) creates an opera house as walkable landscape — a slope descending into a harbour, to be climbed from the water. Both treat the opera house as a public monument shaped by its harbour, but Utzon lifts and Snøhetta grounds."
+        "id": 820,
+        "type": "method",
+        "reason": "Snøhetta's Oslo Opera House (2008) uses a sloping marble roof as a public walking surface — architecture at urban scale designed for the body's movement. Barber & Osgerby's Olympic Torch (2012) uses a perforated aluminium tube as a ceremonial carrying object — product at hand scale designed for the body's grip. Both are Norwegian/British civic designs where the surface treatment (marble slope, laser perforations) IS the design."
       },
       {
         "id": 657,
@@ -2155,9 +2156,9 @@ export const CANDIDATES = [
         "reason": "Lacaton & Vassal at the Palais de Tokyo (2012) strip an existing building to raw concrete — the past erased to create space. Chipperfield at the Neues Museum (2009) complete a ruined building with new concrete — the past preserved to create continuity. Two approaches to existing structures: one empties, the other fills."
       },
       {
-        "id": 59,
-        "type": "argument",
-        "reason": "Mies's Farnsworth House (1951) erases all trace of the past — a glass box that begins from zero. Chipperfield's Neues Museum (2009) retains every trace of the past — bullet holes, bomb scars, fragmentary frescoes alongside new walls. Architecture as amnesia versus architecture as memory."
+        "id": 773,
+        "type": "method",
+        "reason": "Chipperfield's Neues Museum (2009) preserves the old building's scars alongside new insertions — damage as historical record. Martens's monoprints (1990) preserve the letterpress's misregistration alongside deliberate overprinting — error as aesthetic record. Both treat the marks of time and process as content rather than defect."
       },
       {
         "id": 657,
@@ -2406,9 +2407,9 @@ export const CANDIDATES = [
         "reason": "Panton's Chair (1960/67) achieves a single-material, single-form seat through injection-moulded plastic — the first one-piece chair. Lovegrove's Go Chair (2001) achieves a single-material, single-form seat through die-cast magnesium — the first one-piece metal chair. Thirty-four years between two materials solving the same manufacturing problem: how to produce a complete chair in one shot."
       },
       {
-        "id": 640,
-        "type": "zeitgeist",
-        "reason": "Mollino's Arabesque Table (1949) derives organic furniture forms from erotic drawing — biomorphism as artistic impulse. Lovegrove's Go Chair (2001) derives organic furniture forms from finite element analysis — biomorphism as computational output. Fifty years between two organic designers: one draws curves by desire, the other computes curves by stress."
+        "id": 848,
+        "type": "method",
+        "reason": "Lovegrove's Go Chair (2001) achieves a continuous biomorphic form through die-cast magnesium — a single structural material shaped by digital optimisation. D'Ascanio's Vespa (1946) achieves a continuous monocoque form through pressed steel — a single structural skin shaped by aeronautical experience. Both produce organic objects from a single material process."
       }
     ],
     "keywords": [
@@ -2611,9 +2612,9 @@ export const CANDIDATES = [
         "reason": "Newson's Embryo Chair (1988) and Starck's Louis Ghost (2002) both use synthetic materials to produce chairs that look like they belong in a future that never quite arrived — Newson's neoprene-covered fibreglass and Starck's transparent polycarbonate both achieve a quality of uncanny elegance. Newson invents a new form; Starck makes a historical form vanish."
       },
       {
-        "id": 30,
-        "type": "sameProblem",
-        "reason": "Panton's Chair (1960/67) proves that a single material can form a complete chair — the first one-piece plastic seat. Starck's Louis Ghost (2002) proves that a single material can replicate an entire historical typology — the first one-piece transparent armchair. Both use injection moulding to achieve what previous generations couldn't, but Panton invents a form while Starck translates one."
+        "id": 837,
+        "type": "material",
+        "reason": "Starck's Louis Ghost (2002) uses transparent polycarbonate to make a Baroque chair that disappears into its surroundings — furniture you see through. Lalique's vases (1924) use opalescent glass that shifts between transparent and opaque depending on the light — vessels that appear and disappear. Both exploit transparency's paradox: the more see-through the object, the more present it becomes."
       }
     ],
     "keywords": [
@@ -3472,9 +3473,9 @@ export const CANDIDATES = [
         "reason": "Maurer's Lucellino (1992) grafts real feathers onto a bulb — nature attached to technology as poetic object. Studio Drift's Shylight (2006) programs silk to move like flowers — nature's movement replicated by technology as kinetic system. Both bring nature into lighting, but Maurer adds a material while Drift encodes a behaviour."
       },
       {
-        "id": 21,
-        "type": "sameProblem",
-        "reason": "Henningsen's Artichoke (1958) engineers seventy-two leaves to control light through geometric precision — the lamp as static botanical form. Studio Drift's Shylight (2006) engineers silk shades to control light through kinetic precision — the lamp as dynamic botanical behaviour. Both are chandeliers inspired by nature, but Henningsen freezes the leaf while Drift makes it breathe."
+        "id": 784,
+        "type": "zeitgeist",
+        "reason": "Studio Drift's Shylight (2006) uses silk and motors to make a chandelier open and close like a flower — mechanical biomimicry. Sudo's Jellyfish (1993) uses differential shrinkage to make fabric undulate like a marine organism — thermal biomimicry. Both make designed objects that behave like living creatures, one through engineering, the other through chemistry."
       }
     ],
     "keywords": [
@@ -3631,9 +3632,9 @@ export const CANDIDATES = [
         "reason": "SANAA's 21st Century Museum (2004) uses curved glass walls to dissolve the boundary between inside and outside — transparency as democracy. Ishigami's KAIT Workshop (2008) uses frameless glass and hair-thin columns to dissolve the boundary between building and forest — transparency as nature. Both Japanese architects make glass buildings that barely seem to exist."
       },
       {
-        "id": 657,
-        "type": "argument",
-        "reason": "Zumthor's Therme Vals (1996) achieves architectural weightlessness through 60,000 stacked stone slabs — mass that feels immaterial. Ishigami's KAIT Workshop (2008) achieves architectural weightlessness through 305 hair-thin steel columns — structure that feels absent. Both make substantial buildings seem to barely exist, but Zumthor dissolves weight through material accumulation while Ishigami dissolves weight through structural distribution."
+        "id": 835,
+        "type": "method",
+        "reason": "Ishigami's KAIT Workshop (2008) uses 305 white columns of varying thickness to create an interior that feels like a forest — repetition of near-identical elements producing atmosphere. De Waal's thrown cylinders (2005) use hundreds of white porcelain forms of varying size to create installations that feel like landscapes — repetition of near-identical elements producing contemplation. Both achieve spatial poetry through the accumulation of simple, similar units."
       },
       {
         "id": 59,
@@ -3754,9 +3755,9 @@ export const CANDIDATES = [
         "reason": "Rams's ET66 calculator (1987) uses the minimum number of buttons to achieve maximum functionality — nothing unnecessary, nothing missing. Yokoi's Game Boy (1989) uses the minimum specification to achieve maximum play — nothing powerful, nothing wasted. Both practise reduction as engineering philosophy: the best technology is the cheapest technology that works."
       },
       {
-        "id": 671,
-        "type": "zeitgeist",
-        "reason": "Yokoi's Game Boy (1989) and Teenage Engineering's OP-1 (2011) both use hardware limitation as creative principle — the Game Boy's four-colour palette and the OP-1's four-track recorder both force decisions that more powerful devices avoid. Twenty-two years apart, both prove that the most creative digital devices are the most constrained ones."
+        "id": 708,
+        "type": "method",
+        "reason": "Yokoi's Game Boy (1989) uses 'lateral thinking with withered technology' — a low-resolution screen and simple controls creating a design system that developers work within. Experimental Jetset uses Helvetica and offset printing as a self-imposed system that every project works within. Both prove that the most creative outcomes emerge from the most deliberate constraints."
       },
       {
         "id": 796,
@@ -3954,9 +3955,9 @@ export const CANDIDATES = [
     "significance": "Kahn proved that a scientific laboratory could be monumental without being pompous. The empty courtyard is the key: it creates a space of contemplation between spaces of work, arguing that science needs silence as much as it needs equipment. The travertine, the concrete, the teak — each material is used at its exact capacity, nothing decorated, nothing concealed. It's the building that made architecture schools take materiality seriously again after decades of glass curtain walls.",
     "connections": [
       {
-        "id": 657,
+        "id": 853,
         "type": "method",
-        "reason": "Zumthor's Therme Vals (1996) uses local quartzite to create architecture experienced through temperature and touch. Kahn's Salk Institute (1965) uses travertine, concrete, and teak to create architecture experienced through light and silence. Both build with material precision to produce buildings that affect the body before they satisfy the eye."
+        "reason": "Kahn's Salk Institute (1965) uses travertine, concrete, and teak with such material precision that each surface teaches you what it's made of — architecture as material pedagogy. Noguchi's Akari 1A (1951) uses washi paper and bamboo with such material sensitivity that each lamp teaches you how light passes through fibre — lighting as material pedagogy. Both treat material honesty as their primary design principle."
       },
       {
         "id": 736,
@@ -4205,9 +4206,9 @@ export const CANDIDATES = [
         "reason": "Chipperfield's Neues Museum (2009) and Herzog & de Meuron's Tate Modern (2000) both convert damaged industrial-era buildings into world-class galleries — bomb-damaged museum and decommissioned power station. Both retain the original structure's character rather than replacing it. Both prove that the most powerful cultural buildings might already exist."
       },
       {
-        "id": 739,
+        "id": 834,
         "type": "method",
-        "reason": "Bo Bardi's SESC Pompéia (1986) converts a drum factory into a community centre, retaining the industrial sheds. Herzog & de Meuron's Tate Modern (2000) converts a power station into a gallery, retaining the turbine hall. Both discover that the most generous public spaces emerge from industrial voids, not from architectural additions."
+        "reason": "Herzog & de Meuron's Tate Modern (2000) creates the Turbine Hall as a 155-metre void for public experience. Ai Weiwei's Sunflower Seeds (2010) fills that void with 100 million handmade porcelain seeds. The architect designs the space; the artist fills it. Together they produce the most materially extreme artwork-architecture encounter in museum history."
       },
       {
         "id": 688,
@@ -4282,9 +4283,9 @@ export const CANDIDATES = [
     "significance": "Ito dissolved the distinction between structure, services, and space. The thirteen tubes do everything conventional buildings divide among columns, staircases, lift shafts, light wells, and duct risers. By merging all of these into one waving element, Ito created floors that are genuinely free — no dead zones around columns, no dark cores. The Sendai Mediatheque is where Japanese architecture moved beyond minimalism into fluidity.",
     "connections": [
       {
-        "id": 726,
-        "type": "lineage",
-        "reason": "Ishigami's KAIT Workshop (2008) uses 305 hair-thin columns to support a glass roof — structure dissolved into a forest. Ito's Sendai Mediatheque (2001) uses 13 hollow tubes to support glass floors — structure dissolved into kelp. Both Japanese architects replace the column with something organic, but Ishigami multiplies while Ito hollows."
+        "id": 790,
+        "type": "method",
+        "reason": "Ito's Sendai Mediatheque (2001) uses hollow steel tubes as structure, light well, and circulation simultaneously — one element doing three jobs. Collingwood's Macrogauze (1965) uses spaced linen threads as pattern, screen, and structure simultaneously — one material doing three jobs. Both achieve transparency by making their structure visible and multifunctional."
       },
       {
         "id": 687,
@@ -4779,9 +4780,9 @@ export const CANDIDATES = [
         "reason": "Koolhaas's Seattle Library (2004) organises a library from programme diagram — the books on a continuous spiral, the reading distributed across stacked platforms. Perrault's BnF (1995) organises a library from spatial inversion — the books in towers, the reading underground. Both reimagine the library's spatial hierarchy, but Koolhaas spirals while Perrault inverts."
       },
       {
-        "id": 740,
+        "id": 775,
         "type": "zeitgeist",
-        "reason": "Herzog & de Meuron's Tate Modern (2000) and Perrault's BnF (1995) are both massive cultural institutions that give their most generous spaces to the public — the turbine hall and the wooden esplanade. Both argue that a national cultural building's primary gift is free public space, not curated content."
+        "reason": "Perrault's Bibliothèque nationale (1995) houses France's literary heritage in four glass towers shaped like open books — monumental architecture serving the written word. Renner's Futura (1927) reduces the alphabet to geometric primitives — circles and triangles serving the written word. Both are monumental propositions about how civilisation stores and presents its knowledge: Perrault in buildings, Renner in letters."
       },
       {
         "id": 330,
@@ -4861,9 +4862,9 @@ export const CANDIDATES = [
         "reason": "Abram Games's Festival of Britain symbol (1951) gives a national moment a graphic identity — a country recovering from war. Glaser's I ♥ NY (1977) gives a city a graphic identity — a metropolis recovering from bankruptcy. Both logos are born from crisis; both outlast it."
       },
       {
-        "id": 706,
-        "type": "argument",
-        "reason": "Brody's Face (1981) pushes editorial typography toward expressive complexity — every headline a custom performance. Glaser's I ♥ NY (1977) pushes civic typography toward radical simplicity — four characters replacing a sentence. Maximum intervention versus minimum means."
+        "id": 749,
+        "type": "sameProblem",
+        "reason": "Glaser's I ♥ NY (1977) gives a bankrupt city a graphic identity that outlasts the crisis — four characters on every surface. Adjaye's NMAAHC (2016) gives a marginalised history an architectural identity on the National Mall — enslaved craftsmen's ironwork on every façade. Both create powerful civic symbols from minimal means: Glaser from a heart, Adjaye from a lattice."
       },
       {
         "id": 656,
@@ -5389,9 +5390,9 @@ export const CANDIDATES = [
     "significance": "Isotype is the origin of every pictogram, infographic, and icon system in use today — from airport wayfinding to iPhone interfaces. Neurath and Arntz proved that visual language can cross linguistic boundaries, and that statistical complexity can be communicated without requiring numeracy. The system's insistence on repetition rather than scaling (ten small figures rather than one big figure) is a democratic principle: every data point is visually equal.",
     "connections": [
       {
-        "id": 766,
+        "id": 847,
         "type": "lineage",
-        "reason": "Du Bois's data visualisations (1900) pioneer the visual communication of social statistics — hand-drawn charts making racial inequality visible. Neurath and Arntz's Isotype (1928) systematise visual statistics into a repeatable pictographic language. Du Bois invents the impulse; Isotype invents the system."
+        "reason": "Arntz and Neurath's Isotype (1928) creates a standardised visual language for public information — simplified pictograms that require no literacy. The Routemaster's moquette and bell-push system (1956) creates a standardised tactile language for public transport — surfaces and sounds that require no signage. Both design information systems for the public body: Isotype for the eye, the Routemaster for the hand."
       },
       {
         "id": 447,
@@ -6332,9 +6333,9 @@ export const CANDIDATES = [
     "significance": "Rodrigues refused the European modernist assumption that chairs should discipline the body into right angles. The Mole is designed for how Brazilians actually sit — informally, generously, without precision. The oversized cushions are not sloppy engineering; they are a deliberate proposition about comfort. MoMA's acquisition recognised that Brazilian furniture design has its own logic, independent of Scandinavian or Italian precedent.",
     "connections": [
       {
-        "id": 639,
-        "type": "lineage",
-        "reason": "Bo Bardi's Bowl Chair (1951) and Rodrigues's Mole (1957) are both Brazilian chairs that reject European postural discipline — Bo Bardi through a rotating hemisphere, Rodrigues through oversized loose cushions. Both free the Brazilian body from the European right angle. Six years apart in São Paulo."
+        "id": 800,
+        "type": "method",
+        "reason": "Rodrigues's Mole (1957) designs for how Brazilians actually sit — legs crossed, sprawling, undisciplined. Miyake's Waterfall Dress (1984) designs for how the body actually falls — no darts, no tailoring, just gravity. Both refuse to impose form on the body; the Mole lets you sprawl, the Waterfall lets you drape."
       },
       {
         "id": 24,
@@ -6383,9 +6384,9 @@ export const CANDIDATES = [
         "reason": "Freitag (1993) cuts bags from decommissioned truck tarpaulins — industrial waste becoming fashion. Reyes (2013) casts instruments from decommissioned firearms — military waste becoming music. Both repurpose dangerous industrial materials for peaceful domestic use."
       },
       {
-        "id": 320,
-        "type": "argument",
-        "reason": "Miji Noh's Scissors (in the archive) designs a cutting tool with care and precision — the instrument refined for the hand. Reyes's Disarm (2013) repurposes killing tools into musical instruments — the weapon reborn for the ear. Both treat the designed tool as a moral object: one designs with intention, the other redesigns to undo intention."
+        "id": 744,
+        "type": "sameProblem",
+        "reason": "Reyes's Disarm (2013) transforms 6,700 confiscated guns into musical instruments — weapons of death becoming machines of music in Mexico. Eisenman's Memorial (2005) transforms 2,711 concrete blocks into a field of disorientation — abstract geometry becoming spatial grief in Berlin. Both confront violent history through material transformation: Reyes recasts metal, Eisenman reconfigures stone."
       }
     ],
     "keywords": [
@@ -6916,9 +6917,9 @@ export const CANDIDATES = [
         "reason": "Doshi Levien's Charpoy Daybed (2007) translates Indian rope-weaving into Italian furniture production — vernacular technique crossing continents. Diallo's Sansa Chair (2002) translates Malian basket-weaving into contemporary furniture — vernacular technique crossing materials. Both extract intelligence from traditional weaving and apply it to new contexts."
       },
       {
-        "id": 791,
-        "type": "zeitgeist",
-        "reason": "Clara Porset's Butaque (1957) develops a pre-colonial Mesoamerican chair form into modernist furniture. Diallo's Sansa Chair (2002) develops a West African weaving tradition into contemporary furniture. Both designers refine vernacular forms rather than replacing them — Latin American and African modernisms running parallel."
+        "id": 844,
+        "type": "method",
+        "reason": "Diallo's Sansa Chair (2002) uses traditional Malian basket-weaving techniques in recycled metal. Kente cloth uses traditional Ashanti strip-loom weaving in silk and cotton. Both are West African textile-based crafts: the Sansa weaves metal, Kente weaves fibre. Both prove that African craft traditions carry formal intelligence that industrial production doesn't replicate."
       }
     ],
     "keywords": [
@@ -7685,9 +7686,9 @@ export const CANDIDATES = [
     "significance": "Toogood stripped furniture to its most elemental proposition: a flat surface on a heavy mass. The Element Table is furniture at degree zero — the absolute minimum intervention required to make a stone functional. The polished top says 'I was designed'; the rough sides say 'I was not'. The tension between these two surfaces is the entire design. Toogood, a sculptor turned furniture designer, argues that the less you do to a material, the more the material speaks.",
     "connections": [
       {
-        "id": 622,
-        "type": "lineage",
-        "reason": "Toogood's Roly Poly Chair (in the archive) inflates furniture into padded volumes — excess as form. The Element Table (2020) reduces furniture to raw stone blocks — absence as form. The same designer, opposite operations: one adds material, the other exposes it."
+        "id": 789,
+        "type": "method",
+        "reason": "Toogood's Element Table (2020) preserves the quarry face of raw stone — one surface polished, the rest untouched. Hiroshi Suzuki's silver vessel (2005) preserves every hammer mark on raised silver — the interior smooth, the exterior showing each blow. Both designers treat the evidence of material origin as the design's content: Toogood shows the mountain, Suzuki shows the hand."
       },
       {
         "id": 58,
@@ -7900,9 +7901,9 @@ export const CANDIDATES = [
         "reason": "Thonet invents steam-bent beechwood furniture in 1859. Prouvé invents sheet-steel furniture in 1934. Both create new manufacturing processes that determine their furniture's form — Thonet's curves follow the steam bend, Prouvé's profiles follow the press. Both are engineer-designers who treat production method as design method."
       },
       {
-        "id": 205,
-        "type": "zeitgeist",
-        "reason": "Charlotte Perriand's Fauteuil Pivotant (1927) and Thonet's No. 14 (1859) are both chairs defined by their manufacturing innovation — Perriand by tubular steel bending, Thonet by steam wood bending. Sixty-eight years apart, both prove that the most significant furniture design is the one that invents a new way to make things."
+        "id": 780,
+        "type": "sameProblem",
+        "reason": "Thonet's No. 14 (1859) and Mellor's Traffic Light (1969) are both designed objects used by millions every day without anyone thinking about them — one held in a café, the other seen at a junction. Both apply maximum design intelligence to create objects whose success is measured by their invisibility. The chair that everyone sits on; the signal that everyone obeys."
       }
     ],
     "keywords": [
@@ -8899,5 +8900,842 @@ export const CANDIDATES = [
       "Wilhelm Wagenfeld"
     ],
     "imageUrl": "/images/855.jpg"
+  },
+  {
+    "id": 906,
+    "title": "Material Design",
+    "designer": "Matias Duarte / Google Design",
+    "year": 2014,
+    "discipline": "Graphic",
+    "origin": "United States",
+    "manufacturer": "Google",
+    "collection": "N/A — open specification",
+    "movement": "Design Systems",
+    "wikiTitle": "Material_Design",
+    "description": "A unified design language for Android, web, and wearables that treats every interface element as a sheet of 'material' — opaque surfaces that cast real shadows, obey physics, and stack in z-space. The system codifies motion (surfaces don't teleport, they slide), colour (a generative palette engine replaced the old fixed swatches in Material You, 2021), and spatial hierarchy (elevation determines importance). It is not a style guide but a physics engine for pixels.",
+    "significance": "Material Design is the first design system to operate at planetary scale — over three billion Android devices run its logic. Its deeper contribution is methodological: by treating a screen as a physical environment with depth, light, and motion rules, Duarte made the case that digital interfaces need physics, not just grids. The 2021 Material You update, which generates palettes from a user's wallpaper, went further: the system designs itself. Whether this is liberation or homogenisation depends on whether you think three billion people seeing the same motion curves is a problem.",
+    "keywords": [
+      "design system",
+      "Android",
+      "motion design",
+      "elevation",
+      "Material You",
+      "interface",
+      "shadow",
+      "specification"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 907,
+    "title": "Fairphone 2",
+    "designer": "Bas van Abel / Fairphone",
+    "year": 2015,
+    "discipline": "Product",
+    "origin": "Netherlands",
+    "manufacturer": "Fairphone",
+    "collection": "Design Museum, London",
+    "movement": "Circular Design",
+    "wikiTitle": "Fairphone_2",
+    "description": "A modular smartphone designed to be opened, repaired, and upgraded by its owner. The phone snaps apart into seven replaceable modules — screen, camera, battery, speaker, microphone, USB port, and core — each purchasable separately. No glue holds the screen to the frame; a single Phillips-head screw and clips do the work. The supply chain is mapped and published: conflict-free tin and tantalum, Fairtrade gold, recycled copper. The Fairphone 2 received a repairability score of 10/10 from iFixit.",
+    "significance": "Every other smartphone manufacturer spent the 2010s making devices thinner, more sealed, more disposable. Fairphone asked the harder question: what if the phone was designed to not become e-waste? The modularity isn't a technical gimmick — it's a political position. Each snap-apart module is an argument that planned obsolescence is a design choice, not a technological necessity. The phone sold modestly. The argument it made restructured the entire EU debate on right-to-repair legislation.",
+    "keywords": [
+      "modular",
+      "right to repair",
+      "e-waste",
+      "conflict-free minerals",
+      "circular economy",
+      "iFixit",
+      "supply chain transparency"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 908,
+    "title": "Inter",
+    "designer": "Rasmus Andersson",
+    "year": 2017,
+    "discipline": "Typography",
+    "origin": "Sweden / United States",
+    "manufacturer": "Open source (SIL Open Font License)",
+    "collection": "N/A — distributed via Google Fonts, GitHub",
+    "movement": "Open Source Typography",
+    "wikiTitle": "Inter_(typeface)",
+    "description": "A sans-serif typeface designed from the ground up for computer screens, with a tall x-height, open apertures, and letterforms optimised for legibility at small sizes on low-resolution displays. Tabular figures are the default. The typeface includes over 2,500 glyphs covering 147 languages, with a full set of OpenType features. Developed openly on GitHub, where over 200 contributors have filed issues and suggested refinements. Released as a variable font with weight and italic axes.",
+    "significance": "Inter is what happens when a designer applies the logic of open-source software to type design — version control, issue trackers, pull requests, public iteration. The result is not a compromise but one of the most precisely engineered screen faces ever drawn: every curve is optimised for pixel grids, every spacing decision tested across rendering engines. That it has become the default UI typeface for half the web's startups is a testament less to fashion than to the fact that Andersson solved a real problem. It is the Helvetica of the interface age, with all the ubiquity and invisibility that implies.",
+    "keywords": [
+      "variable font",
+      "open source",
+      "screen typography",
+      "GitHub",
+      "x-height",
+      "UI",
+      "SIL license",
+      "sans-serif"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 909,
+    "title": "WikiHouse",
+    "designer": "Alastair Parvin / WikiHouse Foundation",
+    "year": 2011,
+    "discipline": "Architecture",
+    "origin": "United Kingdom",
+    "manufacturer": "Open source (various local fabricators)",
+    "collection": "N/A — open-source building system",
+    "movement": "Open Source Design",
+    "wikiTitle": "WikiHouse",
+    "description": "An open-source construction system: download the digital files, CNC-cut structural plywood panels, and assemble a house without specialist skills or heavy machinery. The structural chassis — called Wren — uses interlocking plywood ribs that slot together like a three-dimensional jigsaw. No bolts in the primary structure. A two-person team can raise the frame in a day. The system is licensed under Creative Commons and has been built in over fifteen countries.",
+    "significance": "WikiHouse treats architecture the way Linux treated operating systems: as a commons problem, not a professional monopoly. Parvin's 2013 TED talk asked the most dangerous question in contemporary architecture — 'what if citizens could design and build their own houses?' — and then provided the files. The project's real significance is not the plywood chassis but the proposition that the architect's role might shift from author to tool-maker. Most architects found this threatening. That's how you know it matters.",
+    "keywords": [
+      "open source",
+      "CNC plywood",
+      "self-build",
+      "Creative Commons",
+      "digital fabrication",
+      "housing",
+      "distributed manufacturing"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 910,
+    "title": "Forensic Architecture: Triple-Chaser",
+    "designer": "Forensic Architecture / Eyal Weizman",
+    "year": 2019,
+    "discipline": "Graphic",
+    "origin": "United Kingdom / International",
+    "manufacturer": "Goldsmiths, University of London",
+    "collection": "Whitney Museum of American Art, New York; ICA London",
+    "movement": "Counter-Forensics / Spatial Justice",
+    "wikiTitle": "Forensic_Architecture",
+    "description": "A spatial investigation practice that reconstructs acts of state violence using architectural modelling, open-source intelligence, photogrammetry, and acoustic analysis. The team — architects, filmmakers, coders, journalists — builds navigable 3D models of contested events from mobile phone footage, satellite imagery, and witness testimony. Their Triple-Chaser investigation for the 2019 Whitney Biennial traced the supply chain of tear gas from its manufacturer (Safariland, whose owner sat on the Whitney board) to sites of deployment against civilians worldwide. Investigations have been submitted as evidence to the International Criminal Court, the UN, and national courts.",
+    "significance": "Forensic Architecture demolished the boundary between design practice and human rights work. Weizman demonstrated that the spatial literacy architects possess — reading plans, reconstructing sightlines, modelling environments — is a forensic tool with legal force. The work is uncomfortable for the design world precisely because it refuses to be aesthetic: the 3D models are deliberately un-rendered, the interfaces are evidentiary, the beauty is entirely in the rigour. It proves that design skills have consequences far beyond the objects they usually produce.",
+    "keywords": [
+      "spatial analysis",
+      "counter-forensics",
+      "human rights",
+      "photogrammetry",
+      "open-source intelligence",
+      "state violence",
+      "Whitney Biennial"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 911,
+    "title": "Ocean Sole Flip-Flop Sculptures",
+    "designer": "Julie Church / Ocean Sole",
+    "year": 1997,
+    "discipline": "Product",
+    "origin": "Kenya",
+    "manufacturer": "Ocean Sole",
+    "collection": "Exhibited internationally; Smithsonian National Zoo",
+    "movement": "Circular Design / Kenyan Craft",
+    "wikiTitle": "Ocean_Sole",
+    "description": "Life-size animal sculptures carved from discarded flip-flops collected from Kenyan beaches and waterways. Founded in 1997 by conservationist Julie Church after observing women clearing beaches for turtle nesting sites, Ocean Sole grew from a community project into a social enterprise employing over 100 artisans in Nairobi. The sandals — an estimated 90,000 tons of which wash up on African coastlines annually — are sorted by colour, compressed, shaped with machetes and knives, and assembled into giraffes, elephants, dolphins, and abstract forms. Each sculpture uses between 50 and 2,000 recovered sandals.",
+    "significance": "Ocean Sole is circular design without the European theory — no material passports, no lifecycle assessment software, just the blunt reality that the Indian Ocean delivers more waste than raw material to the Kenyan coast. Church didn't cite McDonough or Braungart; she responded to a beach. The sculptures' candy-bright colour palette — inherent to the flip-flop material — gives them an accidental Pop Art quality that has made them collectible internationally, but the operation's real design is the system: collection, sorting, employment, export. The product is almost incidental to the supply chain it created.",
+    "keywords": [
+      "circular economy",
+      "marine waste",
+      "flip-flop",
+      "Kenya",
+      "community employment",
+      "upcycling",
+      "craft",
+      "African design"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 912,
+    "title": "Unsupervised — Machine Hallucinations — MoMA",
+    "designer": "Refik Anadol",
+    "year": 2022,
+    "discipline": "Architecture",
+    "origin": "Turkey / United States",
+    "manufacturer": "Refik Anadol Studio",
+    "collection": "Museum of Modern Art, New York",
+    "movement": "AI Art / Data Sculpture",
+    "wikiTitle": "Refik_Anadol",
+    "description": "A room-scale data sculpture generated by feeding over 138,000 images from MoMA’s collection into a machine learning model (StyleGAN2 ADA), then projecting the output onto a curved LED wall in the museum’s lobby. The AI model creates real-time ‘hallucinations’ of art that does not exist — forms that pulse, dissolve, and reconstitute based on latent patterns the model found across two centuries of collected art. No two moments are identical. The installation ran from November 2022 to October 2023 and became MoMA’s most-visited contemporary work. The NFT version was acquired for MoMA’s permanent collection.",
+    "significance": "Anadol is the most visible test case for whether machine learning can be a legitimate collaborator in design rather than a tool for pastiche. The work's immersive scale — building-sized projections that engulf the viewer — owes more to James Turrell than to computer science. Critics are divided: is this a genuine new medium or an expensive screensaver? That the debate remains unresolved is itself significant. Anadol forced art institutions to take a position on AI-generated aesthetics before they were ready, and MoMA's acquisition made the position permanent.",
+    "keywords": [
+      "machine learning",
+      "GAN",
+      "data sculpture",
+      "NASA",
+      "immersive",
+      "NFT",
+      "MoMA",
+      "generative"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 913,
+    "title": "MSCHF Satan Shoes",
+    "designer": "MSCHF & Lil Nas X",
+    "year": 2021,
+    "discipline": "Product",
+    "origin": "United States",
+    "manufacturer": "MSCHF (modified Nike Air Max 97)",
+    "collection": "N/A — 666 pairs produced",
+    "movement": "Post-Internet Art / Designed Provocation",
+    "wikiTitle": "Satan_Shoes",
+    "description": "Six hundred and sixty-six pairs of modified Nike Air Max 97 sneakers, each containing one drop of human blood in the sole's air bubble, a bronze pentagram on the lace, and a Bible verse reference (Luke 10:18) on the side. Created in collaboration with Lil Nas X. Nike sued within days; MSCHF agreed to a voluntary recall. The shoes sold out in under a minute at $1,018 per pair. MSCHF is a Brooklyn-based collective of roughly 25 people who operate more like a conceptual art practice than a design studio.",
+    "significance": "The Satan Shoes proved that in the age of the drop, the most powerful design intervention might be the one that gets recalled. MSCHF understood that the lawsuit was the medium, the outrage was the distribution channel, and the sneaker was just the carrier. The project exposed a genuine tension in contemporary design culture: who owns a shoe's meaning once it's been sold? Nike argued trademark. MSCHF argued expression. Neither was wrong, which is why the case settled rather than setting precedent. As design provocation, it is more effective than most gallery work because it operated inside the market system it was critiquing.",
+    "keywords": [
+      "sneaker culture",
+      "provocation",
+      "Nike",
+      "trademark",
+      "drop culture",
+      "conceptual art",
+      "recall",
+      "authorship"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 914,
+    "title": "Animal: The Other Side of Evolution",
+    "designer": "Ana Rajcevic",
+    "year": 2012,
+    "discipline": "Product",
+    "origin": "Serbia / United Kingdom",
+    "manufacturer": "Ana Rajcevic Studio",
+    "collection": "Cooper Hewitt, Smithsonian Design Museum, New York",
+    "movement": "Speculative Design / Bio-Design",
+    "wikiTitle": "Ana_Rajčević",
+    "description": "A series of wearable sculptural pieces — headpieces, spinal extensions, facial prosthetics — that graft animal anatomical features onto the human body. Horns spiral from the forehead; vertebral ridges extend the spine; mandibular structures reshape the jaw. Each piece is hand-fabricated in resin, fibreglass, and silicone, fitted precisely to the wearer's anatomy. The series was Rajcevic's RCA graduation project and immediately entered the speculative design conversation.",
+    "significance": "Rajcevic's Animal series sits at the productive boundary between fashion, prosthetics, and speculative biology. The pieces don't illustrate a future — they make it wearable, uncomfortable, and viscerally present. Where Dunne and Raby's speculative objects sit on tables and provoke discussion, Rajcevic's attach to bodies and provoke sensation. The work asks whether the next phase of human design might be human redesign, and it asks this through craft rather than CGI — every horn is hand-shaped, every fit is bespoke. The body becomes the site of the speculation.",
+    "keywords": [
+      "speculative design",
+      "wearable",
+      "RCA",
+      "animal anatomy",
+      "prosthetic",
+      "body modification",
+      "bio-design",
+      "post-human"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 915,
+    "title": "Moirai Chandelier (Below the Heavens Collection)",
+    "designer": "Ini Archibong",
+    "year": 2019,
+    "discipline": "Lighting",
+    "origin": "United States / Switzerland",
+    "manufacturer": "Sé Collections",
+    "collection": "Exhibited at Salon del Mobile, Milan",
+    "movement": "Contemporary Craft / Afrofuturism",
+    "wikiTitle": null,
+    "description": "A chandelier composed of hand-blown Murano glass spheres in gradients of blue, green, and amber, suspended from a patinated brass armature whose geometry references celestial mechanics. The glass globes are arranged in orbits — inner rings denser, outer rings sparser — creating a three-dimensional constellation. Each glass element is unique; the Murano glassblowers Archibong worked with introduced deliberate imperfections that distinguish handwork from machine uniformity. The piece spans over two metres in diameter.",
+    "significance": "Archibong trained as an industrial designer in Pasadena and a furniture designer in Lausanne, but Below the Heavens operates at the scale of architecture and the register of sculpture. The chandelier matters because it demonstrates that Murano glass — a tradition routinely coded as European heritage — can be redirected through a design sensibility rooted in West African cosmology and American craft. Archibong doesn't reference Africa decoratively; the orbital geometry comes from Yoruba astronomical concepts. The piece quietly insists that the luxury craft traditions of Europe are tools, not identities — available to anyone with the skill and vision to use them.",
+    "keywords": [
+      "Murano glass",
+      "chandelier",
+      "Afrofuturism",
+      "celestial",
+      "hand-blown",
+      "brass",
+      "Sé Collections",
+      "Yoruba"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 916,
+    "title": "Apple Human Interface Guidelines for iOS 7",
+    "designer": "Jony Ive / Apple Human Interface Team",
+    "year": 2013,
+    "discipline": "Graphic",
+    "origin": "United States",
+    "manufacturer": "Apple Inc.",
+    "collection": "N/A — digital specification",
+    "movement": "Flat Design",
+    "wikiTitle": "IOS_7",
+    "description": "The radical visual overhaul that stripped skeuomorphism from every Apple interface overnight. Leather textures, drop shadows, faux-stitching, and felt-green game tables were replaced by translucent layers, thin typography, full-bleed colour, and a systematic use of blur (the 'frosted glass' effect). The design language extended beyond aesthetics into interaction: parallax scrolling gave the home screen apparent depth, and physics-based animations made interfaces feel like they had mass and momentum. Over 700 million devices updated within months.",
+    "significance": "iOS 7 was the most consequential design decision of the decade not because flat design was new — Microsoft's Metro preceded it by two years — but because Apple's market power made it irreversible. Within eighteen months, every major digital platform had flattened. The shift proved something unsettling about digital design: that visual language at this scale is not a conversation but a decree. Ive's skeuomorphism-to-flatness pivot also killed the assumption that digital interfaces need real-world metaphors to be understood. It turned out users didn't need the leather to know it was a calendar.",
+    "keywords": [
+      "flat design",
+      "skeuomorphism",
+      "iOS",
+      "translucency",
+      "Apple",
+      "interface",
+      "visual language",
+      "physics-based animation"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 917,
+    "title": "Figma",
+    "designer": "Dylan Field, Evan Wallace",
+    "year": 2016,
+    "discipline": "Product",
+    "origin": "United States",
+    "manufacturer": "Figma, Inc.",
+    "collection": "N/A — software tool",
+    "movement": "Design Systems / Collaborative Design",
+    "wikiTitle": "Figma_(software)",
+    "description": "A browser-based interface design tool that runs entirely in WebGL, requiring no installation and enabling real-time multiplayer collaboration — multiple designers editing the same file simultaneously, with live cursors visible on screen. Its component system allows design tokens, styles, and elements to be shared across an organisation as a single source of truth. The auto-layout engine makes responsive design possible without code. Adobe attempted to acquire Figma for $20 billion in 2022; regulators blocked the deal.",
+    "significance": "Figma did not invent a new aesthetic. It restructured the social practice of design. By making design files multiplayer and browser-native, it dissolved the boundary between designing and reviewing, between the designer's private workspace and the team's shared canvas. The $20 billion valuation was not for the software but for the network: Figma became the place where design decisions happen, the way Google Docs became the place where writing happens. It made design legible to non-designers, which is either democratisation or de-professionalisation depending on your position.",
+    "keywords": [
+      "browser-based",
+      "multiplayer",
+      "WebGL",
+      "design tool",
+      "components",
+      "auto-layout",
+      "collaboration",
+      "Adobe"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 918,
+    "title": "Precious Plastic",
+    "designer": "Dave Hakkens",
+    "year": 2013,
+    "discipline": "Product",
+    "origin": "Netherlands",
+    "manufacturer": "Open source (community-built machines)",
+    "collection": "N/A — open-source hardware platform",
+    "movement": "Circular Design / Open Source",
+    "wikiTitle": "Precious_Plastic",
+    "description": "An open-source ecosystem of machines — shredder, extruder, injection moulder, sheet press — that can be built from locally sourced materials and used to recycle plastic waste into new products. The machine blueprints, business plans, and product moulds are freely downloadable. Over 600 active workspaces in 90 countries run Precious Plastic machines. The project includes a global bazar (online marketplace) where recycled products are traded. Hakkens developed the first version as his Design Academy Eindhoven graduation project.",
+    "significance": "Precious Plastic inverted the scale assumption of recycling. Industrial recycling requires million-dollar facilities and consolidated waste streams. Hakkens asked: what if recycling infrastructure was as distributed as the waste itself? The open-source machines are deliberately low-tech — angle grinders, barrel heaters, steel tubes — because high-tech would exclude the communities that need them most. The project's real design is not the machines but the network: a global franchise model for waste processing that requires no franchise fee. It is design as infrastructure, not design as product.",
+    "keywords": [
+      "open source",
+      "plastic recycling",
+      "distributed manufacturing",
+      "Design Academy Eindhoven",
+      "community",
+      "circular economy",
+      "machines",
+      "global network"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 919,
+    "title": "Mycelium Brick (Hy-Fi Tower)",
+    "designer": "David Benjamin / The Living",
+    "year": 2014,
+    "discipline": "Architecture",
+    "origin": "United States",
+    "manufacturer": "Ecovative Design (mycelium), The Living (architecture)",
+    "collection": "MoMA PS1, New York (temporary installation, 2014)",
+    "movement": "Bio-Design / Living Materials",
+    "wikiTitle": null,
+    "description": "A 12-metre tower constructed from 10,000 bricks grown from corn stalks and living mycelium — the root structure of mushrooms. The bricks were produced by filling moulds with chopped agricultural waste, inoculating with mycelium, and allowing the fungal network to bind the material over five days in darkness. The resulting bricks are lightweight, fire-resistant, and fully compostable. After the summer installation at MoMA PS1, the tower was disassembled and the bricks composted. Zero construction waste remained.",
+    "significance": "The Hy-Fi tower was the first significant structure to be grown rather than manufactured, and then returned to soil rather than landfill. Benjamin's contribution was not the mycelium material — Ecovative had developed that — but the architectural proposition: that a building could have a lifecycle measured in months, not decades, and that this impermanence was a feature, not a failure. The tower at MoMA PS1 made grown architecture physically real at human scale, moving bio-design from laboratory curiosity to inhabitable space. The fact that the building no longer exists is part of its argument.",
+    "keywords": [
+      "mycelium",
+      "bio-fabrication",
+      "compostable",
+      "MoMA PS1",
+      "grown architecture",
+      "corn stalk",
+      "impermanence",
+      "Ecovative"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 920,
+    "title": "Source Sans Pro",
+    "designer": "Paul D. Hunt / Adobe",
+    "year": 2012,
+    "discipline": "Typography",
+    "origin": "United States",
+    "manufacturer": "Adobe (SIL Open Font License)",
+    "collection": "N/A — open-source distribution",
+    "movement": "Open Source Typography",
+    "wikiTitle": "Source_Sans_Pro",
+    "description": "Adobe's first open-source typeface family, and the first major type release from a multinational software company under a fully open licence. Designed by Paul D. Hunt, it offers 12 weights from ExtraLight to Black with corresponding italics, extensive Latin, Greek, and Cyrillic character sets, and careful hinting for screen rendering. The design draws on the American Gothic tradition — Franklin Gothic, News Gothic — filtered through the demands of UI readability. Source Serif and Source Code followed, creating a complete open-source superfamily.",
+    "significance": "Source Sans Pro mattered less for its letterforms than for who released it and how. Adobe — the company that built its empire on proprietary font technology — publishing a typeface under a licence that allows anyone to modify and redistribute it was a structural shift in the economics of type design. It legitimised open-source type as a professional-grade category and paved the way for Google Fonts to become the dominant distribution platform for web typography. The typeface itself is excellent and deliberately unshowy, which is exactly the point: the best open-source type is type that removes the excuse for not licensing properly.",
+    "keywords": [
+      "open source",
+      "Adobe",
+      "SIL license",
+      "screen typography",
+      "American Gothic",
+      "UI",
+      "web fonts",
+      "superfamily"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 921,
+    "title": "Plastex Material & Gramaz Chair",
+    "designer": "Hend Riad and Mariam Hazem / Reform Studio",
+    "year": 2016,
+    "discipline": "Furniture",
+    "origin": "Egypt",
+    "manufacturer": "Reform Studio, Cairo",
+    "collection": "Exhibited at Dubai Design Week; Beirut Design Week",
+    "movement": "Contemporary Egyptian Design",
+    "wikiTitle": null,
+    "description": "A furniture collection woven from Plastex — a material invented by Reform Studio from discarded plastic bags collected from Cairo’s informal waste sector. The bags are sorted, sterilised, cut into strips, and hand-woven on traditional looms with recycled cotton thread. The Gramaz chair — named after Mariam Hazem’s grandmother’s chair — uses 150 plastic bags per seat, woven in multi-coloured stripe patterns determined by whatever bags are available. The material has been lab-tested at Egypt’s National Center for Research: water-resistant, UV-stable, supports over 50kg, stretches to double its size.",
+    "significance": "Reform Studio operates at an intersection that European design discourse rarely acknowledges: contemporary sustainability practice built on informal-economy waste infrastructure that already exists in Cairo. The zabbaleen — Cairo’s traditional waste collectors — sort plastic with more nuance than any Western recycling facility. Riad and Hazem designed a material and a product line that gives that existing knowledge economic value in the formal design market. The Gramaz chair doesn’t need a lifecycle assessment to justify itself — the supply chain is visible in every woven strip.",
+    "keywords": [
+      "Plastex",
+      "recycled plastic bags",
+      "Egyptian design",
+      "handweaving",
+      "informal economy",
+      "Cairo",
+      "zabbaleen",
+      "craft"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 922,
+    "title": "iThongo (Ancestral Dreamscape) Vessels",
+    "designer": "Andile Dyalvane",
+    "year": 2020,
+    "discipline": "Ceramic",
+    "origin": "South Africa",
+    "manufacturer": "Imiso Ceramics, Cape Town",
+    "collection": "Metropolitan Museum of Art, New York; Vitra Design Museum",
+    "movement": "Contemporary African Ceramics",
+    "wikiTitle": null,
+    "description": "Monumental hand-built ceramic vessels — some large enough to sit on — incised with a personal system of glyphs that encode Xhosa concepts: ubuntu (interconnectedness), umsamo (sacred ancestral space), umzi (homestead). Dyalvane builds each vessel by hand from terracotta clay, carving the glyph system into the wet surface before firing. The iThongo series premiered in his home village of Ngobozana in the Eastern Cape before exhibiting at Southern Guild in Cape Town and Friedman Benda in New York. The vessels function as both sculpture and seating.",
+    "significance": "Dyalvane is the most important ceramic artist working in Africa today, and the iThongo series is why. The glyph system is not decoration — it is a written language for concepts that Xhosa oral tradition has never committed to marks before. Each vessel is simultaneously a functional object, a sculptural work, and a lexicon. That the Metropolitan Museum acquired pieces alongside the Vitra Design Museum signals that the work operates across the art-design boundary that Western institutions still struggle to navigate. Dyalvane builds in rural South Africa and shows in New York, but the direction of influence runs from village to gallery, not the reverse.",
+    "keywords": [
+      "Xhosa",
+      "ceramic",
+      "glyphs",
+      "hand-built",
+      "South Africa",
+      "Southern Guild",
+      "ancestral",
+      "terracotta"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 923,
+    "title": "Entrevero Collection",
+    "designer": "Cristián Mohaded",
+    "year": 2018,
+    "discipline": "Furniture",
+    "origin": "Argentina",
+    "manufacturer": "Cristián Mohaded Studio, Buenos Aires",
+    "collection": "Philadelphia Museum of Art; Musée Les Arts Décoratifs, Paris",
+    "movement": "Latin American Contemporary Design",
+    "wikiTitle": null,
+    "description": "A collection of furniture and objects that fuses Argentine craft traditions — hand-beaten copper from the Andes, woven palm fibre from the Chaco, carved algarrobo hardwood from Santiago del Estero — with contemporary forms. Mohaded works directly with artisans in northwestern Argentina, collaborating with indigenous communities whose material knowledge spans generations. The collection was presented at Design Miami in 2018 with co-producer Josefina Roca and won the CRE Design Award in 2020. Each piece carries visible evidence of its handmade origin: hammer marks in copper, grain variation in wood, tension irregularities in weaving.",
+    "significance": "Mohaded represents a genuine alternative to the European design-school pipeline that dominates Latin American design discourse. He works from and with communities in Argentina’s rural northwest — not Buenos Aires, not Milan — and his material knowledge comes from craft traditions that predate the nation-state. The Entrevero collection doesn’t romanticise indigenous practice; it professionalises it, placing hand-beaten Andean copper in the permanent collection of the Philadelphia Museum of Art. The variation between pieces isn’t rustic charm — it’s evidence that the craftsperson’s hand knows the material better than any specification sheet.",
+    "keywords": [
+      "Argentine design",
+      "Andean copper",
+      "algarrobo",
+      "indigenous craft",
+      "Design Miami",
+      "hand-beaten",
+      "Latin American",
+      "material regionalism"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 924,
+    "title": "Taboo Furniture Collection",
+    "designer": "Bibi Seck / Birsel + Seck",
+    "year": 2016,
+    "discipline": "Furniture",
+    "origin": "Senegal / United States",
+    "manufacturer": "Transtech, Dakar",
+    "collection": "Cooper Hewitt, Smithsonian Design Museum; MoMA, New York",
+    "movement": "West African Contemporary Design / Circular Design",
+    "wikiTitle": null,
+    "description": "A collection of stools and low tables manufactured in Dakar, Senegal, from 75% recycled garbage bags and plastic bottles. Transtech — a Senegalese maker of cisterns and septic tanks — moulds the recycled plastic into furniture forms using rotational moulding. The designs reference the daily habits of West African socialising: low stools for sitting around attaya (tea), tables at squat height for communal eating. The colour of each piece is determined by the available recycled plastic, making every batch unique. The collection was exhibited at Design Indaba and the 1:54 African Art Fair.",
+    "significance": "Seck trained at ESDI Paris, spent twelve years as lead designer at Renault, then co-founded Birsel + Seck in New York — before routing his career back to Dakar. The Taboo collection matters because it uses existing African manufacturing infrastructure (Transtech already knew how to mould recycled plastic) to produce designed objects that don’t need to be explained as ‘African design.’ They’re just well-designed stools made from local waste by local industry. The supply chain is entirely Senegalese. The design knowledge is global. That’s the model Seck is building: not craft export, but a self-sufficient design economy.",
+    "keywords": [
+      "Senegalese design",
+      "recycled plastic",
+      "Dakar",
+      "rotational moulding",
+      "Transtech",
+      "attaya culture",
+      "circular economy",
+      "Birsel + Seck"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 925,
+    "title": "The New Aesthetic Tumblr",
+    "designer": "James Bridle",
+    "year": 2011,
+    "discipline": "Graphic",
+    "origin": "United Kingdom",
+    "manufacturer": "N/A — blog / curatorial project",
+    "collection": "N/A — archived web content",
+    "movement": "New Aesthetic / Post-Internet",
+    "wikiTitle": "New_Aesthetic",
+    "description": "A Tumblr blog that collected images of digital technology bleeding into physical space: pixelated camouflage on military uniforms, Google Maps glitches rendered as physical sculpture, surveillance camera footage aestheticised, drone's-eye landscapes, render ghosts in Google Street View. Bridle presented the collection at the SXSW conference in 2012, sparking a design and art theory debate that ran for years. The project was a curatorial act — Bridle made no objects, only assembled evidence.",
+    "significance": "The New Aesthetic was the first serious attempt to name and document a visual culture that was emerging from machines seeing the world differently than humans do. Bridle didn't design anything — he pointed at things and said 'this is new, and we don't have a language for it yet.' The Tumblr is a design research method disguised as a blog: accumulation as argument, curation as criticism. It gave designers and theorists a vocabulary — glitch, render ghost, machine vision — that became essential to discussing the visual culture of the 2010s. The medium (Tumblr, a platform now largely defunct) is itself part of the archive's impermanence.",
+    "keywords": [
+      "New Aesthetic",
+      "machine vision",
+      "Tumblr",
+      "glitch",
+      "drone",
+      "surveillance",
+      "curation",
+      "post-internet"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 926,
+    "title": "Mitigation of Shock",
+    "designer": "Superflux (Anab Jain and Jon Ardern)",
+    "year": 2017,
+    "discipline": "Product",
+    "origin": "United Kingdom / India",
+    "manufacturer": "Superflux Studio",
+    "collection": "Exhibited at MoMA, New York; V&A, London",
+    "movement": "Speculative Design / Critical Design",
+    "wikiTitle": null,
+    "description": "A fully furnished future apartment set in London circa 2050, staged as an immersive installation at CCCB Barcelona (2017-2018). The domestic interior shows a household coping with climate-driven food insecurity: an indoor farm growing root vegetables under UV lamps, DIY insect-protein equipment on the kitchen counter, a hacked smart meter, blackout curtains for energy rationing. Every object is functional, not theatrical. The installation was developed with input from NASA, the UK Met Office, and Forum for the Future. A Singapore version, set in an HDB flat in 2068, followed.",
+    "significance": "Mitigation of Shock moves speculative design from the gallery pedestal to the domestic interior — you don’t look at it, you stand inside it and feel the temperature drop. Where earlier speculative work (Dunne and Raby’s United Micro Kingdoms, for instance) operated at conceptual altitude, Superflux operates at room temperature. The mundane details are the design: a repurposed bookshelf becomes a seed rack, an IKEA table supports a hydroponic rig. The speculation is not that the future will be different, but that it will be recognisable — and that your own furniture will be repurposed for survival.",
+    "keywords": [
+      "speculative design",
+      "climate crisis",
+      "immersive installation",
+      "food systems",
+      "near-future",
+      "domestic",
+      "MoMA",
+      "critical design"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 927,
+    "title": "OpenDesk",
+    "designer": "Joni Steiner and Nick Ierodiaconou",
+    "year": 2013,
+    "discipline": "Furniture",
+    "origin": "United Kingdom",
+    "manufacturer": "Distributed (local CNC fabricators worldwide)",
+    "collection": "N/A — open-source furniture platform",
+    "movement": "Open Source Design / Distributed Manufacturing",
+    "wikiTitle": "Opendesk",
+    "description": "An online platform where designers upload CNC-ready furniture files and customers commission local fabricators to cut them. The furniture — desks, shelving, stools, meeting tables — is designed for plywood and CNC routing, with finger joints and slot-together assembly that requires no specialist tools. Designers earn royalties per make. Fabricators are verified through the platform. The result is furniture that is manufactured metres from where it's used, from files that travel the internet instead of containers crossing oceans.",
+    "significance": "OpenDesk tested the proposition that furniture supply chains are unnecessarily global — that a desk designed in London and used in Lagos doesn't need to travel through a Chinese factory. The platform failed commercially in its original form (it pivoted to workplace furniture consulting), but the model it proposed — design as downloadable file, manufacturing as local service — remains the most coherent vision for how distributed digital fabrication could restructure physical production. The failure is instructive: it proved that the technology works but the economics don't yet support it. That's honest knowledge.",
+    "keywords": [
+      "open source",
+      "CNC plywood",
+      "distributed manufacturing",
+      "local fabrication",
+      "digital files",
+      "supply chain",
+      "platform",
+      "finger joints"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 928,
+    "title": "Totomoxtle",
+    "designer": "Fernando Laposse",
+    "year": 2017,
+    "discipline": "Textile",
+    "origin": "Mexico",
+    "manufacturer": "Fernando Laposse Studio / Tonahuixtla community",
+    "collection": "V&A, London; Design Museum, London",
+    "movement": "Neo-Craft / Bio-Design",
+    "wikiTitle": null,
+    "description": "A decorative veneer material made from the dried husks of heritage Mexican corn varieties — husks that range in colour from deep purple to pale gold, depending on the maize strain. The husks are flattened, laminated, and backed to create sheets that can be cut, tiled, and applied to surfaces like conventional veneer. Each colour comes from a different indigenous corn variety, many of which are endangered by industrial monoculture. Laposse works with the indigenous Mixtec community of Tonahuixtla in Puebla, who grow the heritage strains.",
+    "significance": "Totomoxtle is simultaneously a material innovation, a conservation project, and an economic argument. By creating market demand for heritage corn husks, Laposse gives indigenous farmers a financial reason to maintain crop diversity that industrial agriculture has spent decades erasing. The material is genuinely beautiful — the colour range is extraordinary — but the beauty is a delivery mechanism for a biodiversity argument. The V&A acquired it not as craft but as design research, recognising that the most important design decisions in the material might be agricultural, not aesthetic.",
+    "keywords": [
+      "heritage corn",
+      "Mixtec community",
+      "biodiversity",
+      "veneer",
+      "Mexico",
+      "agricultural design",
+      "indigenous knowledge",
+      "bio-material"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 929,
+    "title": "Ukhamba Vessels",
+    "designer": "Zizipho Poswa / Southern Guild",
+    "year": 2019,
+    "discipline": "Ceramic",
+    "origin": "South Africa",
+    "manufacturer": "Southern Guild, Cape Town",
+    "collection": "Southern Guild Gallery, Cape Town; exhibited at Design Miami",
+    "movement": "Contemporary African Ceramics",
+    "wikiTitle": null,
+    "description": "Large-scale ceramic vessels — some exceeding a metre in height — that reinterpret the traditional Xhosa ukhamba beer pot at monumental scale. Poswa hand-coils each vessel from terracotta clay, building the walls in stages over weeks, then burnishes the surface to a matte finish using river stones. The forms retain the swelling belly and narrow neck of the traditional pot but are scaled to architectural presence. Poswa works from the Southern Guild studio in Cape Town, and the vessels have been shown at Design Miami, Frieze, and the Salon Art + Design in New York.",
+    "significance": "Southern Guild’s model — commissioning collectible design objects at gallery prices while building manufacturing infrastructure in Cape Town — has done more to establish contemporary African design in the international market than any biennial or government initiative. Poswa’s Ukhamba vessels represent the programme at its best: traditional form knowledge (the beer pot’s proportions are acoustically tuned for fermentation monitoring) scaled to a register that commands gallery walls. The work refuses to be ethnographic — these are not reproductions of traditional pots, they are contemporary sculptures that happen to know where they come from.",
+    "keywords": [
+      "South African design",
+      "Xhosa",
+      "ukhamba",
+      "hand-coiled",
+      "Southern Guild",
+      "collectible design",
+      "ceramic",
+      "monumental scale"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 930,
+    "title": "BabyPod 20",
+    "designer": "Advanced Healthcare Technology & Williams Advanced Engineering",
+    "year": 2017,
+    "discipline": "Product",
+    "origin": "United Kingdom / Global South deployment",
+    "manufacturer": "Advanced Healthcare Technology / Williams Advanced Engineering",
+    "collection": "Great Ormond Street Hospital CATS, London",
+    "movement": "Technology Transfer / Humanitarian Design",
+    "wikiTitle": null,
+    "description": "A neonatal transport incubator constructed using carbon fibre composite technology developed for Formula 1 racing cars. The pod weighs 9.1kg, withstands 20g crash forces, and costs a fraction of conventional neonatal transport systems. Williams Advanced Engineering — the technology division of the Williams F1 team — applied their cockpit safety engineering to the problem of transporting critically ill newborns between hospitals. The slide-and-tilt mechanism gives medical staff access to the infant during transport. Manufactured at Williams’ Grove headquarters alongside F1 car production.",
+    "significance": "The BabyPod 20 is the clearest example of technology transfer as design method: the same carbon fibre layup that protects a driver at 300km/h protects a premature infant at 100km/h. Williams didn’t simplify their F1 technology — they redirected it, applying crash-survival engineering to a problem that the medical device industry had been solving with heavy, expensive, over-engineered incubators for decades. The result is lighter, stronger, and cheaper. It proves that the most important design innovations sometimes come not from design studios but from adjacent industries willing to look sideways at their own expertise.",
+    "keywords": [
+      "neonatal transport",
+      "Formula 1",
+      "carbon fibre",
+      "Williams",
+      "crash protection",
+      "technology transfer",
+      "incubator",
+      "medical device"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 931,
+    "title": "Dazzle Ship",
+    "designer": "Carlos Cruz-Diez (painted by Tabaimo)",
+    "year": 2014,
+    "discipline": "Product",
+    "origin": "Venezuela / United Kingdom",
+    "manufacturer": "Liverpool Biennial / 14-18 NOW",
+    "collection": "Liverpool (temporary public artwork, 2014; repainted by Tabaimo 2021)",
+    "movement": "Kinetic Art / Public Art",
+    "wikiTitle": null,
+    "description": "A decommissioned pilot ship (Edmund Gardner) permanently dry-docked in Liverpool, painted in a large-scale geometric dazzle pattern designed by Venezuelan-French kinetic artist Carlos Cruz-Diez. The pattern references World War I dazzle camouflage — high-contrast geometric painting applied to warships not to hide them but to make their speed and heading unreadable. Cruz-Diez's version uses his signature chromatic induction — colour fields that appear to vibrate and shift as the viewer moves. In 2021, Japanese artist Tabaimo repainted the ship with a new dazzle scheme.",
+    "significance": "The Dazzle Ship is a rare case where decorative surface is also functional history and optical science. Cruz-Diez's painting doesn't just reference dazzle camouflage — it explains why it worked, through chromatic interactions that genuinely disrupt spatial perception. The project also matters as a model for public design: a decommissioned industrial object, a commission from the Global South, and a site-specific intervention that makes a landlocked ship the most visually active object in Liverpool. The 2021 repainting by Tabaimo adds a layer: the ship is a platform for design arguments, not a monument.",
+    "keywords": [
+      "dazzle camouflage",
+      "kinetic art",
+      "chromatic induction",
+      "public art",
+      "Liverpool",
+      "ship",
+      "optical",
+      "Cruz-Diez"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 932,
+    "title": "Recursive Sans & Mono",
+    "designer": "Stephen Nixon / Arrow Type",
+    "year": 2020,
+    "discipline": "Typography",
+    "origin": "United States",
+    "manufacturer": "Google Fonts (SIL Open Font License)",
+    "collection": "N/A — open-source distribution",
+    "movement": "Variable Font Design",
+    "wikiTitle": null,
+    "description": "A variable font with five axes — Monospace, Casual, Weight, Slant, and Cursive — that allows continuous interpolation between a sans-serif proportional face and a monospaced casual face within a single file. Slide the Monospace axis and letterforms smoothly transition from proportional to fixed-width. Slide Casual and the strokes gain the warmth of sign-painter's lettering. The combination of axes produces over 64 predefined styles from one 537KB file. Based on Nixon's earlier single-style casual face, Recursive was commissioned by Google Fonts.",
+    "significance": "Recursive is the most technically ambitious variable font yet released, and it uses that ambition to make a conceptual argument: that the division between 'serious' sans-serif and 'friendly' casual lettering is a false binary that can be dissolved through interpolation. The Monospace axis is particularly radical — no previous typeface allowed continuous transition between proportional and monospaced — and it makes Recursive the first face that genuinely serves both UI design and code editing from the same source. Nixon proved that variable font technology isn't just about saving bandwidth; it's about designing in dimensions that fixed fonts cannot access.",
+    "keywords": [
+      "variable font",
+      "interpolation",
+      "monospace",
+      "casual",
+      "Google Fonts",
+      "five axes",
+      "sign-painting",
+      "code typography"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 933,
+    "title": "Algae Bioplastic Bottle",
+    "designer": "Ari Jónsson",
+    "year": 2016,
+    "discipline": "Product",
+    "origin": "Iceland",
+    "manufacturer": "Ari Jónsson (Iceland Academy of the Arts)",
+    "collection": "Exhibited at DesignMarch, Reykjavik",
+    "movement": "Bio-Design / Circular Design",
+    "wikiTitle": null,
+    "description": "A water bottle made from agar — a gelatinous substance derived from red algae — mixed with water. The bottle maintains its shape while full of liquid but begins to decompose as soon as it's empty, returning to organic matter. Jónsson developed the material as a student at the Iceland Academy of the Arts by experimenting with agar powder and water ratios until the mixture could be moulded, hold liquid, and biodegrade completely. The bottle is edible, though not marketed as food.",
+    "significance": "Jónsson's algae bottle is deliberately imperfect — it wobbles, it's cloudy, it decays. That's the argument. Every quality that makes petroleum plastic commercially dominant (rigidity, clarity, permanence) is exactly the quality that makes it ecologically catastrophic. Jónsson inverted the brief: instead of designing a better bottle, he designed a bottle that's worse in every market-facing metric and better in the only metric that will matter in fifty years. As a graduation project, it's provisional. As a design proposition, it's as radical as anything in the bio-design field.",
+    "keywords": [
+      "agar",
+      "algae",
+      "bioplastic",
+      "biodegradable",
+      "Iceland",
+      "water bottle",
+      "graduation project",
+      "impermanence"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 934,
+    "title": "The Intersection",
+    "designer": "Mimi Shodeinde",
+    "year": 2021,
+    "discipline": "Textile",
+    "origin": "Nigeria / United Kingdom",
+    "manufacturer": "Mimi Shodeinde Studio",
+    "collection": "Exhibited at London Fashion Week; Africa Fashion Exhibition, V&A",
+    "movement": "Afrofuturism / Contemporary Fashion",
+    "wikiTitle": null,
+    "description": "A womenswear collection that fuses Yoruba aso-oke handweaving techniques with laser-cut neoprene and 3D-printed structural elements. The garments use traditional narrow-strip weaving — typically produced on horizontal looms by male weavers in southwestern Nigeria — as the primary textile, but cut and construct it using digital pattern-making and contemporary silhouettes. The 3D-printed elements serve as structural boning and closures, replacing zips and buttons. The aso-oke is sourced from and woven by artisans in Ilorin, Nigeria.",
+    "significance": "Shodeinde's work is important because it treats Yoruba textile tradition as a living technology rather than a heritage citation. The aso-oke isn't a trim or an accent — it's the primary material, subjected to the same cutting and construction rigour as any European luxury fabric. The 3D-printed structural elements don't signal futurity; they solve garment engineering problems. The collection refuses to perform 'African fashion' as a category, insisting instead that Yoruba weaving is simply a material with properties — tensile strength, drape, colour saturation — that can be designed with, not around.",
+    "keywords": [
+      "aso-oke",
+      "Yoruba weaving",
+      "laser cutting",
+      "3D printing",
+      "Nigerian design",
+      "handweaving",
+      "structural textiles",
+      "Afrofuturism"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
+  },
+  {
+    "id": 935,
+    "title": "Non-Extractive Architecture",
+    "designer": "Space Caviar (Joseph Grima)",
+    "year": 2021,
+    "discipline": "Architecture",
+    "origin": "Italy / International",
+    "manufacturer": "Space Caviar / V-A-C Foundation",
+    "collection": "Published by Sternberg Press; exhibited at V-A-C Foundation, Venice",
+    "movement": "Critical Design / Design Research",
+    "wikiTitle": null,
+    "description": "A research project, exhibition, and publication that catalogues architectural practices operating outside extractive economic models — buildings made from waste, structures built by cooperatives, spaces maintained by commoning rather than ownership. The project documents over 100 case studies across six continents, mapping an alternative canon of architecture that prioritises sufficiency over growth. Grima (co-founder of Space Caviar, former editor of Domus) positions it not as utopian speculation but as empirical documentation of practices that already exist.",
+    "significance": "Non-Extractive Architecture is a curatorial and research project, not a building — and that's precisely why it matters. Grima argues that the most important architectural design decisions are economic, not spatial: who owns the building, who extracted the materials, who profits from the maintenance. By documenting over 100 existing practices that answer these questions differently, the project refuses the speculative register of most critical architecture in favour of evidence. It is a design methodology for the climate crisis: don't imagine alternatives, find the ones that already work and make them visible.",
+    "keywords": [
+      "non-extractive",
+      "commoning",
+      "cooperative",
+      "research",
+      "Sternberg Press",
+      "Domus",
+      "economic model",
+      "sufficiency"
+    ],
+    "imageUrl": "",
+    "connections": [],
+    "status": "staging",
+    "notes": "Contemporary batch — fact-checked, no connections yet"
   }
 ];
