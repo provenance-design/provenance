@@ -8925,7 +8925,28 @@ export const CANDIDATES = [
       "specification"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 916,
+                "type": "argument",
+                "reason": "Material Design and iOS 7's flat redesign are the two sides of 2013-2014's platform war over digital visual language. Where Ive stripped everything — shadows, textures, depth cues — Duarte added them back as a physics engine: surfaces cast real shadows, elements stack in z-space, motion obeys inertia. iOS 7 said interfaces don't need metaphors. Material Design said they need better metaphors. Three billion devices adopted each position."
+          },
+          {
+                "id": 66,
+                "type": "lineage",
+                "reason": "Helvetica aspired to be the universal typeface — neutral enough to carry any message without imposing personality. Material Design aspires to be the universal interface language — systematic enough to organise any app without imposing style. Both achieved planetary ubiquity, and both face the same critique: that universality is just hegemony with better manners."
+          },
+          {
+                "id": 917,
+                "type": "method",
+                "reason": "Material Design codifies how interfaces should look and move — a specification that any developer can implement. Figma codifies how designers should collaborate — a platform where any team can work simultaneously. One is a design system, the other is a design tool, but both restructured the social practice of digital design by making it systematic and shareable rather than artisanal and private."
+          },
+          {
+                "id": 55,
+                "type": "lineage",
+                "reason": "Vignelli's subway signage used Helvetica, coloured circles, and strict hierarchy to make New York navigable by anyone. Material Design uses elevation, colour tokens, and motion rules to make any Android app navigable by anyone. The leap from city-scale wayfinding to planetary-scale interface design, fifty years apart — same conviction that systematic visual rules produce democratic clarity."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -8952,7 +8973,28 @@ export const CANDIDATES = [
       "supply chain transparency"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 311,
+                "type": "sameProblem",
+                "reason": "Emeco's 111 Navy Chair turns 111 recycled plastic bottles into a chair that maintains a 1944 military typology. Fairphone turns conflict-free minerals and recycled copper into a phone that maintains a contemporary smartphone typology. Both argue that sustainable materials can meet existing functional standards without demanding aesthetic compromise — the circular economy as substitution, not sacrifice."
+          },
+          {
+                "id": 918,
+                "type": "zeitgeist",
+                "reason": "Fairphone and Precious Plastic both emerged from the Netherlands in the mid-2010s, both responding to the same e-waste and plastic crisis, but at opposite scales. Fairphone redesigns a global product with mapped supply chains and modular repair. Precious Plastic distributes machines so anyone can recycle locally. One works within the industry; the other builds around it."
+          },
+          {
+                "id": 604,
+                "type": "lineage",
+                "reason": "Mari's Autoprogettazione (1974) published furniture plans so anyone could build their own chair — open-source design forty years before the term existed. Fairphone (2015) publishes its supply chain and designs modules anyone can replace — open-source manufacturing applied to the most opaque product category on earth. Mari wanted to democratise making. Fairphone wants to democratise repairing. The politics are the same."
+          },
+          {
+                "id": 96,
+                "type": "argument",
+                "reason": "Rams's ET66 calculator embodies Braun's philosophy that a product should be designed to last through timeless form and material quality — permanence through aesthetics. Fairphone embodies the opposite proposition: that a product should last through modular replaceability and published repair guides — permanence through openness. One seals the object; the other unseals it."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -8980,7 +9022,28 @@ export const CANDIDATES = [
       "sans-serif"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 66,
+                "type": "sameProblem",
+                "reason": "Helvetica was designed for maximum neutrality on printed surfaces — no calligraphic stress, uniform stroke width, tight spacing. Inter was designed for maximum legibility on pixel grids — tall x-height, open apertures, tabular figures by default. Both became the default typeface of their era's dominant medium. Helvetica colonised print; Inter colonised the browser. The question neither answers: is ubiquity a sign of quality or just network effects?"
+          },
+          {
+                "id": 920,
+                "type": "zeitgeist",
+                "reason": "Inter (2017) and Source Sans Pro (2012) are both open-source sans-serifs designed for screens, both distributed through Google Fonts, both used across millions of websites. But Source Sans came from Adobe — a corporation opening its vault. Inter came from a single designer iterating on GitHub — an individual building in public. They represent two models of open-source type: institutional gift and community project."
+          },
+          {
+                "id": 909,
+                "type": "method",
+                "reason": "Inter was developed on GitHub with version control, issue trackers, and pull requests from 200 contributors — software development methodology applied to type design. WikiHouse was developed on open platforms with downloadable files, community builds, and iterative improvement — software development methodology applied to architecture. Both prove that open-source collaboration can produce professional-grade design, not just professional-grade code."
+          },
+          {
+                "id": 932,
+                "type": "lineage",
+                "reason": "Inter optimises a single sans-serif for screen rendering with surgical precision — every curve tuned for pixel grids, every spacing decision tested across rendering engines. Recursive pushes variable font technology to dissolve the boundary between sans-serif and casual, proportional and monospaced, across five interpolation axes. Inter perfects one thing; Recursive reimagines the category. The workhorse and the shapeshifter of open-source typography."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9007,7 +9070,28 @@ export const CANDIDATES = [
       "distributed manufacturing"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 604,
+                "type": "lineage",
+                "reason": "Mari's Autoprogettazione (1974) gave away furniture plans so anyone could build with planks and nails — the architect as enabler rather than author. WikiHouse (2011) gives away building files so anyone can CNC-cut plywood and assemble a house — the architect as tool-maker rather than form-giver. Thirty-seven years apart, the same radical proposition: that design knowledge should be distributed, not hoarded."
+          },
+          {
+                "id": 927,
+                "type": "sameProblem",
+                "reason": "WikiHouse and OpenDesk both ask the same question — can CNC-cut plywood, downloadable files, and local fabricators replace global supply chains? — but at different scales. WikiHouse builds houses. OpenDesk builds desks. Both launched from the UK in 2011-2013, both used Creative Commons licensing, and both discovered that the technology works but the economics resist. The parallel experiments, the parallel struggles."
+          },
+          {
+                "id": 675,
+                "type": "argument",
+                "reason": "Kéré's Serpentine Pavilion (2017) imports West African community-building traditions — the gathering tree, shared construction — into London's Kensington Gardens. WikiHouse exports Western digital fabrication tools — CNC files, plywood chassis — to communities in fifteen countries. Both are acts of architectural knowledge transfer, but in opposite directions: Kéré brings village logic to the institution, WikiHouse sends institutional logic to the village."
+          },
+          {
+                "id": 935,
+                "type": "zeitgeist",
+                "reason": "WikiHouse builds an alternative to professional architecture by distributing construction files under Creative Commons. Non-Extractive Architecture documents alternatives to extractive economics by cataloguing over 100 cooperative building practices. Both launched around 2011-2013, both refuse speculation in favour of evidence, and both insist that the most important architectural questions are systemic, not formal."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9034,7 +9118,28 @@ export const CANDIDATES = [
       "Whitney Biennial"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 43,
+                "type": "method",
+                "reason": "The Eameses' Powers of Ten (1977) uses systematic zooming to make invisible scales of the universe comprehensible — a film as scientific instrument. Forensic Architecture uses systematic spatial reconstruction to make invisible acts of state violence comprehensible — 3D models as legal evidence. Both deploy design's spatial literacy as an analytical tool, but the Eameses served IBM's educational agenda while Weizman serves the International Criminal Court."
+          },
+          {
+                "id": 925,
+                "type": "zeitgeist",
+                "reason": "Bridle's New Aesthetic (2011) documented machines seeing the world differently — drone footage, glitch landscapes, surveillance aesthetics. Forensic Architecture's Triple-Chaser (2019) used machine vision to trace tear gas from manufacturer to deployment site. Both treat digital vision as a subject for design investigation, but Bridle curated a Tumblr about it and Weizman submitted his findings to the UN. Observation versus evidence; aesthetic category versus legal instrument."
+          },
+          {
+                "id": 712,
+                "type": "argument",
+                "reason": "Thwaites's Toaster Project (2009) reverse-engineers a £3.94 appliance to expose the absurd complexity of global supply chains — 404 parts, 100+ materials, dozens of countries. Forensic Architecture's Triple-Chaser (2019) reverse-engineers a tear gas canister's supply chain to expose a weapons manufacturer's board member sitting on the Whitney's board. Both are acts of forensic design — tracing objects backwards through systems — but Thwaites's target is consumer capitalism and Weizman's target is state violence."
+          },
+          {
+                "id": 926,
+                "type": "method",
+                "reason": "Superflux's Mitigation of Shock (2017) makes climate futures physically inhabitable — you stand inside a speculative apartment and feel the implications. Forensic Architecture makes contested pasts physically navigable — you move through a reconstructed crime scene and see the evidence. Both use spatial modelling as a persuasion technology. One speculates forward; the other reconstructs backward. Both refuse the flat image in favour of the inhabitable model."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9062,7 +9167,28 @@ export const CANDIDATES = [
       "African design"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 673,
+                "type": "sameProblem",
+                "reason": "The Freitag brothers cut messenger bags from discarded truck tarpaulins in Zürich — each bag unique because each tarp carries different graphics from its previous life. Julie Church carves animal sculptures from discarded flip-flops in Nairobi — each sculpture unique because each sandal carries a different colour from its previous owner. Both transform waste into identity through the simple act of sorting by colour, but Freitag operates as a Swiss brand and Ocean Sole operates as a Kenyan social enterprise. Same material logic, radically different economies."
+          },
+          {
+                "id": 918,
+                "type": "method",
+                "reason": "Precious Plastic distributes open-source recycling machines to 600 workspaces in 90 countries — a network for processing plastic waste locally. Ocean Sole employs 100 artisans in Nairobi to process flip-flop waste collected from Kenyan beaches — a social enterprise for processing marine debris locally. Both design the system, not just the product. Both prove that distributed waste processing creates employment, not just recycled material."
+          },
+          {
+                "id": 921,
+                "type": "zeitgeist",
+                "reason": "Ocean Sole in Kenya carves flip-flops from beaches into animal sculptures. Reform Studio in Cairo weaves plastic bags from streets into chair seats. Both are Global South design practices that start from waste that washes up or piles up, both employ local artisans in hand-processes, and both produce objects whose candy-bright colours come from the waste itself, not from the designer's palette. Circular design without the European theory."
+          },
+          {
+                "id": 600,
+                "type": "argument",
+                "reason": "The Campanas' Favela Chair (1991) nails São Paulo street wood into gallery furniture — scrap from Brazilian informal economies elevated to MoMA's collection. Ocean Sole's flip-flop sculptures (1997) carve Kenyan beach waste into collectible objects — scrap from African marine environments elevated to the Smithsonian. Both use informal-economy materials, but the Campanas aestheticise poverty while Church creates employment from it. Art object versus livelihood."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9083,14 +9209,35 @@ export const CANDIDATES = [
       "machine learning",
       "GAN",
       "data sculpture",
-      "NASA",
+      "StyleGAN2",
       "immersive",
       "NFT",
       "MoMA",
       "generative"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 925,
+                "type": "argument",
+                "reason": "Bridle's New Aesthetic (2011) asked what it looks like when machines see the world — and assembled the evidence as images on a Tumblr. Anadol's Unsupervised (2022) asked what it looks like when machines dream MoMA's collection — and projected the answer as a room-scale hallucination. Both investigate machine vision as an aesthetic category, but Bridle documented it and Anadol spectacularised it. The critic and the showman of AI aesthetics."
+          },
+          {
+                "id": 54,
+                "type": "lineage",
+                "reason": "Bass's Vertigo title sequence (1958) used a pendulum harmonograph to generate spiralling Lissajous curves that induce psychological vertigo — an analog machine producing immersive visual experience. Anadol's Machine Hallucinations (2022) uses a neural network trained on 138,000 images to generate pulsing abstract forms that engulf viewers — a digital machine producing immersive visual experience. The harmonograph to the GAN: sixty-four years of machines generating aesthetics humans can't."
+          },
+          {
+                "id": 661,
+                "type": "sameProblem",
+                "reason": "Neri Oxman's Silk Pavilion (2013) lets silkworms generate architectural form by spinning across a robotic scaffold — biological intelligence as design collaborator. Anadol's Unsupervised (2022) lets a neural network generate visual form by hallucinating across MoMA's collection — artificial intelligence as design collaborator. Both cede authorship to a non-human agent, but Oxman collaborates with organisms and Anadol collaborates with algorithms. Living systems and learning systems, producing forms their designers didn't draw."
+          },
+          {
+                "id": 931,
+                "type": "material",
+                "reason": "Cruz-Diez's Dazzle Ship (2014) uses chromatic induction — physically painted colour fields on a decommissioned vessel — to create optical effects that shift as the viewer moves around a static object. Anadol's Machine Hallucinations (2022) uses neural network outputs — digitally projected light on a curved LED wall — to create visual effects that shift as the algorithm generates in real time. Both are large-scale colour experiences that refuse to hold still, but one is pigment and the other is pixel."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9118,7 +9265,28 @@ export const CANDIDATES = [
       "authorship"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 316,
+                "type": "zeitgeist",
+                "reason": "The Liberator (2013) is a 3D-printed gun that used open-source files to bypass weapons regulation — the V&A acquired one as evidence that digital fabrication could circumvent law. MSCHF's Satan Shoes (2021) used modified Nike Air Max 97s with human blood to bypass cultural taboo — sold out in seconds, recalled by court order. Both are designed provocations where the legal response was the medium, and both proved that in the age of distributed production, regulation always arrives after the object."
+          },
+          {
+                "id": 602,
+                "type": "method",
+                "reason": "Kawakubo's Body Meets Dress (1997) stuffed garments with down-filled protrusions to distort the body into unfamiliar shapes — fashion as bodily provocation, the garment challenging how you see the human form. MSCHF's Satan Shoes (2021) injected human blood into Air Max 97 air bubbles — footwear as cultural provocation, the sneaker challenging how you see consumer products. Both use the body-worn object as a vector for ideas the market didn't ask for."
+          },
+          {
+                "id": 645,
+                "type": "lineage",
+                "reason": "Maurer's Bulb Lamp (1966) puts a lightbulb inside a bigger lightbulb — Pop art's readymade logic applied to lighting, the industrial object as its own portrait. MSCHF puts human blood inside a Nike shoe's air bubble — post-internet art's provocation logic applied to sneaker culture, the consumer object as its own critique. Both take something ubiquitous and make it impossible to ignore by adding nothing but a conceptual frame. The difference is that Maurer made MoMA smile; MSCHF made Nike sue."
+          },
+          {
+                "id": 914,
+                "type": "zeitgeist",
+                "reason": "MSCHF's Satan Shoes (2021) modify a mass-produced sneaker into a cultural provocation — 666 pairs, pentagram, human blood, lawsuit. Rajcevic's Animal series (2012) grafts animal anatomy onto human bodies — horns, vertebral ridges, mandibular structures, each hand-shaped. Both make the body monstrous, but MSCHF uses consumer products and viral marketing while Rajcevic uses resin and bespoke fitting. Mass provocation versus individual speculation."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9146,7 +9314,28 @@ export const CANDIDATES = [
       "post-human"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 602,
+                "type": "lineage",
+                "reason": "Kawakubo's Body Meets Dress (1997) used padded protrusions to deform the human silhouette — the garment as prosthetic architecture, the body as site of speculation. Rajcevic's Animal (2012) uses resin and fibreglass to graft animal anatomy onto the body — the wearable as speculative biology, the body as site of evolution. Both make the human form unfamiliar through what's placed on it, but Kawakubo works from fashion and Rajcevic works from sculpture."
+          },
+          {
+                "id": 926,
+                "type": "method",
+                "reason": "Superflux's Mitigation of Shock (2017) makes a speculative future you can stand inside — a furnished apartment in 2050 London where every object is functional but recontextualised for climate crisis. Rajcevic's Animal (2012) makes a speculative future you can wear — prosthetic horns and spinal extensions that are fitted precisely to the body but recontextualise human anatomy. Both are design speculations that operate through physical experience rather than conceptual distance."
+          },
+          {
+                "id": 661,
+                "type": "sameProblem",
+                "reason": "Neri Oxman's Silk Pavilion (2013) asks what architecture looks like when biological organisms participate in its making — silkworms spinning across computational scaffolds. Rajcevic's Animal (2012) asks what the body looks like when biological forms participate in its redesign — animal anatomies grafted onto human frames. Both work at the boundary between design and biology, but Oxman lets organisms build and Rajcevic lets organisms inspire. Collaboration versus citation."
+          },
+          {
+                "id": 934,
+                "type": "zeitgeist",
+                "reason": "Rajcevic's Animal (2012) fuses animal anatomy with the human body through hand-fabricated resin prosthetics — speculative evolution made wearable. Shodeinde's The Intersection (2021) fuses Yoruba aso-oke weaving with 3D-printed structural elements — cultural heritage made wearable through contemporary technology. Both are body-worn design speculations by women designers working between cultures (Serbia/UK, Nigeria/UK), and both insist that the body is the site where futures become present."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9162,7 +9351,7 @@ export const CANDIDATES = [
     "movement": "Contemporary Craft / Afrofuturism",
     "wikiTitle": null,
     "description": "A chandelier composed of hand-blown Murano glass spheres in gradients of blue, green, and amber, suspended from a patinated brass armature whose geometry references celestial mechanics. The glass globes are arranged in orbits — inner rings denser, outer rings sparser — creating a three-dimensional constellation. Each glass element is unique; the Murano glassblowers Archibong worked with introduced deliberate imperfections that distinguish handwork from machine uniformity. The piece spans over two metres in diameter.",
-    "significance": "Archibong trained as an industrial designer in Pasadena and a furniture designer in Lausanne, but Below the Heavens operates at the scale of architecture and the register of sculpture. The chandelier matters because it demonstrates that Murano glass — a tradition routinely coded as European heritage — can be redirected through a design sensibility rooted in West African cosmology and American craft. Archibong doesn't reference Africa decoratively; the orbital geometry comes from Yoruba astronomical concepts. The piece quietly insists that the luxury craft traditions of Europe are tools, not identities — available to anyone with the skill and vision to use them.",
+    "significance": "Archibong trained as an industrial designer in Pasadena and a furniture designer in Lausanne, but Below the Heavens operates at the scale of architecture and the register of sculpture. The chandelier matters because it demonstrates that Murano glass — a tradition routinely coded as European heritage — can be redirected through a design sensibility rooted in West African cosmology and American craft. Archibong doesn't reference Africa decoratively; the orbital geometry draws on spiritual and mythological influences from his West African heritage. The piece quietly insists that the luxury craft traditions of Europe are tools, not identities — available to anyone with the skill and vision to use them.",
     "keywords": [
       "Murano glass",
       "chandelier",
@@ -9174,7 +9363,28 @@ export const CANDIDATES = [
       "Yoruba"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 21,
+                "type": "sameProblem",
+                "reason": "Henningsen's PH Artichoke (1958) arranges 72 copper leaves in calculated orbits to eliminate glare — every leaf angle computed trigonometrically. Archibong's Moirai Chandelier (2019) arranges hand-blown Murano glass spheres in celestial orbits derived from Yoruba astronomical concepts — every sphere position determined by cosmological geometry. Both are chandeliers that use orbital arrangement to control light, but Henningsen's orbits come from mathematics and Archibong's come from mythology."
+          },
+          {
+                "id": 646,
+                "type": "material",
+                "reason": "Scarpa's Battuto Vase (1940) worked with Murano glassblowers at Venini, grinding facets into blown glass to make it perform as hammered metal — an architect redirecting a Venetian tradition through surface intervention. Archibong's Moirai Chandelier (2019) works with Murano glassblowers to blow spheres with deliberate imperfections that distinguish handwork from machine uniformity — an industrial designer redirecting the same tradition through form. Eighty years apart, both prove that Murano is a technology, not an identity."
+          },
+          {
+                "id": 922,
+                "type": "zeitgeist",
+                "reason": "Archibong's Moirai Chandelier (2019) channels Yoruba cosmology through Murano glass and Swiss precision engineering — West African concepts rendered in European luxury craft. Dyalvane's iThongo vessels (2020) channel Xhosa ancestral concepts through terracotta clay and hand-incised glyphs — South African knowledge rendered in African material tradition. Both are contemporary African-diaspora designers encoding non-Western cosmologies in designed objects, but Archibong works through European craft infrastructure and Dyalvane works through village tradition."
+          },
+          {
+                "id": 644,
+                "type": "argument",
+                "reason": "Mouille's Three-Arm Ceiling Lamp (1952) hand-hammers aluminium into organic wing-like reflectors — a French silversmith making light sculptural through craft intuition. Archibong's Moirai Chandelier (2019) hand-blows Murano glass into celestial spheres — an American-Swiss designer making light cosmological through orbital geometry. Both are hand-formed lighting at architectural scale, but Mouille's asymmetry is intuitive and Archibong's is systematic."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9202,7 +9412,28 @@ export const CANDIDATES = [
       "physics-based animation"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 906,
+                "type": "argument",
+                "reason": "iOS 7 and Material Design are the defining argument of 2010s digital visual language. Ive's flat design stripped every metaphor: no shadows, no textures, no depth. Duarte's Material Design added them back as physics: real shadows, z-space stacking, momentum-based motion. Apple decreed that users don't need metaphors. Google argued they need better ones. Together they proved that at platform scale, visual language is not a conversation but a policy decision."
+          },
+          {
+                "id": 155,
+                "type": "lineage",
+                "reason": "Müller-Brockmann's Swiss posters (1950s) established the grid as the organising principle of graphic design — mathematical structure generating visual clarity. iOS 7 (2013) established the flat plane as the organising principle of digital interfaces — systematic elimination of ornament generating visual clarity. The Swiss International Style's endpoint: a design language so reduced it could be transmitted to 700 million devices overnight."
+          },
+          {
+                "id": 56,
+                "type": "method",
+                "reason": "Rand's IBM logo (1972) used eight horizontal stripes to unify three incompatible letterforms into one mark — a corporate identity designed for reproduction across every medium. iOS 7's flat design (2013) used translucent layers and thin typography to unify every app into one visual language — a platform identity designed for reproduction across every screen. Corporate identity at the scale of a company and at the scale of an ecosystem."
+          },
+          {
+                "id": 932,
+                "type": "zeitgeist",
+                "reason": "iOS 7 (2013) eliminates skeuomorphic textures and replaces them with flat colour planes and translucent layers — digital surfaces that refuse to pretend they're physical. Recursive (2020) uses variable font axes to dissolve the boundary between casual and formal, proportional and monospaced — typographic categories that refuse to pretend they're fixed. Both reject false binaries in digital design, but iOS 7 strips away and Recursive interpolates."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9230,7 +9461,28 @@ export const CANDIDATES = [
       "Adobe"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 906,
+                "type": "method",
+                "reason": "Material Design is a specification: it tells designers what interfaces should look like. Figma is a platform: it changes how designers make interfaces together. One codifies the output; the other restructures the process. That Adobe tried to buy Figma for $20 billion suggests the industry understood what Figma's founders did: the tool that designers use together becomes more valuable than any design language they use individually."
+          },
+          {
+                "id": 604,
+                "type": "lineage",
+                "reason": "Mari's Autoprogettazione (1974) published furniture plans anyone could build — open-source design as political act, the designer giving away authorship. Figma (2016) created a browser anyone could design in simultaneously — collaborative design as structural shift, the tool dissolving the boundary between designer and reviewer. Mari wanted everyone to make. Figma made everyone a participant. The politics of access, forty years apart."
+          },
+          {
+                "id": 52,
+                "type": "sameProblem",
+                "reason": "Florence Knoll invented the modern interior design practice by designing spatial systems, not individual objects — her Planning Unit coordinated furniture, colour, and flow as one integrated whole. Figma restructured the modern digital design practice by making design files multiplayer — components, styles, and tokens coordinated across organisations as one shared source of truth. Both professionalised design by systematising it, and both made the system more valuable than any individual object within it."
+          },
+          {
+                "id": 927,
+                "type": "zeitgeist",
+                "reason": "Figma and OpenDesk both launched in the mid-2010s, both argued that design should be collaborative and browser-accessible, and both tried to restructure their industries through platforms rather than products. Figma succeeded commercially and OpenDesk pivoted. The difference: digital design files have zero marginal cost to share; physical furniture still needs local fabrication. Figma's model scales; OpenDesk's model proved that some supply chains resist platformisation."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9258,7 +9510,28 @@ export const CANDIDATES = [
       "global network"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 673,
+                "type": "sameProblem",
+                "reason": "The Freitag brothers cut bags from truck tarpaulins — industrial waste processed in Zürich's formal economy. Hakkens distributes shredders, extruders, and injection moulders so communities can process plastic waste themselves — industrial tools distributed to the informal economy worldwide. Both are circular design practices that start from the proposition that waste is a resource, but Freitag centralises production and Precious Plastic distributes it."
+          },
+          {
+                "id": 911,
+                "type": "method",
+                "reason": "Ocean Sole in Kenya collects flip-flops from beaches and employs artisans to carve them into sculptures — a social enterprise built around manual processing of marine waste. Precious Plastic distributes open-source machines to 600 workspaces in 90 countries — a network built around mechanical processing of any plastic waste. Both design the system rather than the product, and both prove that waste processing infrastructure doesn't need to be million-dollar centralised facilities."
+          },
+          {
+                "id": 909,
+                "type": "zeitgeist",
+                "reason": "WikiHouse (2011) and Precious Plastic (2013) are both Dutch-British open-source design projects that distribute manufacturing capability through downloadable files and locally buildable machines. WikiHouse distributes architecture; Precious Plastic distributes recycling. Both graduated from design schools (Architecture Association and Design Academy Eindhoven), both use Creative Commons licensing, and both discovered that open-source hardware changes behaviour more slowly than open-source software."
+          },
+          {
+                "id": 907,
+                "type": "zeitgeist",
+                "reason": "Fairphone and Precious Plastic are both Dutch design projects from the mid-2010s that attack the same waste crisis from opposite ends. Fairphone redesigns the product so it doesn't become waste — modular, repairable, transparent supply chain. Precious Plastic redesigns the infrastructure so waste can be reprocessed — open-source machines, distributed workspaces, global network. Prevention versus recovery: two necessary halves of the same circular economy argument."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9286,7 +9559,28 @@ export const CANDIDATES = [
       "Ecovative"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 815,
+                "type": "lineage",
+                "reason": "Ecovative Design developed the mycelium material — agricultural waste bound by fungal networks into a rigid, fire-resistant, compostable solid. David Benjamin's Hy-Fi Tower (2014) took that material and made the architectural proposition: that a 12-metre structure could be grown from 10,000 mycelium bricks, inhabited for a summer, and composted with zero waste. Ecovative made the brick; Benjamin proved it could be a building. Material science becoming architecture."
+          },
+          {
+                "id": 933,
+                "type": "sameProblem",
+                "reason": "Jónsson's Algae Bioplastic Bottle (2016) is designed to decompose when empty — impermanence as feature, the container disappearing when its function ends. Benjamin's Hy-Fi Tower (2014) was designed to be composted after its MoMA PS1 summer — impermanence as argument, the building returning to soil when its season ends. Both are bio-designed objects that answer the question of end-of-life not with recycling but with disappearance. The bottle and the building that no longer exist."
+          },
+          {
+                "id": 713,
+                "type": "material",
+                "reason": "Suzanne Lee's Biocouture Jacket (2014) grows bacterial cellulose in a bathtub — kombucha cultures producing sheets of material that look and feel like leather but are entirely biological. Benjamin's Hy-Fi Tower (2014) grows mycelium in moulds — fungal networks binding corn stalks into bricks that are rigid, fire-resistant, and compostable. Both grow design materials rather than manufacturing them, both started in labs and reached inhabitable scale, and both prove that biology can replace petrochemistry."
+          },
+          {
+                "id": 675,
+                "type": "argument",
+                "reason": "Kéré's Serpentine Pavilion (2017) uses indigo-blue timber and a detached rainwater-catching roof — permanent materials shaped by West African building traditions for a temporary London structure. Benjamin's Hy-Fi Tower (2014) uses compostable mycelium bricks — impermanent materials shaped by biological growth for a temporary New York structure. Both are pavilions that challenge what 'temporary' means in architecture, but Kéré's materials outlast the building and Benjamin's materials decompose with it."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9314,7 +9608,28 @@ export const CANDIDATES = [
       "superfamily"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 908,
+                "type": "sameProblem",
+                "reason": "Source Sans Pro (2012) and Inter (2017) are both open-source sans-serifs designed for screens, both distributed through Google Fonts, and both engineered for legibility at small sizes on digital displays. But Source Sans came from Adobe — a multinational legitimising open-source type as a professional category. Inter came from a single designer on GitHub — an individual proving that open-source methodology could produce a typeface that rivals corporate output. Institutional backing versus community credibility."
+          },
+          {
+                "id": 66,
+                "type": "lineage",
+                "reason": "Helvetica (1957) established that a typeface could be so neutral it becomes invisible — the default choice for anyone who doesn't want to make a choice. Source Sans Pro (2012) updated that proposition for the web: a typeface so competent and so free that it removes the excuse for using unlicensed fonts. Both are American Gothic lineage sans-serifs that succeed by being unshowy. The difference is that Helvetica costs money and Source Sans Pro costs nothing, which changed the economics of type design permanently."
+          },
+          {
+                "id": 55,
+                "type": "zeitgeist",
+                "reason": "Vignelli's subway signage (1966) used Helvetica to create a systematic wayfinding language for New York's transit system — one typeface unifying 472 stations. Adobe's Source Sans Pro (2012) was designed to create a systematic reading experience across the web — one typeface family unifying text, code, and serif under a single open licence. Both are sans-serifs deployed at infrastructure scale, both designed for legibility in hostile conditions (underground signage, low-resolution screens), and both became default choices for systems that need type to work without being noticed."
+          },
+          {
+                "id": 906,
+                "type": "method",
+                "reason": "Material Design (2014) is Google's open specification for how digital interfaces should look and behave — a design system distributed free for any developer to implement. Source Sans Pro (2012) is Adobe's open typeface for how digital text should render — a type family distributed free for any designer to use. Both are cases of corporations releasing proprietary-quality design assets under open licences, and both restructured their fields by making professional-grade tools accessible to everyone."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9342,7 +9657,28 @@ export const CANDIDATES = [
       "craft"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 911,
+                "type": "zeitgeist",
+                "reason": "Ocean Sole in Kenya carves animal sculptures from beach flip-flops. Reform Studio in Cairo weaves furniture from street plastic bags. Both are African design practices that transform local waste into designed objects through hand processes, both employ community artisans, and both produce work whose colours are determined by the waste itself. Neither cites European sustainability theory. Both respond to a beach or a street."
+          },
+          {
+                "id": 600,
+                "type": "method",
+                "reason": "The Campanas' Favela Chair (1991) nails scrap wood from São Paulo's streets into a functional seat — Brazilian informal-economy construction techniques elevated to gallery furniture. Reform Studio's Plastex (2016) weaves discarded plastic bags from Cairo's streets into a functional chair seat — Egyptian informal-economy waste-sorting techniques elevated to design-market furniture. Both start from what the city discards, both use hand processes, and both produce objects that carry visible evidence of their material origins."
+          },
+          {
+                "id": 924,
+                "type": "sameProblem",
+                "reason": "Reform Studio in Cairo weaves chairs from recycled plastic bags processed by the zabbaleen — Cairo's traditional waste collectors who sort with more nuance than any Western facility. Bibi Seck in Dakar moulds stools from recycled garbage bags processed by Transtech — a Senegalese manufacturer who already knew rotational moulding. Both are African designers who found that the manufacturing infrastructure for circular design already existed in their cities. They designed products; the supply chains designed themselves."
+          },
+          {
+                "id": 928,
+                "type": "material",
+                "reason": "Reform Studio's Plastex is hand-woven from strips of recycled plastic bags on traditional looms with recycled cotton thread — industrial waste processed through craft technique. Laposse's Totomoxtle is flattened from dried heritage corn husks and laminated into decorative veneer — agricultural material processed through design technique. Both invent new materials from overlooked local resources, both are hand-processed, and both produce surfaces whose colour comes from the material itself."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9370,7 +9706,28 @@ export const CANDIDATES = [
       "terracotta"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 929,
+                "type": "sameProblem",
+                "reason": "Dyalvane's iThongo vessels (2020) and Poswa's Ukhamba vessels (2019) are both monumental hand-built ceramic works by South African designers working through Southern Guild in Cape Town, both rooted in Xhosa material tradition, and both shown at international design fairs. But Dyalvane invents a new glyph system to encode Xhosa concepts — writing a language that oral tradition never committed to marks. Poswa scales a traditional beer pot to gallery dimensions — amplifying a form whose proportions already encode acoustic knowledge. New language versus amplified form."
+          },
+          {
+                "id": 915,
+                "type": "zeitgeist",
+                "reason": "Dyalvane's iThongo vessels (2020) encode Xhosa ancestral concepts in hand-carved glyphs on terracotta — African cosmology rendered in African material. Archibong's Moirai Chandelier (2019) encodes Yoruba astronomical concepts in the orbital geometry of Murano glass — African cosmology rendered in European material. Both are contemporary designers of African heritage inscribing non-Western knowledge systems into designed objects. Dyalvane works from village to gallery; Archibong works from Pasadena to Milan. The direction of influence runs differently, but the project is the same."
+          },
+          {
+                "id": 58,
+                "type": "method",
+                "reason": "Nakashima's Conoid Bench (1960) argues that the tree is the designer — each walnut slab's grain, knots, and bark edge determine the bench's final form. Dyalvane's iThongo vessels (2020) argue that ancestral knowledge is the designer — each vessel's glyphs encode Xhosa concepts that determine the surface's visual language. Both are makers who subordinate personal expression to a deeper intelligence: Nakashima to the material, Dyalvane to the culture. Reverence as design method."
+          },
+          {
+                "id": 348,
+                "type": "argument",
+                "reason": "Jongerius's Delft Blue B-jug (2001) deliberately introduces imperfections into a centuries-old Dutch ceramic tradition — cracks and bumps as evidence that the maker's hand intervened in industrial production. Dyalvane's iThongo vessels (2020) deliberately introduce a new glyph system into a centuries-old Xhosa ceramic tradition — incised marks as evidence that ancestral knowledge is being encoded for the first time. Both disrupt established ceramic traditions, but Jongerius disrupts through flaws and Dyalvane disrupts through invention."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9398,7 +9755,28 @@ export const CANDIDATES = [
       "material regionalism"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 600,
+                "type": "sameProblem",
+                "reason": "The Campanas' Favela Chair (1991) uses scrap wood from São Paulo streets — Brazilian urban waste elevated to gallery furniture through accumulation. Mohaded's Entrevero (2018) uses hand-beaten copper from the Andes, palm fibre from the Chaco, and algarrobo from Santiago del Estero — Argentine rural craft elevated to museum collections through collaboration. Both are Latin American designers who refuse the European design-school pipeline, but the Campanas work with urban debris and Mohaded works with indigenous material knowledge."
+          },
+          {
+                "id": 58,
+                "type": "method",
+                "reason": "Nakashima selects each walnut slab for its grain, knots, and bark inclusions — the material's natural variation is the design. Mohaded works with artisans whose hand-beaten copper shows hammer marks, whose weaving shows tension irregularities, whose carving shows grain variation — the craftsperson's natural variation is the design. Both make the maker's evidence visible rather than engineering it away, but Nakashima works alone and Mohaded works through communities."
+          },
+          {
+                "id": 924,
+                "type": "zeitgeist",
+                "reason": "Mohaded's Entrevero (2018) and Seck's Taboo (2016) are both furniture collections by designers from the Global South who trained internationally but routed their careers back to local communities and local manufacturing. Mohaded collaborates with indigenous craftspeople in Argentina's northwest. Seck partners with a recycled-plastic manufacturer in Dakar. Both refuse the model of African or Latin American design as craft export, building instead self-sufficient design economies rooted in local material knowledge and local industry."
+          },
+          {
+                "id": 748,
+                "type": "argument",
+                "reason": "Wang Shu's Ningbo History Museum (2008) builds with wapan — salvaged tiles and bricks from demolished villages mortared into new walls, each fragment carrying its previous building's history. Mohaded's Entrevero (2018) builds with hand-beaten Andean copper and woven Chaco palm fibre — each piece carrying its artisan's hand-knowledge. Both resist the erasure of local material culture by incorporating it into contemporary form, but Wang Shu preserves physical fragments and Mohaded preserves living techniques."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9426,7 +9804,28 @@ export const CANDIDATES = [
       "Birsel + Seck"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 923,
+                "type": "zeitgeist",
+                "reason": "Seck's Taboo (Dakar, 2016) and Mohaded's Entrevero (Argentina, 2018) are both furniture collections that use local manufacturing infrastructure and local materials to build design economies outside the European pipeline. Seck uses Senegalese rotational moulding of recycled plastic. Mohaded uses Argentine hand-beaten copper and woven palm. Both trained internationally, both returned to their regions, and both prove that contemporary design doesn't need to route through Milan or London."
+          },
+          {
+                "id": 921,
+                "type": "sameProblem",
+                "reason": "Seck's Taboo stools (2016) are moulded from 75% recycled garbage bags and plastic bottles by Transtech in Dakar — a Senegalese manufacturer already making cisterns and septic tanks. Reform Studio's Plastex chairs (2016) are woven from recycled plastic bags by artisans in Cairo — a material already sorted by the zabbaleen. Both are African designers who found that circular manufacturing infrastructure already existed locally. They didn't import sustainability; they professionalised what was already there."
+          },
+          {
+                "id": 616,
+                "type": "method",
+                "reason": "Ineke Hans's Rex Chair (2021) designs the chair's death as carefully as its life — two-part construction for disassembly, recycled nylon PA6, deposit system for return. Seck's Taboo stools (2016) source their material from waste that already exists — recycled plastic bottles and garbage bags, rotational moulding by a factory that already processes recycled plastic. Both are furniture designed for the circular economy, but Hans designs the system from scratch and Seck designs within systems that already function."
+          },
+          {
+                "id": 18,
+                "type": "argument",
+                "reason": "Aalto's Stool 60 (1933) uses Finnish birch, L-leg bending, and Artek's production system — local material, innovative technique, new manufacturing. Ninety years of continuous production, unchanged. Seck's Taboo stools (2016) use Senegalese recycled plastic, rotational moulding, and Transtech's production system — local waste, existing technique, existing manufacturing. Both are low stools designed for domestic gathering, both use locally available materials, and both build their region's design identity. The difference is that Aalto's stool became a universal icon, and Seck's stool is building something that doesn't need to be."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9454,7 +9853,28 @@ export const CANDIDATES = [
       "post-internet"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 910,
+                "type": "lineage",
+                "reason": "Bridle's New Aesthetic Tumblr (2011) curated images of digital technology bleeding into physical space — surveillance aesthetics, render ghosts, drone landscapes — and named a visual culture that had no vocabulary. Forensic Architecture's Triple-Chaser (2019) weaponised that same digital-physical investigation toolkit — photogrammetry, open-source intelligence, 3D reconstruction — and submitted it as legal evidence. Bridle named the aesthetic; Weizman gave it forensic consequence."
+          },
+          {
+                "id": 912,
+                "type": "argument",
+                "reason": "Bridle's New Aesthetic (2011) documented machine vision as a cultural phenomenon — a blog of evidence that machines see the world differently. Anadol's Unsupervised (2022) spectacularised machine vision as an immersive experience — a room-scale projection of what AI 'dreams.' Bridle asked 'what does this mean?' Anadol asked 'what does this look like?' The critical investigator and the experiential showman of the same technological moment."
+          },
+          {
+                "id": 665,
+                "type": "method",
+                "reason": "Van Toorn's PTT Calendar (1973) used found photographs — news images, advertising fragments — collaged and overprinted as visual journalism, the calendar as political commentary rather than decoration. Bridle's New Aesthetic Tumblr (2011) used found images — Google Maps glitches, pixelated camouflage, drone footage — assembled as visual research, the blog as design theory rather than curation. Both treat accumulation as argument and curation as criticism, forty years apart."
+          },
+          {
+                "id": 43,
+                "type": "argument",
+                "reason": "The Eameses' Powers of Ten (1977) makes the invisible visible through systematic zooming — a scientific instrument that reveals structure across scale. Bridle's New Aesthetic (2011) makes the invisible visible through systematic collection — a curatorial instrument that reveals how machines perceive. Both are acts of design research disguised as media. Powers of Ten was made for IBM. The New Aesthetic was made for a Tumblr. The institutional and the independent, serving the same investigative impulse."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9482,7 +9902,28 @@ export const CANDIDATES = [
       "critical design"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 910,
+                "type": "method",
+                "reason": "Forensic Architecture builds navigable 3D models of contested events — spatial reconstruction as legal evidence. Superflux builds inhabitable installations of speculative futures — spatial construction as experiential warning. Both use spatial modelling as a persuasion technology, but Forensic Architecture reconstructs what happened and Superflux constructs what might happen. Evidence versus speculation, using the same design tools."
+          },
+          {
+                "id": 914,
+                "type": "sameProblem",
+                "reason": "Rajcevic's Animal series (2012) makes speculative futures wearable — you feel the prosthetic horns on your body. Superflux's Mitigation of Shock (2017) makes speculative futures inhabitable — you stand inside the apartment of 2050 and feel the temperature. Both reject speculative design's gallery-pedestal tradition in favour of embodied experience. Where Dunne and Raby put objects on tables, Rajcevic puts them on bodies and Superflux puts you inside rooms."
+          },
+          {
+                "id": 712,
+                "type": "zeitgeist",
+                "reason": "Thwaites's Toaster Project (2009) reverse-engineers a £3.94 appliance to expose the absurd complexity of global supply chains — critical design through forensic dismantling. Superflux's Mitigation of Shock (2017) forward-engineers a London apartment to 2050 to expose the domestic implications of climate failure — critical design through speculative construction. Both are British critical design projects that use mundane domestic objects to make systemic problems visceral. One looks backward at the toaster; the other looks forward at the kitchen."
+          },
+          {
+                "id": 935,
+                "type": "zeitgeist",
+                "reason": "Superflux's Mitigation of Shock (2017) builds a speculative apartment where climate crisis has restructured domestic life — IKEA tables repurposed for hydroponics, bookshelves converted to seed racks. Space Caviar's Non-Extractive Architecture (2021) catalogues existing buildings where extractive economics have already been rejected — cooperatives, commoned spaces, structures built from waste. Both address the climate crisis through design, but Superflux speculates about what's coming and Grima documents what's already here."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9510,7 +9951,28 @@ export const CANDIDATES = [
       "finger joints"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 909,
+                "type": "sameProblem",
+                "reason": "WikiHouse and OpenDesk both launched from the UK in 2011-2013, both used CNC-cut plywood and downloadable digital files, and both proposed that local fabrication could replace global supply chains. WikiHouse builds houses; OpenDesk builds furniture. WikiHouse succeeded as an open-source project; OpenDesk pivoted to workplace consulting. The divergence is instructive: housing is desperate enough to sustain idealism; office furniture isn't."
+          },
+          {
+                "id": 604,
+                "type": "lineage",
+                "reason": "Mari's Autoprogettazione (1974) published furniture plans so anyone could build with planks and nails — open-source furniture as political act. OpenDesk (2013) published CNC files so any local fabricator could cut plywood furniture — open-source furniture as platform business. The politics are consistent; the tools evolved. Mari's democracy required a hammer. OpenDesk's requires a CNC router. Both learned the same lesson: the design travels easily; the making still depends on local skill."
+          },
+          {
+                "id": 917,
+                "type": "argument",
+                "reason": "Figma restructured how designers work together by making design files browser-native and multiplayer — a platform that succeeded commercially because digital collaboration has zero marginal cost. OpenDesk tried to restructure how furniture gets made by making design files downloadable and locally fabricable — a platform that pivoted because physical fabrication has real marginal costs. Both are platform-thinking applied to design, but Figma's model scales digitally and OpenDesk's model collides with atoms."
+          },
+          {
+                "id": 918,
+                "type": "zeitgeist",
+                "reason": "OpenDesk (2013) distributes furniture files to local CNC fabricators worldwide — design travels as data, manufacturing stays local. Precious Plastic (2013) distributes recycling machine blueprints to local builders worldwide — capability travels as data, processing stays local. Both are open-source design projects from the same year that propose the same infrastructure model: digital distribution of design intelligence, physical execution at the point of need."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9538,7 +10000,28 @@ export const CANDIDATES = [
       "bio-material"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 713,
+                "type": "material",
+                "reason": "Suzanne Lee's Biocouture Jacket (2014) grows bacterial cellulose in a bathtub — a living organism producing a textile that looks like leather. Laposse's Totomoxtle (2017) flattens and laminates dried corn husks — a harvested plant producing a veneer that looks like marquetry. Both invent new design materials from biological sources, both are hand-processed, and both are more beautiful than the industrial materials they might replace. The difference is that Lee's material is grown in a lab and Laposse's is grown by indigenous farmers who have cultivated the corn varieties for centuries."
+          },
+          {
+                "id": 728,
+                "type": "zeitgeist",
+                "reason": "Chieza's Faber Futures Living Colour (2017) uses Streptomyces bacteria to dye textiles — the organism producing pigment that would normally require petrochemical synthesis. Laposse's Totomoxtle (2017) uses heritage Mexican corn husks to produce decorative veneer — the plant producing colour that would normally require industrial dyes. Both are 2017 bio-design projects that replace industrial chemistry with biological process, and both argue that the most important design decisions are agricultural, not aesthetic."
+          },
+          {
+                "id": 922,
+                "type": "method",
+                "reason": "Dyalvane's iThongo vessels (2020) encode Xhosa ancestral knowledge in hand-carved glyphs — each vessel is simultaneously a functional object and a cultural lexicon. Laposse's Totomoxtle (2017) encodes Mixtec agricultural knowledge in laminated corn husks — each veneer sheet is simultaneously a design material and a biodiversity argument. Both are designers working with indigenous communities to give traditional knowledge economic value in the contemporary design market, without reducing it to ethnographic citation."
+          },
+          {
+                "id": 923,
+                "type": "zeitgeist",
+                "reason": "Laposse's Totomoxtle (Mexico, 2017) and Mohaded's Entrevero (Argentina, 2018) are both Latin American designers working with indigenous communities to produce contemporary design objects from traditional materials — heritage corn husks and Andean copper respectively. Both give rural craft communities economic access to the international design market. Both insist that the variation between pieces isn't rustic charm but evidence of material knowledge that specification sheets can't capture."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9566,7 +10049,28 @@ export const CANDIDATES = [
       "monumental scale"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 922,
+                "type": "sameProblem",
+                "reason": "Dyalvane's iThongo (2020) and Poswa's Ukhamba (2019) are the two defining works of contemporary South African ceramics, both hand-built from terracotta, both rooted in Xhosa tradition, and both channelled through Southern Guild in Cape Town. But Dyalvane invents — a new glyph system encoding concepts that Xhosa oral tradition never committed to marks. Poswa amplifies — the traditional beer pot scaled to monumental dimensions that command gallery walls. Invention versus amplification of the same cultural source."
+          },
+          {
+                "id": 648,
+                "type": "argument",
+                "reason": "Råman's Pond (2017) strips glass to its essential phenomenon — transparency, refraction, pooled light — and presents that as sufficient. Poswa's Ukhamba vessels (2019) scale a traditional ceramic form to its maximum physical presence — swelling belly, narrow neck, burnished matte surface — and present that as monumental. Scandinavian minimalism and African monumentalism: two approaches to making a vessel matter, one through disappearance and the other through amplification."
+          },
+          {
+                "id": 915,
+                "type": "zeitgeist",
+                "reason": "Poswa's Ukhamba vessels (2019) and Archibong's Moirai Chandelier (2019) are both contemporary works by designers of African heritage, both exhibited at international design fairs in 2019, and both operate at the boundary between design and sculpture. But Poswa works from Xhosa beer-pot tradition using terracotta and hand-coiling. Archibong works from Yoruba cosmology using Murano glass and precision engineering. Local material and global material: two routes from African knowledge to international design market."
+          },
+          {
+                "id": 57,
+                "type": "lineage",
+                "reason": "Russel Wright's American Modern dinnerware (1937) used organic forms and earthy colours to democratise modernist design for the American kitchen — 250 million pieces sold. Poswa's Ukhamba vessels (2019) use traditional Xhosa proportions and burnished terracotta to command the international gallery market — each piece unique, hand-coiled over weeks. Both are ceramic vessels that build a region's design identity, but Wright pursued mass accessibility and Poswa pursues singular presence. Democratic and monumental: two ways ceramics can matter."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9594,14 +10098,35 @@ export const CANDIDATES = [
       "medical device"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 930,
+                "type": "method",
+                "reason": "The BabyPod 20 applies Williams F1's carbon fibre composite technology — developed to protect drivers at 300km/h — to neonatal transport, protecting premature infants at 100km/h. The same material science, the same crash-survival engineering, redirected from a sport to a medical need. Technology transfer as design method: the most important innovations sometimes come not from the design studio but from adjacent industries willing to look sideways at their own expertise."
+          },
+          {
+                "id": 23,
+                "type": "lineage",
+                "reason": "Jacobsen's Ant Chair (1952) proved that moulded plywood technology could cross from Eames's American experiments to Danish mass production — nine million sold. The BabyPod 20 (2017) proves that carbon fibre composite technology can cross from Formula 1 racing to neonatal medicine — lighter, stronger, cheaper than existing incubators. Both are cases of technology transfer between industries, but the Ant transferred a material and the BabyPod transferred an entire engineering discipline."
+          },
+          {
+                "id": 313,
+                "type": "sameProblem",
+                "reason": "The GynePunk 3D-printed speculum (2019) uses desktop manufacturing to bypass medical-device gatekeeping — open-source healthcare tools, downloadable and printable. The BabyPod 20 (2017) uses Formula 1 engineering to bypass medical-device convention — carbon fibre replacing heavy, expensive incubator systems. Both challenge how medical devices are designed and who gets to make them, but GynePunk works through radical accessibility and BabyPod works through elite technology transfer."
+          },
+          {
+                "id": 907,
+                "type": "zeitgeist",
+                "reason": "Fairphone (2015) applies modular design thinking to a smartphone so it can be repaired by its owner — the user as technician. BabyPod 20 (2017) applies F1 crash-survival engineering to a neonatal incubator so it can be operated by medical staff during transport — the nurse as co-designer. Both are products that redesign their category by importing logic from outside it: Fairphone from open-source software, BabyPod from motorsport. Both prove that the best design solutions often come from people who don't know what's 'normal' in the field they're entering."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
   {
     "id": 931,
     "title": "Dazzle Ship",
-    "designer": "Carlos Cruz-Diez (painted by Tabaimo)",
+    "designer": "Carlos Cruz-Diez",
     "year": 2014,
     "discipline": "Product",
     "origin": "Venezuela / United Kingdom",
@@ -9622,7 +10147,28 @@ export const CANDIDATES = [
       "Cruz-Diez"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 34,
+                "type": "material",
+                "reason": "Isola's Unikko (1964) uses bold, flat colour fields on cotton to create a pattern so visually dominant it defined a brand for sixty years — Marimekko in one poppy. Cruz-Diez's Dazzle Ship (2014) uses chromatic induction colour fields on steel to create an optical effect so visually active it makes a landlocked ship vibrate — kinetic art in one hull. Both use surface colour as their primary design material, but Isola's colour is decorative and Cruz-Diez's colour is perceptual science."
+          },
+          {
+                "id": 912,
+                "type": "material",
+                "reason": "Anadol's Machine Hallucinations (2022) projects algorithmically generated colour onto a curved LED wall — digital light creating immersive visual instability. Cruz-Diez's Dazzle Ship (2014) paints optically calibrated colour onto a decommissioned vessel — physical pigment creating perceptual visual instability. Both are large-scale colour experiences designed to defeat the eye's attempt to resolve them into stable images, but Anadol uses computation and Cruz-Diez uses chromatic induction theory developed across sixty years of studio practice."
+          },
+          {
+                "id": 151,
+                "type": "method",
+                "reason": "Saul Bass's Advise & Consent poster (1962) uses geometric abstraction to communicate political tension in a single glance — black and white shapes colliding, narrative compressed into graphic form. Cruz-Diez's Dazzle Ship (2014) uses geometric abstraction to communicate optical disruption at urban scale — colour fields colliding, perception compressed into chromatic science. Both are designers who use pure geometry to make invisible forces visible, but Bass makes narrative visible and Cruz-Diez makes light physics visible."
+          },
+          {
+                "id": 675,
+                "type": "zeitgeist",
+                "reason": "Kéré's Serpentine Pavilion (2017) imports Burkinabé building traditions into London's Kensington Gardens — a West African gathering tree in an English park. Cruz-Diez's Dazzle Ship (2014) imports Venezuelan kinetic art theory onto a decommissioned Liverpool vessel — Latin American optical science on a British waterfront. Both are commissions from the Global South in British public space, and both prove that the most visually compelling public design interventions come from outside the commissioning culture."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9650,7 +10196,28 @@ export const CANDIDATES = [
       "code typography"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 908,
+                "type": "lineage",
+                "reason": "Inter (2017) perfects a single sans-serif for screen rendering — every curve tuned for pixel grids, a variable font with weight and italic axes. Recursive (2020) dissolves typographic categories through five variable axes — Monospace, Casual, Weight, Slant, Cursive — allowing continuous interpolation between proportional and fixed-width, formal and casual. Inter is the workhorse; Recursive is the shapeshifter. Together they define the range of what open-source variable typography can be."
+          },
+          {
+                "id": 66,
+                "type": "argument",
+                "reason": "Helvetica (1957) defined the neo-grotesque ideal: maximum neutrality, uniform stroke width, no calligraphic stress. Recursive (2020) dissolves that ideal by interpolating continuously between 'serious' sans-serif and 'friendly' casual lettering — the formal/informal binary treated as a false dichotomy that variable font technology can eliminate. Helvetica says a typeface should commit to one personality. Recursive says a typeface should contain all its personalities simultaneously."
+          },
+          {
+                "id": 916,
+                "type": "zeitgeist",
+                "reason": "iOS 7 (2013) eliminated skeuomorphic textures to reveal that digital interfaces don't need real-world metaphors — false binaries between physical and digital, dissolved. Recursive (2020) eliminated the boundary between sans-serif and casual, proportional and monospaced — false binaries between typographic categories, dissolved through interpolation. Both are contemporary design works that use digital technology's native capabilities to reject inherited categorical thinking."
+          },
+          {
+                "id": 920,
+                "type": "sameProblem",
+                "reason": "Source Sans Pro (2012) legitimised open-source type as professional-grade by delivering a competent, unshowy sans-serif family under SIL licence — Adobe proving that free type could be excellent. Recursive (2020) advanced open-source type as conceptually ambitious by delivering a five-axis variable font that dissolves typographic categories — Nixon proving that free type could be radical. Both commissioned by Google Fonts, both SIL-licensed, but Source Sans Pro proved the floor and Recursive explored the ceiling."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9678,7 +10245,28 @@ export const CANDIDATES = [
       "impermanence"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 919,
+                "type": "sameProblem",
+                "reason": "Benjamin's Hy-Fi Tower (2014) grows mycelium bricks from corn stalks and compostes them after the summer — architecture designed to disappear. Jónsson's Algae Bioplastic Bottle (2016) moulds agar from red algae and lets it decompose when empty — packaging designed to disappear. Both are bio-designed objects where impermanence is the argument, not the failure. The tower and the bottle that no longer exist are both stronger propositions for having vanished."
+          },
+          {
+                "id": 815,
+                "type": "material",
+                "reason": "Ecovative Design's Mushroom Mycelium Material (2011) grows fungal networks to bind agricultural waste into rigid packaging — biology replacing polystyrene. Jónsson's Algae Bioplastic Bottle (2016) gels agar from red algae into a vessel that holds liquid and then decomposes — biology replacing PET plastic. Both are bio-materials that replace petroleum-derived packaging with grown alternatives, and both accept imperfection (wobble, opacity, limited shelf life) as the honest cost of ecological integrity."
+          },
+          {
+                "id": 712,
+                "type": "argument",
+                "reason": "Thwaites's Toaster Project (2009) tries to build a £3.94 appliance from raw materials and fails spectacularly — his handmade version costs £1,187 and works for five seconds. Jónsson's Algae Bottle (2016) tries to build a water bottle from agar and succeeds provisionally — it holds water, then decomposes. Both are graduation projects that expose the gap between industrial capability and individual making, but Thwaites's failure is the point (look how complex our supply chains are) and Jónsson's success is the point (look how simple our materials could be)."
+          },
+          {
+                "id": 918,
+                "type": "zeitgeist",
+                "reason": "Precious Plastic (2013) distributes open-source machines for recycling existing plastic waste — processing what's already been produced. Jónsson's Algae Bottle (2016) proposes materials that never become waste at all — designing objects that decompose completely. Both are responses to the plastic crisis, but Precious Plastic works downstream (recovery) and Jónsson works upstream (substitution). Recovery versus prevention: two positions on whether the problem is the waste or the material."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9706,7 +10294,28 @@ export const CANDIDATES = [
       "Afrofuturism"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 602,
+                "type": "lineage",
+                "reason": "Kawakubo's Body Meets Dress (1997) used padded protrusions to deform the body's silhouette — stretch gingham and down-filled inserts challenging Western fashion's relationship to the human form. Shodeinde's The Intersection (2021) uses Yoruba aso-oke weaving as the primary textile, cut and constructed with laser-cutting and 3D-printed structural elements — challenging fashion's relationship to African textile traditions. Both are women designers working between cultures (Japan/France, Nigeria/UK) who refuse to perform their heritage as a category, insisting instead that their textile traditions are engineering systems."
+          },
+          {
+                "id": 928,
+                "type": "material",
+                "reason": "Laposse's Totomoxtle (2017) uses heritage corn husks as a design material — flattened, laminated, and applied as veneer, with each colour coming from a different indigenous corn variety. Shodeinde's Intersection (2021) uses Yoruba aso-oke as a fashion material — narrow-strip weaving cut and constructed with contemporary pattern-making, with structural support from 3D-printed elements. Both treat indigenous agricultural and textile traditions as living technologies rather than heritage citations, and both create market demand that gives traditional practitioners economic reason to continue."
+          },
+          {
+                "id": 915,
+                "type": "zeitgeist",
+                "reason": "Archibong's Moirai Chandelier (2019) channels Yoruba cosmology through Murano glass — West African concepts rendered in European luxury craft. Shodeinde's Intersection (2021) channels Yoruba weaving through laser-cut neoprene — West African textiles rendered through contemporary fashion technology. Both are Yoruba-heritage designers who refuse to treat African tradition as a decorative accent, instead making it the structural foundation of their work. Archibong works in lighting; Shodeinde works in fashion. The cultural project is the same."
+          },
+          {
+                "id": 914,
+                "type": "method",
+                "reason": "Rajcevic's Animal (2012) fabricates speculative body prosthetics from resin and fibreglass — hand-shaped animal anatomy fitted precisely to the wearer. Shodeinde's Intersection (2021) fabricates structural garment elements from 3D-printed components — digitally produced boning and closures replacing zips and buttons. Both use additive/formative techniques to make body-worn objects that challenge their category (fashion/sculpture), and both are women designers working between European and non-European design traditions."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   },
@@ -9734,7 +10343,28 @@ export const CANDIDATES = [
       "sufficiency"
     ],
     "imageUrl": "",
-    "connections": [],
+    "connections": [
+          {
+                "id": 909,
+                "type": "sameProblem",
+                "reason": "WikiHouse (2011) proposes an alternative to professional architecture by distributing construction files so anyone can build. Non-Extractive Architecture (2021) proposes an alternative to extractive architecture by documenting over 100 cooperative, commoned, waste-built practices that already exist. Both challenge the architect's role — WikiHouse says the architect should become a tool-maker, Grima says the architect should become a researcher. Both refuse speculation in favour of evidence."
+          },
+          {
+                "id": 926,
+                "type": "zeitgeist",
+                "reason": "Superflux's Mitigation of Shock (2017) speculates about what domestic life looks like when climate crisis restructures the household — furniture repurposed, food systems improvised, energy rationed. Grima's Non-Extractive Architecture (2021) documents what building looks like when extractive economics are already rejected — cooperatives, commons, structures built from waste. Superflux imagines the future; Grima finds it already happening. Speculation versus empiricism as design research methods for the climate crisis."
+          },
+          {
+                "id": 604,
+                "type": "lineage",
+                "reason": "Mari's Autoprogettazione (1974) argued that furniture design should be open-source and self-built — the designer distributing plans, not products. Grima's Non-Extractive Architecture (2021) argues that architecture should be commoned and cooperative — the researcher documenting practices, not buildings. Both are Italian designers (Mari in Milan, Grima based in Genoa) who reject the designer-as-author model in favour of the designer-as-enabler model, fifty years apart. The politics persist."
+          },
+          {
+                "id": 748,
+                "type": "method",
+                "reason": "Wang Shu's Ningbo History Museum (2008) builds with wapan — salvaged tiles and bricks from demolished villages, physical fragments of erased communities mortared into a new institution. Grima's Non-Extractive Architecture (2021) catalogues over 100 case studies of buildings that operate outside extractive economic models — documentation of practices that resist erasure. Both are acts of preservation through architecture, but Wang Shu preserves material and Grima preserves methodology."
+          }
+    ],
     "status": "staging",
     "notes": "Contemporary batch — fact-checked, no connections yet"
   }
