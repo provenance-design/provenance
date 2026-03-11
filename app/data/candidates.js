@@ -1853,7 +1853,7 @@ export const CANDIDATES = [
     "id": 682,
     "title": "Zettel'z 5",
     "designer": "Ingo Maurer",
-    "year": 1997,
+    "year": 1999,
     "discipline": "Lighting",
     "origin": "Germany",
     "manufacturer": "Ingo Maurer GmbH",
@@ -5830,7 +5830,7 @@ export const CANDIDATES = [
     "id": 780,
     "title": "David Mellor Traffic Light",
     "designer": "David Mellor",
-    "year": 1969,
+    "year": 1965,
     "discipline": "Product",
     "origin": "United Kingdom",
     "manufacturer": "Various (manufactured to Mellor's specification for the Ministry of Transport)",
@@ -5843,17 +5843,17 @@ export const CANDIDATES = [
       {
         "id": 672,
         "type": "method",
-        "reason": "Fadell's Nest (2011) applies design thinking to a building component nobody had designed — the thermostat. Mellor's Traffic Light (1969) applies design thinking to a street component nobody had designed — the signal. Both prove that the most impactful design work is done on the objects everyone sees and nobody questions."
+        "reason": "Fadell's Nest (2011) applies design thinking to a building component nobody had designed — the thermostat. Mellor's Traffic Light (1965) applies design thinking to a street component nobody had designed — the signal. Both prove that the most impactful design work is done on the objects everyone sees and nobody questions."
       },
       {
         "id": 229,
         "type": "zeitgeist",
-        "reason": "Robin Day's Convertible Bed-Settee (1957) and Mellor's Traffic Light (1969) are both British public designs — one for the home, the other for the street. Both are used by millions, designed by individuals, and invisible through familiarity. The tradition of British democratic design: objects for everyone, noticed by nobody."
+        "reason": "Robin Day's Convertible Bed-Settee (1957) and Mellor's Traffic Light (1965) are both British public designs — one for the home, the other for the street. Both are used by millions, designed by individuals, and invisible through familiarity. The tradition of British democratic design: objects for everyone, noticed by nobody."
       },
       {
         "id": 447,
         "type": "method",
-        "reason": "Otl Aicher's Munich Olympics design system (1972) applies unified design thinking to every element of a public event — pictograms, signage, livery. Mellor's Traffic Light (1969) applies unified design thinking to every element of a public signal — visor, housing, lens, mounting. Both treat public systems as design problems deserving total attention."
+        "reason": "Otl Aicher's Munich Olympics design system (1972) applies unified design thinking to every element of a public event — pictograms, signage, livery. Mellor's Traffic Light (1965) applies unified design thinking to every element of a public signal — visor, housing, lens, mounting. Both treat public systems as design problems deserving total attention."
       }
     ],
     "keywords": [
@@ -5889,7 +5889,7 @@ export const CANDIDATES = [
       {
         "id": 780,
         "type": "lineage",
-        "reason": "Mellor's Pride Cutlery (1953) applies design intelligence to what people hold in their hands at dinner. His Traffic Light (1969) applies design intelligence to what people see at junctions. Same designer, same principle: the most-used objects deserve the most care."
+        "reason": "Mellor's Pride Cutlery (1953) applies design intelligence to what people hold in their hands at dinner. His Traffic Light (1965) applies design intelligence to what people see at junctions. Same designer, same principle: the most-used objects deserve the most care."
       },
       {
         "id": 36,
@@ -6486,7 +6486,7 @@ export const CANDIDATES = [
     "id": 796,
     "title": "Tykho Radio",
     "designer": "Marc Berthier",
-    "year": 1997,
+    "year": 1999,
     "discipline": "Product",
     "origin": "France",
     "manufacturer": "Lexon",
@@ -6613,7 +6613,7 @@ export const CANDIDATES = [
     "discipline": "Glass",
     "origin": "United States",
     "manufacturer": "Chihuly Studio",
-    "collection": "Kew Gardens, London (permanent since 2019)",
+    "collection": "Exhibited internationally, including botanical garden installations such as Garfield Park Conservatory (2001) and Kew Gardens (2019)",
     "movement": "Studio Glass",
     "wikiTitle": null,
     "description": "A series of large-scale blown glass sculptures installed among living plants in botanical gardens — glass forms resembling oversized sea creatures, flowers, and organic tendrils placed in flower beds, floating in ponds, and hanging in greenhouse canopies. Each piece is hand-blown by Chihuly's team (he has not blown glass himself since a shoulder injury in 1979) and consists of multiple components assembled on site. The garden installations blur the boundary between art object and natural specimen — visitors frequently mistake the glass for exotic plants.",
@@ -6622,17 +6622,17 @@ export const CANDIDATES = [
       {
         "id": 788,
         "type": "lineage",
-        "reason": "Chihuly's Seaforms (1980) nest glass pieces in gallery vitrines — marine abstraction at intimate scale. His Garden Installations (2001) place glass pieces among real plants — botanical abstraction at landscape scale. Twenty years between glass in a gallery and glass in a garden — same material, opposite contexts."
+        "reason": "Chihuly's Seaforms (1980) nest glass pieces in gallery vitrines — marine abstraction at intimate scale. His garden installations from the early 2000s place glass pieces among real plants — botanical abstraction at landscape scale. Twenty years between glass in a gallery and glass in a garden — same material, opposite contexts."
       },
       {
         "id": 722,
         "type": "argument",
-        "reason": "Studio Drift's Shylight (2006) uses silk and motors to replicate floral movement indoors — nature's behaviour in a chandelier. Chihuly's Garden Installations (2001) use glass to replicate floral form outdoors — nature's appearance in a garden. Both bring nature into designed objects, but Drift copies how flowers move while Chihuly copies how they look."
+        "reason": "Studio Drift's Shylight (2006) uses silk and motors to replicate floral movement indoors — nature's behaviour in a chandelier. Chihuly's garden installations from the early 2000s use glass to replicate floral form outdoors — nature's appearance in a garden. Both bring nature into designed objects, but Drift copies how flowers move while Chihuly copies how they look."
       },
       {
         "id": 701,
         "type": "zeitgeist",
-        "reason": "Branzi's Animali Domestici (1985) forces tree branches through steel furniture frames — nature penetrating industry. Chihuly's Garden Installations (2001) place glass sculptures among real plants — industry penetrating nature. Both cross the boundary between organic and manufactured, but Branzi brings nature indoors while Chihuly brings manufacture outdoors."
+        "reason": "Branzi's Animali Domestici (1985) forces tree branches through steel furniture frames — nature penetrating industry. Chihuly's garden installations from the early 2000s place glass sculptures among real plants — industry penetrating nature. Both cross the boundary between organic and manufactured, but Branzi brings nature indoors while Chihuly brings manufacture outdoors."
       }
     ],
     "keywords": [
@@ -6853,13 +6853,13 @@ export const CANDIDATES = [
   },
   {
     "id": 805,
-    "title": "Niemeyer Lounge Chair",
-    "designer": "Oscar Niemeyer",
-    "year": 1972,
+    "title": "Alta Lounge Chair",
+    "designer": "Oscar Niemeyer & Anna Maria Niemeyer",
+    "year": 1971,
     "discipline": "Furniture",
     "origin": "Brazil",
     "manufacturer": "Tendo Brasileira (later Etel)",
-    "collection": "MoMA, New York",
+    "collection": "N/A — reissued by ETEL",
     "movement": "Brazilian Modernism",
     "wikiTitle": null,
     "description": "A lounge chair and ottoman in bent metal and leather — the frame is a single continuous curve of enamelled steel tube that forms both the base and the back support in one sweeping gesture. The leather seat and backrest are suspended in the frame by lacing. The ottoman mirrors the chair's curve at a lower height. The chair's profile is an echo of Niemeyer's architectural curves — the same parabolic arcs that define the National Congress buildings in Brasília, reduced to the scale of the body.",
@@ -6868,17 +6868,17 @@ export const CANDIDATES = [
       {
         "id": 792,
         "type": "zeitgeist",
-        "reason": "Sergio Rodrigues's Mole (1957) and Niemeyer's Lounge Chair (1972) are both Brazilian chairs made by Tendo Brasileira — Rodrigues designing loose, generous cushions on jacaranda frames, Niemeyer designing taut leather on continuous steel curves. The factory floor where Brazilian furniture modernism is manufactured."
+        "reason": "Sergio Rodrigues's Mole (1957) and the Niemeyers' Alta Lounge Chair (1971) are both Brazilian chairs made by Tendo Brasileira — Rodrigues designing loose, generous cushions on jacaranda frames, the Niemeyers designing taut leather on continuous steel curves. The factory floor where Brazilian furniture modernism is manufactured."
       },
       {
         "id": 732,
         "type": "method",
-        "reason": "Le Corbusier designs Villa Savoye (1931) with the same geometric language he uses in the LC4 chaise longue — pilotis at building scale, chrome tubes at body scale. Niemeyer designs Brasília's Congress with the same parabolic language he uses in the Lounge Chair — concrete arcs at civic scale, steel curves at body scale. Both architect-furniture designers whose chairs are buildings and whose buildings are chairs."
+        "reason": "Le Corbusier designs Villa Savoye (1931) with the same geometric language he uses in the LC4 chaise longue — pilotis at building scale, chrome tubes at body scale. Niemeyer designs Brasilia's Congress with the same parabolic language he uses in the Alta Lounge Chair — concrete arcs at civic scale, steel curves at body scale. Both architect-furniture designers whose chairs are buildings and whose buildings are chairs."
       },
       {
         "id": 695,
         "type": "argument",
-        "reason": "Lovegrove's Go Chair (2001) achieves a continuous organic form through die-cast magnesium — digital optimisation producing biomorphic furniture. Niemeyer's Lounge Chair (1972) achieves a continuous organic form through bent steel tubing — architectural vision producing biomorphic furniture. Both make single-gesture chairs, but Lovegrove computes while Niemeyer draws."
+        "reason": "Lovegrove's Go Chair (2001) achieves a continuous organic form through die-cast magnesium — digital optimisation producing biomorphic furniture. The Niemeyers' Alta Lounge Chair (1971) achieves a continuous organic form through bent steel tubing — architectural vision producing biomorphic furniture. Both make single-gesture chairs, but Lovegrove computes while Niemeyer draws."
       }
     ],
     "keywords": [
@@ -7591,42 +7591,42 @@ export const CANDIDATES = [
   },
   {
     "id": 823,
-    "title": "Ikea PS Ellan Stool",
-    "designer": "IKEA",
-    "year": 1999,
+    "title": "IKEA PS ELLAN Chair",
+    "designer": "Chris Martin",
+    "year": 2006,
     "discipline": "Furniture",
     "origin": "Sweden",
     "manufacturer": "IKEA",
-    "collection": "Design Museum, London",
+    "collection": "IKEA PS 2006",
     "movement": "Democratic Design",
     "wikiTitle": null,
-    "description": "A stackable polypropylene stool with an integrated carry handle — the seat has a hole in the centre that serves as both a grip and a drainage point for outdoor use. Available in bright primary colours. The stool weighs 1.3kg, stacks to twelve, and costs under £10. It was part of IKEA's PS (Post Scriptum) collection, which invited external and internal designers to experiment with manufacturing processes. The Ellan stool's success was its simplicity: one material, one mould, one colour, one function.",
-    "significance": "The Ellan stool is the endpoint of democratic furniture — the point at which a designed object becomes so cheap, so stackable, and so simple that it stops being a design statement and becomes infrastructure. It's in millions of homes, gardens, classrooms, and street stalls across the world. Its hole is simultaneously a carry handle, a drain, a decorative element, and a reminder of Alvar Aalto's Stool 60 — the three-legged plywood original whose democratic ambitions the Ellan fulfils at one-tenth the price.",
+    "description": "A lightly rocking dining chair made from a recyclable wood-plastic composite, designed so it could be assembled without tools. Chris Martin developed ELLAN for IKEA PS 2006 after noticing the common habit of leaning back on a chair; the rear legs are shaped to allow controlled tipping rather than forbidding it. The chair used a composite made from plastic and waste sawdust, bringing recycled content into IKEA's experimental PS line.",
+    "significance": "ELLAN matters because it brought material experimentation and behavioural observation into IKEA's mass-market ecosystem. Rather than treating leaning back as misuse, Martin designed the chair around that ordinary bodily habit. The wood-plastic composite also made the piece an early IKEA example of recycled-content furniture presented as mainstream design rather than eco-novelty.",
     "connections": [
       {
         "id": 814,
         "type": "zeitgeist",
-        "reason": "Morrison's Garden Chair (1999) and IKEA's Ellan (1999) are both 1999 polypropylene stackable chairs designed for invisibility — both under €30, both produced in millions, both purposefully unremarkable. Morrison's has a designer's name; the Ellan has a corporate catalogue number. Same ambition, different authorship models."
+        "reason": "Morrison's Garden Chair (1999) and Martin's IKEA PS ELLAN Chair (2006) are both affordable synthetic chairs that turn everyday seating into an exercise in reduction. Morrison's chair pursues near-anonymity through injection-moulded polypropylene. Martin's pursues behavioural wit through a recyclable wood-plastic composite and a built-in rocking action. Same democratic ambition, different temperaments."
       },
       {
         "id": 698,
         "type": "lineage",
-        "reason": "Crawford's Sinnerlig (2015) designs sensory IKEA furniture for the body — cork, stoneware, water hyacinth. IKEA's own Ellan (1999) designs functional IKEA furniture for the inventory — polypropylene, stackable, drainable. Both are IKEA products, but Crawford designs for pleasure while Ellan designs for logistics."
+        "reason": "Crawford's Sinnerlig (2015) designs sensory IKEA furniture for the body — cork, stoneware, water hyacinth. Martin's IKEA PS ELLAN Chair (2006) designs behavioural IKEA furniture for the body — a dining chair that legitimises leaning back. Both are IKEA products, but Crawford designs for atmosphere while Martin designs for bodily habit."
       },
       {
         "id": 18,
         "type": "argument",
-        "reason": "Aalto's Stool 60 (1933) is the original democratic stackable — plywood, three legs, integral handle. IKEA's Ellan (1999) is the ultimate democratic stackable — polypropylene, four legs, integral handle. Sixty-six years between the same ambition in two different materials: Aalto's costs €250, the Ellan costs £7."
+        "reason": "Aalto's Stool 60 (1933) shows how a mass-producible object can still embody a clear designerly idea about everyday life. Martin's IKEA PS ELLAN Chair (2006) does something similar for the flat-pack era, translating a small behavioural insight — that people lean back — into a low-cost composite chair for mass distribution. Both turn ordinary domestic seating into a test case for democratic design."
       }
     ],
     "keywords": [
-      "polypropylene",
-      "£10",
-      "stackable",
+      "wood-plastic composite",
+      "tool-free assembly",
+      "rocking chair",
       "IKEA",
-      "carry handle",
+      "Chris Martin",
       "democratic",
-      "Ellan"
+      "IKEA PS"
     ],
     "imageUrl": "/images/823.jpg"
   },
@@ -7903,7 +7903,7 @@ export const CANDIDATES = [
       {
         "id": 780,
         "type": "sameProblem",
-        "reason": "Thonet's No. 14 (1859) and Mellor's Traffic Light (1969) are both designed objects used by millions every day without anyone thinking about them — one held in a café, the other seen at a junction. Both apply maximum design intelligence to create objects whose success is measured by their invisibility. The chair that everyone sits on; the signal that everyone obeys."
+        "reason": "Thonet's No. 14 (1859) and Mellor's Traffic Light (1965) are both designed objects used by millions every day without anyone thinking about them — one held in a cafe, the other seen at a junction. Both apply maximum design intelligence to create objects whose success is measured by their invisibility. The chair that everyone sits on; the signal that everyone obeys."
       }
     ],
     "keywords": [
@@ -8549,7 +8549,7 @@ export const CANDIDATES = [
       {
         "id": 780,
         "type": "lineage",
-        "reason": "David Mellor's Traffic Light (1969) and Douglas Scott's Routemaster (1956) are both British public design objects — one controls traffic, the other carries it. Both are designed to be used by millions and noticed by nobody. Both define the quality of British public infrastructure."
+        "reason": "David Mellor's Traffic Light (1965) and Douglas Scott's Routemaster (1956) are both British public design objects — one controls traffic, the other carries it. Both are designed to be used by millions and noticed by nobody. Both define the quality of British public infrastructure."
       },
       {
         "id": 846,
@@ -8682,7 +8682,7 @@ export const CANDIDATES = [
       {
         "id": 780,
         "type": "argument",
-        "reason": "David Mellor's Traffic Light (1969) designs public infrastructure that everyone uses and nobody notices. D'Ascanio's Ape (1948) designs commercial infrastructure that millions use and everyone notices. Both are democratic design, but the traffic light is invisible while the Ape is unmissable."
+        "reason": "David Mellor's Traffic Light (1965) designs public infrastructure that everyone uses and nobody notices. D'Ascanio's Ape (1948) designs commercial infrastructure that millions use and everyone notices. Both are democratic design, but the traffic light is invisible while the Ape is unmissable."
       }
     ],
     "keywords": [
@@ -8924,7 +8924,7 @@ export const CANDIDATES = [
       "shadow",
       "specification"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://storage.googleapis.com/gd-prod/images/88d993d9-5a44-4a2e-a594-174605f82983.799a99c1196c2fd4.webp",
     "connections": [
           {
                 "id": 916,
@@ -8972,7 +8972,7 @@ export const CANDIDATES = [
       "iFixit",
       "supply chain transparency"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG5987/full/735,/0/default.jpg",
     "connections": [
           {
                 "id": 311,
@@ -9069,7 +9069,7 @@ export const CANDIDATES = [
       "housing",
       "distributed manufacturing"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://cdn.prod.website-files.com/612569c3243035968aaf61f1/636035410a5ab1b68b314165_Assembled%20WikiHouse%20Skylark%20blocks.jpg",
     "connections": [
           {
                 "id": 604,
@@ -9147,14 +9147,14 @@ export const CANDIDATES = [
     "id": 911,
     "title": "Ocean Sole Flip-Flop Sculptures",
     "designer": "Julie Church / Ocean Sole",
-    "year": 1997,
+    "year": 1999,
     "discipline": "Product",
     "origin": "Kenya",
     "manufacturer": "Ocean Sole",
     "collection": "Exhibited internationally; Smithsonian National Zoo",
     "movement": "Circular Design / Kenyan Craft",
     "wikiTitle": "Ocean_Sole",
-    "description": "Life-size animal sculptures carved from discarded flip-flops collected from Kenyan beaches and waterways. Founded in 1997 by conservationist Julie Church after observing women clearing beaches for turtle nesting sites, Ocean Sole grew from a community project into a social enterprise employing over 100 artisans in Nairobi. The sandals — an estimated 90,000 tons of which wash up on African coastlines annually — are sorted by colour, compressed, shaped with machetes and knives, and assembled into giraffes, elephants, dolphins, and abstract forms. Each sculpture uses between 50 and 2,000 recovered sandals.",
+    "description": "Life-size animal sculptures carved from discarded flip-flops collected from Kenyan beaches and waterways. Ocean Sole traces its origins to marine-conservation work on the Kenyan coast in 1999, later developing into a Nairobi-based social enterprise employing local artisans. The sandals are sorted by colour, compressed, shaped with machetes and knives, and assembled into giraffes, elephants, dolphins, and abstract forms. Each sculpture uses dozens to thousands of recovered sandals depending on scale.",
     "significance": "Ocean Sole is circular design without the European theory — no material passports, no lifecycle assessment software, just the blunt reality that the Indian Ocean delivers more waste than raw material to the Kenyan coast. Church didn't cite McDonough or Braungart; she responded to a beach. The sculptures' candy-bright colour palette — inherent to the flip-flop material — gives them an accidental Pop Art quality that has made them collectible internationally, but the operation's real design is the system: collection, sorting, employment, export. The product is almost incidental to the supply chain it created.",
     "keywords": [
       "circular economy",
@@ -9186,7 +9186,7 @@ export const CANDIDATES = [
           {
                 "id": 600,
                 "type": "argument",
-                "reason": "The Campanas' Favela Chair (1991) nails São Paulo street wood into gallery furniture — scrap from Brazilian informal economies elevated to MoMA's collection. Ocean Sole's flip-flop sculptures (1997) carve Kenyan beach waste into collectible objects — scrap from African marine environments elevated to the Smithsonian. Both use informal-economy materials, but the Campanas aestheticise poverty while Church creates employment from it. Art object versus livelihood."
+        "reason": "The Campanas' Favela Chair (1991) nails Sao Paulo street wood into gallery furniture — scrap from Brazilian informal economies elevated to MoMA's collection. Ocean Sole's flip-flop sculptures (from 1999) carve Kenyan beach waste into collectible objects — scrap from African marine environments elevated to museums and zoos. Both use informal-economy materials, but the Campanas aestheticise poverty while Church creates employment from it. Art object versus livelihood."
           }
     ],
     "status": "staging",
@@ -9329,11 +9329,6 @@ export const CANDIDATES = [
                 "id": 661,
                 "type": "sameProblem",
                 "reason": "Neri Oxman's Silk Pavilion (2013) asks what architecture looks like when biological organisms participate in its making — silkworms spinning across computational scaffolds. Rajcevic's Animal (2012) asks what the body looks like when biological forms participate in its redesign — animal anatomies grafted onto human frames. Both work at the boundary between design and biology, but Oxman lets organisms build and Rajcevic lets organisms inspire. Collaboration versus citation."
-          },
-          {
-                "id": 934,
-                "type": "zeitgeist",
-                "reason": "Rajcevic's Animal (2012) fuses animal anatomy with the human body through hand-fabricated resin prosthetics — speculative evolution made wearable. Shodeinde's The Intersection (2021) fuses Yoruba aso-oke weaving with 3D-printed structural elements — cultural heritage made wearable through contemporary technology. Both are body-worn design speculations by women designers working between cultures (Serbia/UK, Nigeria/UK), and both insist that the body is the site where futures become present."
           }
     ],
     "status": "staging",
@@ -9341,48 +9336,47 @@ export const CANDIDATES = [
   },
   {
     "id": 915,
-    "title": "Moirai Chandelier (Below the Heavens Collection)",
+    "title": "Moirai Chandelier",
     "designer": "Ini Archibong",
-    "year": 2019,
+    "year": 2018,
     "discipline": "Lighting",
     "origin": "United States / Switzerland",
     "manufacturer": "Sé Collections",
-    "collection": "Exhibited at Salon del Mobile, Milan",
-    "movement": "Contemporary Craft / Afrofuturism",
+    "collection": "Below the Heavens collection for Se",
+    "movement": "Contemporary Collectible Design",
     "wikiTitle": null,
-    "description": "A chandelier composed of hand-blown Murano glass spheres in gradients of blue, green, and amber, suspended from a patinated brass armature whose geometry references celestial mechanics. The glass globes are arranged in orbits — inner rings denser, outer rings sparser — creating a three-dimensional constellation. Each glass element is unique; the Murano glassblowers Archibong worked with introduced deliberate imperfections that distinguish handwork from machine uniformity. The piece spans over two metres in diameter.",
-    "significance": "Archibong trained as an industrial designer in Pasadena and a furniture designer in Lausanne, but Below the Heavens operates at the scale of architecture and the register of sculpture. The chandelier matters because it demonstrates that Murano glass — a tradition routinely coded as European heritage — can be redirected through a design sensibility rooted in West African cosmology and American craft. Archibong doesn't reference Africa decoratively; the orbital geometry draws on spiritual and mythological influences from his West African heritage. The piece quietly insists that the luxury craft traditions of Europe are tools, not identities — available to anyone with the skill and vision to use them.",
+    "description": "A large chandelier from Ini Archibong's Below the Heavens collection for Se, first presented in 2018. The piece combines a brass armature with suspended glass elements arranged in a branching, constellation-like composition. Archibong developed the collection around mythic and celestial references, treating the chandelier as a sculptural lighting object rather than a conventional fixture.",
+    "significance": "The chandelier matters as an early statement of Archibong's move from industrial design toward collectible lighting and furniture with a more symbolic register. Below the Heavens positioned him within the contemporary design-art market while showing that narrative, ornament, and luxury craft could be handled with the same seriousness as function-led product design. The work's significance lies less in a single technical innovation than in the clarity of that shift.",
     "keywords": [
-      "Murano glass",
       "chandelier",
-      "Afrofuturism",
       "celestial",
-      "hand-blown",
       "brass",
-      "Sé Collections",
-      "Yoruba"
+      "glass",
+      "Se",
+      "collectible design",
+      "myth"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://new.se-collections.com/wp-content/uploads/2021/04/Moirai-Chandelier.jpg",
     "connections": [
           {
                 "id": 21,
                 "type": "sameProblem",
-                "reason": "Henningsen's PH Artichoke (1958) arranges 72 copper leaves in calculated orbits to eliminate glare — every leaf angle computed trigonometrically. Archibong's Moirai Chandelier (2019) arranges hand-blown Murano glass spheres in celestial orbits derived from Yoruba astronomical concepts — every sphere position determined by cosmological geometry. Both are chandeliers that use orbital arrangement to control light, but Henningsen's orbits come from mathematics and Archibong's come from mythology."
+                "reason": "Henningsen's PH Artichoke (1958) arranges 72 copper leaves in calculated orbits to eliminate glare — every leaf angle computed trigonometrically. Archibong's Moirai Chandelier (2018) arranges glass elements in a branching, celestial composition for Se's Below the Heavens collection. Both are chandeliers that treat light as a spatial system rather than a bulb with decoration, but Henningsen's logic is optical engineering while Archibong's is sculptural and symbolic."
           },
           {
                 "id": 646,
                 "type": "material",
-                "reason": "Scarpa's Battuto Vase (1940) worked with Murano glassblowers at Venini, grinding facets into blown glass to make it perform as hammered metal — an architect redirecting a Venetian tradition through surface intervention. Archibong's Moirai Chandelier (2019) works with Murano glassblowers to blow spheres with deliberate imperfections that distinguish handwork from machine uniformity — an industrial designer redirecting the same tradition through form. Eighty years apart, both prove that Murano is a technology, not an identity."
+                "reason": "Scarpa's Battuto Vase (1940) worked with Venetian glassmaking traditions at Venini, grinding facets into blown glass to make it perform as hammered metal — an architect redirecting a historic craft through surface intervention. Archibong's Moirai Chandelier (2018) likewise treats luxury glassmaking as a contemporary design tool rather than a fixed heritage style. Eighty years apart, both prove that glass tradition is a technology, not an identity."
           },
           {
                 "id": 922,
                 "type": "zeitgeist",
-                "reason": "Archibong's Moirai Chandelier (2019) channels Yoruba cosmology through Murano glass and Swiss precision engineering — West African concepts rendered in European luxury craft. Dyalvane's iThongo vessels (2020) channel Xhosa ancestral concepts through terracotta clay and hand-incised glyphs — South African knowledge rendered in African material tradition. Both are contemporary African-diaspora designers encoding non-Western cosmologies in designed objects, but Archibong works through European craft infrastructure and Dyalvane works through village tradition."
+                "reason": "Archibong's Moirai Chandelier (2018) channels celestial and mythic references through luxury craft and collectible lighting. Dyalvane's iThongo vessels (2020) channel Xhosa ancestral concepts through terracotta clay and hand-incised glyphs. Both are contemporary designers of African heritage encoding non-Western knowledge systems in designed objects, but Archibong works through the international collectible-design market and Dyalvane works through village-rooted ceramic practice."
           },
           {
                 "id": 644,
                 "type": "argument",
-                "reason": "Mouille's Three-Arm Ceiling Lamp (1952) hand-hammers aluminium into organic wing-like reflectors — a French silversmith making light sculptural through craft intuition. Archibong's Moirai Chandelier (2019) hand-blows Murano glass into celestial spheres — an American-Swiss designer making light cosmological through orbital geometry. Both are hand-formed lighting at architectural scale, but Mouille's asymmetry is intuitive and Archibong's is systematic."
+                "reason": "Mouille's Three-Arm Ceiling Lamp (1952) hand-hammers aluminium into organic wing-like reflectors — a French silversmith making light sculptural through craft intuition. Archibong's Moirai Chandelier (2018) turns glass and brass into a symbolic, constellation-like lighting object for the collectible market. Both are hand-crafted lighting works at architectural scale, but Mouille's asymmetry is spare and utilitarian while Archibong's is narrative and ceremonious."
           }
     ],
     "status": "staging",
@@ -9411,7 +9405,7 @@ export const CANDIDATES = [
       "visual language",
       "physics-based animation"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://static.dezeen.com/uploads/2013/06/dezeen_Apple-unveils-iOS-7-software-designed-by-Jonathan-Ive-20.jpg",
     "connections": [
           {
                 "id": 906,
@@ -9509,7 +9503,7 @@ export const CANDIDATES = [
       "machines",
       "global network"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://static.dezeen.com/uploads/2013/10/Precious-Plastic-by-Dave-Hakkens_dezeen-1.jpg",
     "connections": [
           {
                 "id": 673,
@@ -9558,7 +9552,7 @@ export const CANDIDATES = [
       "impermanence",
       "Ecovative"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://images.adsttc.com/media/images/53ad/5f8f/c07a/8021/be00/0039/large_jpg/5302011be8e44e1589000253_behind-hy-fi-the-entirely-organic-compostable-tower-that-won-moma-ps1-young-architect-s-program-2014_ps1_cov.jpg?1403871114",
     "connections": [
           {
                 "id": 815,
@@ -9635,7 +9629,7 @@ export const CANDIDATES = [
   },
   {
     "id": 921,
-    "title": "Plastex Material & Gramaz Chair",
+    "title": "Plastex / Grammy's Chair",
     "designer": "Hend Riad and Mariam Hazem / Reform Studio",
     "year": 2016,
     "discipline": "Furniture",
@@ -9644,8 +9638,8 @@ export const CANDIDATES = [
     "collection": "Exhibited at Dubai Design Week; Beirut Design Week",
     "movement": "Contemporary Egyptian Design",
     "wikiTitle": null,
-    "description": "A furniture collection woven from Plastex — a material invented by Reform Studio from discarded plastic bags collected from Cairo’s informal waste sector. The bags are sorted, sterilised, cut into strips, and hand-woven on traditional looms with recycled cotton thread. The Gramaz chair — named after Mariam Hazem’s grandmother’s chair — uses 150 plastic bags per seat, woven in multi-coloured stripe patterns determined by whatever bags are available. The material has been lab-tested at Egypt’s National Center for Research: water-resistant, UV-stable, supports over 50kg, stretches to double its size.",
-    "significance": "Reform Studio operates at an intersection that European design discourse rarely acknowledges: contemporary sustainability practice built on informal-economy waste infrastructure that already exists in Cairo. The zabbaleen — Cairo’s traditional waste collectors — sort plastic with more nuance than any Western recycling facility. Riad and Hazem designed a material and a product line that gives that existing knowledge economic value in the formal design market. The Gramaz chair doesn’t need a lifecycle assessment to justify itself — the supply chain is visible in every woven strip.",
+    "description": "A chair woven from Plastex, a material developed by Reform Studio from discarded plastic bags collected through Cairo's informal waste sector. The bags are sorted, sterilised, cut into strips, and hand-woven on traditional looms with recycled cotton thread. Grammy's Chair adapts the familiar form of a grandmother's chair into a contemporary piece whose colour and striping depend on the waste plastic available for each batch.",
+    "significance": "Reform Studio operates at an intersection that European design discourse rarely acknowledges: contemporary sustainability practice built on informal-economy waste infrastructure that already exists in Cairo. The zabbaleen — Cairo's traditional waste collectors — sort plastic with more nuance than any Western recycling facility. Riad and Hazem designed a material and a chair that give that existing knowledge economic value in the formal design market. Grammy's Chair does not need abstract sustainability rhetoric to justify itself — the supply chain is visible in every woven strip.",
     "keywords": [
       "Plastex",
       "recycled plastic bags",
@@ -9656,7 +9650,7 @@ export const CANDIDATES = [
       "zabbaleen",
       "craft"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://reformstudio.net/cdn/shop/files/website-02.png?v=1703595066&width=1024",
     "connections": [
           {
                 "id": 911,
@@ -9705,7 +9699,7 @@ export const CANDIDATES = [
       "ancestral",
       "terracotta"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://www.friedmanbenda.com/wp-content/uploads/2022/03/2021-exhibition-dyalvane-ithongo-cover-2000x1500-sm.jpg",
     "connections": [
           {
                 "id": 929,
@@ -9715,7 +9709,7 @@ export const CANDIDATES = [
           {
                 "id": 915,
                 "type": "zeitgeist",
-                "reason": "Dyalvane's iThongo vessels (2020) encode Xhosa ancestral concepts in hand-carved glyphs on terracotta — African cosmology rendered in African material. Archibong's Moirai Chandelier (2019) encodes Yoruba astronomical concepts in the orbital geometry of Murano glass — African cosmology rendered in European material. Both are contemporary designers of African heritage inscribing non-Western knowledge systems into designed objects. Dyalvane works from village to gallery; Archibong works from Pasadena to Milan. The direction of influence runs differently, but the project is the same."
+                "reason": "Dyalvane's iThongo vessels (2020) encode Xhosa ancestral concepts in hand-carved glyphs on terracotta — African cosmology rendered in African material. Archibong's Moirai Chandelier (2018) encodes celestial and mythic references in glass and brass for the collectible-design market. Both are contemporary designers of African heritage inscribing non-Western knowledge systems into designed objects. Dyalvane works from village to gallery; Archibong works from studio to international fair. The direction of influence runs differently, but the project is similar."
           },
           {
                 "id": 58,
@@ -9769,7 +9763,7 @@ export const CANDIDATES = [
           {
                 "id": 924,
                 "type": "zeitgeist",
-                "reason": "Mohaded's Entrevero (2018) and Seck's Taboo (2016) are both furniture collections by designers from the Global South who trained internationally but routed their careers back to local communities and local manufacturing. Mohaded collaborates with indigenous craftspeople in Argentina's northwest. Seck partners with a recycled-plastic manufacturer in Dakar. Both refuse the model of African or Latin American design as craft export, building instead self-sufficient design economies rooted in local material knowledge and local industry."
+        "reason": "Mohaded's Entrevero (2018) and Seck's Taboo (2011) are both furniture collections by designers from the Global South who trained internationally but routed their careers back to local communities and local manufacturing. Mohaded collaborates with indigenous craftspeople in Argentina's northwest. Seck partners with a recycled-plastic manufacturer in Dakar. Both refuse the model of African or Latin American design as craft export, building instead self-sufficient design economies rooted in local material knowledge and local industry."
           },
           {
                 "id": 748,
@@ -9782,16 +9776,16 @@ export const CANDIDATES = [
   },
   {
     "id": 924,
-    "title": "Taboo Furniture Collection",
+    "title": "Taboo Collection",
     "designer": "Bibi Seck / Birsel + Seck",
-    "year": 2016,
+    "year": 2011,
     "discipline": "Furniture",
     "origin": "Senegal / United States",
     "manufacturer": "Transtech, Dakar",
-    "collection": "Cooper Hewitt, Smithsonian Design Museum; MoMA, New York",
+    "collection": "Exhibited internationally, including Design Indaba and 1:54",
     "movement": "West African Contemporary Design / Circular Design",
     "wikiTitle": null,
-    "description": "A collection of stools and low tables manufactured in Dakar, Senegal, from 75% recycled garbage bags and plastic bottles. Transtech — a Senegalese maker of cisterns and septic tanks — moulds the recycled plastic into furniture forms using rotational moulding. The designs reference the daily habits of West African socialising: low stools for sitting around attaya (tea), tables at squat height for communal eating. The colour of each piece is determined by the available recycled plastic, making every batch unique. The collection was exhibited at Design Indaba and the 1:54 African Art Fair.",
+    "description": "A collection of stools and low tables manufactured in Dakar, Senegal, from recycled plastic, developed by Birsel + Seck with local manufacturer Transtech. Transtech — a Senegalese maker of cisterns and septic tanks — moulds the recycled material into furniture forms using rotational moulding. The designs reference the daily habits of West African socialising: low stools for sitting around attaya (tea), tables at squat height for communal eating. The colour of each piece is determined by the available recycled plastic, making every batch unique.",
     "significance": "Seck trained at ESDI Paris, spent twelve years as lead designer at Renault, then co-founded Birsel + Seck in New York — before routing his career back to Dakar. The Taboo collection matters because it uses existing African manufacturing infrastructure (Transtech already knew how to mould recycled plastic) to produce designed objects that don’t need to be explained as ‘African design.’ They’re just well-designed stools made from local waste by local industry. The supply chain is entirely Senegalese. The design knowledge is global. That’s the model Seck is building: not craft export, but a self-sufficient design economy.",
     "keywords": [
       "Senegalese design",
@@ -9803,12 +9797,12 @@ export const CANDIDATES = [
       "circular economy",
       "Birsel + Seck"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/18430/gallery/taboops1photobymartinseck.jpg",
     "connections": [
           {
                 "id": 923,
                 "type": "zeitgeist",
-                "reason": "Seck's Taboo (Dakar, 2016) and Mohaded's Entrevero (Argentina, 2018) are both furniture collections that use local manufacturing infrastructure and local materials to build design economies outside the European pipeline. Seck uses Senegalese rotational moulding of recycled plastic. Mohaded uses Argentine hand-beaten copper and woven palm. Both trained internationally, both returned to their regions, and both prove that contemporary design doesn't need to route through Milan or London."
+                "reason": "Seck's Taboo (Dakar, 2011) and Mohaded's Entrevero (Argentina, 2018) are both furniture collections that use local manufacturing infrastructure and local materials to build design economies outside the European pipeline. Seck uses Senegalese rotational moulding of recycled plastic. Mohaded uses Argentine hand-beaten copper and woven palm. Both trained internationally, both returned to their regions, and both prove that contemporary design doesn't need to route through Milan or London."
           },
           {
                 "id": 921,
@@ -9852,7 +9846,7 @@ export const CANDIDATES = [
       "curation",
       "post-internet"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://jamesbridle.com/media/pages/works/the-new-aesthetic/2147b28199-1680515161/65_56566727774ae8f605fez.jpg",
     "connections": [
           {
                 "id": 910,
@@ -9901,7 +9895,7 @@ export const CANDIDATES = [
       "MoMA",
       "critical design"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://superflux.in/wp-content/uploads/2019/04/Main-Image-MOS-Resized.jpg",
     "connections": [
           {
                 "id": 910,
@@ -9950,7 +9944,7 @@ export const CANDIDATES = [
       "platform",
       "finger joints"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7864/full/735,/0/default.jpg",
     "connections": [
           {
                 "id": 909,
@@ -9999,7 +9993,7 @@ export const CANDIDATES = [
       "indigenous knowledge",
       "bio-material"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://images.collection.cooperhewitt.org/351201_efc46e3ee65cc2ea_b.jpg",
     "connections": [
           {
                 "id": 713,
@@ -10048,7 +10042,7 @@ export const CANDIDATES = [
       "ceramic",
       "monumental scale"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ma/original/IA-_MG_9469.jpg",
     "connections": [
           {
                 "id": 922,
@@ -10063,7 +10057,7 @@ export const CANDIDATES = [
           {
                 "id": 915,
                 "type": "zeitgeist",
-                "reason": "Poswa's Ukhamba vessels (2019) and Archibong's Moirai Chandelier (2019) are both contemporary works by designers of African heritage, both exhibited at international design fairs in 2019, and both operate at the boundary between design and sculpture. But Poswa works from Xhosa beer-pot tradition using terracotta and hand-coiling. Archibong works from Yoruba cosmology using Murano glass and precision engineering. Local material and global material: two routes from African knowledge to international design market."
+        "reason": "Poswa's Ukhamba vessels (2019) and Archibong's Moirai Chandelier (2018) are both contemporary works by designers of African heritage that operate at the boundary between design and sculpture. Poswa works from Xhosa beer-pot tradition using terracotta and hand-coiling. Archibong works through symbolic collectible lighting in glass and brass. Local material and global material: two routes from African knowledge to the international design market."
           },
           {
                 "id": 57,
@@ -10097,13 +10091,8 @@ export const CANDIDATES = [
       "incubator",
       "medical device"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://babypod.com/wp-content/uploads/2023/11/BP20_4.png",
     "connections": [
-          {
-                "id": 930,
-                "type": "method",
-                "reason": "The BabyPod 20 applies Williams F1's carbon fibre composite technology — developed to protect drivers at 300km/h — to neonatal transport, protecting premature infants at 100km/h. The same material science, the same crash-survival engineering, redirected from a sport to a medical need. Technology transfer as design method: the most important innovations sometimes come not from the design studio but from adjacent industries willing to look sideways at their own expertise."
-          },
           {
                 "id": 23,
                 "type": "lineage",
@@ -10146,7 +10135,7 @@ export const CANDIDATES = [
       "optical",
       "Cruz-Diez"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/dazzlesideweb.width-420_u8VZZsn.jpg",
     "connections": [
           {
                 "id": 34,
@@ -10195,7 +10184,7 @@ export const CANDIDATES = [
       "sign-painting",
       "code typography"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://cdn.fontdue.com/arrow-type/images/1585826835302861116/recursive-hero-image-device-mockups-2000.png?v=63863232491",
     "connections": [
           {
                 "id": 908,
@@ -10244,7 +10233,7 @@ export const CANDIDATES = [
       "graduation project",
       "impermanence"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://static.dezeen.com/uploads/2016/03/algae-water-bottle-by-ari-jonsson_dezeen_936_0.jpg",
     "connections": [
           {
                 "id": 919,
@@ -10265,55 +10254,6 @@ export const CANDIDATES = [
                 "id": 918,
                 "type": "zeitgeist",
                 "reason": "Precious Plastic (2013) distributes open-source machines for recycling existing plastic waste — processing what's already been produced. Jónsson's Algae Bottle (2016) proposes materials that never become waste at all — designing objects that decompose completely. Both are responses to the plastic crisis, but Precious Plastic works downstream (recovery) and Jónsson works upstream (substitution). Recovery versus prevention: two positions on whether the problem is the waste or the material."
-          }
-    ],
-    "status": "staging",
-    "notes": "Contemporary batch — fact-checked, no connections yet"
-  },
-  {
-    "id": 934,
-    "title": "The Intersection",
-    "designer": "Mimi Shodeinde",
-    "year": 2021,
-    "discipline": "Textile",
-    "origin": "Nigeria / United Kingdom",
-    "manufacturer": "Mimi Shodeinde Studio",
-    "collection": "Exhibited at London Fashion Week; Africa Fashion Exhibition, V&A",
-    "movement": "Afrofuturism / Contemporary Fashion",
-    "wikiTitle": null,
-    "description": "A womenswear collection that fuses Yoruba aso-oke handweaving techniques with laser-cut neoprene and 3D-printed structural elements. The garments use traditional narrow-strip weaving — typically produced on horizontal looms by male weavers in southwestern Nigeria — as the primary textile, but cut and construct it using digital pattern-making and contemporary silhouettes. The 3D-printed elements serve as structural boning and closures, replacing zips and buttons. The aso-oke is sourced from and woven by artisans in Ilorin, Nigeria.",
-    "significance": "Shodeinde's work is important because it treats Yoruba textile tradition as a living technology rather than a heritage citation. The aso-oke isn't a trim or an accent — it's the primary material, subjected to the same cutting and construction rigour as any European luxury fabric. The 3D-printed structural elements don't signal futurity; they solve garment engineering problems. The collection refuses to perform 'African fashion' as a category, insisting instead that Yoruba weaving is simply a material with properties — tensile strength, drape, colour saturation — that can be designed with, not around.",
-    "keywords": [
-      "aso-oke",
-      "Yoruba weaving",
-      "laser cutting",
-      "3D printing",
-      "Nigerian design",
-      "handweaving",
-      "structural textiles",
-      "Afrofuturism"
-    ],
-    "imageUrl": "",
-    "connections": [
-          {
-                "id": 602,
-                "type": "lineage",
-                "reason": "Kawakubo's Body Meets Dress (1997) used padded protrusions to deform the body's silhouette — stretch gingham and down-filled inserts challenging Western fashion's relationship to the human form. Shodeinde's The Intersection (2021) uses Yoruba aso-oke weaving as the primary textile, cut and constructed with laser-cutting and 3D-printed structural elements — challenging fashion's relationship to African textile traditions. Both are women designers working between cultures (Japan/France, Nigeria/UK) who refuse to perform their heritage as a category, insisting instead that their textile traditions are engineering systems."
-          },
-          {
-                "id": 928,
-                "type": "material",
-                "reason": "Laposse's Totomoxtle (2017) uses heritage corn husks as a design material — flattened, laminated, and applied as veneer, with each colour coming from a different indigenous corn variety. Shodeinde's Intersection (2021) uses Yoruba aso-oke as a fashion material — narrow-strip weaving cut and constructed with contemporary pattern-making, with structural support from 3D-printed elements. Both treat indigenous agricultural and textile traditions as living technologies rather than heritage citations, and both create market demand that gives traditional practitioners economic reason to continue."
-          },
-          {
-                "id": 915,
-                "type": "zeitgeist",
-                "reason": "Archibong's Moirai Chandelier (2019) channels Yoruba cosmology through Murano glass — West African concepts rendered in European luxury craft. Shodeinde's Intersection (2021) channels Yoruba weaving through laser-cut neoprene — West African textiles rendered through contemporary fashion technology. Both are Yoruba-heritage designers who refuse to treat African tradition as a decorative accent, instead making it the structural foundation of their work. Archibong works in lighting; Shodeinde works in fashion. The cultural project is the same."
-          },
-          {
-                "id": 914,
-                "type": "method",
-                "reason": "Rajcevic's Animal (2012) fabricates speculative body prosthetics from resin and fibreglass — hand-shaped animal anatomy fitted precisely to the wearer. Shodeinde's Intersection (2021) fabricates structural garment elements from 3D-printed components — digitally produced boning and closures replacing zips and buttons. Both use additive/formative techniques to make body-worn objects that challenge their category (fashion/sculpture), and both are women designers working between European and non-European design traditions."
           }
     ],
     "status": "staging",
@@ -10342,7 +10282,7 @@ export const CANDIDATES = [
       "economic model",
       "sufficiency"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://www.sternberg-press.com/wp-content/uploads/2021/03/Non-Extractive-Architecture-Vol1_cover-600x851.png",
     "connections": [
           {
                 "id": 909,
