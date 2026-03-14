@@ -3139,7 +3139,7 @@ export const ARCHIVE = [
       "Finnish design",
       "standardization"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8599/full/800,/0/default.jpg"
   },
   {
     "id": 80,
@@ -3181,7 +3181,7 @@ export const ARCHIVE = [
       "ergonomics",
       "institutional design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ7755/full/800,/0/default.jpg"
   },
   {
     "id": 81,
@@ -3259,7 +3259,7 @@ export const ARCHIVE = [
       "hotel commission",
       "systematic design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ9570/full/800,/0/default.jpg"
   },
   {
     "id": 83,
@@ -3300,7 +3300,7 @@ export const ARCHIVE = [
       "seamless construction",
       "product family"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3951/full/800,/0/default.jpg"
   },
   {
     "id": 85,
@@ -3342,7 +3342,7 @@ export const ARCHIVE = [
       "three-legged base",
       "material flexibility"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5418/full/800,/0/default.jpg"
   },
   {
     "id": 86,
@@ -3384,7 +3384,7 @@ export const ARCHIVE = [
       "surface continuity",
       "Danish functionalism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MJ0846/full/800,/0/default.jpg"
   },
   {
     "id": 87,
@@ -3426,7 +3426,7 @@ export const ARCHIVE = [
       "hand-cut joints",
       "Danish craftsmanship"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KX1604/full/800,/0/default.jpg"
   },
   {
     "id": 88,
@@ -3468,7 +3468,7 @@ export const ARCHIVE = [
       "systematic design",
       "functional clarity"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3160/full/800,/0/default.jpg"
   },
   {
     "id": 89,
@@ -3515,7 +3515,7 @@ export const ARCHIVE = [
       "ergonomic handle",
       "precision appliance"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MA4478/full/800,/0/default.jpg"
   },
   {
     "id": 90,
@@ -3905,7 +3905,7 @@ export const ARCHIVE = [
       "functional minimalism",
       "systematic thinking"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BP8871/full/800,/0/default.jpg"
   },
   {
     "id": 100,
@@ -3989,7 +3989,7 @@ export const ARCHIVE = [
       "systematic design",
       "material contrast"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JE0281/full/800,/0/default.jpg"
   },
   {
     "id": 103,
@@ -4025,7 +4025,7 @@ export const ARCHIVE = [
       "minimal support",
       "industrial design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN4173/full/800,/0/default.jpg"
   },
   {
     "id": 104,
@@ -4061,7 +4061,7 @@ export const ARCHIVE = [
       "domestic flexibility",
       "grid structure"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU4430/full/800,/0/default.jpg"
   },
   {
     "id": 105,
@@ -4138,7 +4138,7 @@ export const ARCHIVE = [
       "geometric comfort",
       "bent steel"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3079/full/800,/0/default.jpg"
   },
   {
     "id": 107,
@@ -4185,7 +4185,7 @@ export const ARCHIVE = [
       "Herman Miller",
       "contract furniture"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX9538/full/800,/0/default.jpg"
   },
   {
     "id": 108,
@@ -4222,7 +4222,7 @@ export const ARCHIVE = [
       "systems design",
       "corporate modernism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3084/full/800,/0/default.jpg"
   },
   {
     "id": 109,
@@ -4269,7 +4269,7 @@ export const ARCHIVE = [
       "nightclub origins",
       "honest construction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8760/full/800,/0/default.jpg"
   },
   {
     "id": 110,
@@ -4316,7 +4316,7 @@ export const ARCHIVE = [
       "economy",
       "joints"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX7578/full/800,/0/default.jpg"
   },
   {
     "id": 111,
@@ -4358,7 +4358,7 @@ export const ARCHIVE = [
       "anti-functional",
       "symbolic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU6703/full/800,/0/default.jpg"
   },
   {
     "id": 112,
@@ -4400,7 +4400,7 @@ export const ARCHIVE = [
       "anti-rationalist",
       "domestic monument"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4646/full/800,/0/default.jpg"
   },
   {
     "id": 113,
@@ -4442,7 +4442,7 @@ export const ARCHIVE = [
       "anti-functional",
       "cultural provocation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NG1015/full/800,/0/default.jpg"
   },
   {
     "id": 114,
@@ -4479,7 +4479,7 @@ export const ARCHIVE = [
       "systematic design",
       "production drawings"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MV7661/full/800,/0/default.jpg"
   },
   {
     "id": 115,
@@ -4825,7 +4825,7 @@ export const ARCHIVE = [
       "systematic",
       "Isokon"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC8258/full/800,/0/default.jpg"
   },
   {
     "id": 123,
@@ -4872,7 +4872,7 @@ export const ARCHIVE = [
       "modernist",
       "spine"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JR4490/full/800,/0/default.jpg"
   },
   {
     "id": 124,
@@ -4919,7 +4919,7 @@ export const ARCHIVE = [
       "Wassily",
       "chrome"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AC7448/full/800,/0/default.jpg"
   },
   {
     "id": 125,
@@ -5008,7 +5008,7 @@ export const ARCHIVE = [
       "eliminative design",
       "industrial craft"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU9915/full/800,/0/default.jpg"
   },
   {
     "id": 127,
@@ -5176,7 +5176,7 @@ export const ARCHIVE = [
       "material logic",
       "spring tension"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8940/full/800,/0/default.jpg"
   },
   {
     "id": 131,
@@ -5302,7 +5302,7 @@ export const ARCHIVE = [
       "domestic comfort",
       "cage construction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH0373/full/800,/0/default.jpg"
   },
   {
     "id": 134,
@@ -5428,7 +5428,7 @@ export const ARCHIVE = [
       "symbolic form",
       "theatrical narrative"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BV4993/full/800,/0/default.jpg"
   },
   {
     "id": 137,
@@ -5475,7 +5475,7 @@ export const ARCHIVE = [
       "material contrast",
       "cantilevered structure"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK2512/full/800,/0/default.jpg"
   },
   {
     "id": 138,
@@ -5807,7 +5807,7 @@ export const ARCHIVE = [
       "seamless housing",
       "psychological comfort"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BW6814/full/800,/0/default.jpg"
   },
   {
     "id": 146,
@@ -6027,7 +6027,7 @@ export const ARCHIVE = [
       "light distribution",
       "systematic design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM2919/full/800,/0/default.jpg"
   },
   {
     "id": 151,
@@ -6074,7 +6074,7 @@ export const ARCHIVE = [
       "geometric typography",
       "American design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3004/full/800,/0/default.jpg"
   },
   {
     "id": 152,
@@ -6262,7 +6262,7 @@ export const ARCHIVE = [
       "geometric layout",
       "functional reduction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF3089/full/800,/0/default.jpg"
   },
   {
     "id": 156,
@@ -6356,7 +6356,7 @@ export const ARCHIVE = [
       "cultural humor",
       "anti-modernist"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP4647/full/800,/0/default.jpg"
   },
   {
     "id": 158,
@@ -6843,7 +6843,7 @@ export const ARCHIVE = [
       "asymmetrical layout",
       "steel furniture"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB5930/full/800,/0/default.jpg"
   },
   {
     "id": 169,
@@ -6937,7 +6937,7 @@ export const ARCHIVE = [
       "systematic play",
       "design education"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF3321/full/800,/0/default.jpg"
   },
   {
     "id": 171,
@@ -6984,7 +6984,7 @@ export const ARCHIVE = [
       "textile design",
       "anti-industrial"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM5679/full/800,/0/default.jpg"
   },
   {
     "id": 172,
@@ -7031,7 +7031,7 @@ export const ARCHIVE = [
       "Kelmscott Press",
       "thrush motif"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NX3102/full/800,/0/default.jpg"
   },
   {
     "id": 173,
@@ -7250,7 +7250,7 @@ export const ARCHIVE = [
       "botanical accuracy",
       "systematic decoration"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PH7687/full/800,/0/default.jpg"
   },
   {
     "id": 179,
@@ -7291,7 +7291,7 @@ export const ARCHIVE = [
       "systematic naturalism",
       "craft modernization"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM6728/full/800,/0/default.jpg"
   },
   {
     "id": 180,
@@ -7337,7 +7337,7 @@ export const ARCHIVE = [
       "traditional dyeing",
       "scale relationships"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7303/full/800,/0/default.jpg"
   },
   {
     "id": 181,
@@ -7383,7 +7383,7 @@ export const ARCHIVE = [
       "collaborative craft",
       "architectural furniture"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AH8812/full/800,/0/default.jpg"
   },
   {
     "id": 182,
@@ -7429,7 +7429,7 @@ export const ARCHIVE = [
       "material expression",
       "industrial organicism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MP4933/full/800,/0/default.jpg"
   },
   {
     "id": 183,
@@ -7476,7 +7476,7 @@ export const ARCHIVE = [
       "adjustable positioning",
       "industrial design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ1317/full/800,/0/default.jpg"
   },
   {
     "id": 184,
@@ -7518,7 +7518,7 @@ export const ARCHIVE = [
       "geometric simplification",
       "cultural symbolism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NC2737/full/800,/0/default.jpg"
   },
   {
     "id": 185,
@@ -7691,7 +7691,7 @@ export const ARCHIVE = [
       "treadle mechanism",
       "cast iron"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JH1510/full/800,/0/default.jpg"
   },
   {
     "id": 189,
@@ -7896,7 +7896,7 @@ export const ARCHIVE = [
       "artisanal manufacturing",
       "systematic tailoring"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AV6114/full/800,/0/default.jpg"
   },
   {
     "id": 195,
@@ -8037,7 +8037,7 @@ export const ARCHIVE = [
       "hammock principle",
       "stackable"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8092/full/800,/0/default.jpg"
   },
   {
     "id": 198,
@@ -8084,7 +8084,7 @@ export const ARCHIVE = [
       "material behavior",
       "reduction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JY5695/full/800,/0/default.jpg"
   },
   {
     "id": 199,
@@ -8131,7 +8131,7 @@ export const ARCHIVE = [
       "material requirements",
       "precision"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MM6807/full/800,/0/default.jpg"
   },
   {
     "id": 200,
@@ -8408,7 +8408,7 @@ export const ARCHIVE = [
       "functional geometry",
       "workplace design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AB1583/full/800,/0/default.jpg"
   },
   {
     "id": 206,
@@ -8455,7 +8455,7 @@ export const ARCHIVE = [
       "natural curves",
       "cultural modernism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JL5230/full/800,/0/default.jpg"
   },
   {
     "id": 207,
@@ -8502,7 +8502,7 @@ export const ARCHIVE = [
       "invisible structure",
       "poetic functionalism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EP7890/full/800,/0/default.jpg"
   },
   {
     "id": 208,
@@ -8764,7 +8764,7 @@ export const ARCHIVE = [
       "cultural appropriation",
       "manufacturing translation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AP3540/full/800,/0/default.jpg"
   },
   {
     "id": 219,
@@ -8811,7 +8811,7 @@ export const ARCHIVE = [
       "integrated construction",
       "synthetic materials"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HH5485/full/800,/0/default.jpg"
   },
   {
     "id": 220,
@@ -8858,7 +8858,7 @@ export const ARCHIVE = [
       "lightweight design",
       "structural flexibility"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT1231/full/800,/0/default.jpg"
   },
   {
     "id": 221,
@@ -9370,7 +9370,7 @@ export const ARCHIVE = [
       "industrial modernism",
       "British design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FT6855/full/800,/0/default.jpg"
   },
   {
     "id": 232,
@@ -9417,7 +9417,7 @@ export const ARCHIVE = [
       "industrial construction",
       "furniture families"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8528/full/800,/0/default.jpg"
   },
   {
     "id": 233,
@@ -9464,7 +9464,7 @@ export const ARCHIVE = [
       "event furniture",
       "British optimism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0499/full/800,/0/default.jpg"
   },
   {
     "id": 234,
@@ -9511,7 +9511,7 @@ export const ARCHIVE = [
       "British furniture",
       "wood construction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX2325/full/800,/0/default.jpg"
   },
   {
     "id": 235,
@@ -9558,7 +9558,7 @@ export const ARCHIVE = [
       "British modernism",
       "wartime innovation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HN9586/full/800,/0/default.jpg"
   },
   {
     "id": 236,
@@ -9605,7 +9605,7 @@ export const ARCHIVE = [
       "material transition",
       "British modernism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JA4724/full/800,/0/default.jpg"
   },
   {
     "id": 237,
@@ -9652,7 +9652,7 @@ export const ARCHIVE = [
       "functional design",
       "British engineering"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EU0469/full/800,/0/default.jpg"
   },
   {
     "id": 238,
@@ -9699,7 +9699,7 @@ export const ARCHIVE = [
       "functional innovation",
       "British design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7441/full/800,/0/default.jpg"
   },
   {
     "id": 239,
@@ -9787,7 +9787,7 @@ export const ARCHIVE = [
       "domestic modernism",
       "commercial viability"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4109/full/800,/0/default.jpg"
   },
   {
     "id": 242,
@@ -9823,7 +9823,7 @@ export const ARCHIVE = [
       "systematic variation",
       "domestic function"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4087/full/800,/0/default.jpg"
   },
   {
     "id": 243,
@@ -9864,7 +9864,7 @@ export const ARCHIVE = [
       "cultural communication",
       "delicate line work"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4089/full/800,/0/default.jpg"
   },
   {
     "id": 244,
@@ -9905,7 +9905,7 @@ export const ARCHIVE = [
       "organic reference",
       "decorative meaning"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG4091/full/800,/0/default.jpg"
   },
   {
     "id": 245,
@@ -10370,7 +10370,7 @@ export const ARCHIVE = [
       "functional reduction",
       "material durability"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BB6092/full/800,/0/default.jpg"
   },
   {
     "id": 255,
@@ -10726,7 +10726,7 @@ export const ARCHIVE = [
       "British identity",
       "post-war optimism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK5149/full/800,/0/default.jpg"
   },
   {
     "id": 264,
@@ -11228,7 +11228,7 @@ export const ARCHIVE = [
       "Fuller's principles",
       "environmental poster"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3366/full/800,/0/default.jpg"
   },
   {
     "id": 276,
@@ -11312,7 +11312,7 @@ export const ARCHIVE = [
       "systematic design",
       "golden ratio"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NJ1575/full/800,/0/default.jpg"
   },
   {
     "id": 278,
@@ -11443,7 +11443,7 @@ export const ARCHIVE = [
       "political urgency",
       "DIY aesthetics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7145/full/800,/0/default.jpg"
   },
   {
     "id": 283,
@@ -11480,7 +11480,7 @@ export const ARCHIVE = [
       "grassroots communication",
       "handheld media"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB7140/full/800,/0/default.jpg"
   },
   {
     "id": 284,
@@ -11559,7 +11559,7 @@ export const ARCHIVE = [
       "movement branding",
       "activist appropriation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB8480/full/800,/0/default.jpg"
   },
   {
     "id": 286,
@@ -12098,7 +12098,7 @@ export const ARCHIVE = [
       "Czech democracy",
       "post-communist graphics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA2082/full/800,/0/default.jpg"
   },
   {
     "id": 301,
@@ -12145,7 +12145,7 @@ export const ARCHIVE = [
       "socialist realism",
       "diagonal composition"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU1419/full/800,/0/default.jpg"
   },
   {
     "id": 302,
@@ -12271,7 +12271,7 @@ export const ARCHIVE = [
       "industrial production",
       "medieval revival"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CA1427/full/800,/0/default.jpg"
   },
   {
     "id": 307,
@@ -12453,7 +12453,7 @@ export const ARCHIVE = [
       "material",
       "structure"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3291/full/800,/0/default.jpg"
   },
   {
     "id": 311,
@@ -12500,7 +12500,7 @@ export const ARCHIVE = [
       "circular",
       "waste"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NP2083/full/800,/0/default.jpg"
   },
   {
     "id": 312,
@@ -12735,7 +12735,7 @@ export const ARCHIVE = [
       "FDM printing",
       "manufacturing democracy"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GY2818/full/800,/0/default.jpg"
   },
   {
     "id": 317,
@@ -12960,7 +12960,7 @@ export const ARCHIVE = [
       "maker culture",
       "accessible technology"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH2453/full/800,/0/default.jpg"
   },
   {
     "id": 322,
@@ -13132,7 +13132,7 @@ export const ARCHIVE = [
       "community engagement",
       "unfinished surfaces"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8667/full/800,/0/default.jpg"
   },
   {
     "id": 327,
@@ -13173,7 +13173,7 @@ export const ARCHIVE = [
       "angular geometry",
       "ergonomic mathematics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7432/full/800,/0/default.jpg"
   },
   {
     "id": 328,
@@ -13260,7 +13260,7 @@ export const ARCHIVE = [
       "anti-industrial",
       "social architecture"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NW8672/full/800,/0/default.jpg"
   },
   {
     "id": 330,
@@ -13344,7 +13344,7 @@ export const ARCHIVE = [
       "micro-building",
       "spatial hierarchy"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU0674/full/800,/0/default.jpg"
   },
   {
     "id": 332,
@@ -13386,7 +13386,7 @@ export const ARCHIVE = [
       "anti-comfort",
       "manifesto objects"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3570/full/800,/0/default.jpg"
   },
   {
     "id": 333,
@@ -13569,7 +13569,7 @@ export const ARCHIVE = [
       "Italian design",
       "1967"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP3752/full/800,/0/default.jpg"
   },
   {
     "id": 337,
@@ -14528,7 +14528,7 @@ export const ARCHIVE = [
       "consumer electronics",
       "living room furniture"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE2380/full/800,/0/default.jpg"
   },
   {
     "id": 358,
@@ -14961,7 +14961,7 @@ export const ARCHIVE = [
       "American manufacturing",
       "workwear"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LJ7446/full/800,/0/default.jpg"
   },
   {
     "id": 368,
@@ -15144,7 +15144,7 @@ export const ARCHIVE = [
       "1920s avant-garde",
       "wearable art"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017KD2627/full/800,/0/default.jpg"
   },
   {
     "id": 372,
@@ -15191,7 +15191,7 @@ export const ARCHIVE = [
       "speculative design",
       "invisible function"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX5817/full/800,/0/default.jpg"
   },
   {
     "id": 373,
@@ -15238,7 +15238,7 @@ export const ARCHIVE = [
       "material precision",
       "narrative engineering"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PD8552/full/800,/0/default.jpg"
   },
   {
     "id": 374,
@@ -15822,7 +15822,7 @@ export const ARCHIVE = [
       "copper fabrication",
       "collective participation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC9730/full/800,/0/default.jpg"
   },
   {
     "id": 388,
@@ -15863,7 +15863,7 @@ export const ARCHIVE = [
       "contemporary craft",
       "unconventional seating"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NR3552/full/800,/0/default.jpg"
   },
   {
     "id": 389,
@@ -15947,7 +15947,7 @@ export const ARCHIVE = [
       "human-machine interface",
       "mass market"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JJ6274/full/800,/0/default.jpg"
   },
   {
     "id": 391,
@@ -16031,7 +16031,7 @@ export const ARCHIVE = [
       "revolutionary aesthetics",
       "mass production"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2021MW5308/full/800,/0/default.jpg"
   },
   {
     "id": 394,
@@ -16115,7 +16115,7 @@ export const ARCHIVE = [
       "decorative graphics",
       "erotic imagery"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AG2224/full/800,/0/default.jpg"
   },
   {
     "id": 396,
@@ -16157,7 +16157,7 @@ export const ARCHIVE = [
       "visual reduction",
       "mass communication"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3301/full/800,/0/default.jpg"
   },
   {
     "id": 397,
@@ -16251,7 +16251,7 @@ export const ARCHIVE = [
       "mass culture",
       "pictorial simplification"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4076/full/800,/0/default.jpg"
   },
   {
     "id": 399,
@@ -17474,7 +17474,7 @@ export const ARCHIVE = [
       "user flexibility",
       "industrial materials"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0095/full/800,/0/default.jpg"
   },
   {
     "id": 428,
@@ -17521,7 +17521,7 @@ export const ARCHIVE = [
       "structural geometry",
       "interactive design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LA4839/full/800,/0/default.jpg"
   },
   {
     "id": 429,
@@ -17568,7 +17568,7 @@ export const ARCHIVE = [
       "meaning concealment",
       "Factory Records"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM3541/full/800,/0/default.jpg"
   },
   {
     "id": 430,
@@ -17615,7 +17615,7 @@ export const ARCHIVE = [
       "post-punk",
       "technological aesthetic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2012FP0386/full/800,/0/default.jpg"
   },
   {
     "id": 431,
@@ -17751,7 +17751,7 @@ export const ARCHIVE = [
       "cultural translation",
       "pulsar"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW6759/full/800,/0/default.jpg"
   },
   {
     "id": 434,
@@ -17965,7 +17965,7 @@ export const ARCHIVE = [
       "subversion",
       "politics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024PB0204/full/800,/0/default.jpg"
   },
   {
     "id": 439,
@@ -18047,7 +18047,7 @@ export const ARCHIVE = [
       "museum",
       "activism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU3000/full/800,/0/default.jpg"
   },
   {
     "id": 441,
@@ -18083,7 +18083,7 @@ export const ARCHIVE = [
       "mimicry",
       "systemic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG2671/full/800,/0/default.jpg"
   },
   {
     "id": 442,
@@ -18339,7 +18339,7 @@ export const ARCHIVE = [
       "Olympics",
       "branding"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KW4361/full/800,/0/default.jpg"
   },
   {
     "id": 448,
@@ -18522,7 +18522,7 @@ export const ARCHIVE = [
       "design process",
       "wayfinding"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH1728/full/800,/0/default.jpg"
   },
   {
     "id": 452,
@@ -18611,7 +18611,7 @@ export const ARCHIVE = [
       "reduction",
       "woodworking"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF9883/full/800,/0/default.jpg"
   },
   {
     "id": 454,
@@ -18658,7 +18658,7 @@ export const ARCHIVE = [
       "Evans Products",
       "material innovation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF5942/full/800,/0/default.jpg"
   },
   {
     "id": 455,
@@ -18700,7 +18700,7 @@ export const ARCHIVE = [
       "workplace design",
       "functional modernism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AK3248/full/800,/0/default.jpg"
   },
   {
     "id": 456,
@@ -18746,7 +18746,7 @@ export const ARCHIVE = [
       "material reduction",
       "proportional system"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BH5994/full/800,/0/default.jpg"
   },
   {
     "id": 457,
@@ -18788,7 +18788,7 @@ export const ARCHIVE = [
       "modernist interiors",
       "cultural synthesis"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AJ8625/full/800,/0/default.jpg"
   },
   {
     "id": 458,
@@ -18835,7 +18835,7 @@ export const ARCHIVE = [
       "directional illumination",
       "organic abstraction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT8972/full/800,/0/default.jpg"
   },
   {
     "id": 459,
@@ -19170,7 +19170,7 @@ export const ARCHIVE = [
       "context shifting",
       "art object"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HC2720/full/800,/0/default.jpg"
   },
   {
     "id": 471,
@@ -19212,7 +19212,7 @@ export const ARCHIVE = [
       "light diffusion",
       "casual lighting"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY3458/full/800,/0/default.jpg"
   },
   {
     "id": 472,
@@ -19254,7 +19254,7 @@ export const ARCHIVE = [
       "postmodern furniture",
       "formal excess"
     ],
-    "imageUrl": "/images/472.jpg"
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7754/full/800,/0/default.jpg"
   },
   {
     "id": 474,
@@ -19338,7 +19338,7 @@ export const ARCHIVE = [
       "material grain",
       "seaside context"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0474/full/800,/0/default.jpg"
   },
   {
     "id": 476,
@@ -19380,7 +19380,7 @@ export const ARCHIVE = [
       "geometric purity",
       "material efficiency"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG5421/full/800,/0/default.jpg"
   },
   {
     "id": 477,
@@ -19422,7 +19422,7 @@ export const ARCHIVE = [
       "collective representation",
       "manufacturing precision"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BY2210/full/800,/0/default.jpg"
   },
   {
     "id": 478,
@@ -19711,7 +19711,7 @@ export const ARCHIVE = [
       "electronic domesticity",
       "visual weight"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022NE2380/full/800,/0/default.jpg"
   },
   {
     "id": 492,
@@ -19753,7 +19753,7 @@ export const ARCHIVE = [
       "etching",
       "expressionism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PL2998/full/800,/0/default.jpg"
   },
   {
     "id": 493,
@@ -19795,7 +19795,7 @@ export const ARCHIVE = [
       "playful modernism",
       "exposed construction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV7832/full/800,/0/default.jpg"
   },
   {
     "id": 494,
@@ -19837,7 +19837,7 @@ export const ARCHIVE = [
       "mobile computing",
       "glass technology"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY5819/full/800,/0/default.jpg"
   },
   {
     "id": 495,
@@ -19879,7 +19879,7 @@ export const ARCHIVE = [
       "radio frequency",
       "ergonomics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7295/full/800,/0/default.jpg"
   },
   {
     "id": 496,
@@ -19921,7 +19921,7 @@ export const ARCHIVE = [
       "material transparency",
       "emotional design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009BX8549/full/800,/0/default.jpg"
   },
   {
     "id": 497,
@@ -19963,7 +19963,7 @@ export const ARCHIVE = [
       "manufacturing constraints",
       "formal simplicity"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KP7952/full/800,/0/default.jpg"
   },
   {
     "id": 498,
@@ -20005,7 +20005,7 @@ export const ARCHIVE = [
       "formal purity",
       "constraint-driven design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HV4905/full/800,/0/default.jpg"
   },
   {
     "id": 499,
@@ -20047,7 +20047,7 @@ export const ARCHIVE = [
       "desktop dignity",
       "form communication"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3154/full/800,/0/default.jpg"
   },
   {
     "id": 500,
@@ -20089,7 +20089,7 @@ export const ARCHIVE = [
       "color field",
       "anti-institutional design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AW3414/full/800,/0/default.jpg"
   },
   {
     "id": 501,
@@ -20136,7 +20136,7 @@ export const ARCHIVE = [
       "brand communication",
       "typewriter"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN5204/full/800,/0/default.jpg"
   },
   {
     "id": 502,
@@ -20183,7 +20183,7 @@ export const ARCHIVE = [
       "functional concealment",
       "typing technology"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2007BR3155/full/800,/0/default.jpg"
   },
   {
     "id": 503,
@@ -20225,7 +20225,7 @@ export const ARCHIVE = [
       "text fragmentation",
       "visual poetry"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1219/full/800,/0/default.jpg"
   },
   {
     "id": 504,
@@ -20267,7 +20267,7 @@ export const ARCHIVE = [
       "mechanical meditation",
       "visual pattern"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1221/full/800,/0/default.jpg"
   },
   {
     "id": 505,
@@ -20356,7 +20356,7 @@ export const ARCHIVE = [
       "pattern making",
       "monospace typography"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2014GW1220/full/800,/0/default.jpg"
   },
   {
     "id": 507,
@@ -20398,7 +20398,7 @@ export const ARCHIVE = [
       "consumer electronics",
       "cultural behavior"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JW6316/full/800,/0/default.jpg"
   },
   {
     "id": 508,
@@ -20445,7 +20445,7 @@ export const ARCHIVE = [
       "technological maturity",
       "user experience"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019LJ7458/full/800,/0/default.jpg"
   },
   {
     "id": 509,
@@ -20487,7 +20487,7 @@ export const ARCHIVE = [
       "high visibility",
       "specialized functionality"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MB5413/full/800,/0/default.jpg"
   },
   {
     "id": 510,
@@ -20693,7 +20693,7 @@ export const ARCHIVE = [
       "ceramic glazing",
       "cultural authenticity"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV7556/full/800,/0/default.jpg"
   },
   {
     "id": 515,
@@ -20871,7 +20871,7 @@ export const ARCHIVE = [
       "lifestyle branding",
       "1980s retail"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BF4213/full/800,/0/default.jpg"
   },
   {
     "id": 519,
@@ -20955,7 +20955,7 @@ export const ARCHIVE = [
       "fluid geometry",
       "seamless construction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU0357/full/800,/0/default.jpg"
   },
   {
     "id": 521,
@@ -20997,7 +20997,7 @@ export const ARCHIVE = [
       "awards design",
       "Zaha Hadid"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018KP7509/full/800,/0/default.jpg"
   },
   {
     "id": 522,
@@ -21081,7 +21081,7 @@ export const ARCHIVE = [
       "iconographic reversal",
       "contemporary art"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LH3122/full/800,/0/default.jpg"
   },
   {
     "id": 524,
@@ -21123,7 +21123,7 @@ export const ARCHIVE = [
       "reconfigurable",
       "Italian design"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0095/full/800,/0/default.jpg"
   },
   {
     "id": 525,
@@ -21217,7 +21217,7 @@ export const ARCHIVE = [
       "plastic chair",
       "manufacturing logic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT2686/full/800,/0/default.jpg"
   },
   {
     "id": 527,
@@ -21343,7 +21343,7 @@ export const ARCHIVE = [
       "systematic design",
       "Bauhaus legacy"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AU8205/full/800,/0/default.jpg"
   },
   {
     "id": 530,
@@ -21390,7 +21390,7 @@ export const ARCHIVE = [
       "archetypal design",
       "geometric reduction"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM2939/full/800,/0/default.jpg"
   },
   {
     "id": 531,
@@ -21432,7 +21432,7 @@ export const ARCHIVE = [
       "frame separation",
       "architectural logic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7469/full/800,/0/default.jpg"
   },
   {
     "id": 532,
@@ -21474,7 +21474,7 @@ export const ARCHIVE = [
       "Italian manufacturing",
       "material exploitation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX9544/full/800,/0/default.jpg"
   },
   {
     "id": 533,
@@ -22043,7 +22043,7 @@ export const ARCHIVE = [
       "formal provocation",
       "seating typology"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BT7454/full/800,/0/default.jpg"
   },
   {
     "id": 546,
@@ -22084,7 +22084,7 @@ export const ARCHIVE = [
       "pre-Memphis",
       "functional critique"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2017JY9122/full/800,/0/default.jpg"
   },
   {
     "id": 547,
@@ -22331,7 +22331,7 @@ export const ARCHIVE = [
       "geometric precision",
       "industrial fashion"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NY0442/full/800,/0/default.jpg"
   },
   {
     "id": 553,
@@ -22373,7 +22373,7 @@ export const ARCHIVE = [
       "industrial craft",
       "digital fashion"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2020MT0802/full/800,/0/default.jpg"
   },
   {
     "id": 554,
@@ -22499,7 +22499,7 @@ export const ARCHIVE = [
       "radical design",
       "anti-consumption"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2015HU5804/full/800,/0/default.jpg"
   },
   {
     "id": 557,
@@ -22719,7 +22719,7 @@ export const ARCHIVE = [
       "public dignity",
       "critical regionalism"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AF2989/full/800,/0/default.jpg"
   },
   {
     "id": 563,
@@ -22761,7 +22761,7 @@ export const ARCHIVE = [
       "standardisation",
       "Britain 1940s"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011ER1992/full/800,/0/default.jpg"
   },
   {
     "id": 564,
@@ -22798,7 +22798,7 @@ export const ARCHIVE = [
       "material plasticity",
       "functional ambiguity"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2022ND6926/full/800,/0/default.jpg"
   },
   {
     "id": 565,
@@ -22840,7 +22840,7 @@ export const ARCHIVE = [
       "proportional relationships",
       "craft technique"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7559/full/800,/0/default.jpg"
   },
   {
     "id": 566,
@@ -22882,7 +22882,7 @@ export const ARCHIVE = [
       "functional questioning",
       "tool-like pottery"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CC4730/full/800,/0/default.jpg"
   },
   {
     "id": 567,
@@ -22924,7 +22924,7 @@ export const ARCHIVE = [
       "proportional system",
       "monumental pottery"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2008BR5237/full/800,/0/default.jpg"
   },
   {
     "id": 568,
@@ -22971,7 +22971,7 @@ export const ARCHIVE = [
       "proportional tension",
       "elevated form"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7550/full/800,/0/default.jpg"
   },
   {
     "id": 569,
@@ -23013,7 +23013,7 @@ export const ARCHIVE = [
       "material severity",
       "spatial marker"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AN7491/full/800,/0/default.jpg"
   },
   {
     "id": 570,
@@ -23055,7 +23055,7 @@ export const ARCHIVE = [
       "sculptural utility",
       "proportional logic"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MH3114/full/800,/0/default.jpg"
   },
   {
     "id": 571,
@@ -23097,7 +23097,7 @@ export const ARCHIVE = [
       "material resistance",
       "monumental silhouette"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EW8772/full/800,/0/default.jpg"
   },
   {
     "id": 572,
@@ -23180,7 +23180,7 @@ export const ARCHIVE = [
       "essential form",
       "throwing technique"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BA1146/full/800,/0/default.jpg"
   },
   {
     "id": 574,
@@ -23222,7 +23222,7 @@ export const ARCHIVE = [
       "handmade multiples",
       "architectural ceramics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CP8821/full/800,/0/default.jpg"
   },
   {
     "id": 575,
@@ -23264,7 +23264,7 @@ export const ARCHIVE = [
       "craft mastery",
       "functional ceramics"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AE5834/full/800,/0/default.jpg"
   },
   {
     "id": 576,
@@ -23311,7 +23311,7 @@ export const ARCHIVE = [
       "reduction",
       "craft revival"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006BA1205/full/800,/0/default.jpg"
   },
   {
     "id": 577,
@@ -23353,7 +23353,7 @@ export const ARCHIVE = [
       "cross-media practice",
       "decorative sensibility"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3891/full/800,/0/default.jpg"
   },
   {
     "id": 578,
@@ -23400,7 +23400,7 @@ export const ARCHIVE = [
       "masculinity",
       "class commentary"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2009CB0838/full/800,/0/default.jpg"
   },
   {
     "id": 579,
@@ -23447,7 +23447,7 @@ export const ARCHIVE = [
       "cultural geography",
       "narrative density"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY3897/full/800,/0/default.jpg"
   },
   {
     "id": 580,
@@ -23531,7 +23531,7 @@ export const ARCHIVE = [
       "history",
       "commemoration"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NP2462/full/800,/0/default.jpg"
   },
   {
     "id": 582,
@@ -23573,7 +23573,7 @@ export const ARCHIVE = [
       "surface",
       "innovation"
     ],
-    "imageUrl": ""
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2025PG1621/full/800,/0/default.jpg"
   },
   {
     "id": 583,
@@ -34784,7 +34784,7 @@ export const ARCHIVE = [
       "iFixit",
       "supply chain transparency"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG5987/full/735,/0/default.jpg",
     "connections": [
       {
         "id": 311,
@@ -35716,7 +35716,7 @@ export const ARCHIVE = [
       "platform",
       "finger joints"
     ],
-    "imageUrl": "",
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2016JG7864/full/735,/0/default.jpg",
     "connections": [
       {
         "id": 909,
