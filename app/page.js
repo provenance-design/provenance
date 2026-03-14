@@ -380,6 +380,25 @@ export default function Page() {
     );
   };
 
+  // ── FULL-SCREEN NETWORK MODE ──
+  if (view === 'connections') {
+    return (
+      <div style={{ width: '100vw', height: '100vh', overflow: 'hidden', background: '#1E2228' }}>
+        <NetworkCanvas onOpenItem={openItem} />
+        <button onClick={() => { setView('featured'); setSelectedItem(null); }} style={{
+          position: 'fixed', top: 20, left: 24, zIndex: 20, fontFamily: "'DM Sans', sans-serif",
+          fontSize: '10px', letterSpacing: '0.1em', textTransform: 'uppercase',
+          padding: '6px 14px', border: '1px solid #555', background: 'rgba(30,34,40,0.8)',
+          color: '#AAA', cursor: 'pointer', backdropFilter: 'blur(4px)',
+        }}>← Back</button>
+        <div style={{ position: 'fixed', top: 22, left: 120, zIndex: 20, display: 'flex', alignItems: 'baseline', gap: '10px', pointerEvents: 'none' }}>
+          <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: '20px', color: '#E8E4DC', letterSpacing: '-0.02em' }}>Provenance</span>
+          <span style={{ fontSize: '8px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8763C' }}>Network</span>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div style={{ minHeight: '100vh' }}>
       {/* HEADER */}
@@ -502,13 +521,6 @@ export default function Page() {
             </div>
           </div>
         ); })()}
-
-        {/* CONNECTION MAP — Interactive Network Visualiser */}
-        {view === 'connections' && (
-          <div style={{ margin: '-44px', width: 'calc(100% + 88px)' }}>
-            <NetworkCanvas onOpenItem={openItem} />
-          </div>
-        )}
 
         {/* ABOUT */}
         {view === 'about' && (
