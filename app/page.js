@@ -5,6 +5,31 @@ import { ARCHIVE, DISCIPLINES, CONNECTION_TYPES } from "./data/archive";
 const CONN_TYPES = Object.fromEntries(Object.entries(CONNECTION_TYPES).map(([k, v]) => [k, { ...v, icon: v.symbol }]));
 const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", Lighting: "#5B7065", Architecture: "#6B7B6F", Typography: "#7A8B7A", Textile: "#9B6B4A", Transport: "#5A7B8B", Ceramic: "#8B7355", Glass: "#6B8B7B", Metalwork: "#7B6B8B" };
 
+// Network visualiser colours (designed for dark canvas background)
+const DISC_COLORS = { Product:"#C4A882", Furniture:"#7BA68C", Graphic:"#8BA4B8", Lighting:"#C4B878", Architecture:"#A0887A", Typography:"#90A890", Textile:"#C49878", Transport:"#78A0B0", Ceramic:"#B0A080", Glass:"#80B0A0", Metalwork:"#A090B0" };
+const TYPE_COLORS = { argument:"#C47050", lineage:"#6BA080", material:"#80A870", sameProblem:"#7090A0", zeitgeist:"#908878", method:"#8A9A8A" };
+
+// Build graph data dynamically from ARCHIVE
+const GRAPH_DATA = (() => {
+  const idSet = new Set(ARCHIVE.map(e => e.id));
+  const connCounts = new Map();
+  ARCHIVE.forEach(e => {
+    const outgoing = e.connections ? e.connections.length : 0;
+    connCounts.set(e.id, (connCounts.get(e.id) || 0) + outgoing);
+    if (e.connections) e.connections.forEach(c => {
+      if (idSet.has(c.id)) connCounts.set(c.id, (connCounts.get(c.id) || 0) + 1);
+    });
+  });
+  const n = ARCHIVE.map(e => [e.id, e.title, e.discipline, connCounts.get(e.id) || 0, e.year, e.designer]);
+  const edges = [];
+  ARCHIVE.forEach(e => {
+    if (e.connections) e.connections.forEach(c => {
+      if (idSet.has(c.id)) edges.push([e.id, c.id, c.type]);
+    });
+  });
+  return { n, e: edges };
+})();
+
 function getConnection(id) { return ARCHIVE.find(item => item.id === id); }
 
 function ImageWithFallback({ item, aspectRatio = "4/3" }) {
@@ -46,6 +71,241 @@ function ImageWithFallback({ item, aspectRatio = "4/3" }) {
       <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, background: 'linear-gradient(transparent, rgba(0,0,0,0.45))', padding: '24px 16px 12px', color: '#fff' }}>
         <div style={{ fontSize: '10px', letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.85 }}>{item.discipline} · {item.year}</div>
       </div>
+    </div>
+  );
+}
+
+function NetworkCanvas({ onOpenItem }) {
+  const canvasRef = useRef(null);
+  const animRef = useRef(null);
+  const stateRef = useRef({
+    nodes: [], edges: [], adj: new Map(), nodeMap: new Map(),
+    tx: 0, ty: 0, scale: 1, dragging: false, dragX: 0, dragY: 0,
+    hovered: null, selected: null, simSteps: 0
+  });
+  const [panelNode, setPanelNode] = useState(null);
+
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    const W = canvas.parentElement.clientWidth;
+    const H = canvas.parentElement.clientHeight;
+    canvas.width = W; canvas.height = H;
+
+    const S = stateRef.current;
+    S.nodes = GRAPH_DATA.n.map(n => ({
+      id: n[0], t: n[1], disc: n[2], nc: n[3], y: n[4], designer: n[5] || '',
+      x: W/2 + (Math.random()-0.5)*W*0.7,
+      y: H/2 + (Math.random()-0.5)*H*0.7,
+      vx: 0, vy: 0
+    }));
+    S.nodeMap = new Map(S.nodes.map(n => [n.id, n]));
+    S.edges = GRAPH_DATA.e.filter(e => S.nodeMap.has(e[0]) && S.nodeMap.has(e[1])).map(e => ({
+      source: S.nodeMap.get(e[0]), target: S.nodeMap.get(e[1]), type: e[2]
+    }));
+    S.adj = new Map();
+    S.edges.forEach(e => {
+      const sid = e.source.id, tid = e.target.id;
+      if (!S.adj.has(sid)) S.adj.set(sid, []);
+      if (!S.adj.has(tid)) S.adj.set(tid, []);
+      S.adj.get(sid).push(tid);
+      S.adj.get(tid).push(sid);
+    });
+
+    function tick() {
+      const nodes = S.nodes, edges = S.edges;
+      for (const n of nodes) {
+        n.vx += (W/2 - n.x) * 0.0003;
+        n.vy += (H/2 - n.y) * 0.0003;
+      }
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i+1; j < nodes.length; j++) {
+          const a = nodes[i], b = nodes[j];
+          let dx = b.x-a.x, dy = b.y-a.y;
+          let dist = Math.sqrt(dx*dx+dy*dy) || 1;
+          if (dist > 250) continue;
+          const f = -12/(dist*dist);
+          const fx = dx/dist*f, fy = dy/dist*f;
+          a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
+        }
+      }
+      for (const e of edges) {
+        const dx = e.target.x-e.source.x, dy = e.target.y-e.source.y;
+        const dist = Math.sqrt(dx*dx+dy*dy) || 1;
+        const f = (dist-55)*0.003;
+        const fx = dx/dist*f, fy = dy/dist*f;
+        e.source.vx += fx; e.source.vy += fy;
+        e.target.vx -= fx; e.target.vy -= fy;
+      }
+      for (const n of nodes) {
+        n.vx *= 0.85; n.vy *= 0.85;
+        n.x += n.vx; n.y += n.vy;
+      }
+    }
+
+    function draw() {
+      const W = canvas.width, H = canvas.height;
+      ctx.clearRect(0, 0, W, H);
+      ctx.fillStyle = '#1E2228'; ctx.fillRect(0, 0, W, H);
+      ctx.save();
+      ctx.translate(S.tx, S.ty); ctx.scale(S.scale, S.scale);
+
+      const activeId = (S.selected || S.hovered)?.id;
+      const nb = activeId ? new Set(S.adj.get(activeId) || []) : null;
+
+      for (const e of S.edges) {
+        const sid = e.source.id, tid = e.target.id;
+        const isActive = activeId && (sid === activeId || tid === activeId);
+        if (activeId && !isActive) { ctx.globalAlpha = 0.02; ctx.strokeStyle = '#444'; }
+        else if (isActive) { ctx.globalAlpha = 0.65; ctx.strokeStyle = TYPE_COLORS[e.type] || '#888'; }
+        else { ctx.globalAlpha = 0.07; ctx.strokeStyle = '#667'; }
+        ctx.lineWidth = isActive ? 1.5 : 0.4;
+        ctx.beginPath(); ctx.moveTo(e.source.x, e.source.y);
+        ctx.lineTo(e.target.x, e.target.y); ctx.stroke();
+      }
+
+      for (const n of S.nodes) {
+        const r = Math.sqrt(n.nc)*2.5+3;
+        const isActive = n.id === activeId;
+        const isNb = nb?.has(n.id);
+        const dimmed = activeId && !isActive && !isNb;
+        ctx.globalAlpha = dimmed ? 0.06 : isActive ? 1 : isNb ? 0.85 : 0.5;
+        ctx.fillStyle = DISC_COLORS[n.disc] || '#999';
+        ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, Math.PI*2); ctx.fill();
+        if (isActive) {
+          ctx.globalAlpha = 0.35; ctx.strokeStyle = '#fff'; ctx.lineWidth = 2; ctx.stroke();
+          ctx.globalAlpha = 0.12; ctx.beginPath(); ctx.arc(n.x, n.y, r+8, 0, Math.PI*2); ctx.fill();
+        }
+        if ((r > 7 && S.scale > 0.5) || isActive || isNb) {
+          ctx.globalAlpha = dimmed ? 0.04 : isActive ? 1 : isNb ? 0.65 : 0.25;
+          ctx.fillStyle = '#E8E4DC';
+          ctx.font = (isActive ? 11 : 9) + 'px -apple-system, sans-serif';
+          ctx.textAlign = 'center';
+          ctx.fillText(n.t.slice(0, 28), n.x, n.y - r - 4);
+        }
+      }
+      ctx.restore(); ctx.globalAlpha = 1;
+    }
+
+    function simulate() {
+      if (S.simSteps < 400) {
+        for (let i = 0; i < 3; i++) tick();
+        S.simSteps++;
+        draw();
+        animRef.current = requestAnimationFrame(simulate);
+      }
+    }
+    simulate();
+
+    const onWheel = (e) => {
+      e.preventDefault();
+      const factor = e.deltaY > 0 ? 0.92 : 1.08;
+      const ns = Math.max(0.15, Math.min(6, S.scale * factor));
+      S.tx = e.offsetX - (e.offsetX - S.tx) * ns / S.scale;
+      S.ty = e.offsetY - (e.offsetY - S.ty) * ns / S.scale;
+      S.scale = ns; draw();
+    };
+    const onDown = (e) => { S.dragging = true; S.dragX = e.offsetX; S.dragY = e.offsetY; };
+    const onMove = (e) => {
+      if (S.dragging) {
+        S.tx += e.offsetX - S.dragX; S.ty += e.offsetY - S.dragY;
+        S.dragX = e.offsetX; S.dragY = e.offsetY; draw();
+      } else {
+        const mx = (e.offsetX - S.tx)/S.scale, my = (e.offsetY - S.ty)/S.scale;
+        let best = null, bestD = 25/S.scale;
+        for (const n of S.nodes) {
+          const dist = Math.sqrt((n.x-mx)**2 + (n.y-my)**2);
+          if (dist < bestD) { best = n; bestD = dist; }
+        }
+        if (best !== S.hovered) { S.hovered = best; draw(); setPanelNode(S.selected || best); }
+        canvas.style.cursor = best ? 'pointer' : 'grab';
+      }
+    };
+    const onUp = () => { S.dragging = false; };
+    const onClick = (e) => {
+      const mx = (e.offsetX - S.tx)/S.scale, my = (e.offsetY - S.ty)/S.scale;
+      let best = null, bestD = 25/S.scale;
+      for (const n of S.nodes) {
+        const dist = Math.sqrt((n.x-mx)**2 + (n.y-my)**2);
+        if (dist < bestD) { best = n; bestD = dist; }
+      }
+      S.selected = (S.selected?.id === best?.id) ? null : best;
+      draw(); setPanelNode(S.selected);
+    };
+
+    canvas.addEventListener('wheel', onWheel, { passive: false });
+    canvas.addEventListener('mousedown', onDown);
+    canvas.addEventListener('mousemove', onMove);
+    canvas.addEventListener('mouseup', onUp);
+    canvas.addEventListener('click', onClick);
+
+    const onResize = () => {
+      canvas.width = canvas.parentElement.clientWidth;
+      canvas.height = canvas.parentElement.clientHeight;
+      draw();
+    };
+    window.addEventListener('resize', onResize);
+
+    return () => {
+      if (animRef.current) cancelAnimationFrame(animRef.current);
+      canvas.removeEventListener('wheel', onWheel);
+      canvas.removeEventListener('mousedown', onDown);
+      canvas.removeEventListener('mousemove', onMove);
+      canvas.removeEventListener('mouseup', onUp);
+      canvas.removeEventListener('click', onClick);
+      window.removeEventListener('resize', onResize);
+    };
+  }, []);
+
+  const S = stateRef.current;
+  const neighbors = panelNode ? (S.adj.get(panelNode.id) || []).map(id => S.nodeMap.get(id)).filter(Boolean) : [];
+
+  return (
+    <div style={{ position: 'relative', width: '100%', height: '100vh', background: '#1E2228', overflow: 'hidden' }}>
+      <canvas ref={canvasRef} style={{ display: 'block', width: '100%', height: '100%' }} />
+
+      <div style={{ position: 'absolute', top: 16, left: 20, pointerEvents: 'none' }}>
+        <div style={{ fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#666', marginTop: '36px' }}>
+          {S.nodes.length} objects · {S.edges.length} connections
+        </div>
+      </div>
+
+      <div style={{ position: 'absolute', bottom: 16, left: 20, pointerEvents: 'none' }}>
+        <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap', maxWidth: '500px' }}>
+          {Object.entries(DISC_COLORS).filter(([k]) => S.nodes.some(n => n.disc === k)).map(([d, c]) => (
+            <span key={d} style={{ fontSize: '8px', color: '#666', display: 'flex', alignItems: 'center', gap: '4px' }}>
+              <span style={{ width: 7, height: 7, borderRadius: '50%', background: c, opacity: 0.7, display: 'inline-block' }} />{d}
+            </span>
+          ))}
+        </div>
+      </div>
+
+      {!panelNode && (
+        <div style={{ position: 'absolute', bottom: 16, right: 20, pointerEvents: 'none', fontSize: '10px', color: '#555', textAlign: 'right', lineHeight: 1.8 }}>
+          Scroll to zoom · Drag to pan · Hover to explore · Click to select
+        </div>
+      )}
+
+      {panelNode && (
+        <div style={{ position: 'absolute', top: 16, right: 20, width: 260, background: 'rgba(30,34,40,0.92)', border: '1px solid #333', padding: '14px', backdropFilter: 'blur(8px)' }}>
+          <div style={{ fontSize: '9px', letterSpacing: '0.12em', textTransform: 'uppercase', color: DISC_COLORS[panelNode.disc], fontWeight: 600, marginBottom: '5px' }}>{panelNode.disc} · {panelNode.y}</div>
+          <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: '17px', color: '#E8E4DC', lineHeight: 1.2, marginBottom: '4px' }}>{panelNode.t}</div>
+          <div style={{ fontSize: '11px', color: '#999', marginBottom: '6px' }}>{panelNode.designer}</div>
+          <div style={{ fontSize: '10px', color: '#888', marginBottom: '6px' }}>{panelNode.nc} outgoing · {neighbors.length} total links</div>
+          <span onClick={() => { const item = ARCHIVE.find(i => i.id === panelNode.id); if (item && onOpenItem) onOpenItem(item); }}
+            style={{ fontSize: '9px', letterSpacing: '0.1em', textTransform: 'uppercase', color: '#6BA080', cursor: 'pointer', display: 'block', marginBottom: '10px' }}>View entry →</span>
+          <div style={{ fontSize: '9px', letterSpacing: '0.12em', textTransform: 'uppercase', color: '#666', marginBottom: '5px' }}>Connected to</div>
+          <div style={{ maxHeight: 200, overflow: 'auto' }}>
+            {neighbors.slice(0, 18).map(n => (
+              <div key={n.id} style={{ fontSize: '11px', color: '#AAA', padding: '2px 0', borderBottom: '1px solid #2A2E34', cursor: 'pointer' }}
+                onClick={() => { S.selected = n; setPanelNode(n); }}>
+                <span style={{ color: DISC_COLORS[n.disc], marginRight: '5px', fontSize: '8px' }}>●</span>{n.t}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
@@ -243,47 +503,10 @@ export default function Page() {
           </div>
         ); })()}
 
-        {/* CONNECTION MAP */}
+        {/* CONNECTION MAP — Interactive Network Visualiser */}
         {view === 'connections' && (
-          <div>
-            <div style={{ marginBottom: '32px' }}>
-              <h2 style={{ fontFamily: "'DM Serif Display', serif", fontSize: '26px', fontWeight: 400, marginBottom: '12px' }}>Connection Map</h2>
-              <p style={{ fontSize: '14px', color: '#888', lineHeight: 1.6, maxWidth: '600px' }}>
-                Every entry in Provenance connects to others through argued relationships — not just &quot;these look similar&quot; but &quot;these are in dialogue because one answers the other.&quot; Filter by connection type to trace specific threads through the archive.
-              </p>
-            </div>
-            <div style={{ display: 'flex', gap: '8px', marginBottom: '32px', flexWrap: 'wrap' }}>
-              {Object.entries(CONN_TYPES).map(([key, ct]) => (
-                <div key={key} style={{ padding: '12px 16px', background: '#FDFCF8', border: '1px solid #EBE8E0', flex: '1', minWidth: '150px' }}>
-                  <div style={{ fontSize: '16px', marginBottom: '4px' }}>{ct.icon}</div>
-                  <div style={{ fontSize: '11px', fontWeight: 500, letterSpacing: '0.08em', textTransform: 'uppercase', color: ct.color, marginBottom: '4px' }}>{ct.label}</div>
-                  <div style={{ fontSize: '11px', color: '#AAA', lineHeight: 1.45 }}>{ct.description}</div>
-                </div>
-              ))}
-            </div>
-            <div style={{ display: 'grid', gap: '2px', background: '#E4E0D8' }}>
-              {ARCHIVE.map(item => (
-                <div key={item.id} style={{ background: '#FDFCF8', padding: '20px 24px' }}>
-                  <div style={{ display: 'flex', alignItems: 'baseline', gap: '16px', marginBottom: '12px', flexWrap: 'wrap' }}>
-                    <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: '18px', cursor: 'pointer' }} onClick={() => openItem(item)}>{item.title}</span>
-                    <span style={{ fontSize: '12px', color: '#BBB' }}>{item.designer.split('&')[0].trim()}, {item.year}</span>
-                    <span style={{ fontSize: '9px', letterSpacing: '0.12em', textTransform: 'uppercase', color: PALETTE[item.discipline], fontWeight: 500 }}>{item.discipline}</span>
-                  </div>
-                  <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                    {item.connections.map((conn, idx) => {
-                      const target = getConnection(conn.id);
-                      const ct = CONN_TYPES[conn.type];
-                      if (!target) return null;
-                      return (
-                        <span key={idx} onClick={() => openItem(target)} style={{ fontSize: '11px', padding: '3px 10px', background: '#F0EDE8', color: '#666', cursor: 'pointer', borderLeft: `2px solid ${ct.color}`, lineHeight: 1.4 }}>
-                          {ct.icon} {target.title}
-                        </span>
-                      );
-                    })}
-                  </div>
-                </div>
-              ))}
-            </div>
+          <div style={{ margin: '-44px', width: 'calc(100% + 88px)' }}>
+            <NetworkCanvas onOpenItem={openItem} />
           </div>
         )}
 
