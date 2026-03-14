@@ -23959,7 +23959,7 @@ export const ARCHIVE = [
       "ready-made"
     ],
     "id": 590,
-    "imageUrl": "/images/590.jpg"
+    "imageUrl": ""
   },
   {
     "title": "Bookworm Shelf",
@@ -31834,7 +31834,7 @@ export const ARCHIVE = [
       "brutal",
       "Danny Lane"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/783.jpg"
   },
   {
     "id": 784,
@@ -32121,7 +32121,7 @@ export const ARCHIVE = [
       "structural textile",
       "Peter Collingwood"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/790.jpg"
   },
   {
     "id": 791,
