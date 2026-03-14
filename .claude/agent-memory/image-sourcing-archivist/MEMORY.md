@@ -45,5 +45,19 @@
 - Google Design (design.google): good Material Design editorial images on Google Storage CDN
 - OpenDesk (opendesk.cc): product images on Cloudinary CDN, photographer Peter Gunzel credited
 
+## Verified Canonical Furniture Images (March 2026 batch)
+- Red Blue Chair (Rietveld): V&A CIRC.367-1970, image `2006AA6419` -- VERIFIED correct object
+- GJ Chair (Grete Jalk): V&A W.26-2016, image `2016JK8372` -- VERIFIED correct object
+- Arabesque Table (Mollino): V&A W.7-1985, image `2006AV4613` -- VERIFIED correct object
+- Prouve Chair No. 300: V&A W.3-1991, image `2006BD0048` -- VERIFIED (Standard family, 1948 original)
+- Bowl Chair (Bo Bardi): MoMA 135.2016 -- no direct image URL (MoMA blocks scraping, needs manual download)
+
+## Institutional Access Notes
+- MoMA: blocks automated fetching (403). Collection pages require manual visit. Image rights via Art Resource (North America) / Scala Archives (international).
+- V&A framemark: up to 735px free for non-commercial; higher res via vaimages@vam.ac.uk
+- Vitra.com: product images on static.vitra.com CDN, good quality but shows reissues not originals
+- Arper: bardisbowlchair.arper.com has Bowl Chair images but no photographer credit; shows reissue
+- Met: Grete Jalk lounge chair (2001.125) has NO image in their database
+
 ## See Also
 - [source-urls.md](source-urls.md) — verified image URLs from test run
