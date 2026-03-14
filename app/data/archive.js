@@ -19254,7 +19254,7 @@ export const ARCHIVE = [
       "postmodern furniture",
       "formal excess"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/472.jpg"
   },
   {
     "id": 474,
@@ -35111,7 +35111,7 @@ export const ARCHIVE = [
       "bio-design",
       "post-human"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/914.jpg",
     "connections": [
       {
         "id": 602,
@@ -35622,7 +35622,7 @@ export const ARCHIVE = [
       "curation",
       "post-internet"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/925.jpg",
     "connections": [
       {
         "id": 910,
@@ -36085,7 +36085,7 @@ export const ARCHIVE = [
       "saz style",
       "earthenware"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/936.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36126,7 +36126,7 @@ export const ARCHIVE = [
       "Kashan",
       "figurative decoration"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/937.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36167,7 +36167,7 @@ export const ARCHIVE = [
       "factory ceramics",
       "structural colour"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/938.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36208,7 +36208,7 @@ export const ARCHIVE = [
       "bas-relief",
       "reproduction"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/939.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36249,7 +36249,7 @@ export const ARCHIVE = [
       "sculptural ceramic",
       "Kändler"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/940.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36290,7 +36290,7 @@ export const ARCHIVE = [
       "painted reserves",
       "Sèvres"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/941.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36331,7 +36331,7 @@ export const ARCHIVE = [
       "Japanese ceramics",
       "Kenzan"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/942.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36372,7 +36372,7 @@ export const ARCHIVE = [
       "vernacular craft",
       "Korean ceramics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/943.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36495,7 +36495,7 @@ export const ARCHIVE = [
       "low-fire",
       "Japanese ceramics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/946.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36536,7 +36536,7 @@ export const ARCHIVE = [
       "iron batch",
       "sculpture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/947.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36577,7 +36577,7 @@ export const ARCHIVE = [
       "memory",
       "Dutch studio ceramics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/948.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36618,7 +36618,7 @@ export const ARCHIVE = [
       "post-war modernism",
       "autonomous form"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/949.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36659,7 +36659,7 @@ export const ARCHIVE = [
       "studio glass",
       "contemporary craft"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/950.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36700,7 +36700,7 @@ export const ARCHIVE = [
       "heat-resistant glass",
       "Sutnar"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/951.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36741,7 +36741,7 @@ export const ARCHIVE = [
       "Nový Bor",
       "glass sculpture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/952.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36864,7 +36864,7 @@ export const ARCHIVE = [
       "Driade",
       "craft combination"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/955.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36905,7 +36905,7 @@ export const ARCHIVE = [
       "post-communism",
       "Václav Havel"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/956.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36946,7 +36946,7 @@ export const ARCHIVE = [
       "Fatra",
       "flexible form"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/957.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -36987,7 +36987,7 @@ export const ARCHIVE = [
       "unique production",
       "Polish design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/958.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37028,7 +37028,7 @@ export const ARCHIVE = [
       "post-war furniture",
       "parallel invention"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/959.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37110,7 +37110,7 @@ export const ARCHIVE = [
       "post-war modernism",
       "ergonomics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/961.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37192,7 +37192,7 @@ export const ARCHIVE = [
       "Slovenian design",
       "post-war modernism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/963.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37233,7 +37233,7 @@ export const ARCHIVE = [
       "enclosure",
       "DDR design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/964.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37315,7 +37315,7 @@ export const ARCHIVE = [
       "Hellerau",
       "seminar furniture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/966.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37397,7 +37397,7 @@ export const ARCHIVE = [
       "Leningrad",
       "institutional constraint"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/968.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37438,7 +37438,7 @@ export const ARCHIVE = [
       "Hall China",
       "mass production"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/969.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37479,7 +37479,7 @@ export const ARCHIVE = [
       "Hungary",
       "surface operation"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/970.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37520,7 +37520,7 @@ export const ARCHIVE = [
       "industrial frame",
       "state manufacture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/971.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37597,7 +37597,7 @@ export const ARCHIVE = [
       "floor lamp",
       "adjustable"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/973.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37638,7 +37638,7 @@ export const ARCHIVE = [
       "functionalism",
       "adjustable shade"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/974.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37679,7 +37679,7 @@ export const ARCHIVE = [
       "branching structure",
       "flamework"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/975.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37720,7 +37720,7 @@ export const ARCHIVE = [
       "adjustable",
       "postmodernism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/976.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37761,7 +37761,7 @@ export const ARCHIVE = [
       "concealed controls",
       "Plus Minus Zero"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/977.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37802,7 +37802,7 @@ export const ARCHIVE = [
       "craft production",
       "haptic design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/978.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37838,7 +37838,7 @@ export const ARCHIVE = [
       "gesture interface",
       "human factors"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/979.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37879,7 +37879,7 @@ export const ARCHIVE = [
       "time-based design",
       "unique"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/980.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37920,7 +37920,7 @@ export const ARCHIVE = [
       "no skeleton",
       "tactile"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/981.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -37961,7 +37961,7 @@ export const ARCHIVE = [
       "dynamic form",
       "nendo"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/982.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38002,7 +38002,7 @@ export const ARCHIVE = [
       "structural limit",
       "nendo"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/983.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38043,7 +38043,7 @@ export const ARCHIVE = [
       "Korean design",
       "craft process"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/984.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38084,7 +38084,7 @@ export const ARCHIVE = [
       "jewellery-scale",
       "metalsmithing"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/985.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38125,7 +38125,7 @@ export const ARCHIVE = [
       "piano gloss",
       "Samsung"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/986.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38161,7 +38161,7 @@ export const ARCHIVE = [
       "top-opening",
       "12V DC"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/987.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38197,7 +38197,7 @@ export const ARCHIVE = [
       "flush bezel",
       "Titan"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/988.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38233,7 +38233,7 @@ export const ARCHIVE = [
       "structural weave",
       "abaca"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/989.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38274,7 +38274,7 @@ export const ARCHIVE = [
       "low bench",
       "sustainability"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/990.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38310,7 +38310,7 @@ export const ARCHIVE = [
       "lounge chair",
       "craft integration"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/991.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38351,7 +38351,7 @@ export const ARCHIVE = [
       "Thailand",
       "Propaganda"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/992.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38392,7 +38392,7 @@ export const ARCHIVE = [
       "conceptual design",
       "wit"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/993.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38428,7 +38428,7 @@ export const ARCHIVE = [
       "pendant lamp",
       "ambient light"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/994.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38469,7 +38469,7 @@ export const ARCHIVE = [
       "Chinese design",
       "lounge chair"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/995.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38510,7 +38510,7 @@ export const ARCHIVE = [
       "sofa",
       "traditional technique"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/996.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38546,7 +38546,7 @@ export const ARCHIVE = [
       "provocation",
       "RCA"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/997.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38587,7 +38587,7 @@ export const ARCHIVE = [
       "bio-battery",
       "provocation"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/998.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38628,7 +38628,7 @@ export const ARCHIVE = [
       "provocation",
       "RCA"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/999.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38668,7 +38668,7 @@ export const ARCHIVE = [
       "post-anthropocene",
       "design fiction"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1000.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38714,7 +38714,7 @@ export const ARCHIVE = [
       "speculative design",
       "IoT"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1001.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38755,7 +38755,7 @@ export const ARCHIVE = [
       "design ethics",
       "bio art"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1002.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38796,7 +38796,7 @@ export const ARCHIVE = [
       "living materials",
       "fungal growth"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1003.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38837,7 +38837,7 @@ export const ARCHIVE = [
       "Stratasys",
       "interplanetary design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1004.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38878,7 +38878,7 @@ export const ARCHIVE = [
       "graded materials",
       "biological data"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1005.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38919,7 +38919,7 @@ export const ARCHIVE = [
       "structural paper",
       "A-frame"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1006.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -38960,7 +38960,7 @@ export const ARCHIVE = [
       "optical material",
       "spatial experience"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1007.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39001,7 +39001,7 @@ export const ARCHIVE = [
       "Japanese design",
       "structural limit"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1008.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39042,7 +39042,7 @@ export const ARCHIVE = [
       "advertising",
       "restraint"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1009.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39083,7 +39083,7 @@ export const ARCHIVE = [
       "Japanese graphic design",
       "visual coherence"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1010.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39124,7 +39124,7 @@ export const ARCHIVE = [
       "émigré design",
       "tropical modernism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1011.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39165,7 +39165,7 @@ export const ARCHIVE = [
       "mortise and tenon",
       "Sergio Rodrigues"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1012.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39206,7 +39206,7 @@ export const ARCHIVE = [
       "repair",
       "agricultural material"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1013.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39247,7 +39247,7 @@ export const ARCHIVE = [
       "Pirwi",
       "leather panel"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1014.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39288,7 +39288,7 @@ export const ARCHIVE = [
       "motion design",
       "studio furniture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1015.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39329,7 +39329,7 @@ export const ARCHIVE = [
       "Latin American design",
       "tendril"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1016.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39370,7 +39370,7 @@ export const ARCHIVE = [
       "monolithic",
       "Tacchini"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1017.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39411,7 +39411,7 @@ export const ARCHIVE = [
       "ClassiCon",
       "material process"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1018.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39452,7 +39452,7 @@ export const ARCHIVE = [
       "geometric",
       "Brazilian design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1019.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39493,7 +39493,7 @@ export const ARCHIVE = [
       "post-craft",
       "critical design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1020.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39534,7 +39534,7 @@ export const ARCHIVE = [
       "self-supporting structure",
       "tension"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1021.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39575,7 +39575,7 @@ export const ARCHIVE = [
       "West African design",
       "industrial process"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1022.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39616,7 +39616,7 @@ export const ARCHIVE = [
       "Nigerian design",
       "studio furniture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1023.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39658,7 +39658,7 @@ export const ARCHIVE = [
       "El Anatsui",
       "Nigeria"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1024.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39699,7 +39699,7 @@ export const ARCHIVE = [
       "hanging chair",
       "South African craft"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1025.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39740,7 +39740,7 @@ export const ARCHIVE = [
       "structural ornament",
       "bookshelf"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1026.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39781,7 +39781,7 @@ export const ARCHIVE = [
       "carving",
       "Nigerian design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1027.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39822,7 +39822,7 @@ export const ARCHIVE = [
       "botanical form",
       "South African craft"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1028.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39863,7 +39863,7 @@ export const ARCHIVE = [
       "geometric pattern",
       "cultural encoding"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1029.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39904,7 +39904,7 @@ export const ARCHIVE = [
       "Colombia",
       "craft-industrial hybrid"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1030.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39945,7 +39945,7 @@ export const ARCHIVE = [
       "royal textile",
       "velvet weave"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1031.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -39984,7 +39984,7 @@ export const ARCHIVE = [
       "gradient pattern",
       "circular materials"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1032.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40023,7 +40023,7 @@ export const ARCHIVE = [
       "social furniture",
       "hardwood joinery"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1033.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40062,7 +40062,7 @@ export const ARCHIVE = [
       "thermoplastic",
       "cultural reference"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1034.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40101,7 +40101,7 @@ export const ARCHIVE = [
       "material contrast",
       "vernacular modernism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1035.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40140,7 +40140,7 @@ export const ARCHIVE = [
       "contract furniture",
       "powder-coat"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1036.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40179,7 +40179,7 @@ export const ARCHIVE = [
       "Mexican craft",
       "coloured glass"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1037.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40218,7 +40218,7 @@ export const ARCHIVE = [
       "Cerrado hardwood",
       "monolithic form"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1038.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40257,7 +40257,7 @@ export const ARCHIVE = [
       "modernism",
       "indigenous form"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1039.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40296,7 +40296,7 @@ export const ARCHIVE = [
       "artisan production",
       "vernacular joinery"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1040.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40335,7 +40335,7 @@ export const ARCHIVE = [
       "industrial offcuts",
       "maker culture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1041.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40374,7 +40374,7 @@ export const ARCHIVE = [
       "informal economy",
       "assemblage furniture"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1042.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40413,7 +40413,7 @@ export const ARCHIVE = [
       "Sahel material",
       "austerity form"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1043.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40452,7 +40452,7 @@ export const ARCHIVE = [
       "precision manufacture",
       "Leitz optics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1044.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40491,7 +40491,7 @@ export const ARCHIVE = [
       "stacked components",
       "contextual range"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1045.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40530,7 +40530,7 @@ export const ARCHIVE = [
       "children's toy",
       "system logic"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1046.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40569,7 +40569,7 @@ export const ARCHIVE = [
       "cylindrical form",
       "Compasso d'Oro"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1047.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40608,7 +40608,7 @@ export const ARCHIVE = [
       "replaceable parts",
       "repairability"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1048.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40647,7 +40647,7 @@ export const ARCHIVE = [
       "touch-sensitive",
       "hi-fi electronics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1049.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40686,7 +40686,7 @@ export const ARCHIVE = [
       "pocket radio",
       "Braun functionalism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1050.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40764,7 +40764,7 @@ export const ARCHIVE = [
       "system logic",
       "interlocking tolerance"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1052.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40803,7 +40803,7 @@ export const ARCHIVE = [
       "tubular steel",
       "space economy"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1053.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40842,7 +40842,7 @@ export const ARCHIVE = [
       "powder-coat",
       "structural fold"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1054.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40881,7 +40881,7 @@ export const ARCHIVE = [
       "polyamide handle",
       "Alessi collection"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1055.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40920,7 +40920,7 @@ export const ARCHIVE = [
       "director's desk",
       "Ateliers Prouvé"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1056.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40959,7 +40959,7 @@ export const ARCHIVE = [
       "figure-of-eight",
       "body-enveloping"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1057.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -40998,7 +40998,7 @@ export const ARCHIVE = [
       "enamel finish",
       "institutional design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1058.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41037,7 +41037,7 @@ export const ARCHIVE = [
       "asymmetric shelving",
       "Japanese influence"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1059.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41076,7 +41076,7 @@ export const ARCHIVE = [
       "clip assembly",
       "Danish minimalism"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1060.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41115,7 +41115,7 @@ export const ARCHIVE = [
       "daybed",
       "orthogonal precision"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1061.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41154,7 +41154,7 @@ export const ARCHIVE = [
       "academic furniture",
       "task chair"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1062.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41193,7 +41193,7 @@ export const ARCHIVE = [
       "woven shell",
       "enclosure"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1063.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41233,7 +41233,7 @@ export const ARCHIVE = [
       "gendered design",
       "Moroso"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1064.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41278,7 +41278,7 @@ export const ARCHIVE = [
       "rush seat",
       "BD Barcelona"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1065.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41318,7 +41318,7 @@ export const ARCHIVE = [
       "social democratic design",
       "FDB Møbler"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1066.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41363,7 +41363,7 @@ export const ARCHIVE = [
       "stacking chair",
       "two-position"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1067.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41403,7 +41403,7 @@ export const ARCHIVE = [
       "growth algorithm",
       "injection moulding"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1068.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41443,7 +41443,7 @@ export const ARCHIVE = [
       "chandelier",
       "E14 bulb"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1069.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41488,7 +41488,7 @@ export const ARCHIVE = [
       "monochrome",
       "Louis Poulsen"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1070.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41528,7 +41528,7 @@ export const ARCHIVE = [
       "SAS Royal Hotel",
       "Louis Poulsen"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1071.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41568,7 +41568,7 @@ export const ARCHIVE = [
       "tactile control",
       "Artemide"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1072.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41608,7 +41608,7 @@ export const ARCHIVE = [
       "ambient light",
       "Artek"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1073.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41648,7 +41648,7 @@ export const ARCHIVE = [
       "hospital design",
       "reflector shade"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1074.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41688,7 +41688,7 @@ export const ARCHIVE = [
       "aerospace materials",
       "Foscarini"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1075.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41728,7 +41728,7 @@ export const ARCHIVE = [
       "Memphis aesthetic",
       "Memphis Milano"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1076.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41768,7 +41768,7 @@ export const ARCHIVE = [
       "spherical geometry",
       "Foscarini"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1077.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41808,7 +41808,7 @@ export const ARCHIVE = [
       "layered shades",
       "Louis Poulsen"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1078.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41888,7 +41888,7 @@ export const ARCHIVE = [
       "Delhi garment industry",
       "upcycling"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1080.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41928,7 +41928,7 @@ export const ARCHIVE = [
       "shadow casting",
       "studio production"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1081.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -41968,7 +41968,7 @@ export const ARCHIVE = [
       "flat-pack",
       "mass retail"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1082.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42008,7 +42008,7 @@ export const ARCHIVE = [
       "Philippine craft",
       "no adhesive"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1083.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42048,7 +42048,7 @@ export const ARCHIVE = [
       "studio pottery",
       "wabi aesthetics"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1084.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42088,7 +42088,7 @@ export const ARCHIVE = [
       "painted surface",
       "vessel as ground"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1085.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42128,7 +42128,7 @@ export const ARCHIVE = [
       "ancient technique",
       "studio metalwork"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1086.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42168,7 +42168,7 @@ export const ARCHIVE = [
       "optical glass",
       "matte surface"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1087.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42208,7 +42208,7 @@ export const ARCHIVE = [
       "wood and aluminium",
       "contemplative design"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1088.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42248,7 +42248,7 @@ export const ARCHIVE = [
       "conceptual jewellery",
       "Materialise"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1089.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42288,7 +42288,7 @@ export const ARCHIVE = [
       "Korean moon jar tradition",
       "wheel-thrown"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1090.jpg",
     "wikiTitle": "",
     "connections": [
       {
@@ -42328,7 +42328,7 @@ export const ARCHIVE = [
       "concealment",
       "studio glass"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/1091.jpg",
     "wikiTitle": "",
     "connections": [
       {
