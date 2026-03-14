@@ -75,15 +75,27 @@ function ImageWithFallback({ item, aspectRatio = "4/3" }) {
   );
 }
 
+const TYPE_LABELS = { argument: 'Argument', lineage: 'Lineage', material: 'Material', sameProblem: 'Same Problem', zeitgeist: 'Zeitgeist', method: 'Method' };
+
 function NetworkCanvas({ onOpenItem }) {
   const canvasRef = useRef(null);
   const animRef = useRef(null);
+  const drawRef = useRef(null);
   const stateRef = useRef({
     nodes: [], edges: [], adj: new Map(), nodeMap: new Map(),
     tx: 0, ty: 0, scale: 1, dragging: false, dragX: 0, dragY: 0,
-    hovered: null, selected: null, simSteps: 0
+    hovered: null, selected: null, simSteps: 0,
+    activeTypes: null
   });
   const [panelNode, setPanelNode] = useState(null);
+  const [activeFilter, setActiveFilter] = useState(null);
+
+  const toggleFilter = (type) => {
+    const next = activeFilter === type ? null : type;
+    setActiveFilter(next);
+    stateRef.current.activeTypes = next;
+    if (drawRef.current) drawRef.current();
+  };
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -146,6 +158,7 @@ function NetworkCanvas({ onOpenItem }) {
 
     function draw() {
       const W = canvas.width, H = canvas.height;
+      const typeFilter = S.activeTypes;
       ctx.clearRect(0, 0, W, H);
       ctx.fillStyle = '#1E2228'; ctx.fillRect(0, 0, W, H);
       ctx.save();
@@ -154,13 +167,29 @@ function NetworkCanvas({ onOpenItem }) {
       const activeId = (S.selected || S.hovered)?.id;
       const nb = activeId ? new Set(S.adj.get(activeId) || []) : null;
 
+      // Build set of nodes that have at least one visible edge
+      let visibleNodes = null;
+      if (typeFilter) {
+        visibleNodes = new Set();
+        for (const e of S.edges) {
+          if (e.type === typeFilter) { visibleNodes.add(e.source.id); visibleNodes.add(e.target.id); }
+        }
+      }
+
       for (const e of S.edges) {
         const sid = e.source.id, tid = e.target.id;
+        const matchesFilter = !typeFilter || e.type === typeFilter;
         const isActive = activeId && (sid === activeId || tid === activeId);
-        if (activeId && !isActive) { ctx.globalAlpha = 0.02; ctx.strokeStyle = '#444'; }
-        else if (isActive) { ctx.globalAlpha = 0.65; ctx.strokeStyle = TYPE_COLORS[e.type] || '#888'; }
-        else { ctx.globalAlpha = 0.07; ctx.strokeStyle = '#667'; }
-        ctx.lineWidth = isActive ? 1.5 : 0.4;
+
+        if (!matchesFilter) {
+          ctx.globalAlpha = 0.008; ctx.strokeStyle = '#333'; ctx.lineWidth = 0.3;
+        } else if (activeId && !isActive) {
+          ctx.globalAlpha = 0.02; ctx.strokeStyle = '#444'; ctx.lineWidth = 0.4;
+        } else if (isActive && matchesFilter) {
+          ctx.globalAlpha = 0.75; ctx.strokeStyle = TYPE_COLORS[e.type] || '#888'; ctx.lineWidth = 1.5;
+        } else {
+          ctx.globalAlpha = typeFilter ? 0.25 : 0.07; ctx.strokeStyle = TYPE_COLORS[e.type] || '#667'; ctx.lineWidth = typeFilter ? 0.8 : 0.4;
+        }
         ctx.beginPath(); ctx.moveTo(e.source.x, e.source.y);
         ctx.lineTo(e.target.x, e.target.y); ctx.stroke();
       }
@@ -170,14 +199,20 @@ function NetworkCanvas({ onOpenItem }) {
         const isActive = n.id === activeId;
         const isNb = nb?.has(n.id);
         const dimmed = activeId && !isActive && !isNb;
-        ctx.globalAlpha = dimmed ? 0.06 : isActive ? 1 : isNb ? 0.85 : 0.5;
+        const filteredOut = typeFilter && visibleNodes && !visibleNodes.has(n.id);
+
+        if (filteredOut) {
+          ctx.globalAlpha = 0.04;
+        } else {
+          ctx.globalAlpha = dimmed ? 0.06 : isActive ? 1 : isNb ? 0.85 : typeFilter ? 0.7 : 0.5;
+        }
         ctx.fillStyle = DISC_COLORS[n.disc] || '#999';
         ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, Math.PI*2); ctx.fill();
         if (isActive) {
           ctx.globalAlpha = 0.35; ctx.strokeStyle = '#fff'; ctx.lineWidth = 2; ctx.stroke();
           ctx.globalAlpha = 0.12; ctx.beginPath(); ctx.arc(n.x, n.y, r+8, 0, Math.PI*2); ctx.fill();
         }
-        if ((r > 7 && S.scale > 0.5) || isActive || isNb) {
+        if (!filteredOut && ((r > 7 && S.scale > 0.5) || isActive || isNb)) {
           ctx.globalAlpha = dimmed ? 0.04 : isActive ? 1 : isNb ? 0.65 : 0.25;
           ctx.fillStyle = '#E8E4DC';
           ctx.font = (isActive ? 11 : 9) + 'px -apple-system, sans-serif';
@@ -187,6 +222,7 @@ function NetworkCanvas({ onOpenItem }) {
       }
       ctx.restore(); ctx.globalAlpha = 1;
     }
+    drawRef.current = draw;
 
     function simulate() {
       if (S.simSteps < 400) {
@@ -259,6 +295,7 @@ function NetworkCanvas({ onOpenItem }) {
   }, []);
 
   const S = stateRef.current;
+  const visibleEdgeCount = activeFilter ? S.edges.filter(e => e.type === activeFilter).length : S.edges.length;
   const neighbors = panelNode ? (S.adj.get(panelNode.id) || []).map(id => S.nodeMap.get(id)).filter(Boolean) : [];
 
   return (
@@ -267,8 +304,28 @@ function NetworkCanvas({ onOpenItem }) {
 
       <div style={{ position: 'absolute', top: 16, left: 20, pointerEvents: 'none' }}>
         <div style={{ fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#666', marginTop: '36px' }}>
-          {S.nodes.length} objects · {S.edges.length} connections
+          {S.nodes.length} objects · {visibleEdgeCount} connections{activeFilter ? ` (${TYPE_LABELS[activeFilter]})` : ''}
         </div>
+      </div>
+
+      {/* Connection type filter */}
+      <div style={{ position: 'absolute', top: 54, left: 20, display: 'flex', gap: '4px', flexWrap: 'wrap', maxWidth: '420px' }}>
+        {Object.entries(TYPE_COLORS).map(([type, color]) => (
+          <button key={type} onClick={() => toggleFilter(type)} style={{
+            fontFamily: "'DM Sans', sans-serif", fontSize: '9px', letterSpacing: '0.08em', textTransform: 'uppercase',
+            padding: '4px 10px', border: activeFilter === type ? `1px solid ${color}` : '1px solid #3A3E44',
+            background: activeFilter === type ? color : 'rgba(30,34,40,0.7)',
+            color: activeFilter === type ? '#1E2228' : '#888',
+            cursor: 'pointer', backdropFilter: 'blur(4px)', transition: 'all 0.15s',
+          }}>{TYPE_LABELS[type]}</button>
+        ))}
+        {activeFilter && (
+          <button onClick={() => toggleFilter(activeFilter)} style={{
+            fontFamily: "'DM Sans', sans-serif", fontSize: '9px', letterSpacing: '0.08em', textTransform: 'uppercase',
+            padding: '4px 10px', border: '1px solid #555', background: 'rgba(30,34,40,0.7)',
+            color: '#AAA', cursor: 'pointer', backdropFilter: 'blur(4px)',
+          }}>Clear</button>
+        )}
       </div>
 
       <div style={{ position: 'absolute', bottom: 16, left: 20, pointerEvents: 'none' }}>
