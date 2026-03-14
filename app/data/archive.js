@@ -19254,7 +19254,7 @@ export const ARCHIVE = [
       "postmodern furniture",
       "formal excess"
     ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AT7754/full/800,/0/default.jpg"
+    "imageUrl": "/images/472.jpg"
   },
   {
     "id": 474,
@@ -35152,7 +35152,7 @@ export const ARCHIVE = [
       "collectible design",
       "myth"
     ],
-    "imageUrl": "https://new.se-collections.com/wp-content/uploads/2021/04/Moirai-Chandelier.jpg",
+    "imageUrl": "/images/915.jpg",
     "connections": [
       {
         "id": 21,
@@ -35340,7 +35340,7 @@ export const ARCHIVE = [
       "impermanence",
       "Ecovative"
     ],
-    "imageUrl": "https://images.adsttc.com/media/images/53ad/5f8f/c07a/8021/be00/0039/large_jpg/5302011be8e44e1589000253_behind-hy-fi-the-entirely-organic-compostable-tower-that-won-moma-ps1-young-architect-s-program-2014_ps1_cov.jpg?1403871114",
+    "imageUrl": "/images/919.jpg",
     "connections": [
       {
         "id": 815,
@@ -35434,7 +35434,7 @@ export const ARCHIVE = [
       "zabbaleen",
       "craft"
     ],
-    "imageUrl": "https://reformstudio.net/cdn/shop/files/website-02.png?v=1703595066&width=1024",
+    "imageUrl": "/images/921.jpg",
     "connections": [
       {
         "id": 911,
@@ -35481,7 +35481,7 @@ export const ARCHIVE = [
       "ancestral",
       "terracotta"
     ],
-    "imageUrl": "https://www.friedmanbenda.com/wp-content/uploads/2022/03/2021-exhibition-dyalvane-ithongo-cover-2000x1500-sm.jpg",
+    "imageUrl": "/images/922.jpg",
     "connections": [
       {
         "id": 929,
@@ -35575,7 +35575,7 @@ export const ARCHIVE = [
       "circular economy",
       "Birsel + Seck"
     ],
-    "imageUrl": "https://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/18430/gallery/taboops1photobymartinseck.jpg",
+    "imageUrl": "/images/924.jpg",
     "connections": [
       {
         "id": 923,
@@ -35669,7 +35669,7 @@ export const ARCHIVE = [
       "MoMA",
       "critical design"
     ],
-    "imageUrl": "https://superflux.in/wp-content/uploads/2019/04/Main-Image-MOS-Resized.jpg",
+    "imageUrl": "/images/926.jpg",
     "connections": [
       {
         "id": 910,
@@ -35763,7 +35763,7 @@ export const ARCHIVE = [
       "indigenous knowledge",
       "bio-material"
     ],
-    "imageUrl": "https://images.collection.cooperhewitt.org/351201_efc46e3ee65cc2ea_b.jpg",
+    "imageUrl": "/images/928.jpg",
     "connections": [
       {
         "id": 713,
@@ -35797,7 +35797,7 @@ export const ARCHIVE = [
     "manufacturer": "Southern Guild, Cape Town",
     "collection": "Southern Guild Gallery, Cape Town; exhibited at Design Miami",
     "movement": "Contemporary African Ceramics",
-    "wikiTitle": null,
+    "wikiTitle": "Zulu_people",
     "description": "Large-scale ceramic vessels — some exceeding a metre in height — that reinterpret the traditional Xhosa ukhamba beer pot at monumental scale. Poswa hand-coils each vessel from terracotta clay, building the walls in stages over weeks, then burnishes the surface to a matte finish using river stones. The forms retain the swelling belly and narrow neck of the traditional pot but are scaled to architectural presence. Poswa works from the Southern Guild studio in Cape Town, and the vessels have been shown at Design Miami, Frieze, and the Salon Art + Design in New York.",
     "significance": "Southern Guild’s model — commissioning collectible design objects at gallery prices while building manufacturing infrastructure in Cape Town — has done more to establish contemporary African design in the international market than any biennial or government initiative. Poswa’s Ukhamba vessels represent the programme at its best: traditional form knowledge (the beer pot’s proportions are acoustically tuned for fermentation monitoring) scaled to a register that commands gallery walls. The work refuses to be ethnographic — these are not reproductions of traditional pots, they are contemporary sculptures that happen to know where they come from.",
     "keywords": [
@@ -35810,7 +35810,7 @@ export const ARCHIVE = [
       "ceramic",
       "monumental scale"
     ],
-    "imageUrl": "https://images.metmuseum.org/CRDImages/ma/original/IA-_MG_9469.jpg",
+    "imageUrl": "",
     "connections": [
       {
         "id": 922,
@@ -35857,7 +35857,7 @@ export const ARCHIVE = [
       "incubator",
       "medical device"
     ],
-    "imageUrl": "https://babypod.com/wp-content/uploads/2023/11/BP20_4.png",
+    "imageUrl": "/images/930.jpg",
     "connections": [
       {
         "id": 23,
@@ -35899,7 +35899,7 @@ export const ARCHIVE = [
       "optical",
       "Cruz-Diez"
     ],
-    "imageUrl": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/dazzlesideweb.width-420_u8VZZsn.jpg",
+    "imageUrl": "/images/931.jpg",
     "connections": [
       {
         "id": 34,
@@ -35946,7 +35946,7 @@ export const ARCHIVE = [
       "sign-painting",
       "code typography"
     ],
-    "imageUrl": "https://cdn.fontdue.com/arrow-type/images/1585826835302861116/recursive-hero-image-device-mockups-2000.png?v=63863232491",
+    "imageUrl": "/images/932.jpg",
     "connections": [
       {
         "id": 908,
@@ -35993,7 +35993,7 @@ export const ARCHIVE = [
       "graduation project",
       "impermanence"
     ],
-    "imageUrl": "https://static.dezeen.com/uploads/2016/03/algae-water-bottle-by-ari-jonsson_dezeen_936_0.jpg",
+    "imageUrl": "/images/933.jpg",
     "connections": [
       {
         "id": 919,
@@ -36040,7 +36040,7 @@ export const ARCHIVE = [
       "economic model",
       "sufficiency"
     ],
-    "imageUrl": "https://www.sternberg-press.com/wp-content/uploads/2021/03/Non-Extractive-Architecture-Vol1_cover-600x851.png",
+    "imageUrl": "/images/935.jpg",
     "connections": [
       {
         "id": 909,
