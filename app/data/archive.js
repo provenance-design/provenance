@@ -2751,7 +2751,7 @@ export const ARCHIVE = [
     "manufacturer": "Artek",
     "collection": "MoMA, New York",
     "movement": "Nordic Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "Alvar_Aalto",
     "description": "A two-tiered trolley with a birch frame, white lacquered shelves, rattan basket, and large rubber-tired wheels. The bent birch curves are Aalto's signature L-leg technique scaled up. The rattan basket hangs below the top shelf — originally for newspapers, now used for bottles, plants, anything. Its form resembles a friendly animal.",
     "significance": "The Tea Trolley shows Aalto at his most casually brilliant. It's not a statement piece — it's a generous, practical object that anticipates every possible use. The oversized wheels mean it rolls over thresholds and rugs. The rattan basket means storage moves with you. It designs for real life, not for museums.",
     "connections": [
@@ -24028,7 +24028,7 @@ export const ARCHIVE = [
     "manufacturer": "B-Line (reissue)",
     "collection": "Museum of Modern Art, New York",
     "movement": "Space Age Design",
-    "wikiTitle": null,
+    "wikiTitle": "Joe_Colombo",
     "description": "Two padded cushions of different sizes connected by a central joint, allowing the chair to assume multiple configurations — upright seat, low lounge, bed. No frame, no mechanism — just the relationship between two soft geometric volumes and gravity. The user physically rearranges the components to switch between postures.",
     "significance": "Colombo's domestic habitat research compressed into a single object. It demonstrates that adaptive furniture doesn't require technology — just intelligent geometry and trust in the user. The absence of a frame is the design decision: Colombo removes structure to create freedom.",
     "connections": [
@@ -24588,7 +24588,7 @@ export const ARCHIVE = [
     "manufacturer": "Maarten Baas Studio",
     "collection": "Museum of Modern Art, New York",
     "movement": "Dutch Conceptual Design",
-    "wikiTitle": null,
+    "wikiTitle": "Smoke_(chair)",
     "description": "Classical furniture is deliberately set on fire, then the burning is arrested at the precise moment when the form is charred but still structurally sound. The blackened remains are sealed with clear epoxy resin to preserve the fire-damaged state permanently. Baas's graduation project from Design Academy Eindhoven — he burned everything from ornate rococo chairs to simple children's furniture.",
     "significance": "Baas's degree show sold out within hours and launched his career at 24. It demonstrates that destruction can be a design method — that burning a chair reveals something about its construction that no amount of refinement could. The moment of arresting the fire is the design decision, requiring extraordinary judgement about material behaviour.",
     "connections": [
@@ -26607,7 +26607,7 @@ export const ARCHIVE = [
     "manufacturer": "Ryohin Keikaku (MUJI)",
     "collection": "Museum of Contemporary Art Tokyo",
     "movement": "Japanese Minimalism",
-    "wikiTitle": null,
+    "wikiTitle": "Kenya_Hara",
     "description": "A campaign poster showing a Bolivian salt flat stretching to the horizon — sky above, white ground below, nothing else. No product, no logo in the image, no text beyond the MUJI logotype at the bottom edge. The horizon line divides the poster precisely. Hara's concept: emptiness as the ultimate brand expression. The less MUJI shows, the more MUJI it becomes.",
     "significance": "Hara reversed the logic of advertising: instead of filling space with messages, he emptied it. The Horizon campaign argues that a brand's identity is not what it says but what it refuses to say. MUJI — 'no-brand quality goods' — needed a visual language of absence. Hara found it in the most absent landscape on earth.",
     "connections": [
@@ -27468,7 +27468,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a",
     "collection": "Cooper Hewitt, Smithsonian Design Museum",
     "movement": "Expressive Typography",
-    "wikiTitle": null,
+    "wikiTitle": "Stefan_Sagmeister",
     "description": "A lecture poster for AIGA Detroit in which Sagmeister had his intern carve the event details directly into his bare torso with an X-Acto knife. The poster is a photograph of the result: address, date, and speaker names cut into human skin. No typesetting, no digital manipulation — the designer's body is the medium and the message. The text bleeds.",
     "significance": "Sagmeister demolished the professional distance between designer and designed object. Where Crouwel hid behind the grid and Boom hid inside the book, Sagmeister put his own bleeding body on the poster. It's the most extreme statement of auteur graphic design ever produced — the argument that design should cost the designer something. It also proved, through the outrage it generated, that graphic design could still shock in a decade that thought it had seen everything.",
     "connections": [
@@ -27591,7 +27591,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (installation, Pitzhanger Manor)",
     "collection": "n/a (temporary installation)",
     "movement": "Experiential Design",
-    "wikiTitle": null,
+    "wikiTitle": "Es_Devlin",
     "description": "A walk-in sculptural installation at Pitzhanger Manor, London, using mirrored surfaces and LED screens to create an infinite visual environment that surrounds visitors with algorithmically generated text and imagery. Devlin — a stage designer for Beyoncé, Kanye West, Adele, and the 2012 Olympics — applies theatrical scenography to gallery-scale spatial design. The visitor is simultaneously spectator and performer, reflected infinitely in the mirrored walls.",
     "significance": "Devlin represents a new category of designer: the spatial storyteller who moves between concert stages, opera houses, gallery installations, and public sculpture. Mirror Mirror demonstrates that scenography — traditionally dismissed as ephemeral entertainment design — is a legitimate design discipline with its own principles, materials, and spatial intelligence. Cooper Hewitt's 2024 solo exhibition confirmed Devlin as the most significant British spatial designer of her generation.",
     "connections": [
@@ -28165,7 +28165,7 @@ export const ARCHIVE = [
     "manufacturer": "Piet Hein Eek Studio",
     "collection": "Stedelijk Museum, Amsterdam",
     "movement": "Dutch Conceptual Design",
-    "wikiTitle": null,
+    "wikiTitle": "Piet_Hein_Eek",
     "description": "A wardrobe assembled from mismatched offcuts and waste wood — each panel a different species, grain, colour, and thickness, screwed together with visible fixings into a deliberately rough-hewn cabinet. Eek made it as his graduation project from the Design Academy Eindhoven. No wood is purchased new; every piece is salvaged. The construction is intentionally crude — joints are exposed, surfaces are unfinished, proportions are approximate rather than precise.",
     "significance": "Eek's Scrapwood Cupboard inverted the value system of Dutch design. Where Droog made poverty look clever and Wanders made craft look high-tech, Eek made waste look expensive. The cupboard now sells for thousands of euros — the same material that was literally worthless becomes precious through the act of arrangement. It launched a thirty-year practice based on the proposition that discarded materials are more interesting than new ones.",
     "connections": [
@@ -28534,7 +28534,7 @@ export const ARCHIVE = [
     "manufacturer": "Nike",
     "collection": "MoMA, New York (select pieces)",
     "movement": "Post-Streetwear Design",
-    "wikiTitle": null,
+    "wikiTitle": "Off-White_(brand)",
     "description": "A deconstructed Air Jordan 1 with exposed foam, visible stitching, and Abloh's signature quotation marks printed directly on the shoe — \"AIR\" on the midsole, \"SHOELACES\" on the laces, \"NIKE\" on the tongue. The design reveals the shoe's construction by removing or translating its components: the Swoosh is moved, the upper is opened, the sole is exposed. Abloh described his method as a '3% approach' — change only 3% of a canonical design to transform its meaning entirely.",
     "significance": "Abloh proved that design commentary and design production are the same act. The quotation marks don't label the shoe — they question it. By writing \"AIR\" on the air unit, Abloh makes visible the marketing language that Nike had spent decades making invisible. The Ten collection changed sneaker culture, luxury fashion, and graphic design simultaneously, and established deconstruction as the dominant aesthetic of the late 2010s.",
     "connections": [
@@ -28985,7 +28985,7 @@ export const ARCHIVE = [
     "manufacturer": "Domeau & Pérès (later Campeggi)",
     "collection": "Centre Pompidou, Paris",
     "movement": "Post-Domestic Design",
-    "wikiTitle": null,
+    "wikiTitle": "Matali_Crasset",
     "description": "A hospitality column that unfolds from a vertical cylinder into a complete guest sleeping system — a mattress pad rolls out from the base while a reading light extends from the top. When the guest leaves, it folds back into a standing tube that takes up less floor space than an umbrella stand. Crasset designed it after a friend named Jim kept crashing on her floor. The title is the use-case. The form is the answer.",
     "significance": "Crasset asked a question nobody was asking: what is the furniture of temporary hospitality? Not a sofa bed (which ruins both sofa and bed) but a dedicated sleeping-guest object that occupies near-zero space when not in use. When Jim Comes to Paris treats the unpredictability of social life as a design programme. It marks the moment French design moved from objects-for-rooms to objects-for-situations.",
     "connections": [
@@ -30830,7 +30830,7 @@ export const ARCHIVE = [
     "manufacturer": "Typographische Monatsblätter (publisher)",
     "collection": "Museum für Gestaltung, Zürich",
     "movement": "New Wave Typography",
-    "wikiTitle": null,
+    "wikiTitle": "Wolfgang_Weingart",
     "description": "A series of covers for the Swiss typography journal TM from the early 1970s in which Weingart — who had studied under Emil Ruder and Armin Hofmann at the Basel School of Design — systematically dismantled the Swiss Style he'd been taught. He stretched letterforms, reversed type out of photographs, used wide letter-spacing as a compositional element, and layered film positives to create depth. The covers look like Swiss typography having a nervous breakdown.",
     "significance": "Weingart detonated the Basel school from inside. He was trained in the strictest typographic tradition on earth, then used that training to prove that the grid, far from being sacred, was just a starting point. His work taught a generation of American designers — including April Greiman, who studied with him — that typographic rules are productive when followed and equally productive when broken. Without Weingart, there is no Greiman, no Emigre, no Ray Gun.",
     "connections": [
@@ -30953,7 +30953,7 @@ export const ARCHIVE = [
     "manufacturer": "Tonhalle-Gesellschaft Zürich",
     "collection": "Museum für Gestaltung, Zürich",
     "movement": "Swiss International Style",
-    "wikiTitle": null,
+    "wikiTitle": "Josef_Müller-Brockmann",
     "description": "A concert poster for the Tonhalle Zürich's Musica Viva series — concentric arcs of colour radiating from a point source, suggesting sound waves propagating outward. The typography is Akzidenz-Grotesk set flush left. The composition is generated from a single geometric operation (concentric circles) rather than illustrative imagery. Müller-Brockmann designed over 100 concert posters for the Tonhalle between 1950 and 1970, each visualising music through abstract geometry.",
     "significance": "The Musica Viva posters are the purest demonstration that abstract geometry can communicate specific content. The arcs don't illustrate sound — they embody it. No drawing of an instrument or musician could convey the experience of a concert as directly as these expanding circles. Müller-Brockmann proved that the Swiss Style, often dismissed as cold and formulaic, could produce work of genuine emotional power.",
     "connections": [
@@ -30994,7 +30994,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (self-published poster)",
     "collection": "MoMA, New York",
     "movement": "Japanese Pop / Anti-Design",
-    "wikiTitle": null,
+    "wikiTitle": "Tadanori_Yokoo",
     "description": "A silkscreen poster combining a Rising Sun flag, a hanged man, text in Japanese and English, psychedelic colour gradients, and references to both ukiyo-e woodblock prints and American Pop art — all compressed into a single explosive surface. Yokoo made the poster as an announcement of his own death (as a graphic designer) and rebirth (as an artist). The composition ignores every rule of Swiss modernism: it is centred, illustrated, multilingual, polychromatic, and deliberately excessive.",
     "significance": "Yokoo detonated the assumption that Japanese graphic design must follow the Swiss model that Katsumi Masaru had imported in the 1950s. This poster is anti-modern, anti-rational, and anti-Western in its visual strategy, drawing instead from kabuki theatre, cinema posters, and tattoo culture. It proved that Japan could export a graphic language as powerful as Switzerland's — and that its energy came from tradition rather than system.",
     "connections": [
@@ -31076,7 +31076,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a",
     "collection": "MoMA, New York",
     "movement": "Japanese Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "Ikko_Tanaka",
     "description": "A poster for traditional Japanese dance (Nihon Buyo) depicting a geisha's face and kimono reduced to flat geometric shapes — circles, triangles, and rectangles in vermillion, white, and black on a pale ground. The face is a white circle with two black dots for eyes and a red triangle for a mouth. The hair is a black mass. The kimono is stacked rectangles. No line drawing, no gradation, no photographic reference. Tanaka renders a human figure using only the vocabulary of Suprematism — Malevich's geometric absolutes applied to Japanese cultural imagery.",
     "significance": "Tanaka bridged Japanese tradition and Western modernism without compromising either. The poster is simultaneously a ukiyo-e portrait and a Constructivist composition — it satisfies both visual traditions because it understands both deeply enough to find their common ground. It proved that 'Japanese graphic design' is not a style but a synthesis: the ability to hold two aesthetic systems in one image.",
     "connections": [
@@ -31117,7 +31117,7 @@ export const ARCHIVE = [
     "manufacturer": "Victoria and Albert Museum",
     "collection": "V&A, London",
     "movement": "British Graphic Design",
-    "wikiTitle": null,
+    "wikiTitle": "Alan_Fletcher_(graphic_designer)",
     "description": "A logo for the Victoria and Albert Museum consisting of the letters V, &, and A in Bodoni, with the ampersand enlarged and centred so that the three characters interlock vertically — the V sitting on the ampersand's left curve, the A on its right curve. The design took two minutes to sketch, according to Fletcher, and 'the rest of my life to be ready to sketch it'. No colour, no symbol, no abstraction — just three typographic characters arranged with perfect precision.",
     "significance": "Fletcher proved that a great logo is an act of recognition rather than invention — the V&A's identity was already embedded in its abbreviation, it just needed someone to see it. The logo has remained unchanged since 1989, which is itself the measure of its success: no redesign committee has improved upon two minutes of Fletcher's attention. It's the British tradition of understatement applied to graphic design: do less, mean more.",
     "connections": [
@@ -31158,7 +31158,7 @@ export const ARCHIVE = [
     "manufacturer": "MIT Media Lab, Visible Language Workshop",
     "collection": "n/a (digital work, demonstrated at TED 1994)",
     "movement": "Computational Design",
-    "wikiTitle": null,
+    "wikiTitle": "Muriel_Cooper",
     "description": "A real-time three-dimensional information environment demonstrated by Cooper at TED5 in 1994 — typography floating in navigable space, text blocks existing at different depths, the viewer flying through clouds of information rather than scrolling through pages. Cooper's Visible Language Workshop at the MIT Media Lab built the system using SGI workstations. The demonstration showed financial data, city maps, and bibliographic information rendered as spatial, typographic landscapes you could move through. Cooper died five weeks after the demonstration.",
     "significance": "Cooper saw that screens would eventually replace pages, and that when they did, typography would need to work in three dimensions rather than two. Information Landscapes anticipated every subsequent development in spatial interfaces — from Google Earth to VR to spatial computing — by treating text not as something you read on a surface but as something you navigate through space. She was the most important graphic designer most graphic designers have never heard of.",
     "connections": [
@@ -31240,7 +31240,7 @@ export const ARCHIVE = [
     "manufacturer": "4AD Records",
     "collection": "V&A, London",
     "movement": "Independent Music Graphics",
-    "wikiTitle": null,
+    "wikiTitle": "Vaughan_Oliver",
     "description": "Packaging design for 4AD Records from 1983 to 1998 — record sleeves for Cocteau Twins, Pixies, Throwing Muses, Dead Can Dance, and others. Oliver worked exclusively with photographer Nigel Grierson (as 23 Envelope, later v23), creating a visual identity for the label that was immediately recognisable without being systematic. The sleeves use layered photography, textured typography, organic forms, and an earth-toned palette that suggested decay, moss, skin, and bone. No two sleeves look alike, yet all are unmistakably 4AD.",
     "significance": "Oliver proved that a record label could have a visual identity as distinctive as its musical identity — without a logo, a colour scheme, or a grid. The 4AD sleeves are recognised by atmosphere rather than system. They established independent music graphics as a serious design discipline and proved that Peter Saville at Factory Records was not an anomaly but the beginning of a tradition.",
     "connections": [
@@ -31322,7 +31322,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (hand-drawn for the Paris Exposition Universelle)",
     "collection": "Library of Congress, Washington D.C.",
     "movement": "Information Design / Activist Design",
-    "wikiTitle": null,
+    "wikiTitle": "W._E._B._Du_Bois",
     "description": "A series of approximately sixty hand-drawn charts, maps, and diagrams created by Du Bois and his students at Atlanta University for the 1900 Paris World's Fair — visualising the social and economic conditions of Black Americans thirty-five years after emancipation. The charts use spiral forms, bold colour blocks, and innovative comparative layouts that wouldn't look out of place in a contemporary data journalism piece. Some charts use a radial format that anticipates modern infographic conventions by a century.",
     "significance": "Du Bois invented data visualisation as a tool for racial justice. Each chart is simultaneously beautiful and devastating — the spiral showing the proportion of Black landowners, the bar chart showing literacy rates, the map showing migration patterns. The graphic sophistication is radical for 1900: Du Bois understood that data presented as art carries more political force than data presented as tables. These are the origin of the idea that graphic design can make injustice visible.",
     "connections": [
@@ -31363,7 +31363,7 @@ export const ARCHIVE = [
     "manufacturer": "Various (OASE, Werkplaats Typografie)",
     "collection": "MoMA, New York",
     "movement": "Dutch Systematic Design",
-    "wikiTitle": null,
+    "wikiTitle": "Karel_Martens",
     "description": "A body of printed work spanning five decades — letterpress monoprints, publications for the architecture journal OASE, and stamps designed for the Dutch PTT — characterised by Martens's use of industrial printing processes as a design medium. His monoprints are made by overprinting found metal objects (washers, clips, coins) on a letterpress, building up layers of colour through mechanical repetition. Each print is unique because the registration shifts slightly with each pass. The work exists between graphic design, printmaking, and industrial archaeology.",
     "significance": "Martens treats the printing press as an instrument rather than a reproduction machine. His monoprints prove that mechanical processes can produce handmade results — the slight misregistration of each pass creates colour interactions that are impossible to predict or replicate. He taught at the Werkplaats Typografie in Arnhem from 1998, influencing two generations of Dutch designers to understand printing as making, not just outputting.",
     "connections": [
@@ -31650,7 +31650,7 @@ export const ARCHIVE = [
     "manufacturer": "Various (manufactured to Mellor's specification for the Ministry of Transport)",
     "collection": "Design Museum, London",
     "movement": "British Public Design",
-    "wikiTitle": null,
+    "wikiTitle": "David_Mellor_(designer)",
     "description": "A traffic light with a slim aluminium body housing three stacked signal lamps behind deep-cowled visors — designed to be visible in direct sunlight, maintainable by one person with standard tools, and resistant to the British weather. Mellor specified the exact curve of the visor hoods to prevent sun-phantom (the false appearance of a lit signal caused by sunlight reflecting off an unlit lens). The unit was deployed across the entire UK road network and remained the standard for over thirty years.",
     "significance": "Mellor proved that public infrastructure deserves the same design attention as furniture or cutlery. The traffic light is perhaps the most seen, least noticed designed object in Britain — and the fact that nobody thinks about it is the measure of its success. Every visor curve, every bolt position, every maintenance procedure was designed. Mellor later became chairman of the Design Council, but the traffic light remains his most democratic design: used by every person in Britain every day.",
     "connections": [
@@ -31691,7 +31691,7 @@ export const ARCHIVE = [
     "manufacturer": "Walker & Hall, Sheffield",
     "collection": "V&A, London",
     "movement": "British Post-War Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "David_Mellor_(designer)",
     "description": "A set of stainless-steel cutlery designed while Mellor was still a student at the Royal College of Art — knife, fork, and spoon with gently tapering handles and a weight distribution that feels instinctive in the hand. The knife blade curves into the handle without a visible bolster. Manufactured by Walker & Hall in Sheffield using traditional silversmithing techniques adapted for stainless steel. Pride remained in continuous production for over forty years and sold over a million place settings.",
     "significance": "Mellor proved that mass-produced cutlery could carry the same material intelligence as handmade silverware. Pride sits so naturally in the hand that its design becomes invisible — which is exactly the point. It established Mellor as Britain's most important postwar designer of everyday objects and launched a practice that would eventually include the traffic light, pillar boxes, and bus shelters. The flatware that taught a nation to eat well.",
     "connections": [
@@ -31732,7 +31732,7 @@ export const ARCHIVE = [
     "manufacturer": "Studio production",
     "collection": "V&A, London",
     "movement": "Contemporary Studio Ceramics",
-    "wikiTitle": null,
+    "wikiTitle": "Magdalene_Odundo",
     "description": "A hand-coiled and burnished terracotta vessel whose swelling, asymmetric form suggests a standing human body — shoulder, hip, waist — without ever depicting one. The surface is burnished to a deep orange-red through successive rubbings with a smooth stone before firing in a sawdust kiln that produces the characteristic black carbonised patches. No glaze, no wheel, no kiln thermometer. Odundo builds each vessel over several weeks, adding coils of clay and scraping the surface to a thinness that makes the wall translucent in places.",
     "significance": "Odundo collapses the distinction between vessel and figure — her pots are bodies, her bodies are pots. The technique is pan-African (coil-building, burnishing, reduction firing) but the formal intelligence draws equally from Cycladic sculpture, Mangbetu ceramics, and the St Ives tradition. She proves that 'contemporary' and 'traditional' are not opposites but resources — the most sophisticated ceramic practice in Britain uses the oldest making methods on earth.",
     "connections": [
@@ -31855,7 +31855,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (paper, cardboard, bottle caps, found materials)",
     "collection": "Design Museum, London (acquired 2022)",
     "movement": "Visionary Architecture",
-    "wikiTitle": null,
+    "wikiTitle": "Bodys_Isek_Kingelez",
     "description": "A tabletop-scale architectural model of an imagined utopian Kinshasa — towers, mosques, airports, and monuments constructed from cardboard, Coca-Cola bottle caps, packaging, plastic, and found urban detritus. The buildings are not miniatures of existing structures; they are proposals for buildings that should exist. Kingelez called himself a 'builder of cities' and spent decades creating imaginary urban masterplans on tables in Kinshasa. Each model is precise, colourful, and structurally implausible. Yinka Ilori helped the Design Museum acquire the work in 2022.",
     "significance": "Kingelez invented architecture from outside architecture — he had no training, no clients, no construction industry, just cardboard and vision. His cities are unbuilt and unbuildable, which is exactly the point: they propose urban futures for a continent that the architectural profession largely ignores. The Design Museum's acquisition acknowledged that visionary architecture doesn't require professional credentials or buildable technology — it requires imagination.",
     "connections": [
@@ -31978,7 +31978,7 @@ export const ARCHIVE = [
     "manufacturer": "Chihuly Studio",
     "collection": "V&A, London",
     "movement": "Studio Glass",
-    "wikiTitle": null,
+    "wikiTitle": "Dale_Chihuly",
     "description": "Nesting groups of thin-walled, translucent blown-glass forms that evoke sea creatures — jellyfish, anemones, shells — without depicting any specific organism. The forms are blown as large as possible then allowed to slump under their own weight while still molten, producing ruffled edges and asymmetric curves that no mould could achieve. Each piece nests inside another, creating accumulated groups of five to twenty forms. The colours — aquamarine, coral, amber — reference tropical ocean light.",
     "significance": "Chihuly proved that glass could work at installation scale and that the studio glass movement could escape the single-object vitrine. The Seaform series treats glass not as a material for individual vessels but as a material for environments — each group is a landscape rather than an object. His later ceiling installations at the V&A, Kew Gardens, and Venice developed this principle further, but the Seaforms established it.",
     "connections": [
@@ -32060,7 +32060,7 @@ export const ARCHIVE = [
     "manufacturer": "Peter Collingwood Studio",
     "collection": "V&A, London",
     "movement": "British Textile Art",
-    "wikiTitle": null,
+    "wikiTitle": "Peter_Collingwood",
     "description": "A wall-hung textile woven from linen warp threads held in tension by steel and aluminium rods, with areas of open space where threads are spaced wide enough to see through — the textile becomes architectural, a screen rather than a surface. Collingwood invented the macrogauze technique: large-scale open weaving where the structure itself is the pattern, and the gaps between threads are as important as the threads themselves. The rods replace conventional selvedges, keeping the textile flat and taut like a stretched drawing.",
     "significance": "Collingwood treated weaving as a structural discipline rather than a decorative one. Macrogauze has more in common with tensioned architecture than with traditional tapestry — the textile works because of what isn't there. He proved that weaving could be spatial: the gaps admit light and air, the rods provide rigidity, and the linen threads create a rhythm between presence and absence.",
     "connections": [
@@ -32101,7 +32101,7 @@ export const ARCHIVE = [
     "manufacturer": "Artesanías Finas (handmade, Taxco)",
     "collection": "MoMA, New York",
     "movement": "Mexican Modernism",
-    "wikiTitle": null,
+    "wikiTitle": "Clara_Porset",
     "description": "A low-slung lounge chair based on the traditional Mesoamerican butaque — a sling chair found across Mexico, Guatemala, and Cuba whose form predates European colonisation. Porset refined the proportions, specified tropical hardwoods (sabino, caobilla), and developed the leather sling's attachment to achieve the exact recline angle she wanted. The chair is made by local artisans using traditional joinery. No screws, no bolts — mortise and tenon joints, hand-cut.",
     "significance": "Porset — Cuban-born, Paris-educated, Mexico-based — proved that pre-colonial furniture could be the basis for modern design, not just an ethnographic curiosity. The Butaque is not a reproduction; it's a development. She took a form that had existed for centuries, applied modernist discipline to its proportions, and produced a chair that belongs in both a Oaxacan courtyard and a New York gallery. MoMA's acquisition (2019) acknowledged a designer whom Latin American design history had long marginalised.",
     "connections": [
@@ -32224,7 +32224,7 @@ export const ARCHIVE = [
     "manufacturer": "Tokujin Yoshioka Studio",
     "collection": "MoMA, New York",
     "movement": "Japanese Material Research",
-    "wikiTitle": null,
+    "wikiTitle": "Tokujin_Yoshioka",
     "description": "A bench made from a single 500kg block of optical-quality glass — milled, ground, and polished so that light enters the block and bounces internally, making the solid glass appear to contain liquid. The block sits on hidden steel supports; the effect is of a body of water frozen mid-ripple and supporting human weight. At certain angles the glass is entirely transparent; at others it glows with internal reflections. Yoshioka spent two years developing the polishing technique to achieve the exact optical quality he wanted.",
     "significance": "Yoshioka makes glass perform as water — not through surface treatment or colour but through the manipulation of light within a solid mass. The Water Block is not a glass bench that looks like water; it IS a glass bench that behaves like water optically. It proves that material perception — how a substance appears to the eye — can be designed as precisely as material function.",
     "connections": [
@@ -32388,7 +32388,7 @@ export const ARCHIVE = [
     "manufacturer": "Arai Studio / Nuno Corporation",
     "collection": "V&A, London",
     "movement": "Japanese Textile Innovation",
-    "wikiTitle": null,
+    "wikiTitle": "Junichi_Arai",
     "description": "A textile created by weaving metallic yarn alongside natural fibre, then chemically dissolving the metallic yarn — leaving behind a ghost-structure of the dissolved thread's trajectory as gaps, blisters, and puckers in the remaining fabric. The cloth remembers a thread that no longer exists. Arai, who collaborated with Issey Miyake and co-founded NUNO with Reiko Sudo, developed over forty patented textile techniques, many involving the deliberate destruction or transformation of one material within a composite weave.",
     "significance": "Arai designed textiles by destroying them. The melted-off technique is creation through subtraction — you weave something in order to dissolve it, because the absence it leaves behind is the design. It's the textile equivalent of lost-wax casting: the thing you want is the negative of the thing you make. Arai's invention of over forty industrial textile processes makes him the most important technical innovator in late 20th-century fabric.",
     "connections": [
@@ -32511,7 +32511,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (prototype for MoMA exhibition 'Italy: The New Domestic Landscape')",
     "collection": "MoMA, New York (reconstructed)",
     "movement": "Italian Radical Design",
-    "wikiTitle": null,
+    "wikiTitle": "Joe_Colombo",
     "description": "A compact living module containing kitchen, bathroom, sleeping, and storage facilities in a single unit small enough to fit in any room — bed, closet, bathroom, and kitchen each occupy a quarter of the module, which can be folded, rotated, and reconfigured. Colombo designed it for the MoMA exhibition 'Italy: The New Domestic Landscape' (1972), proposing that the future home would consist of one room plus one unit. He died in 1971 before the exhibition opened; the Total Furnishing Unit was shown posthumously.",
     "significance": "Colombo compressed an entire apartment into a single designed object — the most extreme proposition in Italian radical design. Where Sottsass questioned how furniture looks, Colombo questioned whether furniture should exist as separate objects at all. The Total Furnishing Unit argues that a bed, a kitchen, and a bathroom are not three things but one thing configured three ways. It predicted the micro-apartment movement by forty years.",
     "connections": [
@@ -32921,7 +32921,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (participatory installation)",
     "collection": "MoMA, New York (performance)",
     "movement": "Participatory Design",
-    "wikiTitle": null,
+    "wikiTitle": "Roman_Ondák",
     "description": "An installation in which visitors stand against a white gallery wall and a museum attendant marks their height with a pen, writing their name, date, and height alongside the mark. Over the course of the exhibition, the wall fills with thousands of marks — a growing index of human bodies that occupied the space. The gallery begins white and ends as a dense constellation of horizontal lines, names, and dates. The work is not the marks themselves but the accumulation: the gallery becomes a population study, a portrait of its own visitors.",
     "significance": "Ondák designed a system for turning visitors into content — the simplest possible participatory framework. A pen, a wall, a willing body. The result is a data visualisation that requires no computation — just accumulation. It proved that the most compelling museum experience can be the one where the institution steps aside and the public creates the work.",
     "connections": [
@@ -33085,7 +33085,7 @@ export const ARCHIVE = [
     "manufacturer": "Ecovative Design",
     "collection": "Cooper Hewitt, Smithsonian Design Museum",
     "movement": "Biodesign / Circular Design",
-    "wikiTitle": null,
+    "wikiTitle": "Ecovative_Design",
     "description": "A material grown from mushroom mycelium (the root-like filaments of fungi) bound with agricultural waste — hemp, corn stalks, or wood chips — that replaces polystyrene packaging and insulation. The mycelium grows through the waste in a mould over five to seven days, binding the particles into a rigid form. The resulting material is fire-resistant, moisture-resistant, home-compostable, and costs less to produce than synthetic foam. After use, you can throw it on a compost heap and it decomposes in 30 days.",
     "significance": "Ecovative proved that biology can replace petrochemistry at industrial scale. Mushroom mycelium does what polystyrene does — insulates, cushions, protects — but grows in a week, composts in a month, and requires no fossil fuels. Dell, IKEA, and other manufacturers have adopted it for packaging. It argues that the most advanced material science might be the kind that hands the factory back to nature.",
     "connections": [
@@ -33372,7 +33372,7 @@ export const ARCHIVE = [
     "manufacturer": "The Haas Brothers Studio / South African bead collective",
     "collection": "Various (gallery collected)",
     "movement": "Collectible Design",
-    "wikiTitle": null,
+    "wikiTitle": "The_Haas_Brothers",
     "description": "A ceramic vessel covered in thousands of hand-stitched glass beads applied by a collective of Zulu women artisans in KwaZulu-Natal, South Africa. The ceramic base is thrown by the Haas Brothers in Los Angeles; the beading is completed by the Monkeybiz collective over several weeks, with each woman contributing her own pattern and colour choices. The final objects are extravagantly coloured, organically textured, and physically heavy with accumulated beadwork. The surfaces oscillate between psychedelic and precious.",
     "significance": "The Haas Brothers built a design practice that distributes authorship and income across two continents. The vessels are neither American ceramics nor South African beadwork — they're a third thing that couldn't exist without both. The Monkeybiz collective earns wages that support their families; the Haas Brothers get surfaces no American workshop could produce. It proves that cross-cultural collaboration in design can be equitable rather than extractive — if the economic model is designed as carefully as the object.",
     "connections": [
@@ -33577,7 +33577,7 @@ export const ARCHIVE = [
     "manufacturer": "Vitra",
     "collection": "Vitra Design Museum, Weil am Rhein",
     "movement": "Dutch Material Research",
-    "wikiTitle": null,
+    "wikiTitle": "Hella_Jongerius",
     "description": "A storage cabinet for Vitra that mixes materials with deliberate inconsistency — wood, powder-coated metal, woven textile panels, and hand-glazed ceramic handles, each surface in a different colour and finish. The legs are tapered wood; the body is metal; the doors are textile-screened; the handles are ceramic. Jongerius's principle: instead of making a cabinet where everything matches, make one where everything argues. Each material retains its own identity — the wood looks like wood, the metal looks like metal, the textile looks like textile. Nothing is unified.",
     "significance": "Jongerius challenged the design industry's obsession with consistency. The Tall Cabinet proves that a piece of furniture can contain multiple materials, multiple finishes, and multiple colours without being chaotic — if the proportions hold. It's the material equivalent of a well-dressed room: nothing matches, everything belongs. She argues that 'harmonious' doesn't mean 'identical', and that the most interesting surfaces are the ones that carry the specific character of their material.",
     "connections": [
@@ -33618,7 +33618,7 @@ export const ARCHIVE = [
     "manufacturer": "Superflux Studio",
     "collection": "V&A, London (Rapid Response Collecting)",
     "movement": "Speculative Design",
-    "wikiTitle": null,
+    "wikiTitle": "Superflux",
     "description": "A wearable garment embedded with thermal actuators that heat up as Arctic sea ice melts — receiving real-time satellite data and translating it into physical warmth on the wearer's body. As the planet's ice shrinks, the vest gets hotter. The wearer experiences climate change not as abstract data but as increasing personal discomfort. Superflux designed the vest for the 'Our Friends Electric' exhibition at the V&A, as part of their practice of making speculative futures physically tangible.",
     "significance": "Superflux proved that speculative design doesn't have to remain speculative — the ThinIce vest is a real, functioning garment that produces real physical sensation from real climate data. It collapses the distance between global environmental data and personal bodily experience. The V&A's Rapid Response programme acquired it, recognising that the most urgent design challenge is not making new objects but making invisible crises felt.",
     "connections": [
@@ -33659,7 +33659,7 @@ export const ARCHIVE = [
     "manufacturer": "n/a (hand-drawn for Paris Exposition Universelle)",
     "collection": "Library of Congress, Washington D.C.",
     "movement": "Information Design / Activist Design",
-    "wikiTitle": null,
+    "wikiTitle": "W._E._B._Du_Bois",
     "description": "A specific chart from Du Bois's Paris 1900 series — a spiral diagram showing the proportion of Black-owned land in Georgia from 1874 to 1899, the spiral tightening as ownership increases. The chart uses a radial format that no data visualisation convention of 1900 prescribed — Du Bois invented the form to fit the data. Hand-drawn in ink and watercolour on large-format paper, the spiral reads like a seashell cross-section: tight at the centre (emancipation) and expanding outward (increasing ownership). The colours are bold and flat, anticipating modernist graphic language by decades.",
     "significance": "This spiral is the single most innovative data visualisation produced before the computer age. Du Bois invented a form — the radial proportion chart — that no statistician or graphic designer had used before. He did so not for aesthetic reasons but because the conventional bar chart couldn't express what the data felt like: a community spiralling outward from enslavement toward ownership. The chart proves that data visualisation at its best is not neutral — it has a point of view.",
     "connections": [
@@ -34520,7 +34520,7 @@ export const ARCHIVE = [
     "manufacturer": "Louis Poulsen",
     "collection": "Designmuseum Danmark, Copenhagen",
     "movement": "Danish Functionalism",
-    "wikiTitle": null,
+    "wikiTitle": "PH-lamp",
     "description": "A pendant lamp composed of eight tiers of circular metal shades arranged concentrically — each shade a precisely calculated curve that bounces light downward while preventing any direct view of the bulb from any angle below the horizontal. The Snowball uses the same logarithmic spiral principle as Henningsen's PH 5, but in a spherical rather than conical form. All surfaces are matte white; all light is reflected, never direct. The lamp produces no glare, no shadows, and no visible light source. It appears to glow from within.",
     "significance": "The Snowball is Henningsen's most geometrically perfect light — the resolution of forty years of research into glare-free illumination. Where the PH 5 achieves glare control through a flat, tiered structure, the Snowball achieves it through a spherical one, eliminating glare from every direction simultaneously. It's the most complete application of Henningsen's principle: that a lamp should produce light without you ever seeing where the light comes from.",
     "connections": [
@@ -34643,7 +34643,7 @@ export const ARCHIVE = [
     "manufacturer": "Ishimaru / XO",
     "collection": "MoMA, New York",
     "movement": "Japanese Postmodern Design",
-    "wikiTitle": null,
+    "wikiTitle": "Shiro_Kuramata",
     "description": "A low lounge chair with a sheet-aluminium back that curves over the sitter like a breaking wave, supported on three tapered steel legs. The back panel is a single sheet of polished aluminium, cut and bent without welding. The two front legs are positioned conventionally; the single rear leg is placed off-centre, creating a visual instability that contradicts the chair's actual structural solidity. Kuramata died in 1991; the Stiletto is among his last designs.",
     "significance": "Kuramata made furniture that looks like it shouldn't work — the off-centre rear leg, the impossibly thin aluminium back, the wave-like curve that defies the sheet metal's natural stiffness. The Stiletto is a chair that holds its breath: it appears to be in motion, about to tip, about to collapse. That it doesn't is the design. Kuramata's furniture has more in common with Zen koans than with industrial design — each piece poses a question that can't be answered rationally.",
     "connections": [
@@ -36414,7 +36414,7 @@ export const ARCHIVE = [
       "ash glaze"
     ],
     "imageUrl": "",
-    "wikiTitle": "",
+    "wikiTitle": "Theaster_Gates",
     "connections": [
       {
         "id": 834,
@@ -37152,7 +37152,7 @@ export const ARCHIVE = [
       "canonical furniture"
     ],
     "imageUrl": "",
-    "wikiTitle": "",
+    "wikiTitle": "Chierowski_366",
     "connections": [
       {
         "id": 29,
@@ -37275,7 +37275,7 @@ export const ARCHIVE = [
       "interwar"
     ],
     "imageUrl": "",
-    "wikiTitle": "",
+    "wikiTitle": "Jindřich_Halabala",
     "connections": [
       {
         "id": 830,
@@ -40726,7 +40726,7 @@ export const ARCHIVE = [
       "functional colour"
     ],
     "imageUrl": "",
-    "wikiTitle": "",
+    "wikiTitle": "Fiskars",
     "connections": [
       {
         "id": 666,
@@ -41849,7 +41849,7 @@ export const ARCHIVE = [
       "crackle effect"
     ],
     "imageUrl": "",
-    "wikiTitle": "",
+    "wikiTitle": "Vlisco",
     "connections": [
       {
         "id": 1024,
