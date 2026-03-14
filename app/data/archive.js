@@ -2604,7 +2604,7 @@ export const ARCHIVE = [
       "Müller-Brockmann",
       "methodology"
     ],
-    "imageUrl": "/images/65.jpg"
+    "imageUrl": ""
   },
   {
     "id": 66,
@@ -2888,7 +2888,7 @@ export const ARCHIVE = [
       "Tulip system",
       "white laminate"
     ],
-    "imageUrl": "/images/72.jpg"
+    "imageUrl": ""
   },
   {
     "id": 73,
@@ -25686,7 +25686,7 @@ export const ARCHIVE = [
       "inspection lamp"
     ],
     "id": 632,
-    "imageUrl": "/images/632.jpg"
+    "imageUrl": ""
   },
   {
     "title": "Dunne & Raby Placebo Project",
@@ -26668,7 +26668,7 @@ export const ARCHIVE = [
       "Kenya Hara",
       "no-brand"
     ],
-    "imageUrl": "/images/656.jpg"
+    "imageUrl": ""
   },
   {
     "id": 657,
@@ -27078,7 +27078,7 @@ export const ARCHIVE = [
       "Cooper Hewitt",
       "arthritis"
     ],
-    "imageUrl": "/images/666.jpg"
+    "imageUrl": ""
   },
   {
     "id": 667,
@@ -27529,7 +27529,7 @@ export const ARCHIVE = [
       "auteur design",
       "Cooper Hewitt"
     ],
-    "imageUrl": "/images/677.jpg"
+    "imageUrl": ""
   },
   {
     "id": 678,
@@ -27652,7 +27652,7 @@ export const ARCHIVE = [
       "Cooper Hewitt",
       "British design"
     ],
-    "imageUrl": "/images/680.jpg"
+    "imageUrl": ""
   },
   {
     "id": 681,
@@ -28349,7 +28349,7 @@ export const ARCHIVE = [
       "process-led",
       "plywood layers"
     ],
-    "imageUrl": "/images/697.jpg"
+    "imageUrl": ""
   },
   {
     "id": 698,
@@ -28677,7 +28677,7 @@ export const ARCHIVE = [
       "V&A",
       "British graphics"
     ],
-    "imageUrl": "/images/706.jpg"
+    "imageUrl": ""
   },
   {
     "id": 707,
@@ -28718,7 +28718,7 @@ export const ARCHIVE = [
       "1990s",
       "Cooper Hewitt"
     ],
-    "imageUrl": "/images/707.jpg"
+    "imageUrl": ""
   },
   {
     "id": 708,
@@ -28759,7 +28759,7 @@ export const ARCHIVE = [
       "constraint",
       "typographic"
     ],
-    "imageUrl": "/images/708.jpg"
+    "imageUrl": ""
   },
   {
     "id": 709,
@@ -29661,7 +29661,7 @@ export const ARCHIVE = [
       "beige",
       "signed case"
     ],
-    "imageUrl": "/images/730.jpg"
+    "imageUrl": ""
   },
   {
     "id": 731,
@@ -29866,7 +29866,7 @@ export const ARCHIVE = [
       "Louis Kahn",
       "museum"
     ],
-    "imageUrl": "/images/735.jpg"
+    "imageUrl": ""
   },
   {
     "id": 736,
@@ -30891,7 +30891,7 @@ export const ARCHIVE = [
       "Wolfgang Weingart",
       "Swiss typography"
     ],
-    "imageUrl": "/images/760.jpg"
+    "imageUrl": ""
   },
   {
     "id": 761,
@@ -34770,7 +34770,7 @@ export const ARCHIVE = [
       "shadow",
       "specification"
     ],
-    "imageUrl": "",
+    "imageUrl": "/images/906.jpg",
     "connections": [
       {
         "id": 916,
