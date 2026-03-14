@@ -362,7 +362,8 @@ export const ARCHIVE = [
       "conversation piece",
       "Starck",
       "napkin sketch"
-    ]
+    ],
+    "imageUrl": "/images/9.jpg"
   },
   {
     "id": 10,
@@ -401,7 +402,8 @@ export const ARCHIVE = [
       "Sapper",
       "Zanuso",
       "Siemens"
-    ]
+    ],
+    "imageUrl": "/images/10.jpg"
   },
   {
     "id": 11,
@@ -604,7 +606,8 @@ export const ARCHIVE = [
       "colour-coded",
       "transparency",
       "democratic"
-    ]
+    ],
+    "imageUrl": "/images/15.jpg"
   },
   {
     "id": 16,
@@ -692,7 +695,8 @@ export const ARCHIVE = [
       "humane modernism",
       "Artek",
       "cantilever"
-    ]
+    ],
+    "imageUrl": "/images/17.jpg"
   },
   {
     "id": 18,
@@ -731,7 +735,8 @@ export const ARCHIVE = [
       "flat-pack",
       "mass production",
       "Artek"
-    ]
+    ],
+    "imageUrl": "/images/18.jpg"
   },
   {
     "id": 19,
@@ -849,7 +854,8 @@ export const ARCHIVE = [
       "trigonometry",
       "Louis Poulsen",
       "Henningsen"
-    ]
+    ],
+    "imageUrl": "/images/21.jpg"
   },
   {
     "id": 22,
@@ -926,7 +932,8 @@ export const ARCHIVE = [
       "Fritz Hansen",
       "mass production",
       "waist"
-    ]
+    ],
+    "imageUrl": "/images/23.jpg"
   },
   {
     "id": 24,
@@ -965,7 +972,8 @@ export const ARCHIVE = [
       "pedestal",
       "Fritz Hansen",
       "total design"
-    ]
+    ],
+    "imageUrl": "/images/24.jpg"
   },
   {
     "id": 25,
@@ -1003,7 +1011,8 @@ export const ARCHIVE = [
       "curtain wall",
       "Room 606",
       "Copenhagen"
-    ]
+    ],
+    "imageUrl": "/images/25.jpg"
   },
   {
     "id": 26,
@@ -1043,7 +1052,7 @@ export const ARCHIVE = [
       "PP Møbler",
       "cane seat"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/26.jpg"
   },
   {
     "id": 27,
@@ -1082,7 +1091,8 @@ export const ARCHIVE = [
       "Carl Hansen",
       "Chinese influence",
       "ageing"
-    ]
+    ],
+    "imageUrl": "/images/27.jpg"
   },
   {
     "id": 28,
@@ -1200,7 +1210,8 @@ export const ARCHIVE = [
       "S-curve",
       "Vitra",
       "polypropylene"
-    ]
+    ],
+    "imageUrl": "/images/30.jpg"
   },
   {
     "id": 31,
@@ -1396,7 +1407,8 @@ export const ARCHIVE = [
       "Utzon",
       "UNESCO",
       "concrete"
-    ]
+    ],
+    "imageUrl": "/images/35.jpg"
   },
   {
     "id": 36,
@@ -1555,7 +1567,8 @@ export const ARCHIVE = [
       "Herman Miller",
       "wartime",
       "five pieces"
-    ]
+    ],
+    "imageUrl": "/images/39.jpg"
   },
   {
     "id": 40,
@@ -1594,7 +1607,8 @@ export const ARCHIVE = [
       "aluminium base",
       "Herman Miller",
       "comfort"
-    ]
+    ],
+    "imageUrl": "/images/40.jpg"
   },
   {
     "id": 41,
@@ -1632,7 +1646,8 @@ export const ARCHIVE = [
       "Pacific Palisades",
       "steel frame",
       "readymade architecture"
-    ]
+    ],
+    "imageUrl": "/images/41.jpg"
   },
   {
     "id": 42,
@@ -1750,7 +1765,8 @@ export const ARCHIVE = [
       "formal unity",
       "hidden aluminium",
       "Saarinen"
-    ]
+    ],
+    "imageUrl": "/images/44.jpg"
   },
   {
     "id": 45,
@@ -1789,7 +1805,8 @@ export const ARCHIVE = [
       "flight",
       "total design",
       "neo-expressionism"
-    ]
+    ],
+    "imageUrl": "/images/45.jpg"
   },
   {
     "id": 46,
@@ -1828,7 +1845,8 @@ export const ARCHIVE = [
       "sculpture",
       "Herman Miller",
       "Noguchi"
-    ]
+    ],
+    "imageUrl": "/images/46.jpg"
   },
   {
     "id": 47,
@@ -1947,7 +1965,8 @@ export const ARCHIVE = [
       "Herman Miller",
       "Irving Harper",
       "replaceable"
-    ]
+    ],
+    "imageUrl": "/images/49.jpg"
   },
   {
     "id": 50,
@@ -1987,7 +2006,7 @@ export const ARCHIVE = [
       "Storage Wall",
       "flexible"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/50.jpg"
   },
   {
     "id": 51,
@@ -2224,7 +2243,8 @@ export const ARCHIVE = [
       "Paul Rand",
       "rebus",
       "system"
-    ]
+    ],
+    "imageUrl": "/images/56.jpg"
   },
   {
     "id": 57,
@@ -2263,7 +2283,8 @@ export const ARCHIVE = [
       "organic form",
       "Chartreuse",
       "democratic"
-    ]
+    ],
+    "imageUrl": "/images/57.jpg"
   },
   {
     "id": 58,
@@ -2302,7 +2323,8 @@ export const ARCHIVE = [
       "tree selection",
       "Mingei",
       "natural form"
-    ]
+    ],
+    "imageUrl": "/images/58.jpg"
   },
   {
     "id": 59,
@@ -2341,7 +2363,8 @@ export const ARCHIVE = [
       "Plano",
       "International Style",
       "Mies"
-    ]
+    ],
+    "imageUrl": "/images/59.jpg"
   },
   {
     "id": 60,
@@ -2380,7 +2403,8 @@ export const ARCHIVE = [
       "Knoll",
       "hand-ground",
       "1929 Exposition"
-    ]
+    ],
+    "imageUrl": "/images/60.jpg"
   },
   {
     "id": 61,
@@ -2419,7 +2443,8 @@ export const ARCHIVE = [
       "Kandinsky",
       "B3",
       "canvas"
-    ]
+    ],
+    "imageUrl": "/images/61.jpg"
   },
   {
     "id": 62,
@@ -2459,7 +2484,7 @@ export const ARCHIVE = [
       "ottoman",
       "comfort"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/62.jpg"
   },
   {
     "id": 63,
@@ -2498,7 +2523,8 @@ export const ARCHIVE = [
       "B32",
       "most reproduced",
       "Francesca"
-    ]
+    ],
+    "imageUrl": "/images/63.jpg"
   },
   {
     "id": 64,
@@ -2577,7 +2603,8 @@ export const ARCHIVE = [
       "modular",
       "Müller-Brockmann",
       "methodology"
-    ]
+    ],
+    "imageUrl": "/images/65.jpg"
   },
   {
     "id": 66,
@@ -2621,7 +2648,8 @@ export const ARCHIVE = [
       "Swiss",
       "Miedinger",
       "ubiquitous"
-    ]
+    ],
+    "imageUrl": "/images/66.jpg"
   },
   {
     "id": 67,
@@ -2700,7 +2728,8 @@ export const ARCHIVE = [
       "DSR",
       "multiple bases",
       "mass-produced plastic"
-    ]
+    ],
+    "imageUrl": "/images/68.jpg"
   },
   {
     "id": 69,
@@ -2779,7 +2808,7 @@ export const ARCHIVE = [
       "Artek",
       "L-leg"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/70.jpg"
   },
   {
     "id": 71,
@@ -2819,7 +2848,7 @@ export const ARCHIVE = [
       "four legs",
       "veneer"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/71.jpg"
   },
   {
     "id": 72,
@@ -2858,7 +2887,8 @@ export const ARCHIVE = [
       "cast aluminium",
       "Tulip system",
       "white laminate"
-    ]
+    ],
+    "imageUrl": "/images/72.jpg"
   },
   {
     "id": 73,
@@ -3097,7 +3127,7 @@ export const ARCHIVE = [
       "molecular",
       "play"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/78.jpg"
   },
   {
     "id": 79,
@@ -23928,7 +23958,8 @@ export const ARCHIVE = [
       "punk design",
       "ready-made"
     ],
-    "id": 590
+    "id": 590,
+    "imageUrl": "/images/590.jpg"
   },
   {
     "title": "Bookworm Shelf",
@@ -24059,7 +24090,7 @@ export const ARCHIVE = [
       "adaptive furniture"
     ],
     "id": 593,
-    "imageUrl": ""
+    "imageUrl": "/images/593.jpg"
   },
   {
     "title": "Nobody's Perfect Chair",
@@ -24184,7 +24215,8 @@ export const ARCHIVE = [
       "Dutch design",
       "EKWC"
     ],
-    "id": 596
+    "id": 596,
+    "imageUrl": "/images/596.jpg"
   },
   {
     "title": "Showtime Armchair",
@@ -24535,7 +24567,7 @@ export const ARCHIVE = [
       "self-build"
     ],
     "id": 604,
-    "imageUrl": ""
+    "imageUrl": "/images/604.jpg"
   },
   {
     "title": "Miss Blanche",
@@ -24624,7 +24656,7 @@ export const ARCHIVE = [
       "MoMA"
     ],
     "id": 606,
-    "imageUrl": ""
+    "imageUrl": "/images/606.jpg"
   },
   {
     "title": "Do Hit Chair",
@@ -24666,7 +24698,7 @@ export const ARCHIVE = [
       "co-creation"
     ],
     "id": 607,
-    "imageUrl": ""
+    "imageUrl": "/images/607.jpg"
   },
   {
     "title": "100 Chairs in 100 Days",
@@ -24844,7 +24876,7 @@ export const ARCHIVE = [
       "John Makepeace"
     ],
     "id": 611,
-    "imageUrl": ""
+    "imageUrl": "/images/611.jpg"
   },
   {
     "title": "Orgone Lounge",
@@ -24985,7 +25017,7 @@ export const ARCHIVE = [
       "material experiment",
       "process-driven"
     ],
-    "imageUrl": null,
+    "imageUrl": "/images/615.jpg",
     "connections": [
       {
         "id": 310,
@@ -25654,7 +25686,7 @@ export const ARCHIVE = [
       "inspection lamp"
     ],
     "id": 632,
-    "imageUrl": ""
+    "imageUrl": "/images/632.jpg"
   },
   {
     "title": "Dunne & Raby Placebo Project",
@@ -26636,7 +26668,7 @@ export const ARCHIVE = [
       "Kenya Hara",
       "no-brand"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/656.jpg"
   },
   {
     "id": 657,
@@ -27046,7 +27078,7 @@ export const ARCHIVE = [
       "Cooper Hewitt",
       "arthritis"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/666.jpg"
   },
   {
     "id": 667,
@@ -27128,7 +27160,7 @@ export const ARCHIVE = [
       "Dutch design",
       "haptic"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/668.jpg"
   },
   {
     "id": 669,
@@ -27497,7 +27529,7 @@ export const ARCHIVE = [
       "auteur design",
       "Cooper Hewitt"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/677.jpg"
   },
   {
     "id": 678,
@@ -27620,7 +27652,7 @@ export const ARCHIVE = [
       "Cooper Hewitt",
       "British design"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/680.jpg"
   },
   {
     "id": 681,
@@ -27907,7 +27939,7 @@ export const ARCHIVE = [
       "SANAA",
       "Pritzker Prize"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/687.jpg"
   },
   {
     "id": 688,
@@ -28194,7 +28226,7 @@ export const ARCHIVE = [
       "Dutch design",
       "upcycling"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/694.jpg"
   },
   {
     "id": 695,
@@ -28317,7 +28349,7 @@ export const ARCHIVE = [
       "process-led",
       "plywood layers"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/697.jpg"
   },
   {
     "id": 698,
@@ -28563,7 +28595,7 @@ export const ARCHIVE = [
       "sneaker culture",
       "Virgil Abloh"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/703.jpg"
   },
   {
     "id": 704,
@@ -28645,7 +28677,7 @@ export const ARCHIVE = [
       "V&A",
       "British graphics"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/706.jpg"
   },
   {
     "id": 707,
@@ -28686,7 +28718,7 @@ export const ARCHIVE = [
       "1990s",
       "Cooper Hewitt"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/707.jpg"
   },
   {
     "id": 708,
@@ -28727,7 +28759,7 @@ export const ARCHIVE = [
       "constraint",
       "typographic"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/708.jpg"
   },
   {
     "id": 709,
@@ -29014,7 +29046,7 @@ export const ARCHIVE = [
       "French design",
       "behaviour"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/715.jpg"
   },
   {
     "id": 716,
@@ -30818,7 +30850,7 @@ export const ARCHIVE = [
       "Herb Lubalin",
       "Cooper Hewitt"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/759.jpg"
   },
   {
     "id": 760,
@@ -30859,7 +30891,7 @@ export const ARCHIVE = [
       "Wolfgang Weingart",
       "Swiss typography"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/760.jpg"
   },
   {
     "id": 761,
@@ -30900,7 +30932,7 @@ export const ARCHIVE = [
       "Emigre",
       "Zuzana Licko"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/761.jpg"
   },
   {
     "id": 762,
@@ -30941,7 +30973,7 @@ export const ARCHIVE = [
       "MoMA",
       "subversive"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/762.jpg"
   },
   {
     "id": 763,
@@ -30982,7 +31014,7 @@ export const ARCHIVE = [
       "Müller-Brockmann",
       "concert poster"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/763.jpg"
   },
   {
     "id": 764,
@@ -31023,7 +31055,7 @@ export const ARCHIVE = [
       "anti-modernism",
       "Tadanori Yokoo"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/764.jpg"
   },
   {
     "id": 765,
@@ -31105,7 +31137,7 @@ export const ARCHIVE = [
       "Nihon Buyo",
       "Ikko Tanaka"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/766.jpg"
   },
   {
     "id": 767,
@@ -31228,7 +31260,7 @@ export const ARCHIVE = [
       "visual language",
       "information design"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/769.jpg"
   },
   {
     "id": 770,
@@ -31310,7 +31342,7 @@ export const ARCHIVE = [
       "anti-war",
       "Corita Kent"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/771.jpg"
   },
   {
     "id": 772,
@@ -31679,7 +31711,7 @@ export const ARCHIVE = [
       "David Mellor",
       "public design"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/780.jpg"
   },
   {
     "id": 781,
@@ -31720,7 +31752,7 @@ export const ARCHIVE = [
       "V&A",
       "David Mellor"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/781.jpg"
   },
   {
     "id": 782,
@@ -31761,7 +31793,7 @@ export const ARCHIVE = [
       "reduction fired",
       "Magdalene Odundo"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/782.jpg"
   },
   {
     "id": 783,
@@ -32007,7 +32039,7 @@ export const ARCHIVE = [
       "installation scale",
       "Dale Chihuly"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/788.jpg"
   },
   {
     "id": 789,
@@ -32335,7 +32367,7 @@ export const ARCHIVE = [
       "waterproof",
       "Marc Berthier"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/796.jpg"
   },
   {
     "id": 797,
@@ -32417,7 +32449,7 @@ export const ARCHIVE = [
       "ghost structure",
       "Junichi Arai"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/798.jpg"
   },
   {
     "id": 799,
@@ -34713,7 +34745,7 @@ export const ARCHIVE = [
       "MoMA",
       "Wilhelm Wagenfeld"
     ],
-    "imageUrl": ""
+    "imageUrl": "/images/855.jpg"
   },
   {
     "id": 906,

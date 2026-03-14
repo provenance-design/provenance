@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr-FR">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	Based on the TYPO3 Bootstrap Package by Benjamin Kott - https://www.bootstrap-package.com/
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="shortcut icon" href="/typo3conf/ext/piazza_base/Resources/Public/Icons/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Erreur 404 - Centre Pompidou</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="robots" content="index,follow" />
+<meta name="twitter:card" content="summary" />
+<meta name="apple-mobile-web-app-capable" content="no" />
+<meta name="google" content="notranslate" />
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-8b55d8ff26b1b8c8bc3e0297566591e0-06230c5f9e6abe9f78116be0ba98eb1a.css?1773310216" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-43056d10ca0f49229ebbfdbd9150665b-07bc93910b0791c61182881a1215a275.css?1773316632" media="all">
+
+
+<script src="/typo3temp/assets/compressed/merged-1dd434f07b9d735a88e0905ee6bb5454-808f1474c6f2a4e292ba063c5e2f87e3.js?1773307039"></script>
+<script src="/typo3temp/assets/compressed/merged-1eae1935d74b42130dca9841e6d738cd-fde0556cdefa08cbe4753a30b052b51f.js?1773307039"></script>
+<script>
+/*<![CDATA[*/
+/*TS_inlineJS*/
+
+function onRecaptchaSubmit() { document.querySelectorAll('[data-callback="onRecaptchaSubmit"]')[0].form.submit(); return false; }
+
+
+/*]]>*/
+</script>
+
+<link rel="canonical" href="/fr/erreur-404">
+<link rel="alternate" hreflang="fr-FR" href="/fr/erreur-404"/>
+<link rel="alternate" hreflang="en-EN" href="/en/error-404"/>
+<link rel="alternate" hreflang="es" href="/es/error-404"/>
+<link rel="alternate" hreflang="x-default" href="/fr/erreur-404"/>
+<script>WebFontConfig={"custom":{"urls":["\/typo3temp\/assets\/bootstrappackage\/fonts\/34b6f09d2160836c09a63c8351093eadf788ed4cb9c6c596239ff2ffe69204f8\/webfont.css","\/typo3conf\/ext\/bootstrap_package\/Resources\/Public\/Fonts\/bootstrappackageicon.min.css"],"families":["Source Sans Pro:300,400,700","BootstrapPackageIcon"]},"timeout":1000};(function(d){var wf=d.createElement('script'),s=d.scripts[0];wf.src='/typo3conf/ext/bootstrap_package/Resources/Public/Contrib/webfontloader/webfontloader.js';wf.async=false;s.parentNode.insertBefore(wf,s);})(document);</script>
+<script type="application/ld+json" id="ext-schema-jsonld">{"@context":"https://schema.org/","@type":"WebPage"}</script>
+</head>
+<body id="p11" class="page-11 pagelevel-2 language-0 backendlayout-default layout-default">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKTGGX9"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+<div id="top"></div>
+<div class="body-bg content-padding">
+    <a class="sr-only sr-only-focusable" href="#page-content">
+        <span>Aller au contenu principal</span>
+    </a>
+    
+
+<header id="page-header" role="banner">
+    
+        
+    
+    <nav id="mainnavigation" role="navigation" class="navbar navbar-expand-lg sticky-navbar ">
+
+        <i class="icon-loupe alt search-button-mobile" data-toggle="modal" data-target="#search-overlay" data-grunticon-embed></i>
+
+        <a class="navbar-brand" title="Page d'accueil du site du Centre Pompidou" href="/fr/">
+            <span class="sr-only">Centre Pompidou</span>
+            <i class="icon-logo" data-grunticon-embed></i>
+            <i class="icon-pictogramme" data-grunticon-embed></i>
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+            <div class="nav-items-container">
+                <ul class="navbar-nav navbar-main">
+                    
+                        
+                                
+                                
+                                        <li class="">
+                                            <a class="nav-link" href="/fr/le-centre-pompidou-se-metamorphose" target="">Le Centre se métamorphose <span class="sr-only">(current)</span></a>
+                                        </li>
+                                    
+                            
+                    
+                        
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Programme
+                                        <i class="icon-fleche" data-grunticon-embed aria-hidden="true"></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink3">
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/carte-interactive" target="">
+                                                Carte interactive
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/agenda" target="">
+                                                Agenda
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/expositions" target="">
+                                                Expositions
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/visites-guidees" target="">
+                                                Visites guidées
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/spectacles" target="">
+                                                Spectacles
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/cinema-video" target="">
+                                                Cinéma / Vidéo
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/rencontres" target="">
+                                                Rencontres
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/jeune-public" target="">
+                                                Jeune public
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/evenements" target="">
+                                                Événements
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/programme/ou-nous-trouver" target="">
+                                                Où nous trouver
+                                            </a>
+                                        
+                                    </div>
+                                </li>
+                            
+                    
+                        
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Collection
+                                        <i class="icon-fleche" data-grunticon-embed aria-hidden="true"></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink4">
+                                        
+                                            <a class="dropdown-item" href="/fr/collection/les-chefs-doeuvre" target="">
+                                                Les chefs-d&#039;œuvre
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/collection/histoire-du-musee-national-dart-moderne-centre-de-creation-industrielle" target="">
+                                                Histoire du Mnam/Cci
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/collection/les-secteurs-de-collection" target="">
+                                                Les secteurs de collection
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/collection/la-bibliotheque-kandinsky" target="">
+                                                La Bibliothèque Kandinsky
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="https://collection.centrepompidou.fr/movements/map" target="">
+                                                Carte des prêts de la collection
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="https://www.centrepompidou.fr/fr/offre-aux-professionnels/recherche/aware" target="">
+                                                AWARE: Archives of Women Artists, Research &amp; Exhibitions
+                                            </a>
+                                        
+                                    </div>
+                                </li>
+                            
+                    
+                        
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2120" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Pompidou+
+                                        <i class="icon-fleche" data-grunticon-embed aria-hidden="true"></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2120">
+                                        
+                                            <a class="dropdown-item" href="/fr/pompidou-plus/magazine" target="">
+                                                Magazine
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/pompidou-plus/videos" target="">
+                                                Vidéos
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/pompidou-plus/podcasts" target="">
+                                                Podcasts
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/recherche/oeuvres?display=Grid" target="">
+                                                Œuvres de la collection
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart" target="">
+                                                Dossiers ressources sur l&#039;art
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/pompidou-plus/expositions-virtuelles" target="">
+                                                Expositions virtuelles
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/recherche/medias?typeMedia=Vidéo&amp;sort=dateAsc&amp;display=Grid" target="">
+                                                Archives audiovisuelles
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/recherche/evenements?sort=dateDebutAsc&amp;display=Grid" target="">
+                                                Archives des événements
+                                            </a>
+                                        
+                                    </div>
+                                </li>
+                            
+                    
+                        
+                                
+                                
+                                        <li class="search" data-toggle="modal" data-target="#search-overlay">
+                                            <a class="nav-link search-button-desktop" title="Recherche" href="/fr/recherche">
+                                                <i class="icon-loupe alt" data-grunticon-embed></i>
+                                            </a>
+                                        </li>
+                                    
+                            
+                    
+                    
+                        <li class="nav-item dropdown language-selector">
+                            
+
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-label="Sélectionnez la langue du site" aria-haspopup="true" aria-expanded="false">
+        
+            
+                    fr
+                    <script>
+                        var locale = "fr"
+                    </script>
+                    <div class="icon-fleche" data-grunticon-embed></div>
+                
+        
+            
+        
+            
+        
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+            <span class="active ">
+                <a href="/fr/erreur-404" class="dropdown-item" hreflang="fr-FR" title="Français">
+                    <span>Français</span>
+                </a>
+            </span>
+        
+            <span class=" ">
+                <a href="/en/error-404" class="dropdown-item" hreflang="en-EN" title="English">
+                    <span>English</span>
+                </a>
+            </span>
+        
+            <span class=" ">
+                <a href="/es/error-404" class="dropdown-item" hreflang="es" title="Español">
+                    <span>Español</span>
+                </a>
+            </span>
+        
+        <hr>
+        
+    </div>
+
+
+
+                        </li>
+                    
+                </ul>
+                <ul id="shortcuts" class="navbar-nav mt-4 mt-md-0">
+                    
+                        
+                                <li class="">
+
+                                    
+                                            <a class="nav-link" href="https://www.centrepompidou.fr/fr/visite/devenez-adherente" target="">Devenir adhérent·e <span class="sr-only">(current)</span></a>
+                                        
+                                </li>
+                            
+                    
+                        
+                                <li class="">
+
+                                    
+                                            <span class="nav-link">
+                                                <a href="https://billetterie.centrepompidou.fr/" target="_blank">Billetterie <span class="sr-only">(current)</span></a>
+                                                <a id="ticketing-cart" class="d-none" href="https://billetterie.centrepompidou.fr/cart/shoppingCart" title="Accéder au panier de la billetterie" target="_blank">
+                                                    <i class="icon-panier-billetterie" data-grunticon-embed></i>
+                                                    <span id="ticket-number" class="ml-1">X</span>
+                                                </a>
+                                            </span>
+                                        
+                                </li>
+                            
+                    
+                        
+                                <li class="">
+
+                                    
+                                            <a class="nav-link" href="https://boutique.centrepompidou.fr/fr/" target="_blank">Boutique <span class="sr-only">(current)</span></a>
+                                        
+                                </li>
+                            
+                    
+                        
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Vous êtes
+                                        <i class="icon-fleche" data-grunticon-embed aria-hidden="true"></i>
+                                    </a>
+                                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+                                        
+                                            <a class="dropdown-item" href="/fr/le-centre-pompidou/adherentes" target="" title="Vous êtes">
+                                                Adhérent·e
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/vous-etes/voisine" target="" title="Vous êtes">
+                                                Voisin·e
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/vous-etes/journaliste" target="" title="Vous êtes">
+                                                Journaliste
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/vous-etes/mecene" target="" title="Vous êtes">
+                                                Mécène
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/offre-aux-professionnels/groupes/groupes-scolaires" target="" title="Vous êtes">
+                                                Enseignant·e
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/vous-etes/entreprise" target="" title="Vous êtes">
+                                                Entreprise
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/offre-aux-professionnels/relais-du-champ-social" target="" title="Vous êtes">
+                                                Relais du champ social
+                                            </a>
+                                        
+                                            <a class="dropdown-item" href="/fr/vous-etes/chercheurse-/-universitaire" target="" title="Vous êtes">
+                                                Chercheur·se / Universitaire
+                                            </a>
+                                        
+                                    </div>
+                                </li>
+                            
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="nav-overlay navbar-toggler" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"></div>
+    </nav>
+
+    
+</header>
+
+<div class="modal fade" id="search-overlay" tabindex="-1" role="dialog" aria-labelledby="search-overlay" aria-hidden="true">
+    
+
+    <i class="icon-croix close-dialog" data-toggle="modal" data-target="#search-overlay" data-grunticon-embed></i>
+
+    <div class="modal-dialog" role="document">
+        <div class="search-input-centered modal-content">
+            <div class="modal-body">
+                <script type="text/javascript">
+                    var ajaxSuggestionBoxOverlay =
+                        '/fr/erreur-404?tx_piazzasearch_%5Baction%5D=ajaxSuggestionbox&amp;tx_piazzasearch_%5Bcontroller%5D=Recherche&amp;type=7891012&amp;cHash=dbdf90421778febaea21ccc46831bb4d';
+                </script>
+                <div class="search-input-container">
+                    <form enctype="multipart/form-data" method="get" id="form-text-overlay" action="/fr/recherche?tx_piazzasearch_pagerecherche%5Baction%5D=searchAll&amp;tx_piazzasearch_pagerecherche%5Bcontroller%5D=Recherche&amp;cHash=147f6f3fc9ef0714059316c16ae9add7">
+<div>
+</div>
+
+
+                        <div class="input-group">
+                            <input type="text" name="terms" class="form-control"  autocomplete="off"
+                                   value=""
+                                   data-placeholders="Recherchez un événement... | Recherchez Constellation...| Recherchez surréalisme...| Recherchez Henri Matisse...">
+                            <div id="suggestions-overlay"></div>
+                            <div class="input-group-append">
+                                <button class="search">
+                                    <i class="icon-loupe" data-grunticon-embed></i>
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="search-actions">
+                            <button type="button" class="button light mr-4" data-toggle="modal" data-target="#search-overlay">
+                                Fermer
+                            </button>
+                            <button class="button dark">
+                                Rechercher
+                            </button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+    
+
+    
+
+
+    
+
+    
+        <nav class="breadcrumb-section" aria-label="Fil d&#039;Ariane">
+            <div class="container">
+                <p class="sr-only" id="breadcrumb">Vous êtes ici:</p>
+                <ol class="breadcrumb">
+                    
+                        <li class="breadcrumb-item">
+                            
+                                    <a class="breadcrumb-link" href="/fr/" title="Accueil">
+                                        
+    
+    <span class="breadcrumb-text">Accueil</span>
+
+                                    </a>
+                                
+                        </li>
+                    
+                        <li class="breadcrumb-item active" aria-current="page">
+                            
+                                    
+    
+    <span class="breadcrumb-text">Erreur 404</span>
+
+                                
+                        </li>
+                    
+                    
+                </ol>
+            </div>
+        </nav>
+    
+
+
+
+
+    <main id="page-content" class="bp-page-content main-section"   dir="ltr">
+        
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div id="page-informations">
+                <h1 id="page-title">Erreur 404</h1>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+        
+
+    
+
+    <div class="section section-default">
+        
+    
+    
+    
+    
+
+    
+            
+            
+        
+
+    
+    
+    
+    
+    
+
+    
+            
+            <div id="c4412"  class="frame frame-default frame-type-textpic frame-layout-0 frame-background-none frame-no-backgroundimage frame-space-before-none frame-space-after-none">
+            
+
+
+
+                <div class="frame-container">
+                    <div class="frame-inner">
+                        
+                        
+                            
+
+
+
+                        
+                        
+                            
+
+
+    
+
+
+
+                        
+                        <div class="frame-content">
+                            
+
+    <div class="textpic textpic-below">
+        <div class="textpic-item textpic-gallery">
+            
+
+
+    
+    
+    
+    
+
+    <div class="gallery-row">
+        
+            <div class="gallery-item gallery-item-size-1">
+                
+
+
+
+
+        
+<figure class="image">
+    
+            
+                    
+
+<picture>
+    
+        
+        
+        
+            <source data-variant="default" data-maxwidth="1100"  media="(min-width: 1200px)" srcset="/fileadmin/_processed_/f/b/csm_erreur404-alberola_32e82a3346.jpg">
+        
+    
+        
+        
+        
+            <source data-variant="large" data-maxwidth="920"  media="(min-width: 992px)" srcset="/fileadmin/_processed_/f/b/csm_erreur404-alberola_a3fe852337.jpg">
+        
+    
+        
+        
+        
+            <source data-variant="medium" data-maxwidth="680"  media="(min-width: 768px)" srcset="/fileadmin/_processed_/f/b/csm_erreur404-alberola_bcd4019bec.jpg">
+        
+    
+        
+        
+        
+            <source data-variant="small" data-maxwidth="500"  media="(min-width: 576px)" srcset="/fileadmin/_processed_/f/b/csm_erreur404-alberola_f782c63dd3.jpg">
+        
+    
+        
+        
+        
+            <source data-variant="extrasmall" data-maxwidth="374" srcset="/fileadmin/_processed_/f/b/csm_erreur404-alberola_c1e0ac31a8.jpg">
+        
+    
+    <img src="/fileadmin/_processed_/f/b/csm_erreur404-alberola_32e82a3346.jpg" title="" alt="">
+</picture>
+
+
+                
+        
+    
+        <figcaption class="caption">Jean-Michel Alberola, « Vous avez le bonjour de Marcel », 2002<br />
+Mur peint réalisé au Centre Pompidou, 2007-2008<br />
+Collection du Centre Pompidou</figcaption>
+    
+</figure>
+
+
+    
+
+
+            </div>
+        
+    </div>
+
+
+
+
+        </div>
+        <div class="textpic-item textpic-text">
+            <h2>Toutes nos excuses, cette page n'est plus disponible.&nbsp;</h2>
+<p>&nbsp;</p>
+        </div>
+    </div>
+
+
+                        </div>
+                        
+                            
+
+
+
+                        
+                        
+                            
+
+
+
+                        
+                    </div>
+                </div>
+            </div>
+
+        
+
+
+    
+    
+    
+    
+
+    
+            
+            
+        
+
+    
+    
+    
+    
+    
+
+    
+            
+            <div id="c4421"  class="frame frame-default frame-type-text frame-layout-0 frame-background-none frame-no-backgroundimage frame-space-before-none frame-space-after-extra-small">
+            
+
+
+
+                <div class="frame-container">
+                    <div class="frame-inner">
+                        
+                        
+                            
+
+
+
+                        
+                        
+                            
+
+
+    
+
+
+
+                        
+                        <div class="frame-content">
+                            
+
+    <div class="exergue"><p>Notre site a été rénové.&nbsp;</p>
+<p>La page que vous recherchez a sûrement changé d’adresse.</p></div><div class="exergue"><p>Nous vous recommandons de bien mettre à jour les favoris et pages enregistrées sur votre poste.&nbsp;</p></div><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/fr/" class="button dark">Rendez-vous sur la page d'accueil</a></p>
+
+
+                        </div>
+                        
+                            
+
+
+
+                        
+                        
+                            
+
+
+
+                        
+                    </div>
+                </div>
+            </div>
+
+        
+
+
+    </div>
+
+    
+
+
+    </main>
+    
+
+    <footer id="page-footer" class="bp-page-footer">
+        <section class="section footer-section">
+            <div class="frame frame-background-none frame-space-before-none frame-space-after-none">
+                <div class="frame-container">
+                    <div class="frame-inner">
+                        <div class="mt-md-5 mb-2">
+                            
+<div class="row">
+    <div class="col-12">
+        <div class="social-links">
+            <p>Nous sommes sociaux</p>
+            <div class="d-flex flex-wrap justify-content-md-between justify-content-center">
+                
+                    
+                        <a href="https://www.instagram.com/centrepompidou/" target="_blank" aria-label="Instagram" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/instagram.svg" width="50" height="50" alt="Instagram - Centre Pompidou" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://www.facebook.com/centrepompidou.fr" target="_blank" aria-label="Facebook" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/facebook.svg" width="50" height="50" alt="Facebook - Centre Pompidou" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://www.threads.net/@centrepompidou" target="_blank" aria-label="Threads" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/RS-Threads-BLANC.svg" width="50" height="50" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://bsky.app/profile/centrepompidou.bsky.social" target="" aria-label="Blueskye" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/RS-Bluesky-BLANC.svg" width="50" height="50" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://www.tiktok.com/@centrepompidou" target="_blank" aria-label="TikTok" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/TikTok.svg" width="51" height="51" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://fr.linkedin.com/company/centre-pompidou" target="_blank" aria-label="Linkedin" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/linkedin.svg" width="39" height="39" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://www.pinterest.fr/centrepompidou/" target="_blank" aria-label="Pinterest" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/pinterest.svg" width="50" height="50" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="http://www.deezer.com/profile/938600951/playlists" target="_blank" aria-label="Deezer" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/RS-Deezer-BLANC.svg" width="50" height="50" alt="" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://soundcloud.com/centrepompidou" target="_blank" aria-label="Soundcloud" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/soundcloud.svg" width="50" height="50" alt="Soundcloud - Centre Pompidou" />
+                        </a>
+                    
+                
+                    
+                        <a href="https://www.youtube.com/user/centrepompidou" target="_blank" aria-label="Youtube" class="mt-md-3 mt-4">
+                            <img loading="lazy" src="/fileadmin/user_upload/Logos/Reseaux_sociaux/youtube.svg" width="50" height="50" alt="Youtube - Centre Pompidou" />
+                        </a>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                        </div>
+                        <div class="footer-buttons d-flex justify-content-center mt-4">
+                            <a class="button light text-center" href="/fr/minscrire-a-la-newsletter">
+                                M&#039;inscrire à la newsletter
+                            </a>
+                            <a class="button light text-center" href="/fr/contact">
+                                Contactez-nous
+                            </a>
+                        </div>
+                        <div class="footer-columns my-5">
+                            
+<div class="columns">
+    <div class="row d-flex flex-column flex-md-row flex-md-nowrap justify-content-between">
+        
+            <div class="col">
+                
+                    <div class="group-content">
+                        <a class="group-title d-md-none collapsed" data-toggle="collapse" href="#collapse85" role="button" aria-expanded="true" aria-controls="collapse85">
+                            Le Centre Pompidou
+                            <div class="icon-fleche d-md-none d-lg-none" data-grunticon-embed></div>
+                        </a>
+                        <a class="group-title d-none d-md-block">
+                            Le Centre Pompidou
+                        </a>
+                        <div class="collapse d-md-block" id="collapse85">
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/qui-sommes-nous" target="">Qui sommes-nous ?</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/organisation" target="">Organisation</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/bilans-activite" target="">Bilans d&#039;activité</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/emplois-et-stages" target="">Emplois et stages</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/adherentes" target="">Adhérent·es</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/international" target="">International</a>
+                            
+                                <a class="footer-link" href="/fr/le-centre-pompidou/action-territoriale" target="">Action territoriale</a>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="col">
+                
+                    <div class="group-content">
+                        <a class="group-title d-md-none collapsed" data-toggle="collapse" href="#collapse64" role="button" aria-expanded="true" aria-controls="collapse64">
+                            Offre aux professionnels
+                            <div class="icon-fleche d-md-none d-lg-none" data-grunticon-embed></div>
+                        </a>
+                        <a class="group-title d-none d-md-block">
+                            Offre aux professionnels
+                        </a>
+                        <div class="collapse d-md-block" id="collapse64">
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/groupes" target="">Groupes</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/privatisations" target="">Privatisations</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/marches-publics-et-appels-a-concurrence" target="">Marchés publics et appels à concurrence</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/demandes-de-prets-et-reproductions" target="">Demandes de prêts et reproductions</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/publications-et-produits-derives" target="">Publications et produits dérivés</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/groupes/groupes-scolaires" target="">Enseignants</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/relais-du-champ-social" target="">Relais du champ social</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/catalogue-des-itinerances-pour-le-jeune-public" target="">Catalogue des itinérances pour le jeune public</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/recherche" target="">Recherche</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/acces-aux-archives-publiques" target="">Accès aux archives publiques</a>
+                            
+                                <a class="footer-link" href="/fr/offre-aux-professionnels/espace-presse" target="">Espace presse</a>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="col">
+                
+                    <div class="group-content">
+                        <a class="group-title d-md-none collapsed" data-toggle="collapse" href="#collapse2174" role="button" aria-expanded="true" aria-controls="collapse2174">
+                            Expertise et conseil
+                            <div class="icon-fleche d-md-none d-lg-none" data-grunticon-embed></div>
+                        </a>
+                        <a class="group-title d-none d-md-block">
+                            Expertise et conseil
+                        </a>
+                        <div class="collapse d-md-block" id="collapse2174">
+                            
+                                <a class="footer-link" href="/fr/lecole-du-centre-pompidou/formations-pour-entreprises" target="">Formations pour entreprises</a>
+                            
+                                <a class="footer-link" href="/fr/lecole-du-centre-pompidou/formations-pour-les-collectivites-territoriales" target="">Formations pour les collectivités territoriales</a>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="col">
+                
+                    <div class="group-content">
+                        <a class="group-title d-md-none collapsed" data-toggle="collapse" href="#collapse98" role="button" aria-expanded="true" aria-controls="collapse98">
+                            Espace Mécènes
+                            <div class="icon-fleche d-md-none d-lg-none" data-grunticon-embed></div>
+                        </a>
+                        <a class="group-title d-none d-md-block">
+                            Espace Mécènes
+                        </a>
+                        <div class="collapse d-md-block" id="collapse98">
+                            
+                                <a class="footer-link" href="/fr/espace-mecenes/merci-a-nos-mecenes" target="">Merci à nos mécènes</a>
+                            
+                                <a class="footer-link" href="/fr/espace-mecenes/amis-du-centre-pompidou" target="">Amis du Centre Pompidou</a>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+
+                        </div>
+                        <div class="my-5">
+                            
+<div class="row" hidden>
+    <div class="col-12">
+        <div class="patrons py-3 py-md-5">
+            <div class="d-flex flex-wrap justify-content-around align-items-center">
+                <p class="flex-full-width text-center mb-3 mb-lg-2 mr-lg-5">
+                    Merci aux mécènes du site
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<hr/>
+
+
+                        </div>
+                        <div class="my-5">
+                            
+    <div class="row">
+        <div class="col-12">
+            <div class="institutions">
+                <div class="d-flex flex-wrap flex-md-nowrap justify-content-md-between justify-content-center">
+                    
+                        <a href="https://www.bpi.fr/bpi" target="_blank" aria-label="Bpi" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Bpi.svg" width="156" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://www.ircam.fr/" target="_blank" aria-label="Ircam" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Ircam.svg" width="130" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://www.centrepompidou-metz.fr/" target="_blank" aria-label="CP Metz" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Metz.svg" width="119" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://centrepompidou-malaga.eu/" target="_blank" aria-label="CP Malaga" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Malaga.svg" width="110" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://kanal.brussels/fr" target="_blank" aria-label="Kanal Bruxelles" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Kanal.svg" width="175" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://www.wbmshanghai.com/en/" target="_blank" aria-label="Westbund Shanghai" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/WestBund.svg" width="126" height="99" alt="" />
+                            
+                        </a>
+                    
+                        <a href="https://www.hanwhafoundation.org/en/business/pompidou" target="_blank" aria-label="Hanwha" class="mt-3">
+                            
+                                <img loading="lazy" src="/fileadmin/user_upload/Logos/Organismes_associes/MaJ_2026_02/Hanwha.svg" width="103" height="99" alt="" />
+                            
+                        </a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                        </div>
+                        <div class="my-5">
+                            
+    <div class="row">
+        <div class="col-12">
+            <div class="autres-logos d-flex flex-wrap flex-md-nowrap justify-content-around align-items-center">
+                
+                    <a href="https://www.culture.gouv.fr/" target="_blank" aria-label="Ministère de la culture">
+                        
+                            <img loading="lazy" src="/fileadmin/user_upload/Logo-ministere-culture.svg" width="409" height="316" alt="" />
+                        
+                    </a>
+                
+            </div>
+        </div>
+    </div>
+
+
+                        </div>
+                        <div class="footer-copyright">
+                            
+<div class="legal-informations pb-4 pt-0 mb-2">
+    
+        <a href="/fr/mentions-legales" target="">
+            Mentions légales
+        </a>
+        
+            -
+        
+    
+        <a href="/fr/plan-du-site" target="">
+            Plan du site
+        </a>
+        
+            -
+        
+    
+        <a href="/fr/cgu" target="">
+            CGU
+        </a>
+        
+            -
+        
+    
+        <a href="/fr/donnees-personnelles" target="">
+            Données personnelles
+        </a>
+        
+    
+    -
+    <a href="javascript:window.Sddan.cmp.displayUI();">
+        Gestion des cookies
+    </a>
+</div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </footer>
+
+
+
+    
+<a class="scroll-top" title="Revenir en haut de page" href="#top">
+    <span class="scroll-top-icon"></span>
+</a>
+
+
+</div>
+<script src="/typo3temp/assets/compressed/merged-fcadf72f66647185d439d58c552490ae-0f58e511acd1ccf68eb9c2aaac529c43.js?1773509999"></script>
+<script src="/typo3temp/assets/compressed/merged-675b3531c17c739237fd1284322c385d-16d69b4744421ece40dbc06c1f8b4c59.js?1773310217"></script>
+
+
+</body>
+</html>
