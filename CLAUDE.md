@@ -66,10 +66,10 @@ Probabilistic AI handles reasoning. Deterministic code handles execution. This s
 
 ## Current State
 
-- **1,000 entries** in live archive, **3,217 connections**, zero broken targets
-- **11 disciplines:** Product (304), Furniture (304), Graphic (147), Architecture (70), Lighting (69), Ceramic (35), Textile (23), Glass (19), Typography (15), Metalwork (8), Transport (6)
+- **1,000 entries** in live archive, **3,208 connections**, zero broken targets
+- **11 disciplines:** Product (303), Furniture (300), Graphic (138), Architecture (71), Lighting (69), Ceramic (35), Textile (29), Glass (21), Typography (15), Metalwork (11), Transport (8)
 - Weakest disciplines: **Metalwork, Glass, Textile** — prioritise when adding
-- Entry IDs: 1–1091 (not contiguous)
+- Entry IDs: 1–1102 (not contiguous — gaps from block consolidation)
 
 ## Git Rules
 
@@ -110,9 +110,9 @@ Six typed connections — see `docs/voice-guide.md` for the full quality standar
 
 ## Overconnected Hubs — Do Not Add Without Pruning
 
-- **London Underground Map (13)** — ~105 connections
-- **606 Shelving (11)** — ~96 connections
-- **Carlton Bookcase (12)** — ~94 connections
+- **London Underground Map (13)** — ~97 connections
+- **606 Shelving (11)** — ~91 connections
+- **Carlton Bookcase (12)** — ~87 connections
 - **Penguin Books (14)**, **Pompidou (15)**, **IBM Logo (56)** — heavily connected
 
 See `docs/topology-guide.md` for the full topology rebuild plan.
@@ -171,9 +171,9 @@ The staging page at `/staging` is the editorial interface for reviewing candidat
 
 Warm cream palette (`#F6F5F0` background, `#FDFCF8` cards, `#EBE8E0` borders). DM Serif Display for titles, DM Sans for body. Deliberately restrained — museum catalogue, not tech product.
 
-**Five views:** Featured, Archive (grid), Connection Map (interactive force-directed network graph — full-bleed, dark canvas, with connection type filtering), About, Detail (entry + connection cards).
+**Five views:** Featured, Archive (grid), Connection Map (interactive network graph — full-bleed, dark canvas, with connection type filtering and Force|Radial toggle), About, Detail (entry + connection cards).
 
-**Network visualiser features:** Discipline-coloured nodes sized by connection count. Six connection type filter buttons (Argument, Lineage, Material, Same Problem, Zeitgeist, Method) — each filter reveals a different network topology from the same data. Hover/click to explore, zoom/pan, info panel with connected objects and "View entry" link. Built with HTML5 Canvas for performance at 1000+ nodes.
+**Network visualiser features:** Two modes — **Force** (physics-based force-directed layout) and **Radial** (nodes on circle perimeter grouped by discipline, Bezier arc connections). Both share: discipline-coloured nodes sized by connection count, six connection type filter buttons (Argument, Lineage, Material, Same Problem, Zeitgeist, Method), hover/click to explore, zoom/pan, info panel with connected objects and "View entry" link. Built with HTML5 Canvas for performance at 1000+ nodes. The radial view is a prototype — the Connection Map should become a designed artefact, not just a diagram. Reference material in `docs/waves-model*.jpg`.
 
 **Images:** Three-tier fallback: local `/public/images/{id}.jpg` (454 entries) → V&A framemark URL (473 entries) → Wikipedia API via `wikiTitle` field (60 entries). Remaining 13 entries show typographic fallback plates. All new images should be locally sourced. Wikipedia/Wikimedia Commons images are acceptable as fallback but not as primary manually-sourced images.
 
