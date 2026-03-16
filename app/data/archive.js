@@ -5423,7 +5423,7 @@ export const ARCHIVE = [
     "title": "Costume Design for 'King Lear'",
     "designer": "Isamu Noguchi",
     "year": 1955,
-    "discipline": "Graphic",
+    "discipline": "Textile",
     "origin": "United States",
     "manufacturer": "—",
     "collection": "Victoria & Albert Museum, London",
@@ -5446,6 +5446,16 @@ export const ARCHIVE = [
         "id": 14,
         "type": "argument",
         "reason": "Tschichold's Penguin rules (1947) specify margins and typefaces so precisely that any compositor produces the same elegant result. Noguchi's Lear costumes (1955) specify nothing — each geometric shape emerges from the sculptor's intuition about what a king or a fool looks like in abstract form. Systematic instruction and sculptural instinct, both modernist, both rigorous, one reproducible and the other unrepeatable."
+      },
+      {
+        "id": 3,
+        "type": "argument",
+        "reason": "Noguchi designs Cordelia's costume as flowing sculptural planes that only complete their form when worn — the garment is architectural until the body animates it. Castiglioni's Parentesi (1971) suspends a lamp on a floor-to-ceiling cable that only makes sense when someone adjusts it — the light is inert until the hand repositions it. Both objects are incomplete without human action, designed to be activated rather than simply used."
+      },
+      {
+        "id": 73,
+        "type": "material",
+        "reason": "Noguchi stiffens fabric into angular planes for Albany's costume — textile forced to behave like architecture, the material denying its own softness. Aalto blows glass into organic undulations for the Savoy vase (1936) — molten silica forced to behave like water, the material denying its own rigidity. Both push materials past their natural behaviour to make a formal argument."
       }
     ],
     "keywords": [
@@ -5488,11 +5498,6 @@ export const ARCHIVE = [
         "id": 27,
         "type": "zeitgeist",
         "reason": "Noguchi's table bases interlock through geometry — no hardware, no adhesive, pure sculptural joinery. Wegner's Wishbone top rail flows arm to arm in one continuous steam-bent curve — no visible joint, pure craft joinery. American sculptor and Danish master, finding elegance in how pieces meet."
-      },
-      {
-        "id": 138,
-        "type": "method",
-        "reason": "Noguchi's table: biomorphic wood bases supporting a glass plane. Noguchi's King Lear costume for Kent: angular fabric planes creating architectural volumes around a body. The same sculptor's eye — finding form that holds something up — applied to living rooms and to Shakespeare."
       }
     ],
     "keywords": [
@@ -5508,93 +5513,11 @@ export const ARCHIVE = [
     "imageUrl": "https://framemark.vam.ac.uk/collections/2010EK2512/full/800,/0/default.jpg"
   },
   {
-    "id": 138,
-    "title": "Costume design for Kent in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Angular fabric planes create architectural volumes around the human form, transforming the actor into a moving sculpture. Sharp geometric cuts eliminate decorative detail, using only essential lines to define character through abstract form. The costume functions as wearable architecture, where fabric becomes structural material defining space and movement.",
-    "significance": "Shows how modernist sculpture principles can be applied to performance design, treating costume as spatial composition rather than historical reference. It demonstrates how abstraction can convey narrative meaning more powerfully than literal representation.",
-    "connections": [
-      {
-        "id": 139,
-        "type": "sameProblem",
-        "reason": "Kent's costume: angular planes, architectural severity, a soldier's geometry. Cordelia's costume: flowing curves, organic movement, a daughter's tenderness. Noguchi uses the same abstract vocabulary to say opposite things — sharp for loyalty, soft for love."
-      },
-      {
-        "id": 140,
-        "type": "argument",
-        "reason": "Kent's angular planes express rigid duty. The Fool's fragmented shapes express deliberate chaos. Noguchi gives each character a geometry: the loyal soldier gets architecture, the truth-teller gets collage."
-      },
-      {
-        "id": 12,
-        "type": "method",
-        "reason": "Noguchi wraps actors in geometric planes so they stop being people and start being shapes. Sottsass wraps shelves in coloured laminate so they stop being furniture and start being sculpture. Abstraction as transformation — applied to the body in 1955, applied to the living room in 1981."
-      }
-    ],
-    "keywords": [
-      "geometric abstraction",
-      "wearable architecture",
-      "sculptural costume",
-      "modernist theater",
-      "architectural form",
-      "character through abstraction",
-      "spatial composition"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2236/full/800,/0/default.jpg"
-  },
-  {
-    "id": 139,
-    "title": "Costume design for Cordelia in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Flowing curved panels create organic volumes that move with the body while maintaining sculptural integrity. The design balances structural definition with fluid movement, using continuous lines rather than angular breaks. Fabric becomes a medium for expressing character through pure form, with curves suggesting grace and vulnerability without literal costume elements.",
-    "significance": "Demonstrates how the same designer can use contrasting formal languages within a unified system to differentiate character types. It reveals how abstract form can carry emotional and narrative content more effectively than representational imagery.",
-    "connections": [
-      {
-        "id": 141,
-        "type": "lineage",
-        "reason": "Cordelia's flowing curves carry into her drummer's costume — but layered, more complex, ceremonial. Noguchi building a visual language for one character and then elaborating it across her retinue."
-      },
-      {
-        "id": 3,
-        "type": "argument",
-        "reason": "Noguchi designs Cordelia's costume as flowing sculptural planes that move with the actor's body — form follows performance. Castiglioni designs the Parentesi as a bracket that slides to wherever you need light — form follows use. Both are incomplete without human action: the costume needs the body, the lamp needs the hand."
-      },
-      {
-        "id": 63,
-        "type": "zeitgeist",
-        "reason": "Noguchi's flowing costume panels (1955) and Breuer's cantilevered Cesca (1928) — organic curves serving the body in fabric and steel, theatrical fluidity and structural spring"
-      }
-    ],
-    "keywords": [
-      "organic curves",
-      "flowing form",
-      "sculptural costume",
-      "character differentiation",
-      "movement design",
-      "abstract narrative",
-      "fluid geometry"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2239/full/800,/0/default.jpg"
-  },
-  {
     "id": 140,
     "title": "Costume design for the Fool in 'King Lear'",
     "designer": "Isamu Noguchi",
     "year": 1955,
-    "discipline": "Graphic",
+    "discipline": "Textile",
     "origin": "United States",
     "manufacturer": "—",
     "collection": "Victoria & Albert Museum, London",
@@ -5629,168 +5552,6 @@ export const ARCHIVE = [
       "theatrical abstraction"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2240/full/800,/0/default.jpg"
-  },
-  {
-    "id": 141,
-    "title": "Costume design for Cordelia's drummer in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Layered flowing elements create complex spatial relationships while maintaining the organic vocabulary established for Cordelia's character. The design adds structural complexity through overlapping planes that suggest both armor and drapery without representing either literally. Multiple layers create depth and movement while preserving the essential curved geometry of the character family.",
-    "significance": "Demonstrates how a formal system can be developed across hierarchical relationships, with supporting characters extending rather than contradicting the primary character's visual language. It reveals how systematic variation creates coherent visual narratives.",
-    "connections": [
-      {
-        "id": 32,
-        "type": "method",
-        "reason": "Noguchi's layered costume elements create organic spatial complexity — Wirkkala's charred-mould glass creates organic surface complexity. Both let material behaviour (fabric drape, glass meeting charred wood) generate the final form"
-      },
-      {
-        "id": 36,
-        "type": "material",
-        "reason": "Noguchi's layered flowing costume elements create organic spatial complexity in fabric — Jacobsen's Cylinda-Line achieves geometric unity across an entire tableware service in stainless steel. Organic complexity against geometric system"
-      },
-      {
-        "id": 30,
-        "type": "zeitgeist",
-        "reason": "Noguchi's layered flowing costume elements for King Lear and Panton's single flowing polypropylene curve — both create complex spatial presence from continuous surfaces, theatrical drapery and moulded plastic reaching similar formal language"
-      }
-    ],
-    "keywords": [
-      "layered composition",
-      "character hierarchy",
-      "systematic variation",
-      "organic architecture",
-      "modular costume",
-      "spatial complexity",
-      "material flexibility"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2241/full/800,/0/default.jpg"
-  },
-  {
-    "id": 142,
-    "title": "Costume design for Albany in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Noguchi reduces character to geometric form, translating Shakespeare's duplicitous Albany into angular planes that suggest both armor and architectural structure. The design eliminates representational detail in favor of sculptural mass, treating costume as three-dimensional form that shapes the actor's movement. Lines define spatial relationships rather than decorative elements.",
-    "significance": "Shows how modernist reduction can serve narrative function — the geometric abstraction doesn't abandon meaning but concentrates it into essential form. Demonstrates costume design as spatial design, where the body becomes architecture.",
-    "connections": [
-      {
-        "id": 143,
-        "type": "sameProblem",
-        "reason": "Albany: angular planes suggesting armour and deception. Cornwall: flowing forms suggesting drapery and landscape. Noguchi reading Shakespeare's nobles through geometry — sharp edges for the schemer, soft curves for the brute."
-      },
-      {
-        "id": 13,
-        "type": "zeitgeist",
-        "reason": "Noguchi’s Albany costume reduces character to angular planes — you read the shape before the person. Beck’s map reduces geography to angled lines — you read the diagram before the city. 1950s faith that geometric abstraction communicates faster than representation."
-      },
-      {
-        "id": 73,
-        "type": "material",
-        "reason": "Noguchi's Albany costume (1955): stiffened fabric planes creating angular armour — the textile refusing to drape, becoming architecture on the body. Aalto's Savoy vase (1936): molten glass refusing to settle into symmetry, becoming landscape on the table. Two materials forced past their natural behaviour."
-      }
-    ],
-    "keywords": [
-      "geometric abstraction",
-      "theatrical design",
-      "sculptural costume",
-      "modernist theater",
-      "spatial form",
-      "character reduction",
-      "abstract narrative",
-      "body architecture"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2237/full/800,/0/default.jpg"
-  },
-  {
-    "id": 143,
-    "title": "Costume design for Cornwall in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Noguchi transforms Cornwall into flowing geometric forms that suggest both drapery and landscape, using curved planes to create volume without representational detail. The design treats the body as an armature for abstract sculpture, where costume becomes environmental rather than decorative. Organic curves contrast with the rigid geometry elsewhere in his King Lear series.",
-    "significance": "Demonstrates how abstraction can encode psychological difference — the fluid forms suggest Cornwall's moral flexibility versus other characters' geometric rigidity. Shows costume design as environmental design, where clothing shapes space around the body.",
-    "connections": [
-      {
-        "id": 144,
-        "type": "sameProblem",
-        "reason": "Cornwall's curved planes suggest moral ambiguity — nothing quite settles. Edgar's broken geometries suggest psychological fracture — nothing holds together. Noguchi's costumes as diagnostic tools: the shape tells you what's wrong with the character."
-      },
-      {
-        "id": 63,
-        "type": "zeitgeist",
-        "reason": "Noguchi's flowing geometric forms for Cornwall and Breuer's cantilevered steel for the Cesca — both achieve grace through continuous curves, in stage costume and furniture"
-      },
-      {
-        "id": 9,
-        "type": "argument",
-        "reason": "Noguchi’s Cornwall costume makes the actor more powerful on stage — sculptural form enhances dramatic function. The Juicy Salif makes the user less competent in the kitchen — sculptural form undermines practical function. Form serving performance vs. form defeating it."
-      }
-    ],
-    "keywords": [
-      "organic geometry",
-      "flowing forms",
-      "environmental costume",
-      "sculptural drapery",
-      "character abstraction",
-      "theatrical space",
-      "moral visualization",
-      "body architecture"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2238/full/800,/0/default.jpg"
-  },
-  {
-    "id": 144,
-    "title": "Costume design for Edgar in 'King Lear'",
-    "designer": "Isamu Noguchi",
-    "year": 1955,
-    "discipline": "Graphic",
-    "origin": "United States",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Abstract Expressionist Theater",
-    "wikiTitle": null,
-    "description": "Noguchi fragments Edgar into broken geometric planes that suggest both madness and disguise, using jagged lines and interrupted forms to visualize the character's psychological fracture. The design abandons symmetry and wholeness, creating a costume that appears to be falling apart while maintaining structural integrity. Angular breaks encode Edgar's feigned madness as Poor Tom.",
-    "significance": "Shows how formal fragmentation can serve narrative purpose — the broken geometry doesn't just represent madness but performs it through visual disruption. Demonstrates costume as psychological architecture, where form embodies mental state.",
-    "connections": [
-      {
-        "id": 45,
-        "type": "argument",
-        "reason": "Noguchi uses jagged broken planes to express Edgar's madness — Saarinen uses sweeping concrete curves to express flight's exhilaration. Both translate psychological states into spatial form, through fragmentation and flow"
-      },
-      {
-        "id": 30,
-        "type": "zeitgeist",
-        "reason": "Noguchi fragments Edgar into jagged geometric planes, Panton unifies the chair into one seamless S-curve — opposite formal strategies (fragmentation versus continuity) both departing from naturalistic representation"
-      }
-    ],
-    "keywords": [
-      "fragmented geometry",
-      "psychological costume",
-      "broken symmetry",
-      "madness visualization",
-      "theatrical disruption",
-      "structural instability",
-      "character psychology",
-      "abstract narrative"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2023NL2242/full/800,/0/default.jpg"
   },
   {
     "id": 145,
@@ -15263,6 +15024,16 @@ export const ARCHIVE = [
         "id": 15,
         "type": "zeitgeist",
         "reason": "Vinci’s Weeds, Aliens treats furniture as conceptual art — the object provokes before it functions. The Pompidou treats architecture as conceptual art — the building provokes before it houses. The designed environment as intellectual proposition."
+      },
+      {
+        "id": 283,
+        "type": "zeitgeist",
+        "reason": "Vinci's Weeds (2000) imagines furniture reclaimed by nature — organic forms colonising the domestic object until it becomes unrecognisable. Extinction Rebellion's placard (2018) demands that nature reclaim the political agenda — urgent graphics colonising public space until it becomes uncomfortable. Ecological anxiety as speculative horror and as political emergency."
+      },
+      {
+        "id": 327,
+        "type": "method",
+        "reason": "Vinci's Weeds chair (2000) grows organic protrusions from a seat until the furniture becomes hostile to the body. Grcic's Chair_One (2004) fragments a seat into triangulated aluminium facets until the furniture becomes confrontational to the eye. Both make sitting uncomfortable on purpose — Vinci biologically, Grcic geometrically."
       }
     ],
     "keywords": [
@@ -15276,236 +15047,6 @@ export const ARCHIVE = [
       "millennium design"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3731/full/800,/0/default.jpg"
-  },
-  {
-    "id": 375,
-    "title": "Weeds, Aliens and Other Stories: Number Two",
-    "designer": "Salvatore Vinci",
-    "year": 2000,
-    "discipline": "Furniture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Conceptual Furniture",
-    "wikiTitle": null,
-    "description": "The second piece in Vinci's series extends his exploration of furniture as biological entity, featuring more pronounced growth-like appendages and surface treatments that suggest contamination or mutation. The piece challenges the boundary between functional object and parasitic growth, creating seating that appears to have infected domestic space. Its form resists categorization, functioning somewhere between chair, sculpture, and organism.",
-    "significance": "This work It demonstrates that furniture can be a critique of hygiene, domesticity, and human control over objects. It demonstrates how design can make users conscious of their relationship with materials and forms by deliberately creating uncomfortable encounters with familiar typologies.",
-    "connections": [
-      {
-        "id": 374,
-        "type": "lineage",
-        "reason": "Sequential development of the same conceptual framework, with Number Two pushing the biological metaphor into more explicitly parasitic territory"
-      },
-      {
-        "id": 45,
-        "type": "argument",
-        "reason": "Vinci explores furniture as biological entity growing beyond human control — Saarinen's TWA terminal appears to grow organically from its site like a living creature. Both blur the boundary between designed object and natural organism"
-      },
-      {
-        "id": 39,
-        "type": "zeitgeist",
-        "reason": "Vinci's Weeds (2000): furniture that appears to have grown rather than been made — organic mutations challenging the designed object. The Eames LCW (1946): plywood that appears to have adapted to the body — moulded curves challenging the rigid frame. Biological metaphor and material engineering: two ways of making furniture feel alive."
-      },
-      {
-        "id": 260,
-        "type": "method",
-        "reason": "Vinci's biological furniture grows beyond human control — Grange's modular hook system extends through human configuration. Organic unpredictability against systematic modularity, both exploring how objects develop"
-      }
-    ],
-    "keywords": [
-      "biological metaphor",
-      "parasitic design",
-      "domestic infection",
-      "furniture mutation",
-      "organic appendages",
-      "hygiene critique",
-      "uncomfortable seating",
-      "post-millennial anxiety"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3729/full/800,/0/default.jpg"
-  },
-  {
-    "id": 376,
-    "title": "Weeds, Aliens and Other Stories: Number Three",
-    "designer": "Salvatore Vinci",
-    "year": 2000,
-    "discipline": "Furniture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Conceptual Furniture",
-    "wikiTitle": null,
-    "description": "The third iteration develops Vinci's concept toward more explicit alien morphology, with forms that suggest both plant-like growth and technological implants. The piece creates a hybrid between organic and mechanical aesthetics, as if furniture has been colonized by some form of bio-technology. Its surface treatments and protrusions create multiple scales of detail, demanding close inspection while resisting comfortable use.",
-    "significance": "The work reveals how furniture can embody anxieties about technology, biology, and human agency. This piece demonstrates that design can function as speculative fiction, imagining futures where objects have their own evolutionary agenda independent of human needs or desires.",
-    "connections": [
-      {
-        "id": 375,
-        "type": "lineage",
-        "reason": "Continuation of the series logic, with Number Three introducing technological elements that suggest bio-mechanical colonization rather than pure biological growth"
-      },
-      {
-        "id": 149,
-        "type": "argument",
-        "reason": "Vinci's alien morphology pushes furniture toward unrecognisable organic form — nendo's Cord Chair wraps familiar steel frame in a continuous cord, staying recognisable. Both challenge furniture's formal boundaries, from opposite directions"
-      },
-      {
-        "id": 262,
-        "type": "zeitgeist",
-        "reason": "Vinci's Weeds Number Three (2000): speculative furniture that seems to bypass manufacture — objects as autonomous organisms. Calvert's Women at Work (2017): a road sign that bypasses its original brief — a functional pictogram becoming a feminist icon. Two objects that outgrew their designer's intentions."
-      },
-      {
-        "id": 274,
-        "type": "method",
-        "reason": "Vinci's Weeds (2000): organic forms suggesting furniture that has evolved like a plant — biological metaphor as design critique. Conran's Plant Life (1955): stylised botanicals decorating a ceramic plate — natural observation as decorative motif. One treats nature as a conceptual weapon; the other treats it as a visual resource."
-      }
-    ],
-    "keywords": [
-      "bio-technology",
-      "alien morphology",
-      "hybrid aesthetics",
-      "speculative furniture",
-      "technological colonization",
-      "evolutionary independence",
-      "multi-scale detail",
-      "future anxiety"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3733/full/800,/0/default.jpg"
-  },
-  {
-    "id": 377,
-    "title": "Weeds, Aliens and Other Stories: Number Six",
-    "designer": "Salvatore Vinci",
-    "year": 2000,
-    "discipline": "Furniture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Conceptual Furniture",
-    "wikiTitle": null,
-    "description": "Number Six in the series presents perhaps the most aggressive interpretation of Vinci's concept, with sharp, angular protrusions that suggest both organic spines and technological antennae. The piece actively repels conventional use through its hostile surface treatments and unpredictable geometry. It functions as furniture that has developed its own defensive mechanisms, protecting itself from human interaction rather than facilitating it.",
-    "significance": "This work It reveals how furniture can embody resistance to human dominance over objects. It demonstrates that design can critique anthropocentrism by creating objects that appear to have their own agency and defensive strategies, challenging the assumption that all designed objects exist solely for human benefit.",
-    "connections": [
-      {
-        "id": 376,
-        "type": "lineage",
-        "reason": "Development of the series toward more explicitly defensive and hostile forms, suggesting evolutionary adaptation against human use"
-      },
-      {
-        "id": 283,
-        "type": "zeitgeist",
-        "reason": "Vinci's furniture (2000) imagines nature reclaiming designed objects — ecology as speculative horror. XR's placards (2019) demand humans protect nature from designed systems — ecology as political emergency. Two responses to environmental crisis: one imagines what happens if we lose, one demands that we don't."
-      },
-      {
-        "id": 327,
-        "type": "method",
-        "reason": "Vinci's Weeds (2000): furniture as biological anxiety — objects that resist domestication. Grcic's Chair One (2002): furniture as structural rigour — objects that resist formal compromise. Two chairs that feel uncomfortable for different reasons: one because it's alien, one because it's unforgiving."
-      }
-    ],
-    "keywords": [
-      "defensive furniture",
-      "hostile surfaces",
-      "anti-human design",
-      "object agency",
-      "anthropocentric critique",
-      "evolutionary defense",
-      "sharp protrusions",
-      "resistant objects"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3738/full/800,/0/default.jpg"
-  },
-  {
-    "id": 378,
-    "title": "Weeds, Aliens and Other Stories: Number Seven",
-    "designer": "Salvatore Vinci",
-    "year": 2000,
-    "discipline": "Furniture",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Conceptual Furniture",
-    "wikiTitle": null,
-    "description": "The final piece in the series achieves full alien transformation, presenting furniture that has completely abandoned human-centered design logic. Its forms suggest complete evolutionary independence, with structures that appear to serve the object's own mysterious purposes rather than any recognizable human function. The piece functions as a monument to post-human design possibilities, imagining furniture after human civilization.",
-    "significance": "The work presents here the ultimate challenge to anthropocentric design thinking. This piece demonstrates how conceptual design can imagine post-human futures, using furniture as a vehicle for considering what objects might become if freed from serving human needs and desires.",
-    "connections": [
-      {
-        "id": 377,
-        "type": "lineage",
-        "reason": "Culmination of the series evolution, achieving complete independence from human-centered design logic and functional expectations"
-      },
-      {
-        "id": 150,
-        "type": "argument",
-        "reason": "Vinci's final piece achieves full alien transformation in furniture — Henningsen's Artichoke arranges 72 copper leaves in precise rows. Both inspired by organic form: Vinci surrendering to it, Henningsen engineering it"
-      },
-      {
-        "id": 328,
-        "type": "zeitgeist",
-        "reason": "Vinci's Weeds (2000): conceptual furniture as intellectual provocation — the object as thesis. Holdaway's Tomotom (1967): Pop furniture as spatial experiment — the object as environment. Two pieces that care more about what furniture means than what furniture does."
-      },
-      {
-        "id": 135,
-        "type": "method",
-        "reason": "Vinci's Weeds (2000): speculative furniture imagining post-human evolution — objects that might design themselves. Baresel-Bofinger's Bofinger Chair (1964): injection-moulded plastic imagining democratic mass production — objects that anyone can afford. Two visions of furniture's future, one philosophical, one practical."
-      }
-    ],
-    "keywords": [
-      "post-human design",
-      "alien evolution",
-      "furniture independence",
-      "speculative objects",
-      "non-anthropocentric form",
-      "design transcendence",
-      "object autonomy",
-      "evolutionary completion"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3737/full/800,/0/default.jpg"
-  },
-  {
-    "id": 379,
-    "title": "Number four in series of \"Weeds, Aliens and Other Stories-Psychological Furniture for the Home and Garden\"",
-    "designer": "Salvatore Vinci",
-    "year": 2000,
-    "discipline": "Graphic",
-    "origin": "London",
-    "manufacturer": "—",
-    "collection": "Victoria & Albert Museum, London",
-    "movement": "Conceptual Documentation",
-    "wikiTitle": null,
-    "description": "This photograph documents Vinci's investigation into furniture as psychological architecture, capturing how domestic objects can embody narratives of alienation and belonging. The image serves as both documentation and conceptual statement, questioning the boundary between furniture and sculpture, function and meaning.",
-    "significance": "It is important to understand how documentation becomes part of the design argument itself. This work demonstrates how contemporary designers use photography not just to record objects but to construct critical narratives about design's role in shaping psychological space.",
-    "connections": [
-      {
-        "id": 331,
-        "type": "lineage",
-        "reason": "Vinci photographs his speculative furniture as psychological narrative — the image argues for the object's disturbing autonomy. Wright designs his high-backed chair as architectural narrative — the form argues for the building's spatial authority. Two designers using furniture to tell stories about power — one biological, one architectural."
-      },
-      {
-        "id": 12,
-        "type": "argument",
-        "reason": "Vinci photographs his furniture to extend its argument beyond the physical object. Sottsass designed Carlton to be photographed — it works as image before it works as storage. Furniture that exists for the camera more than for the room."
-      },
-      {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "Vinci asks what furniture does to your psyche. Piano and Rogers ask what architecture does to your city. Both insist that the built environment acts on people rather than passively containing them."
-      },
-      {
-        "id": 262,
-        "type": "method",
-        "reason": "Vinci's Weeds photographs (2000) make the documentation as important as the object — the image extends the argument. Calvert's Women at Work (2017) makes the reinterpretation as important as the original sign — the context extends the meaning. Two projects where the frame around the work does as much as the work itself."
-      }
-    ],
-    "keywords": [
-      "psychological furniture",
-      "conceptual documentation",
-      "narrative design",
-      "domestic alienation",
-      "critical photography",
-      "furniture theory",
-      "spatial psychology",
-      "design documentation"
-    ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2024NV3736/full/800,/0/default.jpg"
   },
   {
     "id": 380,
@@ -17192,11 +16733,6 @@ export const ARCHIVE = [
         "id": 424,
         "type": "lineage",
         "reason": "Fukasawa's earlier Infobar established the design language of intuitive button layout and surface treatment that NEON refines into even more essential form"
-      },
-      {
-        "id": 377,
-        "type": "method",
-        "reason": "Fukasawa's NEON phone (2006): the interface recedes until only the gesture remains. Vinci's Weeds chair (2000): the object recedes until only the botanical form remains. Two designers pursuing disappearance — of technology and of furniture."
       },
       {
         "id": 10,
@@ -42337,6 +41873,444 @@ export const ARCHIVE = [
         "id": 952,
         "type": "sameProblem",
         "reason": "Pavel Hlava's 1960 Bohemian Glass Sculpture (Nový Bor Glassworks) uses melted and cast glass to produce abstract plastic forms — glass treated as a sculptural mass with volume and presence rather than as a container or optical device. Woffenden's 2016 Midwife II uses kiln-cast glass as a sculptural mass in which figurative content is embedded. Both treat glass as a material for volume-based work that exists in three dimensions rather than as surface or vessel. The Czech tradition Hlava works within and the British studio tradition Woffenden works within arrive at the same proposition: glass as sculpture, not glass as craft."
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "title": "Silver Leaf Dish TW 11",
+    "designer": "Tapio Wirkkala",
+    "year": 1954,
+    "discipline": "Metalwork",
+    "manufacturer": "Kultakeskus Oy",
+    "origin": "Finland",
+    "description": "A sterling silver dish hand-hammered into a leaf form — the veins radiating from stem to tip are raised from beneath, each ridge formed by individual hammer blows against a wooden form. Wirkkala worked the silver from a flat sheet into a three-dimensional leaf whose curvature follows no botanical species exactly but reads as unmistakably organic. The underside retains every hammer mark — a topography of labour. The TW 11 translates the same organic sensibility Wirkkala applied to his celebrated plywood leaf platters into precious metal, where every blow is permanent and irreversible.",
+    "significance": "Wirkkala proved that hand-raising — the oldest silversmithing technique — could produce objects as formally radical as anything from industrial production. The silver dishes for Kultakeskus represent the pinnacle of his metalwork, demonstrating that material intelligence and process knowledge can generate form without recourse to geometry, historical reference, or industrial tooling. Where his plywood leaves (1951) could be sanded and corrected, the silver demands commitment — each hammer strike is final.",
+    "movement": "Finnish Organic Modernism",
+    "collection": "EMMA (Espoo Museum of Modern Art); Design Museum, Helsinki; British Museum, London",
+    "keywords": [
+      "hand-hammered",
+      "sterling silver",
+      "Kultakeskus",
+      "leaf form",
+      "organic modernism",
+      "Finnish silversmithing"
+    ],
+    "imageUrl": "/images/1092.jpg",
+    "connections": [
+      {
+        "id": 32,
+        "type": "method",
+        "reason": "Wirkkala's Ultima Thule (1968) chars wooden moulds to make glass record its own formation — the ice-crystal surface is a by-product of fire meeting silica. His Silver Leaf Dish (1951) hammers metal ten thousand times to make silver record its own shaping — the vein pattern is a by-product of hand meeting sheet. Both objects wear their making on their surface."
+      },
+      {
+        "id": 840,
+        "type": "argument",
+        "reason": "Koppel's Pitcher 1017 (1948) hand-raises silver into biomorphic curves so fluid the material disappears — mirror-polished, seamless, sculptural. Wirkkala's Silver Leaf Dish (1954) hand-raises silver into a form so textured every hammer blow remains visible. Both hand-raised silver, both organic — but Koppel erases the process and Wirkkala indexes it."
+      },
+      {
+        "id": 789,
+        "type": "lineage",
+        "reason": "Wirkkala's Silver Leaf Dish (1954) raises silver from flat sheet into leaf form, leaving every hammer mark as surface texture. Hiroshi Suzuki's vessels (2005) raise silver into wave forms, leaving every planishing mark as landscape. Fifty years apart, the same technique — but Wirkkala's leaf is still recognisably a thing in the world, and Suzuki's waves have left representation behind entirely."
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "title": "La Cornuta Espresso Machine",
+    "designer": "Gio Ponti, Antonio Fornaroli & Alberto Rosselli",
+    "year": 1948,
+    "discipline": "Metalwork",
+    "manufacturer": "La Pavoni",
+    "origin": "Italy",
+    "description": "An espresso machine in chrome-plated steel whose body rises from a hexagonal base into a domed crown — part Milanese cathedral, part industrial boiler. The horizontal brewing groups project from the cylindrical body like horns (cornuta means 'horned'). Ponti, working with Fornaroli and Rosselli, treated the espresso machine not as kitchen equipment but as civic architecture in miniature, giving it the formal dignity of a baptismal font. Ponti described it as achieving 'the perfect simplicity of certain wind instruments.' Only two examples survive; one is in MUMAC, restored from a Roman coastal hotel.",
+    "significance": "La Cornuta marks the moment Italian espresso culture became a design problem. Ponti understood that the bar machine is the centrepiece of a social ritual — it needs presence, not anonymity. As the first horizontal-boiler lever machine, it also represented a technical innovation: all mechanisms enclosed within three volumes. It set the template for Italian espresso machine design as performance object, a line that runs through Giugiaro's Logica to Sapper's 9090.",
+    "movement": "Italian Rationalism",
+    "collection": "MUMAC (Museo della Macchina per Caffè), Milan",
+    "keywords": [
+      "espresso",
+      "chrome-plated steel",
+      "La Pavoni",
+      "horizontal boiler",
+      "bar culture",
+      "lever machine"
+    ],
+    "imageUrl": "/images/1093.jpg",
+    "connections": [
+      {
+        "id": 6,
+        "type": "method",
+        "reason": "Ponti's Superleggera (1957) strips a dining chair to 1.7kg — structure as reduction, every gram justified. His La Cornuta (1948, with Fornaroli and Rosselli) loads an espresso machine with hexagonal geometry, domed crown, and gargoyle group heads — structure as accumulation, every surface dignified. The same designer making opposite arguments about how much form a function needs."
+      },
+      {
+        "id": 1047,
+        "type": "lineage",
+        "reason": "Ponti's La Cornuta (1948) treats the espresso machine as civic architecture — a chrome-plated steel monument for the bar counter, demanding attention. Sapper's 9090 (1978) treats the stovetop espresso maker as precision engineering — a stainless steel cylinder for the kitchen, demanding respect. The commercial machine became domestic, the baroque became minimal, but both insist that making coffee is a design problem worth solving properly."
+      },
+      {
+        "id": 649,
+        "type": "argument",
+        "reason": "Brandt's MT49 (1924) reduces a tea infuser to hemisphere, handle, strainer — Bauhaus geometry applied to hot-water ritual, every form answering a function. Ponti, Fornaroli and Rosselli's La Cornuta (1948) inflates an espresso machine to cathedral scale — hexagonal base, domed crown, projecting gargoyles, every form exceeding its function. Two approaches to the ceremony of hot drinks: Brandt strips it bare, Ponti dresses it up."
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "title": "Tea Service",
+    "designer": "Jean Puiforcat",
+    "year": 1922,
+    "discipline": "Metalwork",
+    "manufacturer": "Puiforcat (orfèvrerie)",
+    "origin": "France",
+    "description": "A tea and coffee service in sterling silver with lapis lazuli finials, ivory handle spacers, and gold details. Each vessel is built from intersecting geometric solids — the teapot a truncated cone meeting a hemisphere, the handles socketed into silver mounts with ivory insulators. Puiforcat applied mathematical proportioning systems derived from the golden ratio to determine every dimension. The lapis lazuli blossoms capping each lid are among his earliest departures from naturalism — mineral geometry replacing floral ornament.",
+    "significance": "Puiforcat proved that Art Deco silver could be rigorous, not merely decorative. Where most 1920s French silver applied geometric ornament to traditional forms, Puiforcat rebuilt the forms themselves from geometric first principles. He co-founded the Union des Artistes Modernes and is the missing link between Dresser's proto-industrial geometry and postwar Scandinavian silver — the person who made mathematics a valid silversmithing method.",
+    "movement": "Art Deco",
+    "collection": "Metropolitan Museum of Art, New York; Musée des Arts Décoratifs, Paris",
+    "keywords": [
+      "sterling silver",
+      "lapis lazuli",
+      "ivory",
+      "golden ratio",
+      "Art Deco",
+      "geometric",
+      "tea service"
+    ],
+    "imageUrl": "/images/1094.jpg",
+    "connections": [
+      {
+        "id": 650,
+        "type": "lineage",
+        "reason": "Dresser's Claret Jug (1879) applies geometric radicalism to silver pouring vessels forty-five years before anyone else dares — triangular profile, rod legs, no ornament. Puiforcat's Tea Service (1922) applies geometric radicalism to silver tea vessels with full mathematical justification — golden ratio proportions, truncated cones, hemispheres. Dresser arrived at geometry by instinct; Puiforcat arrived at geometry by calculation. The destination is the same."
+      },
+      {
+        "id": 840,
+        "type": "argument",
+        "reason": "Puiforcat's Tea Service (1922) builds silver vessels from intersecting geometric solids — cone meets hemisphere, every dimension calculated from the golden ratio. Koppel's Pitcher 1017 (1948) shapes silver into biomorphic curves that follow no geometric rule at all — the form is sculptural intuition, not mathematical proof. Geometry against biology in silver."
+      },
+      {
+        "id": 36,
+        "type": "lineage",
+        "reason": "Puiforcat's Tea Service (1922) uses mathematical systems to generate silver tea vessels from geometric solids — each piece a calculated intersection of cones and spheres. Jacobsen's Cylinda-Line (1967) uses a single geometric rule — the cylinder — to generate an entire tableware family in stainless steel. Puiforcat's system is proportional; Jacobsen's is typological. Both prove that a mathematical discipline can replace decorative tradition in metalwork."
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "title": "Fazzoletto Vase",
+    "designer": "Fulvio Bianconi & Paolo Venini",
+    "year": 1948,
+    "discipline": "Glass",
+    "manufacturer": "Venini",
+    "origin": "Italy",
+    "description": "A blown glass vase formed by draping a disc of molten glass over a cylindrical mould — the glass slumps under gravity into irregular folds resembling a handkerchief (fazzoletto). The form is different every time because the glass falls where it will; the glassblower controls only the starting conditions. Produced using the incamiciato technique — two layers of glass with at least one opaque layer — as well as transparent colours and the signature a fili technique with embedded coloured canes.",
+    "significance": "The Fazzoletto is the most important postwar Murano object because it turns the limitations of hot glass into a design principle. Instead of fighting gravity, Bianconi and Venini collaborated with it — each vase is a negotiation between intention and physics. It anticipates by decades the computational design interest in controlled randomness and generative form. It also proved that a single gesture — drape — could sustain an entire production line for seventy-five years.",
+    "movement": "Italian Modernism / Murano Glass",
+    "collection": "MoMA, New York; Metropolitan Museum of Art, New York; V&A, London",
+    "keywords": [
+      "blown glass",
+      "Murano",
+      "handkerchief",
+      "gravity",
+      "incamiciato",
+      "a fili",
+      "controlled randomness"
+    ],
+    "imageUrl": "/images/1095.jpg",
+    "connections": [
+      {
+        "id": 646,
+        "type": "method",
+        "reason": "Scarpa's Battuto vases (1940) grind the surface of blown glass with an abrasive wheel — hundreds of facets cut after the blowing is finished, a subtractive process that contradicts the material's molten origins. Bianconi and Venini's Fazzoletto (1949) drapes molten glass over a mould and lets gravity finish the form — an additive surrender that celebrates the material's liquid state. Both Murano, both Venini glassworks, but Scarpa fights the glass and Bianconi lets it fall."
+      },
+      {
+        "id": 32,
+        "type": "zeitgeist",
+        "reason": "Wirkkala's Ultima Thule (1968) uses charred moulds to make glass surfaces unpredictable — fire and silica co-authoring texture. Bianconi's Fazzoletto (1949) uses gravity to make glass forms unpredictable — weight and viscosity co-authoring shape. Both designers hand control to physics and accept whatever the material gives back."
+      },
+      {
+        "id": 788,
+        "type": "lineage",
+        "reason": "Bianconi's Fazzoletto (1949) lets a single disc of molten glass drape into folds — one gesture, gravity as co-designer. Chihuly's Seaform series (1980) lets blown glass shells nest and tumble into compositions — multiple gestures, gravity as choreographer. The Fazzoletto proved that glass could be authored by physics; Chihuly built an entire practice on scaling that permission up."
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "title": "Cameo Glass Vase",
+    "designer": "Émile Gallé",
+    "year": 1900,
+    "discipline": "Glass",
+    "manufacturer": "Établissements Gallé",
+    "origin": "France",
+    "description": "A multilayered glass vase created by casing — building up successive layers of differently coloured glass, then carving back through them with acid etching and wheel-cutting to reveal botanical imagery in relief. Gallé developed marqueterie de verre, embedding pre-formed glass elements into the hot body, and intercalaire techniques, trapping metallic foils and coloured powders between layers. Each vase required multiple firings and could take weeks to complete. The botanical subjects — orchids, ferns, dragonflies — are observed with a naturalist's precision; Gallé held a degree in botany.",
+    "significance": "Gallé treated glass as a medium for scientific illustration carried out at kiln temperature. His layering and carving techniques gave glass the depth and translucency of painting — light passing through the carved layers creates effects impossible in any other medium. He founded the École de Nancy, making Art Nouveau glass a regional industry. The vases prove that technical virtuosity and natural observation can produce objects of genuine formal complexity without recourse to geometric abstraction.",
+    "movement": "Art Nouveau",
+    "collection": "Musée de l'École de Nancy; V&A, London; Metropolitan Museum of Art, New York",
+    "keywords": [
+      "cameo glass",
+      "acid etching",
+      "marqueterie de verre",
+      "Art Nouveau",
+      "Nancy",
+      "botanical",
+      "multilayered"
+    ],
+    "imageUrl": "/images/1096.jpg",
+    "connections": [
+      {
+        "id": 837,
+        "type": "argument",
+        "reason": "Lalique's vase (1924) moulds glass into geometric Art Deco patterns — pressed, repeated, opalescent, the ornament generated by the mould. Gallé's cameo vases (1900) layer and carve glass into botanical scenes — built up, cut back, unique, the ornament generated by the hand. Both French master glassmakers, but Lalique industrialises ornament and Gallé crafts it."
+      },
+      {
+        "id": 664,
+        "type": "zeitgeist",
+        "reason": "Guimard's Métro entrances (1900) cast iron into organic plant forms — tendrils, seed pods, stems growing from the pavement. Gallé's cameo vases (1900) carve glass into botanical subjects — orchids, ferns, dragonflies emerging from layered colour. Both Paris 1900, both Art Nouveau, both insisting that nature is a source for structure, not just decoration — but Guimard's plants are public infrastructure and Gallé's are private contemplation."
+      },
+      {
+        "id": 646,
+        "type": "argument",
+        "reason": "Scarpa's Battuto (1940) grinds glass surfaces into geometric facets — modernist abstraction applied to Murano tradition. Gallé's cameo vases (1900) carve glass surfaces into naturalistic botany — scientific observation applied to Nancy tradition. Both are subtractive processes on layered glass, both demand weeks of skilled labour, but Scarpa removes to reveal geometry and Gallé removes to reveal nature."
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "title": "The Dark River",
+    "designer": "Lenore Tawney",
+    "year": 1962,
+    "discipline": "Textile",
+    "manufacturer": "Studio production",
+    "origin": "United States",
+    "description": "A monumental open-warp weaving in linen and wood, measuring almost fourteen feet tall, hung free from the ceiling rather than mounted on a wall. Tawney separated the warp threads, creating slits and voids that let light and air pass through the textile — the weaving becomes a spatial membrane rather than a flat surface. Approximately forty sections woven in black linen shift from dense weave at the top to open, separated strands at the base, the fabric dissolving into individual threads as it descends. Inspired by the East River flowing outside Tawney's New York studio window.",
+    "significance": "Tawney broke weaving off the wall and into three-dimensional space, founding what became known as the fibre art movement. The Dark River proved that a textile could occupy a room the way a sculpture does — not as decoration applied to architecture but as architecture itself. Her open-warp technique was technically radical: by separating warps that convention insists must stay together, she turned the loom's constraint into a spatial vocabulary.",
+    "movement": "Fibre Art / American Craft",
+    "collection": "Museum of Modern Art, New York",
+    "keywords": [
+      "open-warp",
+      "linen",
+      "fibre art",
+      "monumental weaving",
+      "sculptural textile",
+      "fourteen feet"
+    ],
+    "imageUrl": "/images/1097.jpg",
+    "connections": [
+      {
+        "id": 651,
+        "type": "lineage",
+        "reason": "Albers's Wall Hanging (1926) weaves cotton and silk on a Bauhaus loom — the textile is flat, bounded, architectural, a surface for a wall. Tawney's Dark River (1962) weaves linen on a floor loom and hangs it free from the ceiling — the textile is spatial, open, sculptural, a presence in a room. Albers perfected the textile as surface; Tawney broke it into space."
+      },
+      {
+        "id": 652,
+        "type": "argument",
+        "reason": "Hicks's Minimes (1960) compress weaving to the intimate — tiny wrapped bundles of fibre, hand-held, portable, private. Tawney's Dark River (1962) expands weaving to the monumental — three metres of linen dissolving from dense weave to separated threads, room-scale, public. Both liberated textile from the loom's conventions in the same years, but in opposite directions: Hicks went small, Tawney went large."
+      },
+      {
+        "id": 790,
+        "type": "method",
+        "reason": "Collingwood's Macrogauze (1965) creates open textile structures by spacing warp threads at wide intervals — the void is as important as the thread. Tawney's Dark River (1962) creates open textile structures by separating warp threads that start together — the textile disintegrates as you watch it. Both reject the assumption that weaving must be solid, but Collingwood builds openness in from the start and Tawney lets it happen as the work descends."
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "title": "Slit Tapestry Red/Green",
+    "designer": "Gunta Stölzl",
+    "year": 1927,
+    "discipline": "Textile",
+    "manufacturer": "Bauhaus Weaving Workshop, Dessau",
+    "origin": "Germany",
+    "description": "A wall hanging woven using the slit tapestry technique — where two colour fields meet, the weft threads turn back at the boundary rather than interlocking, leaving a narrow slit in the fabric. Stölzl exploited these structural slits as a compositional element: the colour blocks are defined by their gaps, the negative space is load-bearing. The palette — red, green, black, cream — and the geometric composition echo Klee's colour theory teachings at the Bauhaus, but the form is generated by the loom's logic, not by painting. Art historian Annie Bourneuf argues the tapestry 'speculates about what a tapestry might be if it were no longer a translation of painting into cloth but an exploration of weaving's own possibilities.'",
+    "significance": "Stölzl ran the Bauhaus weaving workshop as its only female Bauhaus master — and her textiles are the workshop's most technically accomplished output. The Slit Tapestry proves that weaving has its own formal language that painting cannot replicate: the slit is a structural consequence of how threads meet, not a drawn line. Stölzl insisted that textile design begin from the loom's mechanics, not from a sketch — a position that separates craft intelligence from applied decoration.",
+    "movement": "Bauhaus",
+    "collection": "Bauhaus-Archiv, Berlin",
+    "keywords": [
+      "Bauhaus",
+      "Jacquard",
+      "slit tapestry",
+      "wool",
+      "silk",
+      "weaving workshop",
+      "Gunta Stölzl"
+    ],
+    "imageUrl": "/images/1098.jpg",
+    "connections": [
+      {
+        "id": 651,
+        "type": "zeitgeist",
+        "reason": "Albers's Wall Hanging (1926) and Stölzl's Slit Tapestry (1927) emerge from the same Bauhaus weaving workshop within a year. Albers uses cellophane and cotton — industrial materials on a hand loom. Stölzl uses wool and silk — traditional materials on a Jacquard loom. Both insist the textile's form must come from the loom's structure, not from a painter's sketch, but they test that principle with opposite material choices."
+      },
+      {
+        "id": 649,
+        "type": "zeitgeist",
+        "reason": "Brandt's MT49 (1924) and Stölzl's Slit Tapestry (1927) are both Bauhaus workshop pieces that assert craft intelligence against fine-art hierarchy. Brandt hand-raises a hemisphere in the metal workshop dominated by men; Stölzl Jacquard-weaves geometric compositions in the textile workshop run by women. Both prove their workshops are producing design, not applied art."
+      },
+      {
+        "id": 843,
+        "type": "argument",
+        "reason": "The Persian Carpet (1550) weaves silk into intricate symmetrical pattern — the design is drawn first, the loom executes a predetermined image over months of knotting. Stölzl's Slit Tapestry (1927) weaves wool into geometric blocks whose boundaries are structural slits — the design emerges from how the loom handles colour changes. One starts from the image; the other starts from the process."
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "title": "Alquimia 13",
+    "designer": "Olga de Amaral",
+    "year": 1984,
+    "discipline": "Textile",
+    "manufacturer": "Studio production",
+    "origin": "Colombia",
+    "description": "A large-scale woven panel in linen, rice paper, and gesso, its surface coated with gold leaf that transforms the textile into something between fabric and icon. The weave structure is composed of individually woven linen squares, deliberately visible — the grid reads as both textile and architecture. The gold leaf is applied by hand to the gessoed surface, crackling and fragmenting as the flexible textile moves, so the gilding is never stable — it shifts with every change of light and angle. Inspired by the gold-leaf-covered Catholic church interiors of Colombia.",
+    "significance": "De Amaral fused pre-Columbian weaving traditions with European gilding techniques to create a body of work that belongs to no single tradition. The Alquimia series — 'alchemy' — is precisely named: base materials (horsehair, gesso) are transmuted into gold. She proved that Latin American fibre practice could hold its own against European and North American textile art without imitating either — the gold is not ornament but transformation, the weaving is not craft but architecture.",
+    "movement": "Latin American Fibre Art",
+    "collection": "Metropolitan Museum of Art, New York; Museum of Fine Arts, Houston; Fondation Cartier, Paris",
+    "keywords": [
+      "gold leaf",
+      "gesso",
+      "linen",
+      "rice paper",
+      "pre-Columbian",
+      "alchemy",
+      "Latin American fibre art"
+    ],
+    "imageUrl": "/images/1099.jpg",
+    "connections": [
+      {
+        "id": 1024,
+        "type": "material",
+        "reason": "El Anatsui's Dusasa II (2007) stitches thousands of aluminium bottle caps into shimmering metallic tapestries — discarded metal transformed into textile through accumulation. De Amaral's Alquimia 13 (1984) coats woven horsehair with gesso and gold leaf — humble fibre transformed into metallic surface through alchemy. Both make textiles that behave like metal, but Anatsui's gold is recycled waste and de Amaral's gold is applied ritual."
+      },
+      {
+        "id": 844,
+        "type": "lineage",
+        "reason": "Kente cloth (traditional) weaves narrow silk strips on portable looms — colour and pattern encode social status, history, and proverb within a West African tradition. De Amaral's Alquimia 13 (1984) weaves horsehair panels and gilds them with gold leaf — material and surface encode transformation within a Colombian tradition. Both are textiles that carry cultural weight far beyond their material, but kente's meaning is readable and de Amaral's is alchemical."
+      },
+      {
+        "id": 652,
+        "type": "argument",
+        "reason": "Hicks's Minimes (1960) are small, ungilded, intimate — fibre as private meditation, colour from dyed thread alone. De Amaral's Alquimia 13 (1984) is large, gold-leafed, monumental — fibre as public statement, colour from applied metal. Both women expanded what fibre art could be in the postwar period, but Hicks reduces to the hand-held and de Amaral scales to the architectural."
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "title": "Cisitalia 202 GT",
+    "designer": "Pininfarina (Battista 'Pinin' Farina)",
+    "year": 1946,
+    "discipline": "Transport",
+    "manufacturer": "Cisitalia",
+    "origin": "Italy",
+    "description": "A grand touring coupé whose body is a single continuous surface — no separate wings, no running board, no bolt-on headlamps. Pininfarina wrapped the mechanicals in one envelope of hand-formed aluminium panels shaped over wooden bucks, creating the first car whose body could be read as sculpture rather than as bodywork attached to a chassis. The proportions — long bonnet, short rear deck, low roofline — established the GT silhouette that Pininfarina, Bertone, and Zagato would refine for the next seventy years. Approximately 170 were built between 1947 and 1952.",
+    "significance": "The Cisitalia 202 was the first automobile acquired by any art museum — entering MoMA's permanent collection in 1972 as a gift from the manufacturer. Arthur Drexler called it 'sculpture in motion.' It proved that car design could operate at the same level of formal ambition as architecture or sculpture. The single-envelope body eliminated the Victorian habit of assembling a car from visually separate components: the 202 is one thing, not several things bolted together. Every GT car since — from the Ferrari 250 to the Jaguar E-Type — inherits its logic.",
+    "movement": "Italian Coachbuilding",
+    "collection": "Museum of Modern Art, New York",
+    "keywords": [
+      "Pininfarina",
+      "aluminium",
+      "MoMA",
+      "single envelope",
+      "GT",
+      "coachbuilding",
+      "hand-formed"
+    ],
+    "imageUrl": "/images/1100.jpg",
+    "connections": [
+      {
+        "id": 846,
+        "type": "lineage",
+        "reason": "Pininfarina's Cisitalia 202 (1946) wraps a car in one continuous aluminium surface — no separate wings, no bolt-on components, the body as single sculpture. Bertoni's Citroën DS (1955) takes that logic further — the entire roof, bonnet, and boot flow in one aerodynamic curve, the single envelope becoming a continuous aerofoil. The 202 invented the idea; the DS perfected it."
+      },
+      {
+        "id": 655,
+        "type": "zeitgeist",
+        "reason": "Loewy's Studebaker Starliner (1953) and Pininfarina's Cisitalia 202 (1946) are both postwar attempts to treat the car as a single formal composition rather than an assembly of components. But Loewy strips American excess — subtracting chrome from Detroit convention. Pinin Farina adds Italian ambition — sculpting aluminium into gallery-worthy form. One designs by removal, the other by elevation."
+      },
+      {
+        "id": 45,
+        "type": "zeitgeist",
+        "reason": "Saarinen's TWA Terminal (1962) and Pininfarina's Cisitalia 202 (1946) both treat a functional object as continuous sculptural surface — the terminal's concrete shells and the car's aluminium body share a refusal to distinguish structure from skin. MoMA acquired both as design objects. One shelters passengers from weather; the other shelters a driver from wind. Same sculptural ambition, different speeds."
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "title": "Morris Minor",
+    "designer": "Alec Issigonis",
+    "year": 1948,
+    "discipline": "Transport",
+    "manufacturer": "Morris Motors",
+    "origin": "United Kingdom",
+    "description": "A small family car with a monocoque body — the first mass-produced British car to use unitary construction, eliminating the separate chassis. Issigonis, working from a prototype codenamed 'Mosquito' built in 1943, designed every component around the principle of maximum interior space from minimum exterior dimensions: the wheels pushed to the corners, the flat floor uninterrupted, the windscreen curved for visibility. Rack-and-pinion steering and torsion-bar independent front suspension gave it handling that embarrassed cars twice its price. Over 1.6 million were built across a twenty-three-year production run, passing the million mark in 1961.",
+    "significance": "The Minor is Issigonis's proof that small-car design is a space-planning problem, not a styling exercise. Every dimension serves passenger volume — the flat floor, the thin doors, the upright seating position all maximise usable space within a compact footprint. It is the direct ancestor of the Mini (1959), where Issigonis pushed the same logic further with front-wheel drive and a transverse engine. The Minor taught British engineering that intelligent packaging is more radical than powerful engines.",
+    "movement": "British Industrial Design",
+    "collection": "National Motor Museum, Beaulieu; British Motor Museum, Gaydon; Science Museum, London",
+    "keywords": [
+      "monocoque",
+      "unitary construction",
+      "Issigonis",
+      "space efficiency",
+      "rack-and-pinion",
+      "Cowley",
+      "1.6 million"
+    ],
+    "imageUrl": "/images/1101.jpg",
+    "connections": [
+      {
+        "id": 848,
+        "type": "method",
+        "reason": "D'Ascanio's Vespa (1946) applies aerospace monocoque thinking to two wheels — the pressed-steel body shell is the structure, eliminating the motorcycle's separate frame. Issigonis's Morris Minor (1948) applies monocoque thinking to four wheels — the unitary body is the structure, eliminating the car's separate chassis. Both postwar, both transferring aircraft construction logic to personal transport, but the Vespa liberates the individual and the Minor serves the family."
+      },
+      {
+        "id": 847,
+        "type": "zeitgeist",
+        "reason": "The Routemaster (1956) and the Morris Minor (1948) are both postwar British transport designs that prioritise intelligent engineering over styling — the Routemaster's aluminium body and open platform, the Minor's monocoque shell and flat floor. Douglas Scott and Issigonis both understood that British vehicles win on packaging and durability, not on looks. Between them they carried a nation."
+      },
+      {
+        "id": 846,
+        "type": "argument",
+        "reason": "Bertoni's DS (1955) treats the car as a sculptural event — hydropneumatic suspension, continuous aerodynamic body, Barthes's 'cathedral'. Issigonis's Morris Minor (1948) treats the car as a spatial problem — maximum interior volume, minimum exterior footprint, rack-and-pinion steering. The DS asks what a car can mean; the Minor asks what a car can fit. French ambition against British pragmatism."
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "title": "Copacabana Promenade",
+    "designer": "Roberto Burle Marx",
+    "year": 1970,
+    "discipline": "Architecture",
+    "manufacturer": "City of Rio de Janeiro",
+    "origin": "Brazil",
+    "description": "A four-kilometre seafront promenade paved in Portuguese calçada — hand-cut limestone cubes in black, white, and red forming three horizontal planes. Burle Marx retained and accentuated the original 1890s wave pattern along the shore-side strip while adding bold geometric panels in red, black, and white alongside it. Each stone is hand-cut and hand-placed by calceteiros, the pattern requiring no mortar between stones, relying on sand bedding and the precision of the cut. Rows of Brazilian shade trees line the promenade, integrating planting with paving as a single landscape composition.",
+    "significance": "Burle Marx proved that landscape architecture could define a city's identity as powerfully as its buildings. The Copacabana wave pattern is Brazil's most recognised design image — more widely known than any Brazilian building, product, or graphic. His intervention transformed an existing Portuguese pavement tradition into a modernist landscape statement by adding geometric planes alongside the historic waves. The promenade argues for craft at civic scale — every stone hand-cut, in a city of twelve million people.",
+    "movement": "Brazilian Modernism / Landscape Architecture",
+    "collection": "In situ, Rio de Janeiro (MoMA holds Burle Marx drawings and plans)",
+    "keywords": [
+      "calçada portuguesa",
+      "wave pattern",
+      "limestone",
+      "hand-set",
+      "landscape architecture",
+      "four kilometres",
+      "Burle Marx",
+      "three planes"
+    ],
+    "imageUrl": "/images/1102.jpg",
+    "connections": [
+      {
+        "id": 812,
+        "type": "argument",
+        "reason": "BIG's Superkilen (2012) fills a Copenhagen park with 108 objects from 60 nationalities — multiculturalism expressed through imported diversity, every bench and bollard from a different country. Burle Marx's Copacabana (1970) paves four kilometres of Rio seafront with one pattern — identity expressed through relentless repetition, every stone the same wave. Both design public ground as cultural statement, but Superkilen curates variety and Copacabana commits to singularity."
+      },
+      {
+        "id": 664,
+        "type": "sameProblem",
+        "reason": "Guimard's Métro entrances (1900) give Paris transit its identity through cast-iron organic forms — infrastructure as Art Nouveau ornament, repeated at every station. Burle Marx's Copacabana (1970) gives Rio its identity through hand-cut limestone waves — infrastructure as landscape drawing, repeated for four kilometres. Both solve the same problem: how to brand a city through its ground-level public works."
+      },
+      {
+        "id": 843,
+        "type": "material",
+        "reason": "The Persian Carpet (1550) hand-knots silk into intricate geometry — one material, one technique, thousands of hours, the pattern emerging from accumulated manual repetition at intimate scale. Burle Marx's Copacabana (1970) hand-sets limestone cubes into wave geometry — one material, one technique, thousands of hours, the pattern emerging from accumulated manual repetition at urban scale. Both are craft traditions where the hand does the computing."
       }
     ]
   }

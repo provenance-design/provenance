@@ -10,7 +10,7 @@ A curated, argued archive of 1,000 design objects at **provenancearchive.uk**. B
 - **Hosting:** Vercel, auto-deploys from GitHub on push
 - **Repository:** `github.com/provenance-design/provenance` (**public**)
 - **No database** — all data lives in JS files
-- **Primary data file:** `app/data/archive.js` (1,000 entries, ~2MB)
+- **Primary data file:** `app/data/archive.js` (1,000 entries, ~2.6MB)
 - **Staging candidates:** `app/data/candidates.js`
 
 ## Project Structure
@@ -30,6 +30,8 @@ docs/
   research.md          — Scholarly research context and roadmap
   topology-guide.md    — Network analysis, hubs, rebuild plan
   history.md           — Major work passes completed
+  decisions/           — Architectural decision records
+  teaching/            — Teaching documents (Five Pathways, 12 Principles)
 tools/
   validate.py          — Schema, duplicates, IDs, hubs, template language
   topology.py          — Network diagnostics
@@ -130,7 +132,7 @@ See `docs/topology-guide.md` for the full topology rebuild plan.
 - **Never use template language** in connections. If it could describe any two objects, rewrite.
 - **Never add connections to overconnected hubs** without removing one first.
 - **Never assume an entry's facts are correct** — earlier expansion phases introduced errors.
-- **Never source images from Wikipedia or Wikimedia Commons.**
+- **Never use Wikipedia/Wikimedia Commons as manually-sourced images** — the `wikiTitle` API fallback is acceptable for gap-filling but not a substitute for proper local images.
 - **Never push without Neil's go-ahead.**
 
 ---
@@ -169,6 +171,10 @@ The staging page at `/staging` is the editorial interface for reviewing candidat
 
 Warm cream palette (`#F6F5F0` background, `#FDFCF8` cards, `#EBE8E0` borders). DM Serif Display for titles, DM Sans for body. Deliberately restrained — museum catalogue, not tech product.
 
-**Five views:** Featured, Archive (grid), Connection Map (force-directed graph), About, Detail (entry + connection cards).
+**Five views:** Featured, Archive (grid), Connection Map (interactive force-directed network graph — full-bleed, dark canvas, with connection type filtering), About, Detail (entry + connection cards).
 
-**Images:** `/public/images/{id}.jpg`. Typographic fallback for missing images. Deep links: `provenancearchive.uk?entry=ID`.
+**Network visualiser features:** Discipline-coloured nodes sized by connection count. Six connection type filter buttons (Argument, Lineage, Material, Same Problem, Zeitgeist, Method) — each filter reveals a different network topology from the same data. Hover/click to explore, zoom/pan, info panel with connected objects and "View entry" link. Built with HTML5 Canvas for performance at 1000+ nodes.
+
+**Images:** Three-tier fallback: local `/public/images/{id}.jpg` (454 entries) → V&A framemark URL (473 entries) → Wikipedia API via `wikiTitle` field (60 entries). Remaining 13 entries show typographic fallback plates. All new images should be locally sourced. Wikipedia/Wikimedia Commons images are acceptable as fallback but not as primary manually-sourced images.
+
+**Deep links:** `provenancearchive.uk?entry=ID` auto-opens a specific entry.

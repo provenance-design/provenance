@@ -1,9 +1,8 @@
 # Provenance Archive - Curator Memory
 
 ## Archive Structure
-- **Live archive**: `app/data/archive.js` — 598 entries, IDs 1-636 (38 gap IDs)
-- **Staging candidates**: `app/data/candidates.js` — 247 entries, IDs 637-855 + 906-935
-- **Contemporary batch**: IDs 906-935, 30 entries, no connections yet. ID gap 856-905 is unallocated.
+- **Live archive**: `app/data/archive.js` — 1,000 entries, IDs 1-1091 (not contiguous)
+- **Staging candidates**: `app/data/candidates.js`
 - **Main site**: `app/page.js` (single-page app, client-side React)
 - **Staging**: `app/staging/page.js` (password-protected: provenance2026)
 - Connection types: argument, lineage, material, sameProblem, zeitgeist, method
@@ -13,7 +12,7 @@
 - **Self-referencing connection**: Entry 482 (Branca Chair) connects to itself
 - **Duplicate connection**: Entry 460 (High Tea Pot) connects to ID 2 twice (different types)
 - **Header lists only 6 of 11 disciplines**: Missing Textile, Transport, Ceramic, Glass, Metalwork from header stats
-- **Discipline imbalance**: Product(239), Furniture(197), Graphic(114) dominate. Textile(1), Ceramic(3), Typography(5) very underrepresented in live archive. Candidates address this well.
+- **Discipline imbalance**: Product(303), Furniture(304), Graphic(147) dominate. Transport(6), Metalwork(8), Typography(15), Glass(19), Textile(24) remain weak.
 - **Hub concentration**: IDs 1-16 receive disproportionate inbound connections (London Underground Map: 99 inbound). Connection reasons are well-argued but the network is star-shaped.
 - **Entry 96** (ET66 Calculator): only 1 connection — minimum should be 3
 
@@ -38,3 +37,8 @@
 - Several entries classified as "Product" that could be argued as other disciplines (e.g., Dazzle Ship, Forensic Architecture)
 - Discipline "Graphic" used for Forensic Architecture (ID 910) — debatable, could be Architecture or a new discipline
 - "Lighting" used for Ini Archibong chandelier — correct but archive has "Lighting" as a discipline while it's also a subcategory of Product in some entries
+
+## Entry Block Consolidation
+- See [entry_blocks_audit.md](entry_blocks_audit.md) for full audit of entry clusters occupying 4+ slots
+- Worst offenders: King Lear costumes (8 entries), Vinci Weeds (6), XR (5), Variset hooks (4), Walkman variants (4), Lucienne Day Four Seasons (4)
+- Total consolidation potential: 15-20 freed slots for weak disciplines
