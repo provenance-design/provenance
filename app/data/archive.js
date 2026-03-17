@@ -3819,8 +3819,24 @@ export const ARCHIVE = [
     "movement": "Posthumous Eames",
     "wikiTitle": null,
     "description": "A child's chair shaped like an elephant, scaled down from Eames's original 1945 plywood prototype that was never mass-produced. The molded plywood construction uses the same forming techniques developed for the wartime leg splints, creating compound curves that follow the elephant's body while maintaining structural integrity. The playful zoomorphic form demonstrates how advanced manufacturing can serve symbolic rather than purely functional ends.",
-    "significance": "Shows how industrial techniques can create meaning beyond efficiency—the elephant form makes sitting a narrative act rather than just physical support. Demonstrates the posthumous life of design ideas and how prototypes can find new markets decades later through improved manufacturing.",
-    "connections": [],
+    "significance": "Eames made the plywood elephant in 1945 and it sat in a drawer for sixty-two years. Vitra finally produced it in 2007, when CNC milling could cut the compound curves that 1940s tooling could not afford. The object proves two things: that a good idea outlasts its manufacturing constraints, and that the Eameses' real innovation was never any single product but a way of thinking about what plywood could become.",
+    "connections": [
+      {
+        "id": 107,
+        "type": "lineage",
+        "reason": "The LCM (1947) and the Elephant (designed 1945, produced 2007) are siblings — same moulded plywood technology, same compound-curve forming, developed in the same Eames workshop from the same wartime leg-splint research. The LCM became the most influential chair of the twentieth century. The Elephant sat in a drawer for sixty years. One object proves the technology works; the other proves the idea outlasts the technology."
+      },
+      {
+        "id": 542,
+        "type": "sameProblem",
+        "reason": "Toikka's Dodo (2009) and the Eames Elephant (2007) both use animal forms to make children's furniture approachable — but the Dodo is a rocker reduced to a curved plywood arc, all function, the animal barely there. The Elephant is a sculpture you sit on, all character, the function barely there. Two answers to the same question: how much animal does a child's chair need?"
+      },
+      {
+        "id": 187,
+        "type": "argument",
+        "reason": "The Abbatts' 1940 jigsaw teaches children through deliberate simplification — transportation scenes reduced to bold interlocking shapes, the abstraction serving cognition. The Eames Elephant teaches nothing and simplifies nothing — it is a compound-curved plywood pachyderm, technically sophisticated, functionally unnecessary, pure delight. Pedagogy against pleasure: two philosophies of what design owes children."
+      }
+    ],
     "keywords": [
       "molded plywood",
       "compound curves",
@@ -4987,12 +5003,12 @@ export const ARCHIVE = [
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Cesca chair",
     "description": "A cantilever chair that eliminates back legs by using the spring tension of bent tubular steel to support the sitter. The continuous tube creates both structure and comfort through material properties rather than additional padding. Cane seat and back provide breathability and flex within the rigid steel frame.",
-    "significance": "Demonstrates how structural innovation can solve comfort without ornament. It demonstrates that material understanding—not just formal reduction—drives modernist design. A key example of how cantilever construction challenged traditional chair logic.",
+    "significance": "The B32 is the cantilever chair that actually worked in kitchens. Breuer's earlier B33 proved the physics — tubular steel's spring could replace back legs — but hard Eisengarn fabric made it a manifesto, not a meal. Adding cane to the B32 in 1928 gave it warmth, flex, and breathability. The radical structure stayed; the radical discomfort went. Still in production a century later because Breuer solved the problem his own prototype created.",
     "connections": [
       {
-        "id": 56,
-        "type": "lineage",
-        "reason": "Breuer developed the cantilever principle in B33, then refined it in B32 by adding cane for comfort"
+        "id": 80,
+        "type": "argument",
+        "reason": "Breuer's B32 (1928) cantilevers tubular steel — the sitter floats on the spring of industrial tubing, the material doing structural work no wooden joint could. Aalto's Paimio (1932) bends birch plywood into a continuous scroll — the sitter floats on timber's laminated spring, the material doing the same structural work through a different physics. Steel elasticity against wood elasticity, Dessau against Helsinki, both abolishing the back leg."
       },
       {
         "id": 8,
@@ -5029,17 +5045,17 @@ export const ARCHIVE = [
     "movement": "Early Bauhaus",
     "wikiTitle": null,
     "description": "Breuer's first experiment with tubular steel furniture, using a single continuous bent tube for the chair frame. The canvas seat and back are stretched across the steel structure, creating comfort through tension rather than padding. This chair established the formal vocabulary for all subsequent tubular steel furniture.",
-    "significance": "The breakthrough object that launched industrial furniture design. It demonstrates how a single material innovation—applying bicycle technology to furniture—can transform an entire discipline. Essential for understanding the origins of modernist seating.",
+    "significance": "Breuer looked at his Adler bicycle and saw a chair. The B5 is the founding gesture of industrial furniture — the moment someone recognised that a bent steel tube could support a human body. Canvas stretched across the frame, no upholstery, no joinery, no craft tradition whatsoever. Everything that followed — Mies's cantilevers, the Eameses' metal bases, every airport seat in the world — descends from this object.",
     "connections": [
       {
-        "id": 54,
+        "id": 830,
         "type": "lineage",
-        "reason": "B5's tubular steel experiments led directly to the more sophisticated cantilever structure of B3"
+        "reason": "Thonet bent beechwood in 1859 and invented mass-produced furniture. Breuer bent steel tubing in 1926 and reinvented it. The B5 is the Thonet No. 14's twentieth-century descendant — same insight (heat a material, bend it, ship it flat), different century, different tube. Both objects prove that a manufacturing breakthrough matters more than a formal one."
       },
       {
-        "id": 55,
-        "type": "argument",
-        "reason": "B5 rejects the craft tradition that Breuer's wooden chair represents, replacing joinery with industrial bending"
+        "id": 107,
+        "type": "lineage",
+        "reason": "Breuer's B5 (1926) stretches canvas across a continuous steel tube — seat and structure are separate systems bolted together. The Eameses' LCM (1947) mounts moulded plywood on a steel frame via rubber shock absorbers — seat and structure are separate systems bonded together. Twenty-one years apart, both chairs split the sitting surface from what holds it up, and both use the joint between them as a design decision rather than a construction detail."
       },
       {
         "id": 10,
@@ -10330,7 +10346,7 @@ export const ARCHIVE = [
     "movement": "Environmental Activism Design",
     "wikiTitle": "Buckminster Fuller",
     "description": "A poster that uses Fuller's geodesic dome imagery to communicate environmental urgency through systematic geometric patterns. The design demonstrates how architectural thinking can be applied to graphic communication. Fuller's approach treats the poster as a visual system rather than decorative surface.",
-    "significance": "Shows how architectural designers approached graphic communication through systematic rather than stylistic methods. The work reveals how design thinking can transfer between disciplines when based on fundamental principles rather than surface aesthetics.",
+    "significance": "Fuller didn't learn graphic design — he applied geodesic logic to a flat sheet. The poster works because his method was never discipline-specific: it was about mapping systems, whether those systems were structural shells or planetary crises. This is what genuine cross-disciplinary transfer looks like — not borrowing a style, but transplanting a principle.",
     "connections": [
       {
         "id": 15,
