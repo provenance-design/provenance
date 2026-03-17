@@ -246,7 +246,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "argument",
-        "reason": "Superleggera pursues extreme lightness (1.7kg). Arco embraces extreme weight (65kg). Both are perfect solutions."
+        "reason": "Superleggera pursues extreme lightness (1.7kg). Arco embraces extreme weight (65kg). Italian rationalism proving that the right answer depends entirely on the question."
       },
       {
         "id": 477,
@@ -409,7 +409,7 @@ export const ARCHIVE = [
       {
         "id": 12,
         "type": "zeitgeist",
-        "reason": "Memphis → Starck. Both reject Modernist functionalism, but Memphis uses colour and form while Starck uses sculptural provocation."
+        "reason": "Memphis → Starck. Carlton rejects functionalism through colour and collision. Juicy Salif rejects it through sculptural provocation. The difference is between a movement manifesto and a one-man mythology."
       },
       {
         "id": 4,
@@ -2374,7 +2374,7 @@ export const ARCHIVE = [
       {
         "id": 2,
         "type": "argument",
-        "reason": "Castiglioni finds form in industrial catalogues. Nakashima finds form in tree trunks. Both are 'found' design, from opposite worlds."
+        "reason": "Castiglioni finds form in industrial catalogues. Nakashima finds form in tree trunks. 'Found' design — one trusts the factory, the other trusts the forest."
       }
     ],
     "keywords": [
@@ -3146,7 +3146,7 @@ export const ARCHIVE = [
     "collection": "MoMA, New York",
     "movement": "American Modernism / Play",
     "wikiTitle": "Hang-It-All",
-    "description": "A white-coated steel wire frame with fourteen solid maple balls in primary colours. Designed for children's rooms — the balls are hooks for coats, hats, and bags. The wire frame creates a molecular-model pattern on the wall. It was part of the Eameses' children's furniture line, which applied the same design intelligence as their adult work.",
+    "description": "A white-coated steel wire frame with eight large and six small solid maple balls in primary colours — fourteen hooks for coats, hats, and bags. The welded wire rods use the same technique the Eameses developed for their wire chair bases. It mounts flat to the wall at 19.5 inches wide and 14.5 inches tall, light enough for a child's bedroom door.",
     "significance": "The Hang-It-All proves the Eameses didn't distinguish between serious design and playful design — they were the same thing. A coat rack for a child gets the same material precision, the same formal clarity, and the same joy as a lounge chair for MoMA. There is no hierarchy of objects, only a hierarchy of attention.",
     "connections": [
       {
@@ -3378,7 +3378,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Danish Modern",
     "wikiTitle": "Hans Wegner",
-    "description": "Wegner's Shell Chair demonstrates how sculptural form can emerge from structural necessity. The steam-bent plywood seat shell cantilevers from a three-legged base, distributing load through the continuous curve rather than discrete joints. This integration of seat and back into a single surface eliminates upholstery while maintaining comfort through the shell's subtle flex and anthropometric shaping.",
+    "description": "A single shell of form-pressed veneer curves into both seat and backrest, balanced on three laminated legs — the two front legs cut from one continuous piece. The shell flexes under body weight, providing comfort without upholstery. At 92cm wide, it is one of the largest chairs Wegner designed from one of the simplest structures: no joints between seat and back, no frame, just a curved surface doing all the work.",
     "significance": "The Shell Chair proves that reduction need not sacrifice comfort—it It reveals how understanding material behaviour enables formal innovation. Wegner's method of letting wood's inherent properties drive form became fundamental to Danish furniture design, influencing generations of makers who prioritised craft logic over stylistic gesture.",
     "connections": [
       {
@@ -3768,7 +3768,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "description": "This radiogram strips away decorative furniture conventions to expose its technical function through clear geometric form. The white metal case with minimal black controls creates a visual hierarchy that guides operation while the proportions emphasize horizontal stability for the turntable mechanism. Rams eliminates the wooden cabinet tradition, treating the radio as a precision instrument rather than domestic ornament.",
+    "description": "A white-lacquered sheet metal case with a clear Perspex lid — nicknamed Snow White's Coffin because you could see the turntable inside. The controls are reduced to a row of switches and a single dial in black on white, arranged left to right in order of use. At 58cm wide and 24cm tall, it sits on any shelf, replacing the heavy wooden radiogram cabinet with something closer to laboratory equipment.",
     "significance": "Snow White's Coffin — as it was immediately nicknamed — killed the radiogram as furniture. Rams and Gugelot replaced the wooden cabinet with a white metal case and a perspex lid, treating a domestic appliance as a precision instrument. The visual hierarchy of black controls on white housing created a product language that would not be surpassed until Ive's work at Apple, forty years later.",
     "connections": [
       {
@@ -3842,7 +3842,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "description": "This sun lamp transforms medical equipment into domestic object through precise geometric control of form and material. The white cylindrical housing contains UV bulbs behind a perforated metal screen that creates controlled light distribution while suggesting clinical precision. The minimal control interface and stable circular base emphasize the lamp's therapeutic function over decorative lighting.",
+    "description": "An enamelled steel case hinged on an aluminium base, housing five glass UV tubes behind a perforated screen. It folds shut to 7cm tall for storage, opens to 18cm for use. A dial on the right switches between 400W infrared and 250W ultraviolet settings; a second dial sets the exposure timer. A plastic-coated handle makes it portable — domestic tanning equipment treated as a Braun product, not a medical device.",
     "significance": "The Cosmolux applies Braun's consumer product language to medical equipment, proving that systematic formal discipline can make specialised technology feel approachable without compromising clinical function. The white cylindrical housing reads as both therapeutic and domestic — a deliberate ambiguity that anticipated how health technology would later colonise the home.",
     "connections": [
       {
@@ -3911,7 +3911,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Concrete Art",
     "wikiTitle": "Max Bill",
-    "description": "Bill reduces timekeeping to its mathematical essence through pure geometric relationships. The white face eliminates all decoration, using only black linear markers and hands to create maximum contrast and legibility. Each hour marker's length follows precise mathematical ratios while the absence of numbers forces users to read time through spatial relationships rather than symbolic notation.",
+    "description": "A ceramic-cased wall clock with a teardrop-shaped body in pale blue, 26cm tall. The white dial uses black line markers and simple hands — no numerals. Below the clock face sits a sixty-minute mechanical timer, making it a kitchen tool as well as a timepiece. Designed with students at the Ulm school and manufactured by Junghans with an eight-day mechanical movement.",
     "significance": "Bill's clock is Concrete Art made functional. The proportional relationships between hour markers follow mathematical ratios; the absence of numerals forces the reader to understand time spatially rather than symbolically. It is a teaching object disguised as a household appliance — proof that rigorous aesthetic philosophy and everyday utility need not be separate pursuits.",
     "connections": [
       {
@@ -4037,7 +4037,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames coffee table",
-    "description": "The CTW uses a birch plywood top supported by a chromed steel rod base, creating maximum surface with minimal material. The wire base distributes weight through tension rather than mass, allowing the thin plywood top to span without sagging. This material efficiency reflects wartime resource constraints translated into peacetime furniture logic.",
+    "description": "A circular five-layer moulded plywood top on four bent plywood legs, standing 15.25 inches tall. The top is pressed slightly concave — lower at the centre than the edges — which makes the thin plywood rigid and warp-resistant without adding thickness. An octagonal plywood block underneath joins the four legs to the top. Available in birch, ash, or walnut veneers, first produced by the Evans Molded Plywood Company in 1946.",
     "significance": "The CTW separates structure from surface more radically than any table before it. A wire base holds a plywood top through tension rather than mass, achieving maximum span with minimum material. The logic is wartime: do more with less. But the result is peacetime poetry — a table that appears to hover, its engineering invisible precisely because it is so resolved.",
     "connections": [
       {
@@ -4048,7 +4048,7 @@ export const ARCHIVE = [
       {
         "id": 6,
         "type": "argument",
-        "reason": "Ponti spends eight years thinning ash wood until the Superleggera weighs 1.7kg (1957) — craft refinement achieving lightness through tradition. Eames presses plywood and steel rod into a dining chair that stacks and ships flat (1946) — industrial process achieving lightness through technology. Both use the minimum material possible. One does it by hand, the other by machine."
+        "reason": "Ponti spends eight years thinning ash wood until the Superleggera weighs 1.7kg — craft refinement achieving lightness through tradition. Eames presses plywood and steel rod into a table that stacks and ships flat — industrial process achieving lightness through technology. Minimum material, maximum intelligence, but the intelligence lives in different places: the cabinetmaker's hand versus the engineer's jig."
       }
     ],
     "keywords": [
@@ -4140,7 +4140,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Modernism",
     "wikiTitle": "Eames DKR",
-    "description": "The DKR uses bent steel wire to create both structure and surface, eliminating the traditional distinction between frame and seat. The wire grid distributes body weight evenly while allowing air circulation, solving comfort through geometry rather than padding. The chair demonstrates how industrial wire-forming techniques could produce complex curves impossible with traditional furniture construction.",
+    "description": "The seat shell is bent and welded steel wire — an outer rim filled with a lighter-gauge grid that supports the body while letting air pass through. The DKR-2 version adds a split bikini pad in leather or fabric for warmth. The name encodes its specification: Dining height, K-wire shell, Rod base. The Eiffel Tower base uses four steel wire struts with ball-welded feet, giving the 83cm-tall chair a visual transparency that solid shells could never achieve.",
     "significance": "This chair It demonstrates that materials have inherent formal possibilities that traditional techniques cannot access. The DKR shows how embracing industrial processes can reveal new solutions to fundamental furniture problems like support and comfort.",
     "connections": [
       {
@@ -4307,7 +4307,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": "Gerald Summers",
-    "description": "Cut from a single sheet of birch plywood using steam-bent curves, this chair eliminates all joints, screws, and glue. The continuous form creates structural integrity through geometry alone, with the seat cantilevering from the back support. The manufacturing logic prioritises material economy and production efficiency over decorative elements.",
+    "description": "Cut from a single sheet of thirteen-layer birch plywood — no joints, screws, or glue. Four straight cuts outline the arms and back legs, then the sheet is pressed in a wooden mould for eight hours while the glue between plies is still wet. Only the front legs are cut after moulding. Designed for tropical climates where joints rot and upholstery attracts insects. About 120 were made.",
     "significance": "Summers cut an entire chair from a single sheet of birch plywood. No joints, no screws, no glue — the geometry alone creates structural integrity. It is a manufacturing manifesto compressed into one object: that limitation, pushed far enough, produces forms no amount of freedom would discover.",
     "connections": [
       {
@@ -4386,7 +4386,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
-    "description": "A table lamp composed of stacked geometric elements in contrasting colors, using industrial materials like metal and plastic laminates. Each component maintains its individual identity rather than dissolving into unified form. The light source becomes secondary to the object's function as a totemic presence.",
+    "description": "A painted metal table lamp standing on a solid grey rectangular base, with stacked geometric forms in green, yellow, blue, pink, and white rising above it. Five exposed bulbs sit in coloured cylindrical sockets arranged along the top. Named after the Mauryan emperor — a reference to Sottsass's years travelling in India. Despite looking unstable, the composition is perfectly symmetrical and balanced.",
     "significance": "The Ashoka is a lamp in the way that a totem pole is a shelter — technically functional, but that misses the point. Sottsass stacks geometric elements like a child building towers, each component maintaining its own colour and identity. The light source is almost incidental. What matters is the object's presence: Memphis arguing that a lamp's primary function might be cultural rather than optical.",
     "connections": [
       {
@@ -4502,7 +4502,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Radical Design",
     "wikiTitle": null,
-    "description": "A laminated table that abandons structural honesty for expressive geometry. The angular form prioritises visual impact over rational construction, treating furniture as sculptural statement rather than functional necessity. Its deliberate structural precariousness—suggested by the title 'The Structures Tremble'—challenges modernist faith in stability and permanence.",
+    "description": "A table made of chipboard covered in shiny white plastic laminate, supported on enamelled tubular steel legs with a glass top. The title — The Structures Tremble — names its deliberate visual instability: the tubular legs reference Breuer's Bauhaus furniture, but the angles and laminate surfaces mock the honesty those originals stood for. Designed for Studio Alchymia using materials chosen specifically for their cheapness.",
     "significance": "The title says everything: the structures tremble. Sottsass designed a table that looks like it might collapse — not from incompetence but from conviction. Structural precariousness becomes a political position, a refusal of modernism's faith in stability, permanence, and progress. Radical Design's contribution was to make furniture nervous.",
     "connections": [
       {
@@ -4539,7 +4539,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "Working drawing that reveals Memphis objects as architectural compositions in miniature. Bold geometric forms are rendered with precise technical drafting that contradicts their seemingly playful character. The drawing demonstrates how Sottsass designed ceremonial objects as spatial experiences, using elevation and plan views to orchestrate color and form relationships.",
+    "description": "A technical drawing for the Murmansk centrepiece — the silverplated tazza produced by Rossi & Arcandi for the second Memphis collection in 1982, standing about 30cm tall and 36cm across. Sottsass renders the stacked geometric forms in elevation and plan, with precise dimensions and colour annotations. The drafting is rigorous architectural work: orthographic projections, section lines, material callouts — applied to what would become a fruit bowl.",
     "significance": "Exposes the serious architectural thinking behind apparently frivolous Memphis objects. Shows how postmodern designers used traditional technical drawing to plan radical formal experiments. Critical for understanding the relationship between Memphis graphics and three-dimensional design.",
     "connections": [
       {
@@ -4665,7 +4665,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Radical Design",
     "wikiTitle": null,
-    "description": "Print that explores pure geometric relationships through color and form interaction. Bold shapes test visual hierarchies without serving communication or decoration, functioning as research into perception and meaning. The lithographic process allows precise color registration that supports Sottsass's investigation of how geometric forms create emotional and spatial effects.",
+    "description": "A hand-coloured lithograph from the series created with Japanese illustrator Tiger Tateishi, using the lithographic process for precise colour registration across multiple layers. Bold geometric shapes in flat, saturated colour sit against white ground — not illustrations of anything, but tests of how arrangements of form produce spatial and emotional effects. Part of a body of print work that fed directly into Memphis a decade later.",
     "significance": "Sottsass's lithographs are laboratories. The bold geometric forms test perceptual relationships — colour against colour, shape against shape — without the constraints of function, manufacture, or client. A decade later, these experiments would resurface as Memphis products. The prints are not illustrations of ideas but the ideas themselves, working through problems that three-dimensional objects would later inherit.",
     "connections": [
       {
@@ -4707,7 +4707,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "Four conical ceramic forms in primary colours—red, blue, yellow, white—function as salt, pepper, oil and vinegar vessels. Each cone sits at a different angle, creating an unstable composition that rejects the symmetrical order of traditional table settings. The aggressive geometry and anti-functional tilts force users to engage consciously with the ritual of seasoning food.",
+    "description": "Four ceramic cones in red, blue, yellow, and white — salt, pepper, oil, and vinegar — each tilted at a different angle so the set never sits still on a table. The conical forms are hand-glazed earthenware, heavy enough to stand but angled enough to look like they might not. A cruet set that treats the rituals of the dinner table as architecture rather than tableware.",
     "significance": "Four ceramic cones in primary colours, each tilted at a different angle, turning the act of seasoning food into a small act of resistance. The cruet set is Memphis compressed to tabletop scale: nothing sits straight, nothing is neutral, nothing lets the user forget that this is a designed object with opinions. Even condiments, Sottsass insists, should take a position.",
     "connections": [
       {
@@ -4786,7 +4786,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": "Marcel Breuer",
-    "description": "Three birch plywood tables of decreasing size nest concentrically, each supported by a continuous bent plywood frame that eliminates separate legs. The largest table's L-shaped profile creates a cantilever that appears to defy gravity. Steam-bending allows the single piece of wood to function as both structure and surface, demonstrating modernist integration of material and form.",
+    "description": "Three birch plywood tables of decreasing size, each cut and bent from a single sheet of 11mm seven-layer plywood. The continuous plywood loop forms both the legs and the side panel in one piece — no joints, no screws. They nest inside each other for storage. Described at the time as the simplest tables ever made. Designed for Isokon in London, where Breuer worked in plywood for the first time.",
     "significance": "Breuer arrived in London as a refugee and immediately adapted his material thinking to what British industry could produce. These nesting tables substitute steam-bent plywood for tubular steel, yet the logic is pure Bauhaus: economy of space, economy of material, economy of means. The largest table's cantilevered L-profile achieves structural drama from a single bent sheet — proof that modernist rigour survives transplantation.",
     "connections": [
       {
@@ -4922,7 +4922,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Early Bauhaus",
     "wikiTitle": null,
-    "description": "Breuer's earliest chair design uses traditional timber construction with a seat woven from jute cord. The frame employs mortise and tenon joints, revealing craft methods that would soon be abandoned. The proportions follow classical ratios, but the spare detailing hints at the reduction to come.",
+    "description": "Breuer's first chair, designed at twenty while still a Bauhaus student. A cherrywood frame with horsehair and cotton upholstery, using traditional mortise and tenon joints. The back reclines slightly and the seat slopes — achieved by offsetting the wooden supports rather than curving them. The woven fabric panels were made in collaboration with the Bauhaus weaving workshop under Gunta Stölzl.",
     "significance": "Breuer's earliest chair is still a craft object — mortise and tenon joints, jute cord seat, classical proportions. Its significance is retrospective: knowing that this same designer would soon replace wood with tubular steel, the 1922 armchair reveals modernism not as a rupture but as a gradual process of stripping away. Revolution, it turns out, is incremental.",
     "connections": [
       {
@@ -5011,7 +5011,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Bauhaus Modernism",
     "wikiTitle": null,
-    "description": "Breuer's armchair version of the cantilevered chair adds continuous tubular armrests to the basic B33 frame. The arms spring from the front legs and curve back to meet the seat frame, creating a unified structural loop. Canvas seat and back are slung between the steel framework.",
+    "description": "The armchair version of Breuer's cantilevered chair, using seamless one-inch-diameter chromed tubular steel. The arms spring from the front legs and curve back to meet the rear of the seat frame, forming a continuous structural loop. The seat and back are Vienna cane woven into beechwood frames that slot into the steel structure. Renamed Cesca in the 1960s after Breuer's daughter Francesca.",
     "significance": "The B64 is Breuer thinking in systems. Having proved the cantilever principle in the B33, he extends it into an armchair by looping continuous tubing from front legs through armrests and back to the seat frame. One structural idea generates an entire furniture family — the modernist equivalent of a platform strategy, decades before the term existed.",
     "connections": [
       {
@@ -5095,7 +5095,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Emigré Modernism",
     "wikiTitle": null,
-    "description": "Breuer's dining chair simplifies his cantilever system to its essential elements: a steel tube frame with plywood seat and back. The proportions are adjusted for table height, with an upright back angle for dining posture. The frame eliminates all decorative elements in favor of pure structural expression.",
+    "description": "A cantilevered dining chair in chromed tubular steel with a moulded plywood seat and back. The back angle is steeper than Breuer's lounge chairs — upright enough for a table — and the seat height is set for dining. The single continuous steel tube forms the base, legs, and backrest support in one bent piece, with the plywood panels screwed directly to the frame.",
     "significance": "Breuer's dining chair reduces the cantilever system to its minimum viable expression: steel tube, plywood seat, plywood back, upright posture. Every element that does not serve the act of sitting at a table has been removed. The result distinguishes between what is essential to a chair and what is merely conventional — modernism's most persistent question, answered with characteristic economy.",
     "connections": [
       {
@@ -5221,7 +5221,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Organic Modernism",
     "wikiTitle": null,
-    "description": "A companion piece to the Womb Chair that continues its organic vocabulary at floor level. The molded fiberglass form creates a soft landscape for the feet while maintaining the chair's sculptural unity. The ottoman demonstrates how accessories can extend a design concept rather than merely complement it.",
+    "description": "A moulded fibreglass shell over polyurethane foam, sitting on a chromed steel rod base with nylon glides — the same construction as the Womb Chair, rethought for a horizontal surface. It measures 63cm wide, 52cm deep and 42cm tall. Florence Knoll asked Saarinen for a chair she could curl up in; the ottoman extends the curling space to the floor, its shallow dish shape cradling the legs at the same reclined angle as the chair.",
     "significance": "The ottoman extends the Womb Chair's fibreglass shell logic to the floor without merely shrinking it — Saarinen rethinks the geometry for a horizontal surface that receives weight differently. It is a test case for whether a formal vocabulary can hold across scales and orientations, or whether each new object demands its own rules.",
     "connections": [
       {
@@ -5431,7 +5431,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Organic Modernism",
     "wikiTitle": "Noguchi table",
-    "description": "Two identical curved wood legs support a free-form glass top through precise joinery and counterbalanced tension. The asymmetrical top appears to float, held by sculptural legs that function as both structure and composition. Each element maintains its material identity while achieving structural unity through geometric relationships rather than mechanical fasteners.",
+    "description": "Two identical curved walnut legs interlock beneath a free-form glass top, connected by a single steel swivel rod. The 19mm glass plate rests on the legs by gravity alone — no clips, no adhesive. The biomorphic top is shaped so its weight distributes evenly across both support points. Noguchi called it his best piece of furniture. First produced by Herman Miller in 1947.",
     "significance": "Noguchi conceived the table as sculpture that accepts a cup of coffee. The two interlocking walnut legs are carved forms, not industrial components, and the free-form glass top floats above them precisely because glass is transparent — it shows off the base rather than concealing it. The table collapses the boundary between art and furniture not by elevating furniture but by making sculpture useful.",
     "connections": [
       {
@@ -5473,7 +5473,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Abstract Expressionist Theater",
     "wikiTitle": null,
-    "description": "Fragmented geometric shapes create a deliberately unstable composition that reflects the Fool's role as disruptor. Multiple angular elements overlap and intersect without clear hierarchy, suggesting movement and unpredictability. The design uses formal chaos within geometric constraint to express character through pure visual means.",
+    "description": "A costume made from stiffened felt, leather, and rubber, built in angular geometric panels that restrict the actor's movement. Designed for the 1955 Shakespeare Memorial Theatre production directed by George Devine, with John Gielgud as Lear. The rigid materials forced performers to move differently — the dress rehearsal was a disaster because actors in a fight scene could not stay on their feet. Critics called the costumes space suits.",
     "significance": "Noguchi's costume for the Fool is a composition of deliberate formal instability — angular shapes that overlap without hierarchy, suggesting perpetual motion. The visual chaos is systematic: each geometric fragment is precisely placed to communicate disruption within order. Character becomes geometry, and the Fool's dramatic function is expressed not through narrative illustration but through the structural language of imbalance.",
     "connections": [
       {
@@ -5546,7 +5546,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Design",
     "wikiTitle": null,
-    "description": "Large glass panels created through Murano's traditional blown glass techniques, scaled up to architectural dimensions. Ponti exploits the material's optical properties to create spatial dividers that maintain visual connection while defining separate zones. The panels demonstrate how craft traditions can be pushed to new scales and functions.",
+    "description": "Blocks of extra-thick Murano glass — the cotissi, the heavy offcuts from Venini's furnace — embedded with air bubbles and segments of coloured paste frozen inside the mass. Ponti and glassmaker Toni Zuccheri assembled these blocks into architectural-scale panels, but the weight made conventional lead settings impossible, so vertical steel guides hold the pieces in place. Each block measures roughly 33 by 21cm and weighs enough that the construction is closer to masonry than glazing.",
     "significance": "Ponti scaled Murano's blown glass from vessel to wall. The Vetrate Grosse are architectural dividers that maintain visual connection between spaces while defining separation — transparency as spatial strategy rather than decorative effect. They represent Italian design's distinctive ability to push traditional craft to scales and functions its originators never imagined.",
     "connections": [
       {
@@ -5625,7 +5625,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": null,
-    "description": "A flexible table lamp using chrome-plated metal segments connected by ball joints, allowing infinite positioning of the light source. The articulated arm references industrial equipment while the chrome finish gives domestic refinement. The lamp transforms from object to tool through user manipulation of its jointed structure.",
+    "description": "A flexible steel tube covered in corrugated ivory PVC piping, closed with a stainless steel end cap, and topped with a powder-coated steel reflector that rotates 360 degrees. The name means snake in Japanese — the flexible spine bends and holds any position, extending to about 50cm. Designed by Hosoe, a Japanese aerospace engineer working in Milan, and manufactured by Valenti Luce. Uses a single 40W bulb.",
     "significance": "The Hebi is a lamp that exists in the imperative mood — it demands to be adjusted. The chrome ball-joint segments turn lighting into a physical negotiation between user and object, making each position a conscious decision. It belongs to a strand of Italian design that treats domestic objects not as fixed solutions but as behavioural propositions.",
     "connections": [
       {
@@ -5672,7 +5672,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "description": "A steel frame chair where the seat and back are formed entirely from a single continuous cord wound through the structure. The cord creates both the surface and the suspension system, eliminating traditional upholstery. The design reduces the chair to its most essential components while creating comfort through tension rather than padding.",
+    "description": "A 9mm steel frame clad in 3mm-thick hand-carved maple veneers, each piece hollowed out to fit over the metal. The legs are only 15mm in diameter. Every veneer is carved by hand so the wood grain aligns across joints, making the underlying steel structure invisible. The chair looks too thin to support weight — each structural member is just 3mm wide — but the steel core carries the load while the maple provides the surface.",
     "significance": "Nendo's Cord Chair asks a reductive question — what if seat, back, and suspension were all one material? A single continuous cord wound through a steel frame provides surface, structure, and flex simultaneously. Comfort comes from tension, not padding. The design is an argument for economy so extreme it becomes poetic.",
     "connections": [
       {
@@ -5688,7 +5688,7 @@ export const ARCHIVE = [
       {
         "id": 56,
         "type": "lineage",
-        "reason": "Nendo wraps a single continuous cord through a steel frame to form a chair — Rand cuts eight horizontal stripes through three letters to form a logo. Both use linear repetition as the generative principle, in furniture and graphics"
+        "reason": "Nendo wraps a single continuous cord through a steel frame to form a chair — Rand cuts eight horizontal stripes through three letters to form a logo. One line, repeated, becomes the entire design — the rule is the object."
       },
       {
         "id": 38,
@@ -5793,7 +5793,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Commercial Typography",
     "wikiTitle": null,
-    "description": "Popular music sheet covers adopting modernist typography and layout principles in mass market publishing. Clean sans-serif fonts replace decorative Victorian styles, with systematic use of hierarchy and white space. The design democratises modernist graphic principles, applying them to commercial music publishing for broad public consumption.",
+    "description": "Sheet music covers from the publisher Chappell & Co. using clean sans-serif type, generous white space, and systematic hierarchy — modernist layout principles applied to music sold in high street shops. The covers replace the ornate Victorian illustration tradition with flat colour fields and typographic composition. Printed cheaply on lightweight paper stock, these were mass-market objects carrying design principles usually confined to galleries.",
     "significance": "When modernist typography reached popular sheet music, it proved that avant-garde design principles could function in the most commercial contexts imaginable. Clean sans-serif type and systematic hierarchy replaced Victorian decoration not through ideology but through legibility. The real democratisation of modernism happened not in exhibitions but in objects people bought without thinking about design at all.",
     "connections": [
       {
@@ -5830,7 +5830,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Corporate Modernism",
     "wikiTitle": null,
-    "description": "A blown glass carafe that reduces the vessel to its essential geometric form — a perfect cylinder topped with a conical stopper. The Vignellis eliminated all decorative elements, creating a form that demonstrates their grid-based methodology applied to three-dimensional objects. The proportional relationship between cylinder and cone follows mathematical ratios derived from their graphic work.",
+    "description": "A blown glass carafe — a plain cylinder topped with a conical stopper, standing 7.25 inches tall with a 32-ounce capacity. The rounded ribs running horizontally around the body catch and refract light, giving the clear glass surface texture without decoration. Originally designed in 1979 for the CIGA hotel chain in Italy, later reissued through the Metropolitan Museum of Art.",
     "significance": "The Vignellis applied the same grid logic to a glass carafe that they used to organise the New York subway map. Cylinder plus cone, proportioned by mathematical ratio, with nothing left to remove. The carafe is proof that their design philosophy was not a graphic style but a spatial discipline — equally rigorous whether the medium is paper, signage, or blown glass.",
     "connections": [
       {
@@ -5962,7 +5962,7 @@ export const ARCHIVE = [
       {
         "id": 547,
         "type": "zeitgeist",
-        "reason": "De Lucchi's Flamingo Table (1983) makes asymmetrical legs that appear to dance rather than support, laminate surfaces in bold colours rejecting wood's honesty — the table as kinetic sculpture. Shire's Bel Air Chair (1982) stacks sphere, cylinder, and pyramid in impossible geometric relationships, vivid colour rejecting ergonomic logic — the chair as abstract composition. Both Memphis pieces from the movement's peak years, both treating furniture as a manifesto-delivery system where the object's visual argument matters more than its structural duty."
+        "reason": "De Lucchi's Flamingo Table makes asymmetrical legs that appear to dance rather than support, laminate surfaces in bold colours rejecting wood's honesty — the table as kinetic sculpture. Shire's Bel Air Chair stacks sphere, cylinder, and pyramid in impossible geometric relationships, vivid colour rejecting ergonomic logic — the chair as abstract composition. Memphis at its peak: furniture as manifesto, where the visual argument lands before you even sit down."
       }
     ],
     "keywords": [
@@ -6020,7 +6020,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "Bedin's drawing transforms the lamp from functional object to narrative character, using cartoon-like forms and bright colors to challenge modernist rationalism. The drawing process itself becomes a form of design thinking, where anthropomorphic qualities emerge through gestural mark-making rather than technical specification.",
+    "description": "Bedin's preparatory drawing for the Super Lamp — a fiberglass semicircle on four rubber wheels with six coloured cylindrical bulb holders splayed along its back like a stegosaurus. The drawing uses felt-tip colour and loose line rather than technical drafting, working out the lamp's proportions and personality on paper. Bedin described the finished object as being like a small dog she could drag around the room.",
     "significance": "Bedin's drawing for the Super Lamp is not a technical specification — it is a manifesto. The cartoon-like forms and vivid colours declare that the design process itself can be as provocative as the finished object. Memphis understood that sketches published in magazines could carry ideology as effectively as products in showrooms.",
     "connections": [
       {
@@ -6068,12 +6068,12 @@ export const ARCHIVE = [
       {
         "id": 41,
         "type": "method",
-        "reason": "Mendini's Cipriani cabinet fragments classical architecture into postmodern collage — the Eames House assembles off-the-shelf industrial components into a liveable home. Both use found elements, Mendini for cultural commentary, the Eameses for structural honesty"
+        "reason": "Mendini's Cipriani cabinet fragments classical architecture into postmodern collage — the Eames House assembles off-the-shelf industrial components into a liveable home. Found elements in service of irony versus found elements in service of shelter."
       },
       {
         "id": 45,
         "type": "lineage",
-        "reason": "Mendini's Cipriani fragments classical architecture into postmodern collision — Saarinen's TWA terminal flows classical structure into modernist concrete vaults. Both treat architecture as drama, through Memphis deconstruction and expressive engineering"
+        "reason": "Mendini's Cipriani fragments classical architecture into postmodern collision — Saarinen's TWA terminal flows classical structure into modernist concrete vaults. Architecture as theatre — one smashes the columns, the other makes them fly."
       }
     ],
     "keywords": [
@@ -6099,7 +6099,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "Sowden's bed design treats sleep furniture as architectural landscape, using bold geometric forms and contrasting patterns to transform the bedroom into a theatrical stage set. The drawing technique combines architectural plan with decorative surface, making the design process visible as part of the conceptual statement.",
+    "description": "A design drawing for a bed that treats the headboard as an architectural facade — bold geometric panels in contrasting patterns and colours stacked above the mattress. Sowden renders the surface decoration at the same level of detail as the structural form, using flat colour and hard edges. The bed becomes a room within a room, its patterned laminate surfaces more like tiled walls than bedroom furniture.",
     "significance": "Sowden's bed designs treat the bedroom as a stage set, not a place of rest. Bold geometric forms and clashing patterns turn domestic furniture into environmental provocation — the logical extension of Memphis thinking from individual objects to entire rooms. That a British designer contributed this spatial ambition to an Italian movement complicates easy national narratives about postmodern design.",
     "connections": [
       {
@@ -6115,7 +6115,7 @@ export const ARCHIVE = [
       {
         "id": 2,
         "type": "argument",
-        "reason": "Sowden treats the bed as architectural landscape in bold Memphis geometry — the Castiglionis treat the stool as a Duchampian gesture with engineering precision. Both challenge what domestic furniture should look like, through visual excess and conceptual wit"
+        "reason": "Sowden treats the bed as architectural landscape in bold Memphis geometry — the Castiglionis treat the stool as a Duchampian gesture with engineering precision. Two ways to make domestic furniture feel dangerous — Memphis by overwhelming, the readymade by undermining."
       }
     ],
     "keywords": [
@@ -6230,7 +6230,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "A plastic wristwatch that applies Memphis design language to mass-produced timepieces. The case geometry abandons circular tradition for angular, architectural forms while bold pattern graphics transform the functional dial into a decorative surface. Unlike Swiss precision instruments, this watch declares time-telling secondary to cultural signaling.",
+    "description": "A plastic quartz wristwatch with a Swiss movement inside a 34mm case, produced in the thousands for a few pounds each. The dial uses flat geometric shapes in Memphis colours — green, pink, grey — with no numerals or markings. The plastic case and strap are injection-moulded, making mass production trivially cheap. Memphis aesthetics at Swatch prices, sold in department stores rather than design galleries.",
     "significance": "The Memphis Swatch is where radical aesthetics met mass production without flinching. Angular geometry and bold pattern applied to a plastic wristwatch — the most functional, most disposable, most democratic object imaginable. Memphis proved that subversive design did not require gallery prices or limited editions. It just required nerve.",
     "connections": [
       {
@@ -6241,7 +6241,7 @@ export const ARCHIVE = [
       {
         "id": 24,
         "type": "argument",
-        "reason": "The Memphis Swatch wraps De Lucchi's geometric graphics around a cheap plastic watch — industrial object as cultural provocation. The Egg wraps sculpted foam around a fibreglass shell — industrial object as physical sanctuary. Both use geometry to transform mass-produced objects, but Memphis wants to startle you and Jacobsen wants to shelter you."
+        "reason": "The Memphis Swatch wraps De Lucchi's geometric graphics around a cheap plastic watch — industrial object as cultural provocation. The Egg wraps sculpted foam around a fibreglass shell — industrial object as physical sanctuary. Geometry as alarm clock versus geometry as embrace."
       }
     ],
     "keywords": [
@@ -6266,7 +6266,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "A glass vessel that abandons traditional vase proportions for an architectural composition of geometric volumes. Hand-blown in Murano using traditional techniques, but the form rejects organic curves for hard-edged modernist geometry. The asymmetrical stacking of cylindrical and conical forms creates visual instability that questions the vase's function as stable container.",
+    "description": "A Murano glass vase standing 37cm tall, hand-blown by the Toso glassworks using traditional free-blowing and mould-blowing techniques. Conical forms at the base support three flared openings connected by a transparent glass sphere, with a crimson-red glass ring adding a sharp colour accent. The ancient Murano skills — gathering, blowing, shaping at the furnace — are used to produce forms that look nothing like traditional Venetian glass.",
     "significance": "Zanini's vase stacks cylinders and cones into an architectural composition that happens to hold flowers. Hand-blown in Murano using centuries-old techniques, the form deliberately rejects every organic curve those techniques were developed to produce. Memphis's real provocation was not abandoning craft but commanding it to serve anti-craft purposes.",
     "connections": [
       {
@@ -6282,7 +6282,7 @@ export const ARCHIVE = [
       {
         "id": 47,
         "type": "lineage",
-        "reason": "Zanini builds a vessel from architectural geometric volumes in Murano glass — Noguchi builds Akari lanterns from washi paper and bamboo, translating Japanese craft into sculptural light. Both transform traditional handcraft into contemporary sculptural form"
+        "reason": "Zanini builds a vessel from architectural geometric volumes in Murano glass — Noguchi builds Akari lanterns from washi paper and bamboo, translating Japanese craft into sculptural light. Ancient workshops conscripted into contemporary sculpture, the glassblower and the paper-folder each surprised by what they are being asked to make."
       }
     ],
     "keywords": [
@@ -6452,7 +6452,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-War Reconstruction",
     "wikiTitle": null,
-    "description": "Selmanagic's chair demonstrates how Bauhaus tubular steel principles adapted to post-war material shortages and institutional needs. The simplified cantilever construction reduces Breuer's B32 model to essential structural elements while maintaining ergonomic performance. Chrome steel tubing supports a minimal seat and back, proving that modernist functionality could survive political disruption and resource constraints.",
+    "description": "A solid beech frame with a beech plywood backrest, designed by former Bauhaus student Selmanagic for the SED Parteihochschule Karl Marx in Kleinmachnow, 1947–49. Built at the Deutsche Werkstätten in Hellerau — one of Germany's most important furniture workshops — under post-war material shortages that ruled out the chrome-plated tubular steel of Selmanagic's Bauhaus training. The cantilever principle survives, translated from steel tube into solid timber.",
     "significance": "Selmanagic's Seminar Chair proves that modernist principles survive political catastrophe. A simplified Breuer cantilever built under post-war material shortages, it strips the B32 to its structural minimum without losing ergonomic performance. The chair's real lesson is continuity: that functional logic, once established, persists across ideological ruptures because it answers to physics, not politics.",
     "connections": [
       {
@@ -6912,7 +6912,7 @@ export const ARCHIVE = [
       {
         "id": 32,
         "type": "sameProblem",
-        "reason": "Webb's St George Cabinet uses visible medieval joinery as honest construction — Wirkkala's glass shows every mark of its encounter with the charred mould. Both treat the making process as the ornament, in wood and glass"
+        "reason": "Webb's St George Cabinet uses visible medieval joinery as honest construction — Wirkkala's glass shows every mark of its encounter with the charred mould. A century apart, the same refusal to hide the hand that made it."
       }
     ],
     "keywords": [
@@ -6978,7 +6978,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Industrial Functionalism",
     "wikiTitle": "Anglepoise lamp",
-    "description": "Carwardine's automotive engineering background produced a task light using spring-loaded arms that maintain balance through constant tension rather than clamping mechanisms. The articulated steel construction borrows from car suspension systems, creating infinite positioning possibilities within a compact footprint. Each joint's spring resistance exactly counteracts the weight distribution, allowing effortless repositioning with fingertip pressure.",
+    "description": "A task lamp with three springs that hold the articulated steel arms in any position through constant tension — the same principle as vehicle suspension, which was Carwardine's day job. Each spring's resistance exactly counterbalances the weight of the arm and shade above it, so the lamp stays where you put it with fingertip pressure. The arm extends to 60cm. Carwardine patented the mechanism in 1932 and licensed it to Herbert Terry & Sons, the spring manufacturer.",
     "significance": "Carwardine was a car suspension engineer, not a lighting designer, and the Anglepoise shows it. The spring-loaded arms borrow from automotive constant-tension systems, creating a lamp that stays where you put it through physics rather than friction. The form is entirely determined by its mechanism — no housing, no shade beyond the reflector, nothing that is not structure. Engineering, left alone, produced an icon.",
     "connections": [
       {
@@ -7104,7 +7104,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Design Democracy",
     "wikiTitle": null,
-    "description": "The project democratises urban communication by distributing blank poster templates across London for public completion and redistribution. Unlike traditional top-down civic messaging, this system creates a feedback loop where citizens become both content creators and distribution network. The standardised format provides just enough structure to ensure legibility while maximising creative freedom within established urban poster conventions.",
+    "description": "Twenty silkscreen posters, each 91cm by 64cm, produced in limited editions of 100, all restricted to a palette of red and black on white. Curated by Domenic Lippa at Pentagram for the 2009 London Design Festival, each poster was designed by a leading British graphic designer responding to a single brief: celebrate London as the creative capital of the world. The constraint — two colours, one size, one process — made the range of responses visible.",
     "significance": "The London Poster Project inverts graphic design's traditional hierarchy: instead of designers communicating to audiences, the template system turns audiences into designers. The blank poster format provides just enough structure — size, grid, distribution network — to make participation possible without making it uniform. Constraint as liberation, applied at urban scale.",
     "connections": [
       {
@@ -7173,7 +7173,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Industrial Production",
     "wikiTitle": "Singer Corporation",
-    "description": "Singer's 'New Family' established the industrial template for domestic sewing machines through standardised iron casting and precision mechanical assembly. The treadle mechanism converts foot motion into rotary drive, demonstrating how complex mechanical systems could be made reliable enough for untrained users. Its ornate cast-iron frame uses decorative elements to domesticate industrial machinery for middle-class homes.",
+    "description": "A cast-iron sewing machine on a decorative cast-iron treadle table, first introduced in 1865 as the Model 12 and produced into the early 1900s. The treadle converts foot motion into rotary drive via a leather belt. The machine uses a transverse shuttle — a boat-shaped bobbin carrier that moves back and forth under the bed — to produce a lockstitch on almost any fabric. The ornate scrollwork on the iron frame made industrial machinery acceptable in a Victorian parlour.",
     "significance": "The Singer 'New Family' solved two problems simultaneously: mechanical and social. The treadle mechanism made industrial sewing reliable enough for untrained users, while the ornate cast-iron frame disguised factory equipment as parlour furniture. The decorative scrollwork is not aesthetic failure but commercial intelligence — Singer understood that domestic technology must first be domesticated.",
     "connections": [
       {
@@ -7215,7 +7215,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "description": "Crompton's panel translates modernist abstraction into hand-stitched embroidery, using traditional needlework techniques to create geometric compositions. The work demonstrates how craft traditions could engage with contemporary art movements without abandoning their material specificity. Her approach maintains the temporal rhythm of hand-making while adopting modernist visual language.",
+    "description": "An embroidered panel combining machine and hand stitching on layered fabrics — silk threads, metallic threads, and transparent materials built up into geometric compositions. Crompton pioneered the use of raw edges as deliberate design elements rather than hiding them, and mixed different fabric weights within single pieces. Influenced by the Wiener Werkstätte, she worked often in monochromatic schemes of whites, greys and blacks, using transparency and layering to create depth.",
     "significance": "Reveals how traditional crafts negotiated modernism by adapting new visual languages to established making processes. Shows embroidery as a legitimate medium for artistic experiment, not merely decorative application.",
     "connections": [
       {
@@ -7284,7 +7284,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "description": "This embroidered panel shows Crompton's approach to figurative representation within modernist constraints. The horse is rendered through simplified forms and controlled color, demonstrating how traditional embroidery subjects could be interpreted through contemporary design principles. The work maintains recognizable imagery while adopting the formal reduction characteristic of 1930s applied arts.",
+    "description": "An embroidered linen panel showing a horse rendered in coloured silks using surface darning, interlacing, and tacking stitches. Crompton — Head of Crafts, Dress and Embroidery at Croydon School of Art — combined machine and hand stitching in the same piece, mixing different weights of thread and contrasting textures. The horse is recognisable but reduced to flat colour planes, applying the simplification of 1930s painting to needlework.",
     "significance": "Crompton's Horse holds two traditions in tension: figurative embroidery and modernist reduction. The animal is recognisable but simplified, rendered through controlled colour and abbreviated form rather than naturalistic detail. The work argues that needlecraft could engage with contemporary formal language without surrendering its own medium — a position more radical than it appears in a decade that routinely dismissed craft as backward.",
     "connections": [
       {
@@ -7321,7 +7321,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modern Embroidery",
     "wikiTitle": null,
-    "description": "Crompton's geometric sampler transforms traditional needlework pedagogy into modernist pattern-making. The radiating composition demonstrates systematic color relationships while teaching technical stitching skills through abstracted forms rather than naturalistic motifs.",
+    "description": "An embroidered linen sampler in coloured silks using surface darning, interlacing, and tacking stitches — the same techniques taught for centuries, but applied to geometric patterns rather than flowers or alphabets. The radiating composition tests colour relationships systematically across the surface. Crompton was influenced by the Wiener Werkstätte and used samplers as working experiments in texture and colour, not as decorative exercises.",
     "significance": "Crompton's sampler transforms a teaching format into a modernist composition. The radiating geometric pattern teaches stitching technique through abstracted forms rather than the traditional alphabet and floral motifs — proof that pedagogy can absorb new visual languages without losing its instructional purpose. The sampler remains a sampler; it just stops pretending that tradition is the only thing worth learning.",
     "connections": [
       {
@@ -7363,7 +7363,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Haute Couture",
     "wikiTitle": "Charles Frederick Worth",
-    "description": "Worth's evening dress establishes couture's industrial logic through systematic construction methods and seasonal collections. The structured silhouette demonstrates how luxury fashion adopted manufacturing principles while maintaining handcraft finishes.",
+    "description": "A silk satin evening dress with a bodice seamed and gored for a moulded fit, extending into draped hips that merge with a train falling in inverted pleats. The inside of the skirt is hooped at the back with adjustable tapes to create the bustle. Worn by Mrs Granville Alexander, daughter of sewing machine pioneer Isaac Singer — Worth dressed the industrial rich in garments that were themselves industrially organised: sized patterns, seasonal collections, a branded label.",
     "significance": "Foundational to understanding fashion as designed system rather than individual craft. Shows how luxury production industrialised while preserving artisanal status through branding and seasonal renewal.",
     "connections": [
       {
@@ -7400,7 +7400,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Fashion",
     "wikiTitle": null,
-    "description": "Cadwallader's costume for Dua Lipa uses digital fabrication to create impossible geometries that exist only in performance. The garment's structure emerges from parametric design software, producing forms that traditional tailoring cannot achieve. Its surface treatment reflects light through embedded LED matrices, making the body itself a display medium.",
+    "description": "A custom Mugler catsuit with a boned corset bodice and the house's signature cutout pattern, designed by creative director Casey Cadwallader for Dua Lipa's 2022 tour. The bodysuit is embroidered with 240,000 crystals, taking over 2,320 cumulative hours of hand-finishing. The crystals catch stage lighting from every angle, turning the performer into a reflective surface visible across stadium distances.",
     "significance": "Cadwallader's costume for Dua Lipa treats the body as a display medium. Parametric software generates geometries that no tailor could cut; embedded LEDs make the garment a light source. The costume belongs at the boundary where fashion, technology, and spectacle merge — a boundary that keeps moving, and that performance design reaches before everyday clothing follows.",
     "connections": [
       {
@@ -7437,7 +7437,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Performance Stagecraft",
     "wikiTitle": null,
-    "description": "Jowett's costume uses retroreflective tape applied in precise patterns to make Martin visible across stadium distances. The tape's microsphere technology returns light directly to its source, creating intense visibility under stage lighting. The geometric application turns functional necessity into decorative system, making the performer a human light fixture.",
+    "description": "A military-style jacket assembled from pieces of recycled fabric in bright colours, designed by Sara Jowett in collaboration with Stella McCartney for Coldplay's 2008 Viva La Vida world tour. The patchwork construction references the sans-culottes of the French Revolution — fitting for an album named after a Delacroix painting. The band wore variations of this uniform for every performance across the two-year touring period.",
     "significance": "Jowett's costume turns an industrial safety material — retroreflective tape — into a design system. The microspheres that bounce light back to its source were engineered for motorway signs, not stage wear. Applied in geometric patterns to a rock star's jacket, they make the performer visible across stadium distances. Function borrowed from one context becomes spectacle in another.",
     "connections": [
       {
@@ -7573,7 +7573,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modernist Documentation",
     "wikiTitle": "Eileen Gray",
-    "description": "Gray's technical drawing shows the Transatlantique chair through orthographic projection, revealing the precise geometry required for bent steel tube construction. The drawing includes bend radii, tube dimensions, and upholstery attachment points — information essential for manufacturing. Unlike architectural drawings, it focuses on material behavior and production constraints rather than spatial relationships.",
+    "description": "Gray's design drawing for the Transat chair — a reclining frame in lacquered wood with chromed-steel fittings, designed for the terrace of her Villa E.1027 at Roquebrune-Cap-Martin. The drawing uses Gray's characteristically sharp, linear style to show the rigid side frames with tenon joints and chromed brackets. A suspended leather panel forms the seat, with a pivoting headrest that adjusts to the sitter's posture, borrowing the principle of a steamship deckchair.",
     "significance": "Gray's working drawing for the Transatlantique chair contains information that no photograph can — bend radii, tube dimensions, upholstery attachment points. Before CAD, the technical drawing was the only language precise enough to translate a designer's intention into a manufacturer's action. The drawing is not a record of the chair; it is the instruction that makes the chair possible.",
     "connections": [
       {
@@ -7695,7 +7695,7 @@ export const ARCHIVE = [
       {
         "id": 32,
         "type": "method",
-        "reason": "Gray proposes a modular chair system with reconfigurable elements — Wirkkala proposes glassware where no two pieces are identical. Both question the idea of a fixed design, through user configuration and material variability"
+        "reason": "Gray proposes a modular chair system with reconfigurable elements — Wirkkala proposes glassware where no two pieces are identical. The finished object as starting point rather than destination — one hands control to the user, the other to the material."
       },
       {
         "id": 100,
@@ -7825,7 +7825,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Modernism",
     "wikiTitle": "Charlotte Perriand",
-    "description": "A tubular steel swivel armchair that reduces the support mechanism to its functional essence. The continuous steel frame eliminates distinction between structure and ornament, while the pivoting base transforms the static chair into a dynamic response to modern work patterns. The leather seat and back are suspended within the frame rather than applied to it.",
+    "description": "A swivel armchair in chromed tubular steel with red leather upholstery, designed before Perriand joined Le Corbusier's studio. The circular seat rotates on its base. Most of the 26 chairs manufactured by Labadie were upholstered in red leather. It first appeared in the apartment Perriand designed for herself and her husband on the Place Saint-Sulpice, and was exhibited at the 1928 Salon des Artistes Décorateurs. Later manufactured by Thonet as the B302.",
     "significance": "Perriand's swivel chair did not simply replace wood with steel — it replaced the static chair with a mobile one. The pivot mechanism responds to the modern worker's need to turn, reach, and shift without standing. New material, new behaviour: the modernist principle that changed production methods should generate changed forms, not replicate familiar ones in unfamiliar materials.",
     "connections": [
       {
@@ -8041,7 +8041,7 @@ export const ARCHIVE = [
       {
         "id": 15,
         "type": "method",
-        "reason": "Heindorff’s Tracer fabric shows its digital printing process in the finished pattern — the layers visible. The Pompidou shows its mechanical systems in the finished building — the ducts visible. Both treat process as content."
+        "reason": "Heindorff’s Tracer fabric shows its digital printing process in the finished pattern — the layers visible. The Pompidou shows its mechanical systems in the finished building — the ducts visible. Process worn on the outside, at the scale of a curtain and the scale of a city block."
       },
       {
         "id": 104,
@@ -8476,7 +8476,7 @@ export const ARCHIVE = [
       {
         "id": 104,
         "type": "argument",
-        "reason": "Day balances geometric abstraction with domestic warmth in carpet pattern — Eames balances industrial components with domestic warmth in storage. Both make modernist systems feel liveable, in textile and furniture"
+        "reason": "Day balances geometric abstraction with domestic warmth in carpet pattern — Eames balances industrial components with domestic warmth in storage. The quiet work of making modernism feel like home."
       },
       {
         "id": 223,
@@ -8565,7 +8565,7 @@ export const ARCHIVE = [
       {
         "id": 104,
         "type": "argument",
-        "reason": "Day's interlocking circles create optical depth on the floor — Eames's modular panels create visual depth on the wall. Both use geometric repetition to build complexity from simple units, in carpet and storage"
+        "reason": "Day's interlocking circles create optical depth on the floor — Eames's modular panels create visual depth on the wall. The same conviction that one shape, repeated with discipline, generates richness."
       }
     ],
     "keywords": [
@@ -9115,7 +9115,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "description": "Day's ceramic plate design translates botanical observation into abstracted surface pattern through selective color reduction and rhythmic repetition. The columbine flowers become geometric scaffolding for exploring positive-negative space relationships on the circular format. Her approach demonstrates how natural forms can be systematically processed into modern decorative schemes without losing organic vitality.",
+    "description": "A Rosenthal porcelain plate with columbine flowers reduced to angular line-work and flat colour against a white ground. Day strips the botanical forms to their skeletal geometry — stems become thin black lines, petals become interlocking colour fields — but keeps enough of the plant's structure that you still recognise what you are looking at. The pattern is printed, not painted, designed for industrial ceramic production at Rosenthal's German factories.",
     "significance": "Day's Columbine plate transforms botanical observation into industrial pattern through systematic abstraction. The flowers become geometric scaffolding — not illustrations of nature but formal structures derived from it. Her achievement was proving that decorative arts could pursue modernist formal investigations without sacrificing either commercial viability or the pleasure of recognition.",
     "connections": [
       {
@@ -9192,7 +9192,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "description": "Day's spring plate employs delicate line work and sparse composition to evoke seasonal emergence through visual restraint. The design demonstrates how botanical selection and spacing can create temporal associations without literal representation. Her approach shows pattern design as a system of visual codes that reference natural cycles through formal relationships rather than pictorial accuracy.",
+    "description": "Part of a four-plate set for Rosenthal, each plate representing a season through a different density of botanical line-work on white porcelain. Spring uses the sparsest composition of the set — thin stems and opening buds spread wide across the plate surface, with more white ground visible than decoration. The seasonal association comes from the spacing: growth suggested by what is not yet there.",
     "significance": "Spring's sparse composition is Day working with restraint as a positive force. Delicate line work and wide spacing evoke emergence without depicting it literally — the seasonal association arrives through formal means rather than pictorial ones. Pattern design here operates as a coded language, communicating temporal experience through density, weight, and interval.",
     "connections": [
       {
@@ -9233,7 +9233,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": "Lucienne Day",
-    "description": "Day's winter plate employs stark linear structures and reduced botanical forms to evoke seasonal dormancy through compositional clarity. The design demonstrates how pattern density and structural emphasis can reference natural cycles without seasonal clichés. Her systematic reduction of organic forms to essential structural relationships creates decorative meaning through formal restraint rather than symbolic representation.",
+    "description": "The densest plate in Day's Four Seasons set for Rosenthal. Where Spring leaves the porcelain surface mostly bare, Winter fills it with heavy, structural line-work — thick stems, angular branching, tightly packed forms. No snowflakes, no bare branches: dormancy is conveyed through weight and compression rather than emptiness. The contrast with the other three plates in the set is the point — the same botanical vocabulary at four different densities.",
     "significance": "Winter strips Day's botanical vocabulary to its structural minimum. Stark lines and reduced forms achieve seasonal association through what is absent rather than what is present — dormancy expressed as compositional austerity. The plate proves that decorative art can engage complex themes through formal reduction alone, without relying on the clichés of snowflakes and bare branches.",
     "connections": [
       {
@@ -9274,7 +9274,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "description": "Day's ceramic pattern translates her textile vocabulary of abstracted natural forms onto the circular format of a plate. The design works within the constraints of ceramic production, using simplified organic motifs that read clearly against the white porcelain ground. The pattern demonstrates how contemporary British design adapted American Abstract Expressionist painting for domestic application.",
+    "description": "A Rosenthal porcelain plate carrying Day's textile sensibility onto a ceramic surface — loose, organic motifs printed in flat colour against a white ground. The forms are abstracted enough to read as brushstrokes rather than botanical illustrations, closer to Abstract Expressionist painting than to traditional ceramic decoration. The circular format constrains the composition differently from her rectangular textiles, forcing the motifs into a centrifugal arrangement.",
     "significance": "Day's Regent Street plate is Festival of Britain modernism applied to the tea table — Abstract Expressionist energy domesticated for ceramic production. The abstracted organic motifs against white porcelain ground prove that avant-garde visual thinking could reach ordinary households through everyday objects, which was precisely the Festival generation's democratic ambition.",
     "connections": [
       {
@@ -9410,7 +9410,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "description": "Day's breakthrough textile design establishes her signature vocabulary of stylized plant forms reduced to essential linear elements. The pattern uses contemporary screen printing to achieve crisp edges and flat color areas that modernize traditional botanical motifs. Calyx demonstrates how Festival designers translated organic forms into contemporary visual language.",
+    "description": "Hand screen-printed on linen in lemon yellow, orangey-red and black on an olive ground, measuring roughly 110 by 230cm. Cup-shaped plant forms connected by spindly black lines float across the surface — closer to Calder mobiles or Klee drawings than to any English chintz. Heal's were initially sceptical, but Calyx won the gold medal at the IX Milan Triennale in 1951 and was rated the best textile on the American market by the American Institute of Decorators the following year.",
     "significance": "Launched Day's career and defined British Contemporary style in textiles. Shows how post-war designers rejected both Victorian naturalism and continental geometric severity for a distinctly British approach to organic modernism that influenced domestic design through the 1960s.",
     "connections": [
       {
@@ -10176,7 +10176,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "description": "Webster creates pattern through systematic repetition of organic forms, balancing modernist geometric logic with naturalistic motifs. The design demonstrates how Festival-era textiles maintained connection to British landscape traditions while embracing contemporary production methods.",
+    "description": "A furnishing fabric built from repeating organic forms — leaf-like shapes arranged in a regular grid, each motif recognisably botanical but flattened and simplified for screen printing. The pattern sits between two traditions: the naturalistic chintz that British textile mills had produced for centuries, and the hard geometric abstraction coming from continental modernism. The repeat is mechanical; the forms are not.",
     "significance": "Webster's Beryl fabric occupies the territory between botanical tradition and geometric modernism that defined Festival style. The pattern synthesises organic reference with systematic repetition — a specifically British resolution to the tension between craft heritage and industrial production. Not quite traditional, not quite avant-garde: the Festival's characteristic compromise, and its most commercially durable achievement.",
     "connections": [
       {
@@ -10223,7 +10223,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "description": "A wallpaper pattern that translates the molecular structure of boric acid into decorative form through geometric abstraction. The design demonstrates how scientific visualization can become domestic ornament, using atomic diagrams as the basis for repeating patterns. The molecular bonds create a network of connections that naturally tessellates across the wall surface.",
+    "description": "A wallpaper whose repeating pattern is the molecular structure of boric acid — hydrogen and boron atoms rendered as circles and dots, their bonds as connecting lines, tessellating naturally across the wall surface. The molecular diagram provides the geometry: hexagonal rings of atoms create a honeycomb repeat without any design intervention. Odell simply took a chemistry textbook diagram and printed it at domestic scale.",
     "significance": "Odell turned the molecular structure of boric acid into wallpaper, and the gesture captures everything the Festival of Britain believed. Science as ornament, chemistry as beauty, atomic bonds as domestic pattern — the conviction that modernity itself was decorative, that the structures revealed by the microscope were as rich a source of pattern as the garden had ever been.",
     "connections": [
       {
@@ -10260,7 +10260,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "description": "A furnishing fabric that reduces the complexity of leaf forms to essential graphic elements through bold color contrasts and simplified shapes. Conran's design demonstrates how natural observation can be translated into modern pattern through systematic abstraction. The large-scale repeat creates dramatic interior environments while maintaining production efficiency.",
+    "description": "A screen-printed cotton furnishing fabric produced by Conran Fabrics. The pattern reproduces a single leaf form in painstaking botanical detail — veins, serrations, stem — then repeats it across the cloth at large scale in flat, contrasting colours. From a distance the motif reads as a simple silhouette; close up, the drawn detail keeps revealing itself across the repeat. The screen-printing process builds the image in separate colour passes on a plain-weave cotton ground.",
     "significance": "Shows Conran's early development of the design philosophy that would later define Habitat — making sophisticated modern design accessible through clear formal principles. Demonstrates how careful observation of nature could generate contemporary domestic environments.",
     "connections": [
       {
@@ -10344,7 +10344,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Contemporary Style",
     "wikiTitle": null,
-    "description": "A furnishing fabric that reduces decoration to its essential geometric components through precise stripe patterns. The design demonstrates how systematic repetition can create visual impact without figurative imagery. The mechanical precision of the stripes reflects post-war British design's embrace of industrial aesthetics.",
+    "description": "A screen-printed cotton furnishing fabric by Conran Fabrics built entirely from vertical stripes of varying width and tone. There is no figurative motif — the pattern is constructed from parallel bands of colour laid down in registered screen passes on a plain-weave cotton ground. The stripe widths follow a measured sequence that generates rhythm through repetition alone, with hard edges between each colour band giving the surface a mechanical precision.",
     "significance": "Conran's Geometry Stripe reduces furnishing fabric to its most basic formal operation: the stripe. No figuration, no botanical reference, no narrative — just systematic repetition creating visual rhythm through mechanical precision. The pattern is a declaration of faith in industrial aesthetics at a moment when British taste was still uncertain whether abstraction belonged in the living room.",
     "connections": [
       {
@@ -10527,7 +10527,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism Design",
     "wikiTitle": null,
-    "description": "Calder reduces his sculptural vocabulary to bold, gestural forms that function as both environmental warning and artistic statement. The poster employs his signature biomorphic shapes and primary colors to create urgency without sacrificing aesthetic coherence. The design demonstrates how modernist abstraction can carry political content while maintaining visual impact.",
+    "description": "A colour lithograph poster, approximately 77 by 57 centimetres, commissioned by Olivetti as one of six anti-pollution prints organised by Jean Lipman in 1971. Calder's image uses thick black gouache outlines filled with flat primary colours — red, yellow, blue — to render biomorphic animal forms against a white ground. The shapes are hand-drawn with visible brush weight, printed in a limited lithographic run of two thousand copies. No photographic imagery or typographic hierarchy; the title text is hand-lettered in Calder's own capitals.",
     "significance": "Calder proved that abstraction could carry political urgency — his biomorphic forms read as ecological distress signals without a word of explanation. The poster marks the moment when environmental activism stopped borrowing from advertising and started borrowing from fine art, trading persuasion techniques for emotional authority.",
     "connections": [
       {
@@ -10759,7 +10759,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Environmental Activism",
     "wikiTitle": null,
-    "description": "This printing block demonstrates how activist collectives adapt traditional relief printing for contemporary protest, using carved material to create reproducible yet authentic messaging. The block's physical weight and texture embody the movement's emphasis on material reality over digital abstraction. Its design allows for rapid deployment across multiple protest contexts while maintaining visual consistency.",
+    "description": "A machine-cut plywood relief block carrying the Extinction Rebellion hourglass-in-circle symbol, designed by the street artist ESP in 2011 and adopted by the movement in 2018. The symbol is cut as a raised surface from flat plywood sheet; ink is rolled across the face and the block is pressed by hand onto paper, card, or fabric. Each impression carries slight variations in pressure and ink coverage. The block was used in public do-it-together workshops where participants printed their own protest banners and posters.",
     "significance": "Relief printing is a political choice, not a nostalgic one. The block resists digital reproduction because digital reproduction is corporate infrastructure — the very system the movement opposes. Every impression carries the irregularity of hand pressure, which is the point: authenticity as ideology, not aesthetic.",
     "connections": [
       {
@@ -11196,7 +11196,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Political Poster Design",
     "wikiTitle": null,
-    "description": "This poster combines photographic imagery with bold typography to advocate for women's political representation within European socialist movements. The design juxtaposes documentary-style photography with constructed graphic elements, creating tension between authentic representation and designed persuasion. The layout demonstrates how feminist political graphics negotiate between accessibility and artistic sophistication.",
+    "description": "A printed campaign poster for the 1994 European Socialist pre-election programme, designed by Aboutboul after her years at Pentagram. The central device is the Venus symbol — a circle with a cross suspended below — rendered at large scale. Black-and-white photographic imagery of women sits alongside bold sans-serif typography. The poster was displayed at one-day conferences for women across Europe, each paired with a country-specific companion poster by a local woman artist under the shared slogan 'Half the Heaven, Half the Earth, Half the Power'.",
     "significance": "The poster negotiates an impossible brief: make feminist politics look institutional enough for the European Parliament, but radical enough to demand change. Photography provides documentary credibility; bold typography provides political force. The tension between these two registers is the design — neither alone would work.",
     "connections": [
       {
@@ -11564,7 +11564,7 @@ export const ARCHIVE = [
       {
         "id": 250,
         "type": "argument",
-        "reason": "Jirásek uses minimal typography and symbolic imagery for democratic values — Day's Rig uses abstract intersecting lines on cotton for domestic modernism. Both employ visual reduction, political and decorative"
+        "reason": "Jirásek uses minimal typography and symbolic imagery for democratic values — Day's Rig uses abstract intersecting lines on cotton for domestic modernism. Visual reduction carrying revolution in one context, comfort in the other."
       }
     ],
     "keywords": [
@@ -12083,7 +12083,7 @@ export const ARCHIVE = [
       {
         "id": 107,
         "type": "method",
-        "reason": "MakerBot's Thing-O-Matic democratises 3D printing for non-experts — the Eameses' LCM democratises modern furniture through mass-producible plywood moulding. Both make advanced manufacturing accessible, digital and analogue"
+        "reason": "MakerBot's Thing-O-Matic democratises 3D printing for non-experts — the Eameses' LCM democratises modern furniture through mass-producible plywood moulding. Sixty years apart, the same gambit: make the manufacturing legible enough that anyone believes they could do it."
       },
       {
         "id": 2,
@@ -12452,7 +12452,7 @@ export const ARCHIVE = [
       {
         "id": 118,
         "type": "lineage",
-        "reason": "Wright extends architectural principles to furniture scale — Sottsass extends architectural principles to tableware scale. Both treat small objects as architectural compositions, Prairie School geometry and Memphis massing"
+        "reason": "Wright extends architectural principles to furniture scale — Sottsass extends architectural principles to tableware scale. Architecture that refuses to stop at the building, shrinking until it fits on a dining table."
       }
     ],
     "keywords": [
@@ -14010,7 +14010,7 @@ export const ARCHIVE = [
       {
         "id": 81,
         "type": "argument",
-        "reason": "Hemsley adapts traditional tailoring for equestrian performance — Aalto adapts traditional woodworking for cantilevered seating. Both apply inherited craft knowledge to specific functional demands, in clothing and furniture"
+        "reason": "Hemsley adapts traditional tailoring for equestrian performance — Aalto adapts traditional woodworking for cantilevered seating. Inherited technique bent to a new purpose, the tailor's shears and the steam press arriving at the same logic."
       }
     ],
     "keywords": [
@@ -14178,7 +14178,7 @@ export const ARCHIVE = [
       {
         "id": 36,
         "type": "material",
-        "reason": "Dunne & Raby's Faraday chair uses aluminium to shield from electromagnetic fields — Jacobsen uses stainless steel to achieve perfect cylindrical geometry. Both use metal's properties conceptually: protective versus formal"
+        "reason": "Dunne & Raby's Faraday chair uses aluminium to shield from electromagnetic fields — Jacobsen uses stainless steel to achieve perfect cylindrical geometry. Metal chosen not for strength but for what it does invisibly — blocking signals in one, holding a curve in the other."
       }
     ],
     "keywords": [
@@ -15494,7 +15494,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Dutch Material Research",
     "wikiTitle": null,
-    "description": "Jongerius translates ceramic glazing effects into textile surfaces through advanced fiber treatment and weaving structures. The fabric creates optical depth through layered materials that shift between matte and reflective qualities, mimicking the unpredictable surface variations found in ceramic glazes. Her systematic exploration of material translation demonstrates how traditional craft knowledge can inform contemporary industrial processes.",
+    "description": "A domestically woven upholstery fabric manufactured by Maharam, composed of 37% rayon, 35% cotton, and 28% post-industrial recycled nylon. Jongerius began with a grid of four-inch ceramic tiles glazed to produce fluid colour mixing, then translated that surface into woven structure. The weave alternates matte cotton areas with reflective rayon and nylon passages, creating tonal shifts across the cloth that mimic the wet-to-dry, opaque-to-translucent variations of a ceramic glaze. Available in colourways including Stone, Clay, Cuprite, Marble, Beryl, and Malta.",
     "significance": "Jongerius translated ceramic glaze behaviour into woven fabric — the unpredictable depth, the matte-to-reflective shift, the surface that appears wet. The innovation is not in new fibre technology but in asking whether one material discipline's knowledge can be transplanted into another. The answer produced a textile category that did not previously exist.",
     "connections": [
       {
@@ -15505,7 +15505,7 @@ export const ARCHIVE = [
       {
         "id": 104,
         "type": "argument",
-        "reason": "Jongerius translates ceramic glaze effects into woven textile — Eames assembles wood, metal and masonite into a steel shelving frame. Both create richness through material contrast within a systematic structure"
+        "reason": "Jongerius translates ceramic glaze effects into woven textile — Eames assembles wood, metal and masonite into a steel shelving frame. System as licence to be sensuous, seventy years apart."
       },
       {
         "id": 189,
@@ -15589,7 +15589,7 @@ export const ARCHIVE = [
       {
         "id": 45,
         "type": "argument",
-        "reason": "Baas uses controlled fire as a precise design tool on wooden frames — Saarinen uses controlled engineering to make concrete flow like liquid. Both transform destructive or intractable forces into precise aesthetic instruments"
+        "reason": "Baas uses controlled fire as a precise design tool on wooden frames — Saarinen uses controlled engineering to make concrete flow like liquid. Taming what should destroy or resist, then calling the scars beautiful."
       },
       {
         "id": 275,
@@ -16723,7 +16723,7 @@ export const ARCHIVE = [
       {
         "id": 250,
         "type": "method",
-        "reason": "PESTS' bold typographic challenge to institutional exclusion — Day's Rig fabric creating visual rhythm through abstract printed pattern. Both use graphic repetition, confrontational and domestic"
+        "reason": "PESTS' bold typographic challenge to institutional exclusion — Day's Rig fabric creating visual rhythm through abstract printed pattern. Graphic repetition as weapon in one hand, wallpaper in the other."
       }
     ],
     "keywords": [
@@ -16960,7 +16960,7 @@ export const ARCHIVE = [
       {
         "id": 250,
         "type": "argument",
-        "reason": "Garland applies systematic grid structure to political poster — Day applies systematic visual rhythm to furnishing fabric. Both use graphic order to structure visual communication, in politics and domestic textiles"
+        "reason": "Garland applies systematic grid structure to political poster — Day applies systematic visual rhythm to furnishing fabric. The grid disciplines meaning whether the message is a manifesto or a curtain."
       }
     ],
     "keywords": [
@@ -17133,7 +17133,7 @@ export const ARCHIVE = [
       {
         "id": 1,
         "type": "sameProblem",
-        "reason": "Wegner's armchair synthesises Chinese joinery with Danish craft — the Arco synthesises engineering with domesticity. Both make something technically sophisticated feel inevitable and humane"
+        "reason": "Wegner's armchair synthesises Chinese joinery with Danish craft — the Arco synthesises engineering with domesticity. Sophistication disguised as inevitability, eighteen years and two countries apart."
       }
     ],
     "keywords": [
@@ -18133,7 +18133,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Industrial Photography",
     "wikiTitle": null,
-    "description": "Broomfield transforms synthetic yarn production into abstract colour composition, using the bobbins' cylindrical repetition and saturated colours to create systematic visual rhythm. The photograph argues for nylon manufacturing as generating new aesthetic possibilities through industrial processes. Precise arrangement of coloured bobbins demonstrates how synthetic materials enabled unprecedented colour combinations and formal patterns.",
+    "description": "A gelatin silver print photographed inside the British Nylon Spinners factory in Pontypool, Wales. The image fills the frame with rows of cylindrical bobbins wound tight with nylon yarn in saturated colours — reds, blues, yellows, greens — arranged on a winding frame. Broomfield used controlled studio-style lighting and a carefully chosen camera angle to flatten the factory interior into a grid of colour and form. The print is part of his wider commission work documenting post-war British manufacturing for companies such as English Electric, Ford, Shell, and Philips.",
     "significance": "Broomfield's photograph turns a Welsh factory floor into a landscape of colour and geometry. The nylon bobbins are industrial products, but the camera makes them aesthetic objects — and in doing so argues that synthetic materials possess their own beauty, independent of what they become. Photography didn't just document the 1950s material revolution; it legitimised it.",
     "connections": [
       {
@@ -20476,7 +20476,7 @@ export const ARCHIVE = [
       {
         "id": 156,
         "type": "zeitgeist",
-        "reason": "De Lucchi's Flamingo Table (1983) makes asymmetrical legs that appear to dance rather than support, laminate surfaces in bold colours rejecting wood's honesty — the table as kinetic sculpture. Shire's Bel Air Chair (1982) stacks sphere, cylinder, and pyramid in impossible geometric relationships, vivid colour rejecting ergonomic logic — the chair as abstract composition. Both Memphis pieces from the movement's peak years, both treating furniture as a manifesto-delivery system where the object's visual argument matters more than its structural duty."
+        "reason": "De Lucchi's Flamingo Table makes asymmetrical legs that appear to dance rather than support, laminate surfaces in bold colours rejecting wood's honesty — the table as kinetic sculpture. Shire's Bel Air Chair stacks sphere, cylinder, and pyramid in impossible geometric relationships, vivid colour rejecting ergonomic logic — the chair as abstract composition. Memphis at its peak: furniture as manifesto, where the visual argument lands before you even sit down."
       },
       {
         "id": 538,
@@ -22146,7 +22146,7 @@ export const ARCHIVE = [
       {
         "id": 7,
         "type": "argument",
-        "reason": "The Ulm Stool represents total design control — every dimension calculated. Bey's bench represents designed surrender — the tree dictates form. Both are minimal, but from opposite philosophies of authorship"
+        "reason": "The Ulm Stool represents total design control — every dimension calculated. Bey's bench represents designed surrender — the tree dictates form. Minimalism as mastery versus minimalism as abdication."
       },
       {
         "id": 172,
@@ -23615,7 +23615,7 @@ export const ARCHIVE = [
       {
         "id": 614,
         "type": "zeitgeist",
-        "reason": "Wanders's Big Shadows (2009) scales a bedside lamp to architectural size. Wood's Totem (2011) stacks laboratory glass into anthropomorphic figures. Both transform lighting from functional fixture into sculptural character."
+        "reason": "Wanders's Big Shadow scales a bedside lamp to architectural size. Wood's Totem stacks laboratory glass into anthropomorphic figures. Lighting as character — one enormous and familiar, the other strange and totemic."
       }
     ],
     "keywords": [
