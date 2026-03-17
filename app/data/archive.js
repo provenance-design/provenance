@@ -34427,44 +34427,44 @@ export const ARCHIVE = [
   },
   {
     "id": 854,
-    "title": "Stiletto Chair",
-    "designer": "Shiro Kuramata",
-    "year": 1990,
-    "discipline": "Furniture",
-    "origin": "Japan",
-    "manufacturer": "Ishimaru / XO",
+    "imageUrl": "/images/854.jpg",
+    "title": "BMW Isetta 300",
+    "designer": "Ermenegildo Preti (Iso) / BMW",
+    "year": 1956,
+    "discipline": "Transport",
+    "origin": "Germany / Italy",
+    "manufacturer": "BMW",
     "collection": "MoMA, New York",
-    "movement": "Japanese Postmodern Design",
-    "wikiTitle": "Shiro_Kuramata",
-    "description": "A low lounge chair with a sheet-aluminium back that curves over the sitter like a breaking wave, supported on three tapered steel legs. The back panel is a single sheet of polished aluminium, cut and bent without welding. The two front legs are positioned conventionally; the single rear leg is placed off-centre, creating a visual instability that contradicts the chair's actual structural solidity. Kuramata died in 1991; the Stiletto is among his last designs.",
-    "significance": "Kuramata made furniture that looks like it shouldn't work — the off-centre rear leg, the impossibly thin aluminium back, the wave-like curve that defies the sheet metal's natural stiffness. The Stiletto is a chair that holds its breath: it appears to be in motion, about to tip, about to collapse. That it doesn't is the design. Kuramata's furniture has more in common with Zen koans than with industrial design — each piece poses a question that can't be answered rationally.",
+    "movement": "Post-War Micro-Mobility",
+    "description": "A bubble car with a single front-opening door — the entire front panel swings forward, taking the steering column and dashboard with it. A 247cc single-cylinder motorcycle engine, seating for two, top speed around 85km/h. Designed by Italian refrigerator manufacturer Iso, then licensed by BMW when the company was near bankruptcy. The Isetta became the best-selling single-cylinder car in history and is widely credited with saving BMW from collapse. The body panels are pressed steel with panoramic windows; the interior is sparse but complete, with a speedometer, heater, and luggage shelf behind the bench seat.",
+    "significance": "The Isetta is the most radical argument in automotive design for minimum viable enclosure. Where the Citroën DS argues that a car should aspire to aerospace sculpture, the Isetta argues it should aspire to a telephone booth with wheels. The front-opening door is a genuine design invention — it redefines the relationship between occupant and vehicle by eliminating the side-entry convention entirely. And the provenance is extraordinary: an Italian refrigerator company designed it, a near-bankrupt German motorcycle company saved itself with it.",
     "connections": [
       {
-        "id": 605,
-        "type": "lineage",
-        "reason": "Kuramata's Miss Blanche (1988, in the archive) encases roses in acrylic — beauty frozen in transparency. The Stiletto (1990) bends aluminium into a breaking wave — beauty frozen in motion. Same designer, two years apart, both making impossibility visible: flowers in resin, a wave in metal."
+        "id": 848,
+        "type": "zeitgeist",
+        "reason": "Piaggio's Vespa 125 (1946) and the BMW Isetta (1956) are both post-war European answers to the same question: how do you motorise a continent that cannot afford conventional vehicles? The Vespa strips the motorcycle to a pressed-steel monocoque; the Isetta wraps the smallest possible cabin around a motorcycle engine. One argues two wheels are enough; the other that you can fit four wheels into a motorcycle's footprint."
       },
       {
-        "id": 208,
-        "type": "lineage",
-        "reason": "Kuramata's How High the Moon (in the archive) makes a chair from expanded metal mesh — transparent furniture. The Stiletto (1990) makes a chair from sheet aluminium — reflective furniture. Both dissolve the chair's solidity, but How High the Moon uses air while Stiletto uses light."
+        "id": 850,
+        "type": "sameProblem",
+        "reason": "D'Ascanio's Piaggio Ape (1948) bolts a cargo platform behind a Vespa's front end to create a utility vehicle from a scooter powertrain. The Isetta (1956) wraps a bubble body around a motorcycle engine to create a passenger car from a motorcycle powertrain. Same problem — viable vehicle from minimal mechanicals — but the Ape extends backwards for cargo while the Isetta closes upward for shelter."
       },
       {
-        "id": 611,
+        "id": 846,
         "type": "argument",
-        "reason": "Grcic's Chair_One (2004) uses die-cast aluminium to create a precise geometric lattice — engineering as visual system. Kuramata's Stiletto (1990) uses bent sheet aluminium to create an impossible wave — poetry as visual instability. Both are aluminium chairs, but Grcic calculates while Kuramata dreams."
+        "reason": "The Citroën DS (1955) is automotive maximalism — hydropneumatic suspension, fibreglass roof, a body sculpted like a low-drag aircraft. The Isetta (1956) is automotive minimalism — a single door, a single cylinder, a body designed by a refrigerator company. Both are radical 1950s departures from convention, but the DS argues cars should be more than transport and the Isetta that they should be nothing but."
       }
     ],
     "keywords": [
-      "aluminium",
-      "off-centre leg",
-      "breaking wave",
+      "bubble car",
+      "front-opening door",
+      "micro-car",
+      "post-war",
+      "BMW",
+      "Iso",
       "MoMA",
-      "Shiro Kuramata",
-      "polished",
-      "last works"
-    ],
-    "imageUrl": ""
+      "minimum viable"
+    ]
   },
   {
     "id": 855,
@@ -36894,43 +36894,43 @@ export const ARCHIVE = [
   },
   {
     "id": 960,
-    "title": "Teresa Kruszewska Folding Chair",
-    "designer": "Teresa Kruszewska",
-    "year": 1963,
-    "discipline": "Furniture",
-    "manufacturer": "-",
-    "origin": "Poland",
-    "description": "Designed in Poland in the early 1960s, Kruszewska's folding chair uses a structural logic common to scissor-fold and X-frame chairs but applies it with a refinement unusual in Polish furniture design of the period: the folding mechanism is fully integrated into the visual form of the chair, so that the pivot points and crossing members are not concealed but displayed as the dominant formal motif. The result is a chair whose structure and its visual presentation are identical — there is no shell or upholstery hiding the mechanism; the mechanism is the chair. The materials are typically steel rod or flat bar for the frame and a fabric or leather sling for the seat.",
-    "significance": "Kruszewska's folding chair is a demonstration that structural logic can be sufficient formal logic — that exposing the mechanism rather than concealing it produces a more honest and in this case more elegant object. The chair belongs to a long lineage running from the X-frame stools of antiquity through the Tripolina and campaign chair, but Kruszewska's version is distinguished by its precision: the joint is not an engineering necessity to be tolerated but a design event to be understood. Polish design history's systematic neglect by the Western canon means that her work remains largely undiscovered.",
-    "movement": "Polish Post-War Modernism",
-    "collection": "National Museum, Warsaw",
-    "keywords": [
-      "folding chair",
-      "X-frame",
-      "structural expression",
-      "mechanism",
-      "Polish design",
-      "post-war modernism",
-      "steel rod"
-    ],
-    "imageUrl": "",
-    "wikiTitle": "",
+    "imageUrl": "/images/960.jpg",
+    "title": "Campden Candlestick",
+    "designer": "Robert Welch",
+    "year": 1957,
+    "discipline": "Metalwork",
+    "origin": "United Kingdom",
+    "manufacturer": "J. & J. Wiggin (Old Hall)",
+    "collection": "V&A, London; Design Museum, London",
+    "movement": "British Post-War Modernism",
+    "description": "A candelabrum in cast iron, its five branches rising from a central stem like the ribs of an umbrella stripped of fabric. Each arm terminates in a simple cup for the candle. The form is unmistakably organic — the branches splay and taper like winter branches — but the material is industrial: cast iron, the cheapest and heaviest of metals, poured into sand moulds at a Chipping Campden foundry. Welch trained as a silversmith at the Royal College of Art under Robert Goodden, then studied under Erik Fleming in Sweden before returning to the Cotswolds.",
+    "significance": "The Campden Candlestick is a deliberate collision between Scandinavian modernist metalwork and the English Arts and Crafts tradition. Welch brought Scandinavian form discipline back to the Cotswolds — the same landscape where Ashbee's Guild of Handicraft had worked fifty years earlier — and applied it to cast iron rather than silver. The result argues that modernist restraint and craft-workshop production are compatible, and that a candelabrum cast in iron can carry the same formal authority as one wrought in silver.",
     "connections": [
       {
-        "id": 2,
-        "type": "argument",
-        "reason": "Castiglioni's 1957 Mezzadro stool exposes its mechanism as cultural appropriation — the bicycle saddle and spring are left readable as bicycle parts, the found object's logic overriding the furniture logic. Kruszewska's 1963 folding chair exposes its mechanism as structural logic — the pivot and the crossing member are not appropriated from elsewhere but native to the chair's own system. Both make the mechanism visible; they disagree about where the mechanism comes from."
-      },
-      {
-        "id": 64,
+        "id": 650,
         "type": "lineage",
-        "reason": "Le Corbusier's 1928 LC4 chaise longue separates its structural base from its resting surface, displaying each as an independent element. Kruszewska's 1963 folding chair collapses the distinction entirely: the structure and the surface are the same crossed bars, the mechanism the form. Both are arguments about honesty of construction; Kruszewska's is the more uncompromising."
+        "reason": "Dresser's 1879 Claret Jug for Hukin & Heath treats silver as an engineering material — geometry replaces ornament, the handle is a structural strut. Eighty years later, Welch's Campden Candlestick (1957) applies the same principle to cast iron: the branches are structural, the form is geometric, decoration is absent. Both are British metalworkers arguing that the material's behaviour should generate the form, but Dresser works in precious metal and Welch in the cheapest industrial alloy available."
       },
       {
-        "id": 962,
+        "id": 781,
         "type": "zeitgeist",
-        "reason": "Chierowski's 1962 beech-and-cushion 366 and Kruszewska's 1963 steel-rod folding chair emerged from the same Polish state design system within a year of each other — one concealing its mechanism under upholstery, the other making the scissor fold the entire formal proposition. Two answers to the question of what Polish modernism looks like when it takes furniture seriously."
+        "reason": "Mellor's Pride cutlery (1953) and Welch's Campden Candlestick (1957) are both products of the post-war British design establishment — both designers trained at the Royal College of Art, both commissioned through the Council of Industrial Design, both working in metal. Mellor's stainless steel flatware brought Scandinavian discipline to the British table; Welch's cast-iron candelabrum brought it to the British hearth. Two RCA silversmiths redefining British metalwork within four years of each other."
+      },
+      {
+        "id": 840,
+        "type": "argument",
+        "reason": "Koppel's 1948 Pitcher 1017 for Georg Jensen is silver at its most fluid — biomorphic curves, hand-beaten surfaces, a form that looks poured rather than made. Welch's 1957 Campden Candlestick is iron at its most skeletal — branching arms, no surface to speak of, a form that looks grown rather than cast. Both are post-war Scandinavian-influenced metalwork arguing for organic form, but Koppel achieves it through the malleability of precious metal and Welch through the brittleness of cast iron."
       }
+    ],
+    "keywords": [
+      "cast iron",
+      "candelabrum",
+      "Cotswolds",
+      "British modernism",
+      "Robert Welch",
+      "Old Hall",
+      "V&A",
+      "Scandinavian influence"
     ]
   },
   {
@@ -37397,43 +37397,43 @@ export const ARCHIVE = [
   },
   {
     "id": 972,
-    "title": "István Burian Lamp",
-    "designer": "István Burian",
-    "year": 1969,
-    "discipline": "Lighting",
-    "manufacturer": "-",
-    "origin": "Hungary",
-    "description": "Burian's lamp uses a spherical or ovoid glass shade mounted on a minimal metal stem, with the light source hidden inside the translucent form to produce diffuse, even illumination. The geometry is simple and the construction economy severe — the lamp contains no more material than the function strictly requires. Its quiet elegance was produced within the constraints of Hungarian state design culture, where formal restraint was both an aesthetic value and a practical necessity.",
-    "significance": "The lamp demonstrates that the minimalist formal vocabulary of postwar European lighting design was not exclusively a Western achievement — Hungarian designers were working at the same quality level within a state-planned system that provided very different conditions. Students need this as evidence that the map of 20th-century design is geographically larger than the standard canon acknowledges.",
-    "movement": "Socialist Modernism / Functionalism",
-    "collection": "Museum of Applied Arts, Budapest",
-    "keywords": [
-      "glass shade",
-      "minimalism",
-      "Hungarian design",
-      "state design",
-      "diffuse light",
-      "functionalism",
-      "postwar lighting"
-    ],
-    "imageUrl": "",
-    "wikiTitle": "",
+    "imageUrl": "/images/972.jpg",
+    "title": "Univers",
+    "designer": "Adrian Frutiger",
+    "year": 1957,
+    "discipline": "Typography",
+    "origin": "Switzerland / France",
+    "manufacturer": "Deberny & Peignot",
+    "collection": "Museum für Gestaltung, Zürich; MoMA, New York",
+    "movement": "Swiss Typography / International Typographic Style",
+    "description": "A neo-grotesque sans-serif typeface conceived as a complete system of 21 weights and widths, organised by a two-digit numbering scheme — the first digit indicating weight, the second width, so Univers 55 is the standard roman, 65 is bold, 53 is extended. Frutiger designed the entire family simultaneously rather than deriving weights from a single master, meaning each variant was drawn to be optically consistent with every other. Commissioned by the Deberny & Peignot foundry in Paris, released in the same year as Helvetica.",
+    "significance": "Univers is the first typeface designed as a system rather than a style. The numbering grid — replacing traditional names like 'bold' and 'condensed' with a rational coordinate system — is a design argument as significant as the letterforms themselves, anticipating variable font technology by sixty years. That it was released in 1957, the same year as Helvetica, sets up one of design history's great parallel arguments: Helvetica became the world's most famous typeface through ubiquity and branding; Univers became the typographer's typeface through systematic rigour.",
     "connections": [
       {
-        "id": 22,
-        "type": "sameProblem",
-        "reason": "Poul Henningsen's 1958 PH 5 uses multiple precisely calculated reflector layers to control glare and warmth; Burian's 1969 lamp uses a single translucent globe to diffuse the same problem away. One resolves the question through sophisticated multi-component engineering; the other through a single material decision. Both are asking: how do you make artificial light liveable? The answers are at opposite ends of the engineering spectrum."
-      },
-      {
-        "id": 973,
+        "id": 66,
         "type": "zeitgeist",
-        "reason": "Hůrka's 1960 Floor Lamp No. 1703 for Napako in Prague: a steel stem, a pivoting cylindrical shade, spun metal, clean geometry. Burian's 1969 lamp in Budapest: a glass sphere on a minimal metal stem, diffused light, no visible mechanism. Czech precision and Hungarian softness — two state-industry responses to the same functionalist brief, separated by nine years and a border, sharing nothing but the conviction that modernist lighting was not exclusively Western property."
+        "reason": "Both released in 1957, both Swiss neo-grotesque sans-serifs, both responses to the same post-war appetite for neutral, rational letterforms. But Miedinger designed Helvetica as a single typeface that became a family by accretion; Frutiger designed Univers as a 21-weight system from day one. Helvetica won the popularity contest; Univers won the design argument. The rivalry defines typographic modernism."
       },
       {
-        "id": 530,
-        "type": "sameProblem",
-        "reason": "Magistretti's Atollo (1977) stacks hemisphere, cone, and cylinder in opal glass and metal — the light source hidden behind pure geometry, the lamp commanding the room through monumental proportions. Burian's lamp (1969) places a translucent glass sphere on a minimal stem — the light source hidden inside a single diffusing form, the lamp commanding the room through quiet luminosity. Both conceal the bulb to produce atmosphere rather than illumination, but Atollo is architectural theatre and Burian's sphere is atmospheric restraint."
+        "id": 777,
+        "type": "lineage",
+        "reason": "Frutiger designed Univers (1957) as a systematic grid of 21 weights. Eighteen years later, the Paris airport authority commissioned him to design signage type for Charles de Gaulle. Frutiger (1975) takes the humanist warmth he had suppressed in Univers and makes it the organising principle — a self-correction by a designer who spent two decades living with the limitations of his own system."
+      },
+      {
+        "id": 660,
+        "type": "argument",
+        "reason": "Crouwel's New Alphabet (1967) pushes rational type design to its logical extreme — letterforms reduced to the grid of a cathode ray display, legibility sacrificed to system logic. Frutiger's Univers (1957) is the opposite endpoint of the same rationalist impulse — a system of 21 weights that maintains legibility as its non-negotiable constraint. Both are systematic, both Swiss-influenced, but Univers proves that rationality and readability can coexist while New Alphabet asks what happens when they cannot."
       }
+    ],
+    "keywords": [
+      "typeface",
+      "sans-serif",
+      "numbering system",
+      "Adrian Frutiger",
+      "Swiss typography",
+      "neo-grotesque",
+      "Deberny & Peignot",
+      "1957"
     ]
   },
   {
