@@ -298,16 +298,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       if (mouse.active) {
         const jCurrent = journeyRef.current;
         const lastJourneyId = jCurrent.length > 0 ? jCurrent[jCurrent.length - 1].entry.id : null;
-        // When type filter is active, only show neighbours connected by that type
-        let journeyNeighbours = null;
-        if (lastJourneyId) {
-          if (filterType) {
-            const typed = (adjEdges.get(lastJourneyId) || []).filter(e => e.type === filterType);
-            journeyNeighbours = new Set(typed.map(e => e.otherId));
-          } else {
-            journeyNeighbours = new Set(adj.get(lastJourneyId) || []);
-          }
-        }
+        const journeyNeighbours = lastJourneyId ? new Set(adj.get(lastJourneyId) || []) : null;
 
         let found = false;
         if (journeyNeighbours && journeyNeighbours.size > 0) {
@@ -339,15 +330,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       }
 
       const highlightNode = isSealed ? null : (selectedNode || hoveredNode);
-      let highlightNeighbours = null;
-      if (highlightNode) {
-        if (filterType) {
-          const typed = (adjEdges.get(highlightNode.id) || []).filter(e => e.type === filterType);
-          highlightNeighbours = new Set(typed.map(e => e.otherId));
-        } else {
-          highlightNeighbours = new Set(adj.get(highlightNode.id) || []);
-        }
-      }
+      const highlightNeighbours = highlightNode ? new Set(adj.get(highlightNode.id) || []) : null;
 
       // Journey state
       const jNodes = journeyRef.current;
@@ -408,9 +391,8 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
             alpha = arc.char.alpha * 0.12;
           }
 
-          if (filterType && filterType === type && !isJourneyArc && !isHighlighted && !isDimmed) {
-            color = arc.glow;
-            alpha = Math.max(arc.char.alpha * 3, 0.08);
+          if (filterType && filterType === type && !isJourneyArc && !isHighlighted) {
+            alpha = arc.char.alpha * 2.5;
           }
 
           if (!isHighlighted) {
@@ -555,7 +537,6 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
           const neighbourEdges = adjEdges.get(highlightNode.id) || [];
 
           for (const { otherId, type } of neighbourEdges) {
-            if (!highlightNeighbours.has(otherId)) continue;
             const nn = nodeMap.get(otherId);
             if (!nn) continue;
             const dx = nn.ringX - highlightNode.ringX;
@@ -700,9 +681,8 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
           } else {
             const lastEntry = currentJourney[currentJourney.length - 1].entry;
             const edge = GRAPH.edges.find(e =>
-              ((e.source === lastEntry.id && e.target === node.id) ||
-              (e.target === lastEntry.id && e.source === node.id)) &&
-              (!filterType || e.type === filterType)
+              (e.source === lastEntry.id && e.target === hoveredNode.id) ||
+              (e.target === lastEntry.id && e.source === hoveredNode.id)
             );
 
             if (edge) {
