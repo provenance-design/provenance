@@ -7,7 +7,8 @@
  * Additive blending. Ghost trails. Breathing control points.
  * Connection types shape arc character, not just colour.
  *
- * The arcs ARE the artwork. Nodes are anchor points.
+ * Journey mode: click through connected objects to build a readable
+ * narrative from connection texts. The path IS the critical writing.
  */
 
 import { useState, useEffect, useRef, useCallback } from 'react';
@@ -36,44 +37,44 @@ const TYPE_LABELS = {
 // Arc character per connection type — the Xenakis transduction
 const ARC_CHARACTER = {
   lineage: {
-    curvePull: 0.65,       // deep curves through centre
-    amplitude: 15,          // gentle drift
-    speed: 0.0003,          // slow, gravitational
+    curvePull: 0.65,
+    amplitude: 18,
+    speed: 0.0004,
     width: 0.8,
     alpha: 0.04,
   },
   argument: {
-    curvePull: 0.12,        // nearly straight — taut
-    amplitude: 2.5,         // tight vibration
-    speed: 0.004,           // fast, tense
+    curvePull: 0.12,
+    amplitude: 4,
+    speed: 0.0045,
     width: 0.6,
     alpha: 0.05,
   },
   method: {
-    curvePull: 0.4,         // gentle lateral sweep
-    amplitude: 10,
-    speed: 0.0008,          // steady
+    curvePull: 0.4,
+    amplitude: 13,
+    speed: 0.0009,
     width: 0.5,
     alpha: 0.035,
   },
   material: {
-    curvePull: 0.18,        // tight, stays near perimeter
-    amplitude: 4,
-    speed: 0.0004,          // heavy, geological
+    curvePull: 0.18,
+    amplitude: 6,
+    speed: 0.0005,
     width: 1.2,
     alpha: 0.055,
   },
   zeitgeist: {
-    curvePull: 0.85,        // enormous sweeping arcs
-    amplitude: 30,          // big drift — weather
-    speed: 0.00015,         // very slow, atmospheric
+    curvePull: 0.85,
+    amplitude: 35,
+    speed: 0.0002,
     width: 0.3,
     alpha: 0.02,
   },
   sameProblem: {
-    curvePull: -0.25,       // curves AWAY from centre — orbits a void
-    amplitude: 12,
-    speed: 0.0006,
+    curvePull: -0.25,
+    amplitude: 15,
+    speed: 0.0007,
     width: 0.5,
     alpha: 0.04,
   },
@@ -83,19 +84,23 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
   const canvasRef = useRef(null);
   const animRef = useRef(null);
 
-  const [selectedEntry, setSelectedEntry] = useState(null);
-  const [connectedEntries, setConnectedEntries] = useState([]);
+  // Journey state — the accumulated narrative
+  const [journey, setJourney] = useState([]);
+  // journey = [{ entry, connectionText, connectionType, fromEntry }]
+  // First item has no connectionText (starting point)
+
   const [activeFilter, setActiveFilter] = useState(null);
   const [fps, setFps] = useState(0);
 
   const fpsHistory = useRef([]);
+  // Ref to share journey with canvas loop
+  const journeyRef = useRef([]);
 
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
 
-    // Size canvas
     const container = canvas.parentElement;
     const W = container.clientWidth;
     const H = container.clientHeight;
@@ -136,7 +141,6 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       const segAngle = availableAngle * (group.length / nodes.length);
       const segStart = currentAngle;
 
-      // Most-connected nodes at centre of segment
       const mid = Math.floor(group.length / 2);
       const ordered = [];
       for (let i = 0; i < group.length; i++) {
@@ -170,10 +174,8 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
 
       const char = ARC_CHARACTER[edge.type] || ARC_CHARACTER.method;
       const phase = Math.random() * Math.PI * 2;
-      // Secondary phase for more complex motion
       const phase2 = Math.random() * Math.PI * 2;
 
-      // Perpendicular direction for breathing offset
       const dx = target.ringX - source.ringX;
       const dy = target.ringY - source.ringY;
       const len = Math.sqrt(dx * dx + dy * dy) || 1;
@@ -199,6 +201,14 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
     for (const arc of arcs) {
       if (!arcsByType[arc.type]) arcsByType[arc.type] = [];
       arcsByType[arc.type].push(arc);
+    }
+
+    // --- Build edge lookup for journey trail ---
+    // Key: "sourceId-targetId" → arc object
+    const arcLookup = new Map();
+    for (const arc of arcs) {
+      arcLookup.set(`${arc.source.id}-${arc.target.id}`, arc);
+      arcLookup.set(`${arc.target.id}-${arc.source.id}`, arc);
     }
 
     // --- Interaction state ---
@@ -245,7 +255,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       // --- Find hovered node ---
       hoveredNode = null;
       if (mouse.active) {
-        let closestDist = 30; // pixel radius for hover detection
+        let closestDist = 30;
         for (const n of nodes) {
           const dx = n.ringX - mouse.x;
           const dy = n.ringY - mouse.y;
@@ -257,9 +267,18 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
         }
       }
 
-      // Build set of highlighted arc IDs (connected to hovered or selected node)
+      // Build set of highlighted arcs
       const highlightNode = selectedNode || hoveredNode;
       const highlightNeighbours = highlightNode ? new Set(adj.get(highlightNode.id) || []) : null;
+
+      // Journey trail node IDs
+      const jNodes = journeyRef.current;
+      const journeyNodeIds = new Set(jNodes.map(j => j.entry.id));
+      const journeyEdgeKeys = new Set();
+      for (let i = 1; i < jNodes.length; i++) {
+        journeyEdgeKeys.add(`${jNodes[i - 1].entry.id}-${jNodes[i].entry.id}`);
+        journeyEdgeKeys.add(`${jNodes[i].entry.id}-${jNodes[i - 1].entry.id}`);
+      }
 
       // --- Draw arcs with additive blending ---
       ctx.globalCompositeOperation = 'lighter';
@@ -277,27 +296,28 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
           const tx = arc.target.ringX;
           const ty = arc.target.ringY;
 
-          // Is this arc connected to the highlighted node?
           const isHighlighted = highlightNode && (
             arc.source.id === highlightNode.id ||
             arc.target.id === highlightNode.id
           );
 
-          // Is this arc dimmed (something is highlighted but not this arc)?
-          const isDimmed = highlightNode && !isHighlighted;
+          // Is this arc part of the journey trail?
+          const isJourneyArc = journeyEdgeKeys.has(`${arc.source.id}-${arc.target.id}`);
+
+          const isDimmed = highlightNode && !isHighlighted && !isJourneyArc;
 
           // Midpoint
           const midX = (sx + tx) / 2;
           const midY = (sy + ty) / 2;
 
-          // Control point: pull toward/away from centre
+          // Control point
           const dirX = cx - midX;
           const dirY = cy - midY;
           const pull = char.curvePull;
           let cpx = midX + dirX * pull;
           let cpy = midY + dirY * pull;
 
-          // Breathing: oscillate control point perpendicular to arc
+          // Breathing
           const breathe = Math.sin(time * char.speed + arc.phase) * char.amplitude;
           const breathe2 = Math.cos(time * char.speed * 0.7 + arc.phase2) * char.amplitude * 0.4;
           cpx += arc.perpX * breathe + arc.perpX * breathe2;
@@ -305,84 +325,148 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
 
           // Alpha
           let alpha = char.alpha;
-          if (isHighlighted) {
+          let color = baseColor;
+          let width = char.width;
+
+          if (isJourneyArc) {
+            alpha = 0.5;
+            color = '#E8E4DC';
+            width = 2.5;
+          } else if (isHighlighted) {
             alpha = 0.6;
+            color = '#E8E4DC';
+            width = 1.8;
           } else if (isDimmed) {
             alpha = char.alpha * 0.15;
           }
-          if (filterType && filterType === type) {
+          if (filterType && filterType === type && !isJourneyArc) {
             alpha = isHighlighted ? 0.7 : char.alpha * 2.5;
           }
 
-          // Draw
           ctx.beginPath();
           ctx.moveTo(sx, sy);
           ctx.quadraticCurveTo(cpx, cpy, tx, ty);
-          ctx.strokeStyle = isHighlighted ? '#E8E4DC' : baseColor;
+          ctx.strokeStyle = color;
           ctx.globalAlpha = alpha;
-          ctx.lineWidth = isHighlighted ? 1.8 : char.width;
+          ctx.lineWidth = width;
           ctx.stroke();
         }
       }
 
-      // --- Draw nodes: tiny, subtle ---
+      // --- Draw journey trail on top (source-over for solid visibility) ---
+      if (jNodes.length > 1) {
+        ctx.globalCompositeOperation = 'source-over';
+        for (let i = 1; i < jNodes.length; i++) {
+          const prevNode = nodeMap.get(jNodes[i - 1].entry.id);
+          const currNode = nodeMap.get(jNodes[i].entry.id);
+          if (!prevNode || !currNode) continue;
+
+          const arc = arcLookup.get(`${prevNode.id}-${currNode.id}`);
+          const type = jNodes[i].connectionType;
+          const trailColor = TYPE_COLORS[type] || '#E8E4DC';
+
+          if (arc) {
+            const sx = prevNode.ringX;
+            const sy = prevNode.ringY;
+            const tx = currNode.ringX;
+            const ty = currNode.ringY;
+            const char = arc.char;
+            const midX = (sx + tx) / 2;
+            const midY = (sy + ty) / 2;
+            const dirX = cx - midX;
+            const dirY = cy - midY;
+            let cpx = midX + dirX * char.curvePull;
+            let cpy = midY + dirY * char.curvePull;
+            const breathe = Math.sin(time * char.speed + arc.phase) * char.amplitude;
+            cpx += arc.perpX * breathe;
+            cpy += arc.perpY * breathe;
+
+            ctx.beginPath();
+            ctx.moveTo(sx, sy);
+            ctx.quadraticCurveTo(cpx, cpy, tx, ty);
+            ctx.strokeStyle = trailColor;
+            ctx.globalAlpha = 0.8;
+            ctx.lineWidth = 2;
+            ctx.stroke();
+          }
+
+          // Step number at midpoint
+          const mx = (prevNode.ringX + currNode.ringX) / 2;
+          const my = (prevNode.ringY + currNode.ringY) / 2;
+          ctx.globalAlpha = 0.5;
+          ctx.font = '9px "DM Sans", sans-serif';
+          ctx.fillStyle = trailColor;
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(String(i), mx + (cx - mx) * 0.3, my + (cy - my) * 0.3);
+        }
+      }
+
+      // --- Draw nodes ---
       ctx.globalCompositeOperation = 'source-over';
       ctx.globalAlpha = 1;
 
       for (const n of nodes) {
         const isActive = highlightNode && n.id === highlightNode.id;
         const isNeighbour = highlightNeighbours && highlightNeighbours.has(n.id);
+        const isJourney = journeyNodeIds.has(n.id);
 
-        // Node size: very small base, slightly larger for hubs
-        const r = isActive ? 4 : isNeighbour ? 3 : Math.max(1.2, Math.sqrt(n.connectionCount) * 0.5);
+        const r = isActive ? 4 : isJourney ? 3.5 : isNeighbour ? 3 : Math.max(1.2, Math.sqrt(n.connectionCount) * 0.5);
 
         ctx.beginPath();
         ctx.arc(n.ringX, n.ringY, r, 0, Math.PI * 2);
-        ctx.fillStyle = DISC_COLORS[n.discipline] || '#888';
-        ctx.globalAlpha = isActive ? 1.0 : isNeighbour ? 0.8 : highlightNode ? 0.08 : 0.25;
+        ctx.fillStyle = isJourney ? '#E8E4DC' : DISC_COLORS[n.discipline] || '#888';
+        ctx.globalAlpha = isActive ? 1.0 : isJourney ? 0.9 : isNeighbour ? 0.8 : highlightNode ? 0.08 : 0.25;
         ctx.fill();
 
-        if (isActive) {
-          ctx.strokeStyle = '#fff';
-          ctx.lineWidth = 1.5;
+        if (isActive || isJourney) {
+          ctx.strokeStyle = isActive ? '#fff' : 'rgba(255,255,255,0.4)';
+          ctx.lineWidth = isActive ? 1.5 : 1;
           ctx.globalAlpha = 1;
           ctx.stroke();
         }
       }
 
-      // --- Labels: only near hover/selection ---
+      // --- Labels ---
       if (highlightNode) {
         ctx.globalAlpha = 1;
         ctx.font = '13px "DM Sans", sans-serif';
         ctx.textAlign = 'left';
         ctx.textBaseline = 'middle';
-
-        // Highlighted node label
-        const labelX = highlightNode.ringX + 8;
-        const labelY = highlightNode.ringY;
         ctx.fillStyle = '#fff';
-        ctx.fillText(highlightNode.title, labelX, labelY);
+        ctx.fillText(highlightNode.title, highlightNode.ringX + 8, highlightNode.ringY);
 
-        // Neighbour labels
         ctx.font = '10px "DM Sans", sans-serif';
         ctx.fillStyle = 'rgba(255,255,255,0.6)';
         if (highlightNeighbours) {
           for (const nid of highlightNeighbours) {
             const nn = nodeMap.get(nid);
             if (!nn) continue;
-            // Only show labels for nearby neighbours to avoid clutter
             const dx = nn.ringX - highlightNode.ringX;
             const dy = nn.ringY - highlightNode.ringY;
             if (Math.sqrt(dx * dx + dy * dy) < radius * 1.5) {
-              const nx = nn.ringX + 6;
-              const ny = nn.ringY;
-              ctx.fillText(nn.title, nx, ny);
+              ctx.fillText(nn.title, nn.ringX + 6, nn.ringY);
             }
           }
         }
       }
 
-      // --- Discipline labels at outer edge ---
+      // Journey node labels (always visible)
+      if (jNodes.length > 0) {
+        ctx.globalAlpha = 0.8;
+        ctx.font = '10px "DM Sans", sans-serif';
+        ctx.fillStyle = '#E8E4DC';
+        ctx.textAlign = 'left';
+        ctx.textBaseline = 'middle';
+        for (const j of jNodes) {
+          const n = nodeMap.get(j.entry.id);
+          if (n && (!highlightNode || n.id !== highlightNode.id)) {
+            ctx.fillText(n.title, n.ringX + 6, n.ringY);
+          }
+        }
+      }
+
+      // Discipline labels
       ctx.globalAlpha = highlightNode ? 0.15 : 0.3;
       ctx.font = '8px "DM Sans", sans-serif';
       ctx.textAlign = 'center';
@@ -422,31 +506,51 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       hoveredNode = null;
     };
 
-    const handleClick = (e) => {
+    const handleClick = () => {
       if (hoveredNode) {
         selectedNode = hoveredNode;
         const entry = getEntry(hoveredNode.id);
-        setSelectedEntry(entry);
+        if (!entry) return;
 
-        const adjIds = adj.get(hoveredNode.id) || [];
-        const connected = adjIds.map(id => {
-          const otherEntry = getEntry(id);
+        const currentJourney = journeyRef.current;
+
+        if (currentJourney.length === 0) {
+          // Starting a journey
+          const step = { entry, connectionText: null, connectionType: null, fromEntry: null };
+          const newJourney = [step];
+          journeyRef.current = newJourney;
+          setJourney(newJourney);
+        } else {
+          // Check if this node is connected to the current position
+          const lastEntry = currentJourney[currentJourney.length - 1].entry;
           const edge = GRAPH.edges.find(e =>
-            (e.source === hoveredNode.id && e.target === id) ||
-            (e.target === hoveredNode.id && e.source === id)
+            (e.source === lastEntry.id && e.target === hoveredNode.id) ||
+            (e.target === lastEntry.id && e.source === hoveredNode.id)
           );
-          return { entry: otherEntry, edge };
-        }).filter(c => c.entry && c.edge);
-        setConnectedEntries(connected);
-      } else {
-        selectedNode = null;
-        setSelectedEntry(null);
-        setConnectedEntries([]);
+
+          if (edge) {
+            // Continue the journey
+            const step = {
+              entry,
+              connectionText: edge.reason || '',
+              connectionType: edge.type,
+              fromEntry: lastEntry,
+            };
+            const newJourney = [...currentJourney, step];
+            journeyRef.current = newJourney;
+            setJourney(newJourney);
+          } else {
+            // Not connected — start a new journey from here
+            const step = { entry, connectionText: null, connectionType: null, fromEntry: null };
+            const newJourney = [step];
+            journeyRef.current = newJourney;
+            setJourney(newJourney);
+          }
+        }
       }
     };
 
     const handleResize = () => {
-      // Simple reload on resize for now
       const W2 = container.clientWidth;
       const H2 = container.clientHeight;
       canvas.width = W2 * dpr;
@@ -464,7 +568,6 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
     canvas.addEventListener('click', handleClick);
     window.addEventListener('resize', handleResize);
 
-    // Expose filter type to animation loop
     const filterRef = { get: () => filterType, set: (v) => { filterType = v; } };
     canvas._filterRef = filterRef;
 
@@ -485,6 +588,11 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       canvas._filterRef.set(next);
     }
   }, [activeFilter]);
+
+  const clearJourney = useCallback(() => {
+    journeyRef.current = [];
+    setJourney([]);
+  }, []);
 
   return (
     <div style={{ position: 'relative', width: '100%', height: '100%', background: CANVAS.background, overflow: 'hidden' }}>
@@ -522,48 +630,70 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
         </div>
       )}
 
-      {/* Selected entry panel */}
-      {selectedEntry && (
+      {/* Journey panel — the narrative */}
+      {journey.length > 0 && (
         <div style={{
-          position: 'absolute', right: 16, top: 60, width: 300, maxHeight: 'calc(100vh - 120px)',
-          overflowY: 'auto', background: 'rgba(0,0,0,0.8)', backdropFilter: 'blur(16px)',
+          position: 'absolute', left: 16, top: 60, width: 340, maxHeight: 'calc(100vh - 120px)',
+          overflowY: 'auto', background: 'rgba(0,0,0,0.85)', backdropFilter: 'blur(16px)',
           borderRadius: 12, padding: 20, color: '#fff', fontFamily: '"DM Sans", sans-serif',
           border: '1px solid rgba(255,255,255,0.08)',
         }}>
-          <div style={{ fontSize: 9, letterSpacing: '0.12em', textTransform: 'uppercase', opacity: 0.4, marginBottom: 4 }}>
-            {selectedEntry.discipline} · {selectedEntry.year}
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 }}>
+            <div style={{ fontSize: 9, letterSpacing: '0.12em', textTransform: 'uppercase', opacity: 0.4 }}>
+              Journey · {journey.length} {journey.length === 1 ? 'step' : 'steps'}
+            </div>
+            <button
+              onClick={clearJourney}
+              style={{
+                padding: '3px 10px', background: 'rgba(255,255,255,0.08)',
+                border: '1px solid rgba(255,255,255,0.15)', color: 'rgba(255,255,255,0.5)',
+                fontSize: 9, cursor: 'pointer', borderRadius: 4,
+                fontFamily: '"DM Sans", sans-serif',
+              }}
+            >
+              Clear
+            </button>
           </div>
-          <h3 style={{ fontSize: 16, fontFamily: '"DM Serif Display", serif', margin: '0 0 4px 0', lineHeight: 1.2 }}>
-            {selectedEntry.title}
-          </h3>
-          <div style={{ fontSize: 11, opacity: 0.6, marginBottom: 12 }}>{selectedEntry.designer}</div>
 
-          <div style={{ fontSize: 9, letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.3, marginBottom: 8 }}>
-            {connectedEntries.length} connections
-          </div>
+          {journey.map((step, i) => (
+            <div key={`${step.entry.id}-${i}`}>
+              {/* Connection text — the narrative between objects */}
+              {step.connectionText && (
+                <div style={{
+                  padding: '10px 0',
+                  borderLeft: `2px solid ${TYPE_COLORS[step.connectionType] || '#555'}`,
+                  paddingLeft: 12,
+                  marginLeft: 4,
+                  marginBottom: 8,
+                }}>
+                  <div style={{ fontSize: 8, letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.4, marginBottom: 4, color: TYPE_COLORS[step.connectionType] }}>
+                    {TYPE_LABELS[step.connectionType] || step.connectionType}
+                  </div>
+                  <div style={{ fontSize: 12, lineHeight: 1.6, opacity: 0.8 }}>
+                    {step.connectionText}
+                  </div>
+                </div>
+              )}
 
-          {connectedEntries.slice(0, 10).map(({ entry: conn, edge }) => (
-            <div key={conn.id} style={{ padding: '6px 0', borderTop: '1px solid rgba(255,255,255,0.06)' }}>
-              <div style={{ fontSize: 11, marginBottom: 2 }}>{conn.title}</div>
-              <div style={{ fontSize: 9, opacity: 0.4 }}>
-                <span style={{ color: TYPE_COLORS[edge.type], opacity: 1 }}>{TYPE_LABELS[edge.type]}</span>
-                <span style={{ marginLeft: 8 }}>{conn.designer}, {conn.year}</span>
+              {/* Object marker */}
+              <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, marginBottom: step.connectionText ? 12 : 8 }}>
+                <span style={{ fontSize: 10, opacity: 0.3, fontFamily: 'monospace', minWidth: 16 }}>{i + 1}</span>
+                <div>
+                  <div style={{ fontSize: 14, fontFamily: '"DM Serif Display", serif', lineHeight: 1.2 }}>
+                    {step.entry.title}
+                  </div>
+                  <div style={{ fontSize: 10, opacity: 0.5, marginTop: 2 }}>
+                    {step.entry.designer}, {step.entry.year} · {step.entry.discipline}
+                  </div>
+                </div>
               </div>
             </div>
           ))}
 
-          {onOpenItem && (
-            <button
-              onClick={() => onOpenItem(selectedEntry.id)}
-              style={{
-                marginTop: 12, width: '100%', padding: '8px', background: 'rgba(255,255,255,0.08)',
-                border: '1px solid rgba(255,255,255,0.15)', color: '#fff', fontSize: 10,
-                cursor: 'pointer', borderRadius: 6, fontFamily: '"DM Sans", sans-serif',
-              }}
-            >
-              View entry
-            </button>
-          )}
+          {/* Prompt */}
+          <div style={{ fontSize: 10, opacity: 0.3, marginTop: 8, fontStyle: 'italic' }}>
+            Click a connected object to continue
+          </div>
         </div>
       )}
     </div>
