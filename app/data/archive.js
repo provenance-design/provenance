@@ -36895,40 +36895,41 @@ export const ARCHIVE = [
   {
     "id": 960,
     "imageUrl": "/images/960.jpg",
-    "title": "Campden Candlestick",
+    "title": "Hobart Candlestick",
     "designer": "Robert Welch",
-    "year": 1957,
+    "year": 1961,
     "discipline": "Metalwork",
     "origin": "United Kingdom",
-    "manufacturer": "J. & J. Wiggin (Old Hall)",
-    "collection": "V&A, London; Design Museum, London",
+    "manufacturer": "Victor Castings Ltd",
+    "collection": "V&A, London; NGV, Melbourne",
     "movement": "British Post-War Modernism",
-    "description": "A candelabrum in cast iron, its five branches rising from a central stem like the ribs of an umbrella stripped of fabric. Each arm terminates in a simple cup for the candle. The form is unmistakably organic — the branches splay and taper like winter branches — but the material is industrial: cast iron, the cheapest and heaviest of metals, poured into sand moulds at a Chipping Campden foundry. Welch trained as a silversmith at the Royal College of Art under Robert Goodden, then studied under Erik Fleming in Sweden before returning to the Cotswolds.",
-    "significance": "The Campden Candlestick is a deliberate collision between Scandinavian modernist metalwork and the English Arts and Crafts tradition. Welch brought Scandinavian form discipline back to the Cotswolds — the same landscape where Ashbee's Guild of Handicraft had worked fifty years earlier — and applied it to cast iron rather than silver. The result argues that modernist restraint and craft-workshop production are compatible, and that a candelabrum cast in iron can carry the same formal authority as one wrought in silver.",
+    "description": "A candlestick in cast iron, its form a stack of concentric discs graduated around a central stem, tapering from a wide base to a narrow candle cup. The geometry is architectonic — each disc is a horizontal plane, the profile a stepped ziggurat — but the material is crude and heavy: sand-cast iron, poured at a foundry in Tipton. Welch trained as a silversmith at the Royal College of Art under Robert Goodden, then studied under Erik Fleming in Sweden before establishing his workshop in Chipping Campden in the Cotswolds, where Ashbee's Guild of Handicraft had worked sixty years earlier.",
+    "significance": "The Hobart Candlestick is a deliberate collision between Scandinavian modernist metalwork and the English Arts and Crafts tradition. Welch brought Scandinavian form discipline back to the Cotswolds and applied it to cast iron rather than silver. The stacked-disc form turns the cheapest industrial metal into something monumental — each horizontal plane catches light differently, giving the rough sand-cast surface a quality that polished steel could never achieve. It has remained in production for over sixty years, the casting process unchanged.",
     "connections": [
       {
         "id": 650,
         "type": "lineage",
-        "reason": "Dresser's 1879 Claret Jug for Hukin & Heath treats silver as an engineering material — geometry replaces ornament, the handle is a structural strut. Eighty years later, Welch's Campden Candlestick (1957) applies the same principle to cast iron: the branches are structural, the form is geometric, decoration is absent. Both are British metalworkers arguing that the material's behaviour should generate the form, but Dresser works in precious metal and Welch in the cheapest industrial alloy available."
+        "reason": "Dresser's 1879 Claret Jug for Hukin & Heath treats silver as an engineering material — geometry replaces ornament, the handle is a structural strut. Eighty years later, Welch's Hobart Candlestick (1961) applies the same principle to cast iron: the stacked discs are pure geometry, decoration is absent. Both are British metalworkers arguing that the material's behaviour should generate the form, but Dresser works in precious metal and Welch in the cheapest industrial alloy available."
       },
       {
         "id": 781,
         "type": "zeitgeist",
-        "reason": "Mellor's Pride cutlery (1953) and Welch's Campden Candlestick (1957) are both products of the post-war British design establishment — both designers trained at the Royal College of Art, both commissioned through the Council of Industrial Design, both working in metal. Mellor's stainless steel flatware brought Scandinavian discipline to the British table; Welch's cast-iron candelabrum brought it to the British hearth. Two RCA silversmiths redefining British metalwork within four years of each other."
+        "reason": "Mellor's Pride cutlery (1953) and Welch's Hobart Candlestick (1961) are both products of the post-war British design establishment — both designers trained at the Royal College of Art, both working in metal. Mellor's stainless steel flatware brought Scandinavian discipline to the British table; Welch's cast-iron candlestick brought it to the British hearth. Two RCA silversmiths redefining British metalwork within a decade of each other."
       },
       {
         "id": 840,
         "type": "argument",
-        "reason": "Koppel's 1948 Pitcher 1017 for Georg Jensen is silver at its most fluid — biomorphic curves, hand-beaten surfaces, a form that looks poured rather than made. Welch's 1957 Campden Candlestick is iron at its most skeletal — branching arms, no surface to speak of, a form that looks grown rather than cast. Both are post-war Scandinavian-influenced metalwork arguing for organic form, but Koppel achieves it through the malleability of precious metal and Welch through the brittleness of cast iron."
+        "reason": "Koppel's 1948 Pitcher 1017 for Georg Jensen is silver at its most fluid — biomorphic curves, hand-beaten surfaces, a form that looks poured rather than made. Welch's 1961 Hobart Candlestick is iron at its most architectonic — stacked discs, stepped profile, a form that looks built rather than cast. Both are post-war Scandinavian-influenced metalwork, but Koppel achieves sculptural warmth through the malleability of precious metal and Welch achieves monumental stillness through the weight of cast iron."
       }
     ],
     "keywords": [
       "cast iron",
-      "candelabrum",
+      "candlestick",
+      "stacked discs",
       "Cotswolds",
       "British modernism",
       "Robert Welch",
-      "Old Hall",
+      "Victor Castings",
       "V&A",
       "Scandinavian influence"
     ]
