@@ -235,7 +235,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
     let filterType = null;
 
     // --- Zoom/pan state ---
-    const view = { scale: 1, panX: 0, panY: 0, dragging: false, dragStartX: 0, dragStartY: 0 };
+    const view = { scale: 1, panX: 0, panY: 0, dragging: false, dragStartX: 0, dragStartY: 0, prevScale: 1, prevPanX: 0, prevPanY: 0 };
 
     ctx.fillStyle = CANVAS.background;
     ctx.fillRect(0, 0, W, H);
@@ -275,8 +275,20 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       ctx.globalCompositeOperation = 'source-over';
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       const isSealed = sealedRef.current;
-      ctx.fillStyle = isSealed ? 'rgba(30, 34, 40, 0.12)' : 'rgba(30, 34, 40, 0.06)';
-      ctx.fillRect(0, 0, W, H);
+      // When panning/zooming, skip the ghost wash and just clear fully —
+      // then draw arcs at boosted alpha so there's no dimming
+      const viewMoved = view.scale !== view.prevScale || view.panX !== view.prevPanX || view.panY !== view.prevPanY;
+      if (viewMoved) {
+        ctx.fillStyle = CANVAS.background;
+        ctx.fillRect(0, 0, W, H);
+        view.prevScale = view.scale;
+        view.prevPanX = view.panX;
+        view.prevPanY = view.panY;
+      } else {
+        ctx.fillStyle = isSealed ? 'rgba(30, 34, 40, 0.12)' : 'rgba(30, 34, 40, 0.06)';
+        ctx.fillRect(0, 0, W, H);
+      }
+      const alphaBoost = viewMoved ? 6 : 1;
 
       // --- Apply zoom/pan transform ---
       ctx.setTransform(dpr * view.scale, 0, 0, dpr * view.scale, view.panX * dpr, view.panY * dpr);
@@ -388,7 +400,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
             ctx.moveTo(sx, sy);
             ctx.quadraticCurveTo(cpx, cpy, tx, ty);
             ctx.strokeStyle = color;
-            ctx.globalAlpha = alpha;
+            ctx.globalAlpha = Math.min(1, alpha * alphaBoost);
             ctx.lineWidth = width;
             ctx.stroke();
           }
