@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { ARCHIVE, DISCIPLINES, CONNECTION_TYPES } from "./data/archive";
+import VisualiserShell from './components/visualiser/VisualiserShell';
 const CONN_TYPES = Object.fromEntries(Object.entries(CONNECTION_TYPES).map(([k, v]) => [k, { ...v, icon: v.symbol }]));
 const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", Lighting: "#5B7065", Architecture: "#6B7B6F", Typography: "#7A8B7A", Textile: "#9B6B4A", Transport: "#5A7B8B", Ceramic: "#8B7355", Glass: "#6B8B7B", Metalwork: "#7B6B8B" };
 
@@ -749,6 +750,8 @@ export default function Page() {
   const [searchQuery, setSearchQuery] = useState("");
   const [connFilter, setConnFilter] = useState("all");
   const [connMapMode, setConnMapMode] = useState("force");
+  const [connMapAuth, setConnMapAuth] = useState(false);
+  const [connMapPw, setConnMapPw] = useState("");
   const [featured] = useState(() => ARCHIVE[0]);
   const scrollPosRef = useRef(0);
 
@@ -759,6 +762,7 @@ export default function Page() {
       const item = ARCHIVE.find(i => i.id === parseInt(entryId));
       if (item) { setSelectedItem(item); setView('detail'); }
     }
+    if (sessionStorage.getItem('provenance_connmap_auth') === 'true') setConnMapAuth(true);
   }, []);
 
   const filteredArchive = ARCHIVE.filter(item => {
@@ -815,31 +819,42 @@ export default function Page() {
 
   // ── FULL-SCREEN NETWORK MODE ──
   if (view === 'connections') {
+    if (!connMapAuth) {
+      return (
+        <div style={{ width: '100vw', height: '100vh', background: '#1E2228', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'DM Sans', sans-serif" }}>
+          <div style={{ textAlign: 'center', maxWidth: 320 }}>
+            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 32, color: '#E8E4DC', marginBottom: 5 }}>Provenance</div>
+            <div style={{ fontSize: 8, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8763C', marginBottom: 40 }}>Network</div>
+            <input type="password" value={connMapPw} onChange={e => setConnMapPw(e.target.value)}
+              onKeyDown={e => { if (e.key === 'Enter') { if (connMapPw === 'provenance2026') { sessionStorage.setItem('provenance_connmap_auth', 'true'); setConnMapAuth(true); } else { setConnMapPw(''); } }}}
+              placeholder="Password" autoFocus
+              style={{ width: '100%', padding: '12px 16px', fontFamily: 'inherit', fontSize: 14,
+                border: '1px solid #3A3E44', background: '#2A2E34', textAlign: 'center',
+                letterSpacing: '0.1em', color: '#E8E4DC', boxSizing: 'border-box', outline: 'none' }} />
+            <button onClick={() => { if (connMapPw === 'provenance2026') { sessionStorage.setItem('provenance_connmap_auth', 'true'); setConnMapAuth(true); } else { setConnMapPw(''); }}}
+              style={{ width: '100%', padding: 10, marginTop: 10, fontFamily: 'inherit',
+                fontSize: 10, letterSpacing: '0.14em', textTransform: 'uppercase',
+                border: '1px solid #E8E4DC', background: '#E8E4DC', color: '#1E2228', cursor: 'pointer' }}>Enter</button>
+            <button onClick={() => { setView('featured'); setSelectedItem(null); }}
+              style={{ marginTop: 20, background: 'none', border: 'none', color: '#666', fontSize: 10,
+                letterSpacing: '0.1em', textTransform: 'uppercase', cursor: 'pointer', fontFamily: 'inherit' }}>← Back</button>
+          </div>
+        </div>
+      );
+    }
     return (
       <div style={{ width: '100vw', height: '100vh', overflow: 'hidden', background: '#1E2228' }}>
-        {connMapMode === 'force' ? <NetworkCanvas onOpenItem={openItem} /> : <RadialCanvas onOpenItem={openItem} />}
+        <VisualiserShell devMode={false} />
         <button onClick={() => { setView('featured'); setSelectedItem(null); }} style={{
           position: 'fixed', top: 20, left: 24, zIndex: 20, fontFamily: "'DM Sans', sans-serif",
           fontSize: '10px', letterSpacing: '0.1em', textTransform: 'uppercase',
-          padding: '6px 14px', border: '1px solid #555', background: 'rgba(30,34,40,0.8)',
-          color: '#AAA', cursor: 'pointer', backdropFilter: 'blur(4px)',
+          padding: '6px 14px', border: '1px solid rgba(255,255,255,0.1)', background: 'rgba(10,12,16,0.6)',
+          color: 'rgba(255,255,255,0.4)', cursor: 'pointer', backdropFilter: 'blur(12px)',
+          borderRadius: 10,
         }}>← Back</button>
-        <div style={{ position: 'fixed', top: 22, left: 120, zIndex: 20, display: 'flex', alignItems: 'baseline', gap: '10px', pointerEvents: 'none' }}>
-          <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: '20px', color: '#E8E4DC', letterSpacing: '-0.02em' }}>Provenance</span>
-          <span style={{ fontSize: '8px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8763C' }}>Network</span>
-        </div>
-        {/* View mode toggle */}
-        <div style={{ position: 'fixed', top: 20, left: '50%', transform: 'translateX(-50%)', zIndex: 20, display: 'flex', border: '1px solid #3A3E44', overflow: 'hidden' }}>
-          {[['force', 'Force'], ['radial', 'Radial']].map(([mode, label]) => (
-            <button key={mode} onClick={() => setConnMapMode(mode)} style={{
-              fontFamily: "'DM Sans', sans-serif", fontSize: '9px', letterSpacing: '0.1em', textTransform: 'uppercase',
-              padding: '6px 16px', border: 'none',
-              background: connMapMode === mode ? 'rgba(184,118,60,0.25)' : 'rgba(30,34,40,0.8)',
-              color: connMapMode === mode ? '#E8E4DC' : '#666',
-              cursor: 'pointer', backdropFilter: 'blur(4px)', transition: 'all 0.15s',
-              borderRight: mode === 'force' ? '1px solid #3A3E44' : 'none',
-            }}>{label}</button>
-          ))}
+        <div style={{ position: 'fixed', top: 22, right: 24, zIndex: 20, display: 'flex', alignItems: 'baseline', gap: 10, pointerEvents: 'none' }}>
+          <span style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: 'rgba(232,228,220,0.5)', letterSpacing: '-0.02em' }}>Provenance</span>
+          <span style={{ fontSize: 8, letterSpacing: '0.18em', textTransform: 'uppercase', color: 'rgba(184,118,60,0.5)' }}>Network</span>
         </div>
       </div>
     );
