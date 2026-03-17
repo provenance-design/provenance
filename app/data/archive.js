@@ -5,6 +5,7 @@ export const DISCIPLINES = ["Product", "Furniture", "Graphic", "Lighting", "Arch
 export const ARCHIVE = [
   {
     "id": 1,
+    "imageUrl": "/images/1.jpg",
     "title": "Arco Floor Lamp",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1962,
@@ -44,6 +45,7 @@ export const ARCHIVE = [
   },
   {
     "id": 2,
+    "imageUrl": "/images/2.jpg",
     "title": "Mezzadro Stool",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1957,
@@ -88,6 +90,7 @@ export const ARCHIVE = [
   },
   {
     "id": 3,
+    "imageUrl": "/images/3.jpg",
     "title": "Parentesi Lamp",
     "designer": "Achille Castiglioni & Pio Manzù",
     "year": 1971,
@@ -127,6 +130,7 @@ export const ARCHIVE = [
   },
   {
     "id": 4,
+    "imageUrl": "/images/4.jpg",
     "title": "Sella Stool",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1957,
@@ -166,6 +170,7 @@ export const ARCHIVE = [
   },
   {
     "id": 5,
+    "imageUrl": "/images/5.jpg",
     "title": "Snoopy Table Lamp",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1967,
@@ -205,6 +210,7 @@ export const ARCHIVE = [
   },
   {
     "id": 6,
+    "imageUrl": "/images/6.jpg",
     "title": "Superleggera Chair",
     "designer": "Gio Ponti",
     "year": 1957,
@@ -245,6 +251,7 @@ export const ARCHIVE = [
   },
   {
     "id": 7,
+    "imageUrl": "/images/7.jpg",
     "title": "Ulm Stool",
     "designer": "Max Bill & Hans Gugelot",
     "year": 1954,
@@ -284,6 +291,7 @@ export const ARCHIVE = [
   },
   {
     "id": 8,
+    "imageUrl": "/images/8.jpg",
     "title": "Taccia Table Lamp",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1962,
@@ -323,6 +331,7 @@ export const ARCHIVE = [
   },
   {
     "id": 9,
+    "imageUrl": "/images/9.jpg",
     "title": "Juicy Salif Lemon Squeezer",
     "designer": "Philippe Starck",
     "year": 1990,
@@ -362,6 +371,7 @@ export const ARCHIVE = [
   },
   {
     "id": 10,
+    "imageUrl": "/images/10.jpg",
     "title": "Grillo Telephone",
     "designer": "Marco Zanuso & Richard Sapper",
     "year": 1965,
@@ -402,6 +412,7 @@ export const ARCHIVE = [
   },
   {
     "id": 11,
+    "imageUrl": "/images/11.jpg",
     "title": "606 Universal Shelving System",
     "designer": "Dieter Rams",
     "year": 1960,
@@ -446,6 +457,7 @@ export const ARCHIVE = [
   },
   {
     "id": 12,
+    "imageUrl": "/images/12.jpg",
     "title": "Carlton Bookcase",
     "designer": "Ettore Sottsass",
     "year": 1981,
@@ -490,6 +502,7 @@ export const ARCHIVE = [
   },
   {
     "id": 13,
+    "imageUrl": "/images/13.jpg",
     "title": "London Underground Map",
     "designer": "Harry Beck",
     "year": 1933,
@@ -528,6 +541,7 @@ export const ARCHIVE = [
   },
   {
     "id": 14,
+    "imageUrl": "/images/14.jpg",
     "title": "Penguin Books Composition Rules",
     "designer": "Jan Tschichold",
     "year": 1947,
@@ -567,6 +581,7 @@ export const ARCHIVE = [
   },
   {
     "id": 15,
+    "imageUrl": "/images/15.jpg",
     "title": "Centre Pompidou",
     "designer": "Renzo Piano & Richard Rogers",
     "year": 1977,
@@ -606,6 +621,7 @@ export const ARCHIVE = [
   },
   {
     "id": 16,
+    "imageUrl": "/images/16.jpg",
     "title": "Braun SK 4 Radiogram",
     "designer": "Dieter Rams & Hans Gugelot",
     "year": 1956,
@@ -650,6 +666,7 @@ export const ARCHIVE = [
   },
   {
     "id": 17,
+    "imageUrl": "/images/17.jpg",
     "title": "Paimio Chair",
     "designer": "Alvar Aalto",
     "year": 1932,
@@ -695,6 +712,7 @@ export const ARCHIVE = [
   },
   {
     "id": 18,
+    "imageUrl": "/images/18.jpg",
     "title": "Stool 60",
     "designer": "Alvar Aalto",
     "year": 1933,
@@ -735,6 +753,7 @@ export const ARCHIVE = [
   },
   {
     "id": 19,
+    "imageUrl": "/images/19.jpg",
     "title": "Savoy Vase",
     "designer": "Alvar Aalto",
     "year": 1936,
@@ -775,6 +794,7 @@ export const ARCHIVE = [
   },
   {
     "id": 20,
+    "imageUrl": "/images/20.jpg",
     "title": "Faaborg Chair",
     "designer": "Kaare Klint",
     "year": 1914,
@@ -814,6 +834,7 @@ export const ARCHIVE = [
   },
   {
     "id": 21,
+    "imageUrl": "/images/21.jpg",
     "title": "PH Artichoke",
     "designer": "Poul Henningsen",
     "year": 1958,
@@ -854,6 +875,7 @@ export const ARCHIVE = [
   },
   {
     "id": 22,
+    "imageUrl": "/images/22.jpg",
     "title": "PH 5 Pendant",
     "designer": "Poul Henningsen",
     "year": 1958,
@@ -893,6 +915,7 @@ export const ARCHIVE = [
   },
   {
     "id": 23,
+    "imageUrl": "/images/23.jpg",
     "title": "Ant Chair",
     "designer": "Arne Jacobsen",
     "year": 1952,
@@ -932,6 +955,7 @@ export const ARCHIVE = [
   },
   {
     "id": 24,
+    "imageUrl": "/images/24.jpg",
     "title": "Egg Chair",
     "designer": "Arne Jacobsen",
     "year": 1958,
@@ -972,6 +996,7 @@ export const ARCHIVE = [
   },
   {
     "id": 25,
+    "imageUrl": "/images/25.jpg",
     "title": "SAS Royal Hotel",
     "designer": "Arne Jacobsen",
     "year": 1960,
@@ -1011,6 +1036,7 @@ export const ARCHIVE = [
   },
   {
     "id": 26,
+    "imageUrl": "/images/26.jpg",
     "title": "The Round Chair",
     "designer": "Hans Wegner",
     "year": 1949,
@@ -1051,6 +1077,7 @@ export const ARCHIVE = [
   },
   {
     "id": 27,
+    "imageUrl": "/images/27.jpg",
     "title": "Wishbone Chair",
     "designer": "Hans Wegner",
     "year": 1949,
@@ -1091,6 +1118,7 @@ export const ARCHIVE = [
   },
   {
     "id": 28,
+    "imageUrl": "/images/28.jpg",
     "title": "Chieftain Chair",
     "designer": "Finn Juhl",
     "year": 1949,
@@ -1130,6 +1158,7 @@ export const ARCHIVE = [
   },
   {
     "id": 29,
+    "imageUrl": "/images/29.jpg",
     "title": "Spanish Chair",
     "designer": "Børge Mogensen",
     "year": 1958,
@@ -1170,6 +1199,7 @@ export const ARCHIVE = [
   },
   {
     "id": 30,
+    "imageUrl": "/images/30.jpg",
     "title": "Panton Chair",
     "designer": "Verner Panton",
     "year": 1967,
@@ -1210,6 +1240,7 @@ export const ARCHIVE = [
   },
   {
     "id": 31,
+    "imageUrl": "/images/31.jpg",
     "title": "Kilta Tableware",
     "designer": "Kaj Franck",
     "year": 1953,
@@ -1250,6 +1281,7 @@ export const ARCHIVE = [
   },
   {
     "id": 32,
+    "imageUrl": "/images/32.jpg",
     "title": "Ultima Thule Glassware",
     "designer": "Tapio Wirkkala",
     "year": 1968,
@@ -1289,6 +1321,7 @@ export const ARCHIVE = [
   },
   {
     "id": 33,
+    "imageUrl": "/images/33.jpg",
     "title": "Pitcher 992",
     "designer": "Henning Koppel",
     "year": 1952,
@@ -1328,6 +1361,7 @@ export const ARCHIVE = [
   },
   {
     "id": 34,
+    "imageUrl": "/images/34.jpg",
     "title": "Unikko",
     "designer": "Maija Isola",
     "year": 1964,
@@ -1367,6 +1401,7 @@ export const ARCHIVE = [
   },
   {
     "id": 35,
+    "imageUrl": "/images/35.jpg",
     "title": "Sydney Opera House",
     "designer": "Jørn Utzon",
     "year": 1973,
@@ -1407,6 +1442,7 @@ export const ARCHIVE = [
   },
   {
     "id": 36,
+    "imageUrl": "/images/36.jpg",
     "title": "Cylinda-Line",
     "designer": "Arne Jacobsen",
     "year": 1967,
@@ -1447,6 +1483,7 @@ export const ARCHIVE = [
   },
   {
     "id": 37,
+    "imageUrl": "/images/37.jpg",
     "title": "Margrethe Bowl",
     "designer": "Sigvard Bernadotte & Acton Bjørn",
     "year": 1950,
@@ -1487,6 +1524,7 @@ export const ARCHIVE = [
   },
   {
     "id": 38,
+    "imageUrl": "/images/38.jpg",
     "title": "Eva Chair",
     "designer": "Bruno Mathsson",
     "year": 1934,
@@ -1527,6 +1565,7 @@ export const ARCHIVE = [
   },
   {
     "id": 39,
+    "imageUrl": "/images/39.jpg",
     "title": "LCW (Lounge Chair Wood)",
     "designer": "Charles & Ray Eames",
     "year": 1946,
@@ -1567,6 +1606,7 @@ export const ARCHIVE = [
   },
   {
     "id": 40,
+    "imageUrl": "/images/40.jpg",
     "title": "Eames Lounge Chair (670)",
     "designer": "Charles & Ray Eames",
     "year": 1956,
@@ -1607,6 +1647,7 @@ export const ARCHIVE = [
   },
   {
     "id": 41,
+    "imageUrl": "/images/41.jpg",
     "title": "Eames House (Case Study #8)",
     "designer": "Charles & Ray Eames",
     "year": 1949,
@@ -1646,6 +1687,7 @@ export const ARCHIVE = [
   },
   {
     "id": 42,
+    "imageUrl": "/images/42.jpg",
     "title": "Eames Leg Splint",
     "designer": "Charles & Ray Eames",
     "year": 1942,
@@ -1686,6 +1728,7 @@ export const ARCHIVE = [
   },
   {
     "id": 43,
+    "imageUrl": "/images/43.jpg",
     "title": "Powers of Ten",
     "designer": "Charles & Ray Eames",
     "year": 1977,
@@ -1725,6 +1768,7 @@ export const ARCHIVE = [
   },
   {
     "id": 44,
+    "imageUrl": "/images/44.jpg",
     "title": "Tulip Chair",
     "designer": "Eero Saarinen",
     "year": 1956,
@@ -1765,6 +1809,7 @@ export const ARCHIVE = [
   },
   {
     "id": 45,
+    "imageUrl": "/images/45.jpg",
     "title": "TWA Flight Center",
     "designer": "Eero Saarinen",
     "year": 1962,
@@ -1805,6 +1850,7 @@ export const ARCHIVE = [
   },
   {
     "id": 46,
+    "imageUrl": "/images/46.jpg",
     "title": "Noguchi Coffee Table (IN-50)",
     "designer": "Isamu Noguchi",
     "year": 1948,
@@ -1845,6 +1891,7 @@ export const ARCHIVE = [
   },
   {
     "id": 47,
+    "imageUrl": "/images/47.jpg",
     "title": "Akari Light Sculptures",
     "designer": "Isamu Noguchi",
     "year": 1951,
@@ -1885,6 +1932,7 @@ export const ARCHIVE = [
   },
   {
     "id": 48,
+    "imageUrl": "/images/48.jpg",
     "title": "Ball Clock",
     "designer": "George Nelson (attributed)",
     "year": 1948,
@@ -1925,6 +1973,7 @@ export const ARCHIVE = [
   },
   {
     "id": 49,
+    "imageUrl": "/images/49.jpg",
     "title": "Marshmallow Sofa",
     "designer": "George Nelson / Irving Harper",
     "year": 1956,
@@ -1965,6 +2014,7 @@ export const ARCHIVE = [
   },
   {
     "id": 50,
+    "imageUrl": "/images/50.jpg",
     "title": "Platform Bench",
     "designer": "George Nelson",
     "year": 1946,
@@ -2005,6 +2055,7 @@ export const ARCHIVE = [
   },
   {
     "id": 51,
+    "imageUrl": "/images/51.jpg",
     "title": "Diamond Chair",
     "designer": "Harry Bertoia",
     "year": 1952,
@@ -2045,6 +2096,7 @@ export const ARCHIVE = [
   },
   {
     "id": 52,
+    "imageUrl": "/images/52.jpg",
     "title": "Knoll Planning Unit",
     "designer": "Florence Knoll",
     "year": 1948,
@@ -2085,6 +2137,7 @@ export const ARCHIVE = [
   },
   {
     "id": 53,
+    "imageUrl": "/images/53.jpg",
     "title": "Girard Wooden Dolls",
     "designer": "Alexander Girard",
     "year": 1963,
@@ -2125,6 +2178,7 @@ export const ARCHIVE = [
   },
   {
     "id": 54,
+    "imageUrl": "/images/54.jpg",
     "title": "Vertigo Title Sequence",
     "designer": "Saul Bass",
     "year": 1958,
@@ -2164,6 +2218,7 @@ export const ARCHIVE = [
   },
   {
     "id": 55,
+    "imageUrl": "/images/55.jpg",
     "title": "New York Subway Signage",
     "designer": "Massimo Vignelli",
     "year": 1966,
@@ -2203,6 +2258,7 @@ export const ARCHIVE = [
   },
   {
     "id": 56,
+    "imageUrl": "/images/56.jpg",
     "title": "IBM Logo",
     "designer": "Paul Rand",
     "year": 1972,
@@ -2243,6 +2299,7 @@ export const ARCHIVE = [
   },
   {
     "id": 57,
+    "imageUrl": "/images/57.jpg",
     "title": "American Modern Dinnerware",
     "designer": "Russel Wright",
     "year": 1937,
@@ -2283,6 +2340,7 @@ export const ARCHIVE = [
   },
   {
     "id": 58,
+    "imageUrl": "/images/58.jpg",
     "title": "Conoid Bench",
     "designer": "George Nakashima",
     "year": 1960,
@@ -2323,6 +2381,7 @@ export const ARCHIVE = [
   },
   {
     "id": 59,
+    "imageUrl": "/images/59.jpg",
     "title": "Farnsworth House",
     "designer": "Ludwig Mies van der Rohe",
     "year": 1951,
@@ -2363,6 +2422,7 @@ export const ARCHIVE = [
   },
   {
     "id": 60,
+    "imageUrl": "/images/60.jpg",
     "title": "Barcelona Chair",
     "designer": "Ludwig Mies van der Rohe",
     "year": 1929,
@@ -2403,6 +2463,7 @@ export const ARCHIVE = [
   },
   {
     "id": 61,
+    "imageUrl": "/images/61.jpg",
     "title": "Wassily Chair (B3)",
     "designer": "Marcel Breuer",
     "year": 1925,
@@ -2443,6 +2504,7 @@ export const ARCHIVE = [
   },
   {
     "id": 62,
+    "imageUrl": "/images/62.jpg",
     "title": "Womb Chair",
     "designer": "Eero Saarinen",
     "year": 1948,
@@ -2483,6 +2545,7 @@ export const ARCHIVE = [
   },
   {
     "id": 63,
+    "imageUrl": "/images/63.jpg",
     "title": "Cesca Chair (B32)",
     "designer": "Marcel Breuer",
     "year": 1928,
@@ -2523,6 +2586,7 @@ export const ARCHIVE = [
   },
   {
     "id": 64,
+    "imageUrl": "/images/64.jpg",
     "title": "LC4 Chaise Longue",
     "designer": "Le Corbusier, Pierre Jeanneret & Charlotte Perriand",
     "year": 1928,
@@ -2563,6 +2627,7 @@ export const ARCHIVE = [
   },
   {
     "id": 65,
+    "imageUrl": "/images/65.jpg",
     "title": "Grid Systems in Graphic Design",
     "designer": "Josef Müller-Brockmann",
     "year": 1961,
@@ -2603,6 +2668,7 @@ export const ARCHIVE = [
   },
   {
     "id": 66,
+    "imageUrl": "/images/66.jpg",
     "title": "Helvetica",
     "designer": "Max Miedinger & Eduard Hoffmann",
     "year": 1957,
@@ -2648,6 +2714,7 @@ export const ARCHIVE = [
   },
   {
     "id": 67,
+    "imageUrl": "/images/67.jpg",
     "title": "Eames House of Cards",
     "designer": "Charles & Ray Eames",
     "year": 1952,
@@ -2688,6 +2755,7 @@ export const ARCHIVE = [
   },
   {
     "id": 68,
+    "imageUrl": "/images/68.jpg",
     "title": "Eames Molded Plastic Chair (DSW/DSR)",
     "designer": "Charles & Ray Eames",
     "year": 1950,
@@ -2728,6 +2796,7 @@ export const ARCHIVE = [
   },
   {
     "id": 69,
+    "imageUrl": "/images/69.jpg",
     "title": "TWA Identity & Terminal Signage",
     "designer": "Chermayeff & Geismar",
     "year": 1960,
@@ -2767,6 +2836,7 @@ export const ARCHIVE = [
   },
   {
     "id": 70,
+    "imageUrl": "/images/70.jpg",
     "title": "Artek Tea Trolley 901",
     "designer": "Alvar Aalto",
     "year": 1936,
@@ -2807,6 +2877,7 @@ export const ARCHIVE = [
   },
   {
     "id": 71,
+    "imageUrl": "/images/71.jpg",
     "title": "Series 7 Chair",
     "designer": "Arne Jacobsen",
     "year": 1955,
@@ -2847,6 +2918,7 @@ export const ARCHIVE = [
   },
   {
     "id": 72,
+    "imageUrl": "/images/72.jpg",
     "title": "Saarinen Dining Table (Pedestal Table)",
     "designer": "Eero Saarinen",
     "year": 1956,
@@ -2887,6 +2959,7 @@ export const ARCHIVE = [
   },
   {
     "id": 73,
+    "imageUrl": "/images/73.jpg",
     "title": "Aalto Vase Collection (Savoy System)",
     "designer": "Alvar Aalto",
     "year": 1936,
@@ -2927,6 +3000,7 @@ export const ARCHIVE = [
   },
   {
     "id": 74,
+    "imageUrl": "/images/74.jpg",
     "title": "Eames Storage Unit (ESU)",
     "designer": "Charles & Ray Eames",
     "year": 1950,
@@ -2967,6 +3041,7 @@ export const ARCHIVE = [
   },
   {
     "id": 75,
+    "imageUrl": "/images/75.jpg",
     "title": "Stacking Chair (Model 3107 Colour)",
     "designer": "Arne Jacobsen / Fritz Hansen",
     "year": 1955,
@@ -3007,6 +3082,7 @@ export const ARCHIVE = [
   },
   {
     "id": 76,
+    "imageUrl": "/images/76.jpg",
     "title": "Herbert Matter Swiss Tourism Posters",
     "designer": "Herbert Matter",
     "year": 1935,
@@ -3046,6 +3122,7 @@ export const ARCHIVE = [
   },
   {
     "id": 77,
+    "imageUrl": "/images/77.jpg",
     "title": "Action Office II",
     "designer": "Robert Propst / George Nelson",
     "year": 1968,
@@ -3086,6 +3163,7 @@ export const ARCHIVE = [
   },
   {
     "id": 78,
+    "imageUrl": "/images/78.jpg",
     "title": "Hang-It-All",
     "designer": "Charles & Ray Eames",
     "year": 1953,
@@ -18722,6 +18800,7 @@ export const ARCHIVE = [
   },
   {
     "id": 472,
+    "imageUrl": "/images/472.jpg",
     "title": "Fat Chair",
     "designer": "Tom Dixon",
     "year": 1991,
@@ -24462,6 +24541,7 @@ export const ARCHIVE = [
   },
   {
     "id": 615,
+    "imageUrl": "/images/615.jpg",
     "title": "Fracture Furniture",
     "designer": "Ineke Hans",
     "year": 2007,
@@ -25319,6 +25399,7 @@ export const ARCHIVE = [
   },
   {
     "id": 637,
+    "imageUrl": "/images/637.jpg",
     "title": "Red Blue Chair",
     "designer": "Gerrit Rietveld",
     "year": 1917,
@@ -25360,6 +25441,7 @@ export const ARCHIVE = [
   },
   {
     "id": 638,
+    "imageUrl": "/images/638.jpg",
     "title": "Standard Chair",
     "designer": "Jean Prouvé",
     "year": 1934,
@@ -25400,6 +25482,7 @@ export const ARCHIVE = [
   },
   {
     "id": 639,
+    "imageUrl": "/images/639.jpg",
     "title": "Bowl Chair",
     "designer": "Lina Bo Bardi",
     "year": 1951,
@@ -25441,6 +25524,7 @@ export const ARCHIVE = [
   },
   {
     "id": 640,
+    "imageUrl": "/images/640.jpg",
     "title": "Arabesque Table",
     "designer": "Carlo Mollino",
     "year": 1949,
@@ -25482,6 +25566,7 @@ export const ARCHIVE = [
   },
   {
     "id": 641,
+    "imageUrl": "/images/641.jpg",
     "title": "GJ Chair",
     "designer": "Grete Jalk",
     "year": 1963,
@@ -25522,6 +25607,7 @@ export const ARCHIVE = [
   },
   {
     "id": 642,
+    "imageUrl": "/images/642.jpg",
     "title": "Eros Table",
     "designer": "Angelo Mangiarotti",
     "year": 1971,
@@ -25563,6 +25649,7 @@ export const ARCHIVE = [
   },
   {
     "id": 643,
+    "imageUrl": "/images/643.jpg",
     "title": "Antibodi Chaise",
     "designer": "Patricia Urquiola",
     "year": 2006,
@@ -25604,6 +25691,7 @@ export const ARCHIVE = [
   },
   {
     "id": 644,
+    "imageUrl": "/images/644.jpg",
     "title": "Three-Arm Ceiling Lamp",
     "designer": "Serge Mouille",
     "year": 1952,
@@ -25645,6 +25733,7 @@ export const ARCHIVE = [
   },
   {
     "id": 645,
+    "imageUrl": "/images/645.jpg",
     "title": "Bulb Lamp",
     "designer": "Ingo Maurer",
     "year": 1966,
@@ -25686,6 +25775,7 @@ export const ARCHIVE = [
   },
   {
     "id": 646,
+    "imageUrl": "/images/646.jpg",
     "title": "Battuto Vase",
     "designer": "Carlo Scarpa",
     "year": 1940,
@@ -25727,6 +25817,7 @@ export const ARCHIVE = [
   },
   {
     "id": 647,
+    "imageUrl": "/images/647.jpg",
     "title": "Orchid Vase (i-glass)",
     "designer": "Timo Sarpaneva",
     "year": 1954,
@@ -25768,6 +25859,7 @@ export const ARCHIVE = [
   },
   {
     "id": 648,
+    "imageUrl": "/images/648.jpg",
     "title": "Pond Mirror",
     "designer": "Ingegerd Råman",
     "year": 2017,
@@ -25809,6 +25901,7 @@ export const ARCHIVE = [
   },
   {
     "id": 649,
+    "imageUrl": "/images/649.jpg",
     "title": "MT49 Tea Infuser",
     "designer": "Marianne Brandt",
     "year": 1924,
@@ -25850,6 +25943,7 @@ export const ARCHIVE = [
   },
   {
     "id": 650,
+    "imageUrl": "/images/650.jpg",
     "title": "Claret Jug",
     "designer": "Christopher Dresser",
     "year": 1879,
@@ -25892,6 +25986,7 @@ export const ARCHIVE = [
   },
   {
     "id": 651,
+    "imageUrl": "/images/651.jpg",
     "title": "Anni Albers Wall Hanging",
     "designer": "Anni Albers",
     "year": 1926,
@@ -25933,6 +26028,7 @@ export const ARCHIVE = [
   },
   {
     "id": 652,
+    "imageUrl": "/images/652.jpg",
     "title": "Minimes",
     "designer": "Sheila Hicks",
     "year": 1960,
@@ -25974,6 +26070,7 @@ export const ARCHIVE = [
   },
   {
     "id": 653,
+    "imageUrl": "/images/653.jpg",
     "title": "Town & Country Dinnerware",
     "designer": "Eva Zeisel",
     "year": 1946,
@@ -26015,6 +26112,7 @@ export const ARCHIVE = [
   },
   {
     "id": 654,
+    "imageUrl": "/images/654.jpg",
     "title": "AEG Electric Kettle",
     "designer": "Peter Behrens",
     "year": 1909,
@@ -26056,6 +26154,7 @@ export const ARCHIVE = [
   },
   {
     "id": 655,
+    "imageUrl": "/images/655.jpg",
     "title": "Studebaker Starliner",
     "designer": "Raymond Loewy",
     "year": 1953,
@@ -26097,6 +26196,7 @@ export const ARCHIVE = [
   },
   {
     "id": 656,
+    "imageUrl": "/images/656.jpg",
     "title": "MUJI Horizon Poster",
     "designer": "Kenya Hara",
     "year": 2003,
@@ -26138,6 +26238,7 @@ export const ARCHIVE = [
   },
   {
     "id": 657,
+    "imageUrl": "/images/657.jpg",
     "title": "Therme Vals",
     "designer": "Peter Zumthor",
     "year": 1996,
@@ -26179,6 +26280,7 @@ export const ARCHIVE = [
   },
   {
     "id": 658,
+    "imageUrl": "/images/658.jpg",
     "title": "Church of the Light",
     "designer": "Tadao Ando",
     "year": 1989,
@@ -26220,6 +26322,7 @@ export const ARCHIVE = [
   },
   {
     "id": 659,
+    "imageUrl": "/images/659.jpg",
     "title": "Maison de Verre",
     "designer": "Pierre Chareau",
     "year": 1932,
@@ -26261,6 +26364,7 @@ export const ARCHIVE = [
   },
   {
     "id": 660,
+    "imageUrl": "/images/660.jpg",
     "title": "New Alphabet",
     "designer": "Wim Crouwel",
     "year": 1967,
@@ -26302,6 +26406,7 @@ export const ARCHIVE = [
   },
   {
     "id": 661,
+    "imageUrl": "/images/661.jpg",
     "title": "Silk Pavilion",
     "designer": "Neri Oxman",
     "year": 2013,
@@ -26343,6 +26448,7 @@ export const ARCHIVE = [
   },
   {
     "id": 662,
+    "imageUrl": "/images/662.jpg",
     "title": "India Mahdavi Bishop Stool",
     "designer": "India Mahdavi",
     "year": 2004,
@@ -26384,6 +26490,7 @@ export const ARCHIVE = [
   },
   {
     "id": 663,
+    "imageUrl": "/images/663.jpg",
     "title": "Music Stand",
     "designer": "Wendell Castle",
     "year": 1964,
@@ -26425,6 +26532,7 @@ export const ARCHIVE = [
   },
   {
     "id": 664,
+    "imageUrl": "/images/664.jpg",
     "title": "Paris Métro Entrances",
     "designer": "Hector Guimard",
     "year": 1900,
@@ -26466,6 +26574,7 @@ export const ARCHIVE = [
   },
   {
     "id": 665,
+    "imageUrl": "/images/665.jpg",
     "title": "Jan van Toorn Calendar",
     "designer": "Jan van Toorn",
     "year": 1973,
@@ -26507,6 +26616,7 @@ export const ARCHIVE = [
   },
   {
     "id": 666,
+    "imageUrl": "/images/666.jpg",
     "title": "Good Grips Peeler",
     "designer": "Smart Design (Sam Farber)",
     "year": 1990,
@@ -26548,6 +26658,7 @@ export const ARCHIVE = [
   },
   {
     "id": 667,
+    "imageUrl": "/images/667.jpg",
     "title": "PIG 05049",
     "designer": "Christien Meindertsma",
     "year": 2007,
@@ -26589,6 +26700,7 @@ export const ARCHIVE = [
   },
   {
     "id": 668,
+    "imageUrl": "/images/668.jpg",
     "title": "SHV Think Book 1996–1896",
     "designer": "Irma Boom",
     "year": 1996,
@@ -26630,6 +26742,7 @@ export const ARCHIVE = [
   },
   {
     "id": 669,
+    "imageUrl": "/images/669.jpg",
     "title": "Robber Baron",
     "designer": "Studio Job (Job Smeets & Nynke Tynagel)",
     "year": 2006,
@@ -26671,6 +26784,7 @@ export const ARCHIVE = [
   },
   {
     "id": 670,
+    "imageUrl": "/images/670.jpg",
     "title": "Pewter Stool",
     "designer": "Max Lamb",
     "year": 2007,
@@ -26712,6 +26826,7 @@ export const ARCHIVE = [
   },
   {
     "id": 671,
+    "imageUrl": "/images/671.jpg",
     "title": "OP-1",
     "designer": "Teenage Engineering",
     "year": 2011,
@@ -26753,6 +26868,7 @@ export const ARCHIVE = [
   },
   {
     "id": 672,
+    "imageUrl": "/images/672.jpg",
     "title": "Nest Learning Thermostat",
     "designer": "Tony Fadell",
     "year": 2011,
@@ -26794,6 +26910,7 @@ export const ARCHIVE = [
   },
   {
     "id": 673,
+    "imageUrl": "/images/673.jpg",
     "title": "Freitag Messenger Bag (F13 TOP CAT)",
     "designer": "Markus & Daniel Freitag",
     "year": 1993,
@@ -26835,6 +26952,7 @@ export const ARCHIVE = [
   },
   {
     "id": 674,
+    "imageUrl": "/images/674.jpg",
     "title": "AMOAKO BOAFO Painting + Dior Collection",
     "designer": "Kim Jones (Dior Men's) with Amoako Boafo",
     "year": 2021,
@@ -26876,6 +26994,7 @@ export const ARCHIVE = [
   },
   {
     "id": 675,
+    "imageUrl": "/images/675.jpg",
     "title": "Serpentine Pavilion",
     "designer": "Francis Kéré",
     "year": 2017,
@@ -26917,6 +27036,7 @@ export const ARCHIVE = [
   },
   {
     "id": 676,
+    "imageUrl": "/images/676.jpg",
     "title": "Dirty House",
     "designer": "David Adjaye",
     "year": 2002,
@@ -26958,6 +27078,7 @@ export const ARCHIVE = [
   },
   {
     "id": 677,
+    "imageUrl": "/images/677.jpg",
     "title": "SAGMEISTER & WALSH AIGA Poster",
     "designer": "Stefan Sagmeister",
     "year": 1999,
@@ -26999,6 +27120,7 @@ export const ARCHIVE = [
   },
   {
     "id": 678,
+    "imageUrl": "/images/678.jpg",
     "title": "Kinematics Dress",
     "designer": "Nervous System (Jessica Rosenkrantz & Jesse Louis-Rosenberg)",
     "year": 2014,
@@ -27040,6 +27162,7 @@ export const ARCHIVE = [
   },
   {
     "id": 679,
+    "imageUrl": "/images/679.jpg",
     "title": "Tip of the Tongue",
     "designer": "Michael Anastassiades",
     "year": 2013,
@@ -27081,6 +27204,7 @@ export const ARCHIVE = [
   },
   {
     "id": 680,
+    "imageUrl": "/images/680.jpg",
     "title": "Mirror Mirror",
     "designer": "Es Devlin",
     "year": 2023,
@@ -27122,6 +27246,7 @@ export const ARCHIVE = [
   },
   {
     "id": 681,
+    "imageUrl": "/images/681.jpg",
     "title": "Lucellino",
     "designer": "Ingo Maurer",
     "year": 1992,
@@ -27163,6 +27288,7 @@ export const ARCHIVE = [
   },
   {
     "id": 682,
+    "imageUrl": "/images/682.jpg",
     "title": "Zettel'z 5",
     "designer": "Ingo Maurer",
     "year": 1999,
@@ -27204,6 +27330,7 @@ export const ARCHIVE = [
   },
   {
     "id": 683,
+    "imageUrl": "/images/683.jpg",
     "title": "Porca Miseria!",
     "designer": "Ingo Maurer",
     "year": 1994,
@@ -27245,6 +27372,7 @@ export const ARCHIVE = [
   },
   {
     "id": 684,
+    "imageUrl": "/images/684.jpg",
     "title": "Vitra Fire Station",
     "designer": "Zaha Hadid",
     "year": 1993,
@@ -27286,6 +27414,7 @@ export const ARCHIVE = [
   },
   {
     "id": 685,
+    "imageUrl": "/images/685.jpg",
     "title": "GC Prostho Museum Research Center",
     "designer": "Kengo Kuma",
     "year": 2010,
@@ -27327,6 +27456,7 @@ export const ARCHIVE = [
   },
   {
     "id": 686,
+    "imageUrl": "/images/686.jpg",
     "title": "Oslo Opera House",
     "designer": "Snøhetta",
     "year": 2008,
@@ -27368,6 +27498,7 @@ export const ARCHIVE = [
   },
   {
     "id": 687,
+    "imageUrl": "/images/687.jpg",
     "title": "21st Century Museum of Contemporary Art",
     "designer": "SANAA (Kazuyo Sejima & Ryue Nishizawa)",
     "year": 2004,
@@ -27409,6 +27540,7 @@ export const ARCHIVE = [
   },
   {
     "id": 688,
+    "imageUrl": "/images/688.jpg",
     "title": "Palais de Tokyo Renovation",
     "designer": "Lacaton & Vassal",
     "year": 2012,
@@ -27450,6 +27582,7 @@ export const ARCHIVE = [
   },
   {
     "id": 689,
+    "imageUrl": "/images/689.jpg",
     "title": "Neues Museum Berlin",
     "designer": "David Chipperfield",
     "year": 2009,
@@ -27491,6 +27624,7 @@ export const ARCHIVE = [
   },
   {
     "id": 690,
+    "imageUrl": "/images/690.jpg",
     "title": "VIA 57 West",
     "designer": "Bjarke Ingels / BIG",
     "year": 2016,
@@ -27532,6 +27666,7 @@ export const ARCHIVE = [
   },
   {
     "id": 691,
+    "imageUrl": "/images/691.jpg",
     "title": "Little Sun",
     "designer": "Olafur Eliasson",
     "year": 2012,
@@ -27573,6 +27708,7 @@ export const ARCHIVE = [
   },
   {
     "id": 692,
+    "imageUrl": "/images/692.jpg",
     "title": "Rain Room",
     "designer": "Random International",
     "year": 2012,
@@ -27614,6 +27750,7 @@ export const ARCHIVE = [
   },
   {
     "id": 693,
+    "imageUrl": "/images/693.jpg",
     "title": "New Spring",
     "designer": "Studio Swine (Azusa Murakami & Alexander Groves)",
     "year": 2017,
@@ -27655,6 +27792,7 @@ export const ARCHIVE = [
   },
   {
     "id": 694,
+    "imageUrl": "/images/694.jpg",
     "title": "Scrapwood Cupboard",
     "designer": "Piet Hein Eek",
     "year": 1990,
@@ -27696,6 +27834,7 @@ export const ARCHIVE = [
   },
   {
     "id": 695,
+    "imageUrl": "/images/695.jpg",
     "title": "Go Chair",
     "designer": "Ross Lovegrove",
     "year": 2001,
@@ -27737,6 +27876,7 @@ export const ARCHIVE = [
   },
   {
     "id": 696,
+    "imageUrl": "/images/696.jpg",
     "title": "Bone Chair",
     "designer": "Joris Laarman",
     "year": 2006,
@@ -27778,6 +27918,7 @@ export const ARCHIVE = [
   },
   {
     "id": 697,
+    "imageUrl": "/images/697.jpg",
     "title": "Endgrain",
     "designer": "Raw Edges (Yael Mer & Shay Alkalay)",
     "year": 2007,
@@ -27819,6 +27960,7 @@ export const ARCHIVE = [
   },
   {
     "id": 698,
+    "imageUrl": "/images/698.jpg",
     "title": "Sinnerlig Collection",
     "designer": "Ilse Crawford",
     "year": 2015,
@@ -27860,6 +28002,7 @@ export const ARCHIVE = [
   },
   {
     "id": 699,
+    "imageUrl": "/images/699.jpg",
     "title": "Workshop Chair",
     "designer": "Jerszy Seymour",
     "year": 2009,
@@ -27901,6 +28044,7 @@ export const ARCHIVE = [
   },
   {
     "id": 700,
+    "imageUrl": "/images/700.jpg",
     "title": "Louis Ghost Chair",
     "designer": "Philippe Starck",
     "year": 2002,
@@ -27942,6 +28086,7 @@ export const ARCHIVE = [
   },
   {
     "id": 701,
+    "imageUrl": "/images/701.jpg",
     "title": "Animali Domestici",
     "designer": "Andrea Branzi",
     "year": 1985,
@@ -27983,6 +28128,7 @@ export const ARCHIVE = [
   },
   {
     "id": 702,
+    "imageUrl": "/images/702.jpg",
     "title": "Formwork",
     "designer": "Industrial Facility (Sam Hecht & Kim Colin)",
     "year": 2014,
@@ -28024,6 +28170,7 @@ export const ARCHIVE = [
   },
   {
     "id": 703,
+    "imageUrl": "/images/703.jpg",
     "title": "\"The Ten\" Nike Air Jordan 1",
     "designer": "Virgil Abloh / Off-White",
     "year": 2017,
@@ -28065,6 +28212,7 @@ export const ARCHIVE = [
   },
   {
     "id": 704,
+    "imageUrl": "/images/704.jpg",
     "title": "Knock-Off Lamp",
     "designer": "Tobias Wong",
     "year": 2003,
@@ -28106,6 +28254,7 @@ export const ARCHIVE = [
   },
   {
     "id": 706,
+    "imageUrl": "/images/706.jpg",
     "title": "The Face Magazine",
     "designer": "Neville Brody",
     "year": 1981,
@@ -28147,6 +28296,7 @@ export const ARCHIVE = [
   },
   {
     "id": 707,
+    "imageUrl": "/images/707.jpg",
     "title": "Ray Gun Magazine",
     "designer": "David Carson",
     "year": 1992,
@@ -28188,6 +28338,7 @@ export const ARCHIVE = [
   },
   {
     "id": 708,
+    "imageUrl": "/images/708.jpg",
     "title": "Experimental Jetset SMK Poster",
     "designer": "Experimental Jetset",
     "year": 2006,
@@ -28229,6 +28380,7 @@ export const ARCHIVE = [
   },
   {
     "id": 709,
+    "imageUrl": "/images/709.jpg",
     "title": "Metahaven Facestate",
     "designer": "Metahaven (Daniel van der Velden & Vinca Kruk)",
     "year": 2011,
@@ -28270,6 +28422,7 @@ export const ARCHIVE = [
   },
   {
     "id": 710,
+    "imageUrl": "/images/710.jpg",
     "title": "Plato's Atlantis",
     "designer": "Alexander McQueen",
     "year": 2010,
@@ -28311,6 +28464,7 @@ export const ARCHIVE = [
   },
   {
     "id": 711,
+    "imageUrl": "/images/711.jpg",
     "title": "Escapism Couture Dress",
     "designer": "Iris van Herpen",
     "year": 2011,
@@ -28352,6 +28506,7 @@ export const ARCHIVE = [
   },
   {
     "id": 712,
+    "imageUrl": "/images/712.jpg",
     "title": "The Toaster Project",
     "designer": "Thomas Thwaites",
     "year": 2009,
@@ -28393,6 +28548,7 @@ export const ARCHIVE = [
   },
   {
     "id": 713,
+    "imageUrl": "/images/713.jpg",
     "title": "Biocouture Jacket",
     "designer": "Suzanne Lee",
     "year": 2014,
@@ -28434,6 +28590,7 @@ export const ARCHIVE = [
   },
   {
     "id": 714,
+    "imageUrl": "/images/714.jpg",
     "title": "Charpoy Daybed",
     "designer": "Nipa Doshi & Jonathan Levien",
     "year": 2007,
@@ -28475,6 +28632,7 @@ export const ARCHIVE = [
   },
   {
     "id": 715,
+    "imageUrl": "/images/715.jpg",
     "title": "When Jim Comes to Paris",
     "designer": "Matali Crasset",
     "year": 1995,
@@ -28516,6 +28674,7 @@ export const ARCHIVE = [
   },
   {
     "id": 716,
+    "imageUrl": "/images/716.jpg",
     "title": "teamLab Borderless",
     "designer": "teamLab",
     "year": 2018,
@@ -28557,6 +28716,7 @@ export const ARCHIVE = [
   },
   {
     "id": 717,
+    "imageUrl": "/images/717.jpg",
     "title": "Paper Log House",
     "designer": "Shigeru Ban",
     "year": 1995,
@@ -28598,6 +28758,7 @@ export const ARCHIVE = [
   },
   {
     "id": 718,
+    "imageUrl": "/images/718.jpg",
     "title": "Bell Table",
     "designer": "Sebastian Herkner",
     "year": 2012,
@@ -28639,6 +28800,7 @@ export const ARCHIVE = [
   },
   {
     "id": 719,
+    "imageUrl": "/images/719.jpg",
     "title": "The Idea of a Tree",
     "designer": "Mischer'Traxler (Katharina Mischer & Thomas Traxler)",
     "year": 2008,
@@ -28680,6 +28842,7 @@ export const ARCHIVE = [
   },
   {
     "id": 720,
+    "imageUrl": "/images/720.jpg",
     "title": "75 Watt",
     "designer": "Revital Cohen & Tuur Van Balen",
     "year": 2013,
@@ -28721,6 +28884,7 @@ export const ARCHIVE = [
   },
   {
     "id": 721,
+    "imageUrl": "/images/721.jpg",
     "title": "Seoul Home / L.A. Home",
     "designer": "Do Ho Suh",
     "year": 2012,
@@ -28762,6 +28926,7 @@ export const ARCHIVE = [
   },
   {
     "id": 722,
+    "imageUrl": "/images/722.jpg",
     "title": "Shylight",
     "designer": "Studio Drift (Lonneke Gordijn & Ralph Nauta)",
     "year": 2006,
@@ -28803,6 +28968,7 @@ export const ARCHIVE = [
   },
   {
     "id": 723,
+    "imageUrl": "/images/723.jpg",
     "title": "Aguahoja",
     "designer": "Neri Oxman",
     "year": 2019,
@@ -28844,6 +29010,7 @@ export const ARCHIVE = [
   },
   {
     "id": 724,
+    "imageUrl": "/images/724.jpg",
     "title": "Looks Like Music",
     "designer": "Yuri Suzuki",
     "year": 2013,
@@ -28885,6 +29052,7 @@ export const ARCHIVE = [
   },
   {
     "id": 725,
+    "imageUrl": "/images/725.jpg",
     "title": "Knot Series",
     "designer": "Kwangho Lee",
     "year": 2007,
@@ -28926,6 +29094,7 @@ export const ARCHIVE = [
   },
   {
     "id": 726,
+    "imageUrl": "/images/726.jpg",
     "title": "KAIT Workshop",
     "designer": "Junya Ishigami",
     "year": 2008,
@@ -28967,6 +29136,7 @@ export const ARCHIVE = [
   },
   {
     "id": 727,
+    "imageUrl": "/images/727.jpg",
     "title": "Autonomous Trap 001",
     "designer": "James Bridle",
     "year": 2017,
@@ -29008,6 +29178,7 @@ export const ARCHIVE = [
   },
   {
     "id": 728,
+    "imageUrl": "/images/728.jpg",
     "title": "Faber Futures Living Colour",
     "designer": "Natsai Audrey Chieza",
     "year": 2017,
@@ -29049,6 +29220,7 @@ export const ARCHIVE = [
   },
   {
     "id": 729,
+    "imageUrl": "/images/729.jpg",
     "title": "Game Boy",
     "designer": "Gunpei Yokoi",
     "year": 1989,
@@ -29090,6 +29262,7 @@ export const ARCHIVE = [
   },
   {
     "id": 730,
+    "imageUrl": "/images/730.jpg",
     "title": "Macintosh 128K",
     "designer": "Apple Computer (Jef Raskin, project originator; Steve Jobs, direction; Frog Design, industrial design)",
     "year": 1984,
@@ -29131,6 +29304,7 @@ export const ARCHIVE = [
   },
   {
     "id": 731,
+    "imageUrl": "/images/731.jpg",
     "title": "Fallingwater",
     "designer": "Frank Lloyd Wright",
     "year": 1935,
@@ -29172,6 +29346,7 @@ export const ARCHIVE = [
   },
   {
     "id": 732,
+    "imageUrl": "/images/732.jpg",
     "title": "Villa Savoye",
     "designer": "Le Corbusier",
     "year": 1931,
@@ -29213,6 +29388,7 @@ export const ARCHIVE = [
   },
   {
     "id": 733,
+    "imageUrl": "/images/733.jpg",
     "title": "Notre-Dame du Haut, Ronchamp",
     "designer": "Le Corbusier",
     "year": 1955,
@@ -29254,6 +29430,7 @@ export const ARCHIVE = [
   },
   {
     "id": 734,
+    "imageUrl": "/images/734.jpg",
     "title": "Salk Institute for Biological Studies",
     "designer": "Louis Kahn",
     "year": 1965,
@@ -29295,6 +29472,7 @@ export const ARCHIVE = [
   },
   {
     "id": 735,
+    "imageUrl": "/images/735.jpg",
     "title": "Kimbell Art Museum",
     "designer": "Louis Kahn",
     "year": 1972,
@@ -29336,6 +29514,7 @@ export const ARCHIVE = [
   },
   {
     "id": 736,
+    "imageUrl": "/images/736.jpg",
     "title": "Brion Cemetery",
     "designer": "Carlo Scarpa",
     "year": 1978,
@@ -29377,6 +29556,7 @@ export const ARCHIVE = [
   },
   {
     "id": 737,
+    "imageUrl": "/images/737.jpg",
     "title": "Casa Barragán",
     "designer": "Luis Barragán",
     "year": 1948,
@@ -29418,6 +29598,7 @@ export const ARCHIVE = [
   },
   {
     "id": 738,
+    "imageUrl": "/images/738.jpg",
     "title": "Leça Swimming Pool",
     "designer": "Álvaro Siza",
     "year": 1966,
@@ -29459,6 +29640,7 @@ export const ARCHIVE = [
   },
   {
     "id": 739,
+    "imageUrl": "/images/739.jpg",
     "title": "SESC Pompéia",
     "designer": "Lina Bo Bardi",
     "year": 1986,
@@ -29500,6 +29682,7 @@ export const ARCHIVE = [
   },
   {
     "id": 740,
+    "imageUrl": "/images/740.jpg",
     "title": "Tate Modern",
     "designer": "Herzog & de Meuron",
     "year": 2000,
@@ -29541,6 +29724,7 @@ export const ARCHIVE = [
   },
   {
     "id": 741,
+    "imageUrl": "/images/741.jpg",
     "title": "Seattle Central Library",
     "designer": "OMA / Rem Koolhaas",
     "year": 2004,
@@ -29582,6 +29766,7 @@ export const ARCHIVE = [
   },
   {
     "id": 742,
+    "imageUrl": "/images/742.jpg",
     "title": "Sendai Mediatheque",
     "designer": "Toyo Ito",
     "year": 2001,
@@ -29623,6 +29808,7 @@ export const ARCHIVE = [
   },
   {
     "id": 743,
+    "imageUrl": "/images/743.jpg",
     "title": "Jewish Museum Berlin",
     "designer": "Daniel Libeskind",
     "year": 2001,
@@ -29664,6 +29850,7 @@ export const ARCHIVE = [
   },
   {
     "id": 744,
+    "imageUrl": "/images/744.jpg",
     "title": "Memorial to the Murdered Jews of Europe",
     "designer": "Peter Eisenman",
     "year": 2005,
@@ -29705,6 +29892,7 @@ export const ARCHIVE = [
   },
   {
     "id": 745,
+    "imageUrl": "/images/745.jpg",
     "title": "Bruder Klaus Field Chapel",
     "designer": "Peter Zumthor",
     "year": 2007,
@@ -29746,6 +29934,7 @@ export const ARCHIVE = [
   },
   {
     "id": 746,
+    "imageUrl": "/images/746.jpg",
     "title": "Louvre Abu Dhabi",
     "designer": "Jean Nouvel",
     "year": 2017,
@@ -29787,6 +29976,7 @@ export const ARCHIVE = [
   },
   {
     "id": 747,
+    "imageUrl": "/images/747.jpg",
     "title": "Marika-Alderton House",
     "designer": "Glenn Murcutt",
     "year": 1994,
@@ -29828,6 +30018,7 @@ export const ARCHIVE = [
   },
   {
     "id": 748,
+    "imageUrl": "/images/748.jpg",
     "title": "Ningbo History Museum",
     "designer": "Wang Shu / Amateur Architecture Studio",
     "year": 2008,
@@ -29869,6 +30060,7 @@ export const ARCHIVE = [
   },
   {
     "id": 749,
+    "imageUrl": "/images/749.jpg",
     "title": "National Museum of African American History and Culture",
     "designer": "David Adjaye / Adjaye Associates",
     "year": 2016,
@@ -29910,6 +30102,7 @@ export const ARCHIVE = [
   },
   {
     "id": 750,
+    "imageUrl": "/images/750.jpg",
     "title": "Blur Building",
     "designer": "Diller Scofidio + Renfro",
     "year": 2002,
@@ -29951,6 +30144,7 @@ export const ARCHIVE = [
   },
   {
     "id": 751,
+    "imageUrl": "/images/751.jpg",
     "title": "Teshima Art Museum",
     "designer": "Ryue Nishizawa",
     "year": 2010,
@@ -29992,6 +30186,7 @@ export const ARCHIVE = [
   },
   {
     "id": 752,
+    "imageUrl": "/images/752.jpg",
     "title": "E-1027",
     "designer": "Eileen Gray",
     "year": 1929,
@@ -30033,6 +30228,7 @@ export const ARCHIVE = [
   },
   {
     "id": 753,
+    "imageUrl": "/images/753.jpg",
     "title": "Yokohama International Port Terminal",
     "designer": "Foreign Office Architects (Farshid Moussavi & Alejandro Zaera-Polo)",
     "year": 2002,
@@ -30074,6 +30270,7 @@ export const ARCHIVE = [
   },
   {
     "id": 754,
+    "imageUrl": "/images/754.jpg",
     "title": "Bibliothèque nationale de France",
     "designer": "Dominique Perrault",
     "year": 1995,
@@ -30115,6 +30312,7 @@ export const ARCHIVE = [
   },
   {
     "id": 755,
+    "imageUrl": "/images/755.jpg",
     "title": "Rolex Learning Center",
     "designer": "SANAA (Kazuyo Sejima & Ryue Nishizawa)",
     "year": 2010,
@@ -30156,6 +30354,7 @@ export const ARCHIVE = [
   },
   {
     "id": 756,
+    "imageUrl": "/images/756.jpg",
     "title": "I ♥ NY",
     "designer": "Milton Glaser",
     "year": 1977,
@@ -30197,6 +30396,7 @@ export const ARCHIVE = [
   },
   {
     "id": 757,
+    "imageUrl": "/images/757.jpg",
     "title": "Public Theater Poster",
     "designer": "Paula Scher / Pentagram",
     "year": 1994,
@@ -30238,6 +30438,7 @@ export const ARCHIVE = [
   },
   {
     "id": 758,
+    "imageUrl": "/images/758.jpg",
     "title": "Does It Make Sense?",
     "designer": "April Greiman",
     "year": 1986,
@@ -30279,6 +30480,7 @@ export const ARCHIVE = [
   },
   {
     "id": 759,
+    "imageUrl": "/images/759.jpg",
     "title": "Avant Garde Magazine",
     "designer": "Herb Lubalin",
     "year": 1968,
@@ -30320,6 +30522,7 @@ export const ARCHIVE = [
   },
   {
     "id": 760,
+    "imageUrl": "/images/760.jpg",
     "title": "Typographische Monatsblätter Cover",
     "designer": "Wolfgang Weingart",
     "year": 1972,
@@ -30361,6 +30564,7 @@ export const ARCHIVE = [
   },
   {
     "id": 761,
+    "imageUrl": "/images/761.jpg",
     "title": "Emigre Magazine",
     "designer": "Rudy VanderLans & Zuzana Licko",
     "year": 1984,
@@ -30402,6 +30606,7 @@ export const ARCHIVE = [
   },
   {
     "id": 762,
+    "imageUrl": "/images/762.jpg",
     "title": "Colors Magazine",
     "designer": "Tibor Kalman / Oliviero Toscani",
     "year": 1991,
@@ -30443,6 +30648,7 @@ export const ARCHIVE = [
   },
   {
     "id": 763,
+    "imageUrl": "/images/763.jpg",
     "title": "Musica Viva Concert Poster",
     "designer": "Josef Müller-Brockmann",
     "year": 1959,
@@ -30484,6 +30690,7 @@ export const ARCHIVE = [
   },
   {
     "id": 764,
+    "imageUrl": "/images/764.jpg",
     "title": "Having Reached a Climax at the Age of 29, I Was Dead",
     "designer": "Tadanori Yokoo",
     "year": 1965,
@@ -30525,6 +30732,7 @@ export const ARCHIVE = [
   },
   {
     "id": 765,
+    "imageUrl": "/images/765.jpg",
     "title": "Beat the Whites with the Red Wedge",
     "designer": "El Lissitzky",
     "year": 1919,
@@ -30566,6 +30774,7 @@ export const ARCHIVE = [
   },
   {
     "id": 766,
+    "imageUrl": "/images/766.jpg",
     "title": "Nihon Buyo Poster",
     "designer": "Ikko Tanaka",
     "year": 1981,
@@ -30607,6 +30816,7 @@ export const ARCHIVE = [
   },
   {
     "id": 767,
+    "imageUrl": "/images/767.jpg",
     "title": "V&A Logo",
     "designer": "Alan Fletcher",
     "year": 1989,
@@ -30648,6 +30858,7 @@ export const ARCHIVE = [
   },
   {
     "id": 768,
+    "imageUrl": "/images/768.jpg",
     "title": "Information Landscapes",
     "designer": "Muriel Cooper",
     "year": 1994,
@@ -30689,6 +30900,7 @@ export const ARCHIVE = [
   },
   {
     "id": 769,
+    "imageUrl": "/images/769.jpg",
     "title": "Isotype Pictograms",
     "designer": "Gerd Arntz / Otto Neurath",
     "year": 1928,
@@ -30730,6 +30942,7 @@ export const ARCHIVE = [
   },
   {
     "id": 770,
+    "imageUrl": "/images/770.jpg",
     "title": "4AD Record Sleeves",
     "designer": "Vaughan Oliver / v23",
     "year": 1983,
@@ -30771,6 +30984,7 @@ export const ARCHIVE = [
   },
   {
     "id": 771,
+    "imageUrl": "/images/771.jpg",
     "title": "Corita Kent Serigraph",
     "designer": "Corita Kent (Sister Mary Corita)",
     "year": 1965,
@@ -30812,6 +31026,7 @@ export const ARCHIVE = [
   },
   {
     "id": 772,
+    "imageUrl": "/images/772.jpg",
     "title": "Du Bois Data Visualisations",
     "designer": "W.E.B. Du Bois",
     "year": 1900,
@@ -30853,6 +31068,7 @@ export const ARCHIVE = [
   },
   {
     "id": 773,
+    "imageUrl": "/images/773.jpg",
     "title": "Karel Martens Printed Matter",
     "designer": "Karel Martens",
     "year": 1990,
@@ -30894,6 +31110,7 @@ export const ARCHIVE = [
   },
   {
     "id": 774,
+    "imageUrl": "/images/774.jpg",
     "title": "FF Meta",
     "designer": "Erik Spiekermann",
     "year": 1991,
@@ -30935,6 +31152,7 @@ export const ARCHIVE = [
   },
   {
     "id": 775,
+    "imageUrl": "/images/775.jpg",
     "title": "Futura",
     "designer": "Paul Renner",
     "year": 1927,
@@ -30976,6 +31194,7 @@ export const ARCHIVE = [
   },
   {
     "id": 776,
+    "imageUrl": "/images/776.jpg",
     "title": "Georgia",
     "designer": "Matthew Carter",
     "year": 1993,
@@ -31017,6 +31236,7 @@ export const ARCHIVE = [
   },
   {
     "id": 777,
+    "imageUrl": "/images/777.jpg",
     "title": "Frutiger Typeface",
     "designer": "Adrian Frutiger",
     "year": 1975,
@@ -31058,6 +31278,7 @@ export const ARCHIVE = [
   },
   {
     "id": 778,
+    "imageUrl": "/images/778.jpg",
     "title": "Tizio Desk Lamp",
     "designer": "Richard Sapper",
     "year": 1972,
@@ -31099,6 +31320,7 @@ export const ARCHIVE = [
   },
   {
     "id": 779,
+    "imageUrl": "/images/779.jpg",
     "title": "Toio Floor Lamp",
     "designer": "Achille & Pier Giacomo Castiglioni",
     "year": 1962,
@@ -31140,6 +31362,7 @@ export const ARCHIVE = [
   },
   {
     "id": 780,
+    "imageUrl": "/images/780.jpg",
     "title": "David Mellor Traffic Light",
     "designer": "David Mellor",
     "year": 1965,
@@ -31181,6 +31404,7 @@ export const ARCHIVE = [
   },
   {
     "id": 781,
+    "imageUrl": "/images/781.jpg",
     "title": "Pride Cutlery",
     "designer": "David Mellor",
     "year": 1953,
@@ -31222,6 +31446,7 @@ export const ARCHIVE = [
   },
   {
     "id": 782,
+    "imageUrl": "/images/782.jpg",
     "title": "Asymmetric Vessel",
     "designer": "Magdalene Odundo",
     "year": 1995,
@@ -31263,6 +31488,7 @@ export const ARCHIVE = [
   },
   {
     "id": 783,
+    "imageUrl": "/images/783.jpg",
     "title": "Etruscan Chair",
     "designer": "Danny Lane",
     "year": 1986,
@@ -31304,6 +31530,7 @@ export const ARCHIVE = [
   },
   {
     "id": 784,
+    "imageUrl": "/images/784.jpg",
     "title": "Jellyfish Fabric",
     "designer": "Reiko Sudo / NUNO Corporation",
     "year": 1993,
@@ -31345,6 +31572,7 @@ export const ARCHIVE = [
   },
   {
     "id": 785,
+    "imageUrl": "/images/785.jpg",
     "title": "Kinshasa Ville",
     "designer": "Bodys Isek Kingelez",
     "year": 1989,
@@ -31386,6 +31614,7 @@ export const ARCHIVE = [
   },
   {
     "id": 786,
+    "imageUrl": "/images/786.jpg",
     "title": "Moon Jar",
     "designer": "Unknown Korean potter",
     "year": 1700,
@@ -31427,6 +31656,7 @@ export const ARCHIVE = [
   },
   {
     "id": 787,
+    "imageUrl": "/images/787.jpg",
     "title": "Pillow Pitcher",
     "designer": "Betty Woodman",
     "year": 1988,
@@ -31468,6 +31698,7 @@ export const ARCHIVE = [
   },
   {
     "id": 788,
+    "imageUrl": "/images/788.jpg",
     "title": "Seaform Series",
     "designer": "Dale Chihuly",
     "year": 1980,
@@ -31509,6 +31740,7 @@ export const ARCHIVE = [
   },
   {
     "id": 789,
+    "imageUrl": "/images/789.jpg",
     "title": "Raised Silver Vessel",
     "designer": "Hiroshi Suzuki",
     "year": 2005,
@@ -31550,6 +31782,7 @@ export const ARCHIVE = [
   },
   {
     "id": 790,
+    "imageUrl": "/images/790.jpg",
     "title": "Macrogauze Textile",
     "designer": "Peter Collingwood",
     "year": 1965,
@@ -31591,6 +31824,7 @@ export const ARCHIVE = [
   },
   {
     "id": 791,
+    "imageUrl": "/images/791.jpg",
     "title": "Butaque Chair",
     "designer": "Clara Porset",
     "year": 1957,
@@ -31632,6 +31866,7 @@ export const ARCHIVE = [
   },
   {
     "id": 792,
+    "imageUrl": "/images/792.jpg",
     "title": "Mole Armchair",
     "designer": "Sergio Rodrigues",
     "year": 1957,
@@ -31673,6 +31908,7 @@ export const ARCHIVE = [
   },
   {
     "id": 793,
+    "imageUrl": "/images/793.jpg",
     "title": "Disarm (Mechanical Orchestra)",
     "designer": "Pedro Reyes",
     "year": 2013,
@@ -31714,6 +31950,7 @@ export const ARCHIVE = [
   },
   {
     "id": 794,
+    "imageUrl": "/images/794.jpg",
     "title": "Water Block",
     "designer": "Tokujin Yoshioka",
     "year": 2002,
@@ -31755,6 +31992,7 @@ export const ARCHIVE = [
   },
   {
     "id": 795,
+    "imageUrl": "/images/795.jpg",
     "title": "Horse Lamp",
     "designer": "Front Design",
     "year": 2006,
@@ -31796,6 +32034,7 @@ export const ARCHIVE = [
   },
   {
     "id": 796,
+    "imageUrl": "/images/796.jpg",
     "title": "Tykho Radio",
     "designer": "Marc Berthier",
     "year": 1999,
@@ -31837,6 +32076,7 @@ export const ARCHIVE = [
   },
   {
     "id": 797,
+    "imageUrl": "/images/797.jpg",
     "title": "Palmyra House",
     "designer": "Bijoy Jain / Studio Mumbai",
     "year": 2007,
@@ -31878,6 +32118,7 @@ export const ARCHIVE = [
   },
   {
     "id": 798,
+    "imageUrl": "/images/798.jpg",
     "title": "Junichi Arai Melted-Off Textile",
     "designer": "Junichi Arai",
     "year": 1987,
@@ -31919,6 +32160,7 @@ export const ARCHIVE = [
   },
   {
     "id": 799,
+    "imageUrl": "/images/799.jpg",
     "title": "Chihuly Garden Installation",
     "designer": "Dale Chihuly",
     "year": 2001,
@@ -31960,6 +32202,7 @@ export const ARCHIVE = [
   },
   {
     "id": 800,
+    "imageUrl": "/images/800.jpg",
     "title": "Waterfall Dress",
     "designer": "Issey Miyake",
     "year": 1984,
@@ -32001,6 +32244,7 @@ export const ARCHIVE = [
   },
   {
     "id": 801,
+    "imageUrl": "/images/801.jpg",
     "title": "Total Furnishing Unit",
     "designer": "Joe Colombo",
     "year": 1971,
@@ -32042,6 +32286,7 @@ export const ARCHIVE = [
   },
   {
     "id": 802,
+    "imageUrl": "/images/802.jpg",
     "title": "Stag Bench",
     "designer": "Rick Owens",
     "year": 2006,
@@ -32083,6 +32328,7 @@ export const ARCHIVE = [
   },
   {
     "id": 803,
+    "imageUrl": "/images/803.jpg",
     "title": "Neri&Hu Rong Design Library",
     "designer": "Neri&Hu Design Research Office",
     "year": 2016,
@@ -32124,6 +32370,7 @@ export const ARCHIVE = [
   },
   {
     "id": 804,
+    "imageUrl": "/images/804.jpg",
     "title": "Tolomeo Desk Lamp",
     "designer": "Michele de Lucchi & Giancarlo Fassina",
     "year": 1987,
@@ -32165,6 +32412,7 @@ export const ARCHIVE = [
   },
   {
     "id": 805,
+    "imageUrl": "/images/805.jpg",
     "title": "Alta Lounge Chair",
     "designer": "Oscar Niemeyer & Anna Maria Niemeyer",
     "year": 1971,
@@ -32206,6 +32454,7 @@ export const ARCHIVE = [
   },
   {
     "id": 806,
+    "imageUrl": "/images/806.jpg",
     "title": "Cheick Diallo Sansa Chair",
     "designer": "Cheick Diallo",
     "year": 2002,
@@ -32247,6 +32496,7 @@ export const ARCHIVE = [
   },
   {
     "id": 807,
+    "imageUrl": "/images/807.jpg",
     "title": "Can City",
     "designer": "Studio Swine (Azusa Murakami & Alexander Groves)",
     "year": 2013,
@@ -32288,6 +32538,7 @@ export const ARCHIVE = [
   },
   {
     "id": 808,
+    "imageUrl": "/images/808.jpg",
     "title": "Algae Chandelier",
     "designer": "Julian Melchiorri",
     "year": 2017,
@@ -32329,6 +32580,7 @@ export const ARCHIVE = [
   },
   {
     "id": 809,
+    "imageUrl": "/images/809.jpg",
     "title": "Gravity Stool",
     "designer": "Jólan van der Wiel",
     "year": 2011,
@@ -32370,6 +32622,7 @@ export const ARCHIVE = [
   },
   {
     "id": 810,
+    "imageUrl": "/images/810.jpg",
     "title": "Gradient Chair",
     "designer": "Joris Laarman",
     "year": 2014,
@@ -32411,6 +32664,7 @@ export const ARCHIVE = [
   },
   {
     "id": 811,
+    "imageUrl": "/images/811.jpg",
     "title": "Measuring the Universe",
     "designer": "Roman Ondák",
     "year": 2007,
@@ -32452,6 +32706,7 @@ export const ARCHIVE = [
   },
   {
     "id": 812,
+    "imageUrl": "/images/812.jpg",
     "title": "Superkilen",
     "designer": "BIG + Topotek 1 + Superflex",
     "year": 2012,
@@ -32493,6 +32748,7 @@ export const ARCHIVE = [
   },
   {
     "id": 813,
+    "imageUrl": "/images/813.jpg",
     "title": "Weather Project",
     "designer": "Olafur Eliasson",
     "year": 2003,
@@ -32534,6 +32790,7 @@ export const ARCHIVE = [
   },
   {
     "id": 814,
+    "imageUrl": "/images/814.jpg",
     "title": "Garden Chair",
     "designer": "Jasper Morrison",
     "year": 1999,
@@ -32575,6 +32832,7 @@ export const ARCHIVE = [
   },
   {
     "id": 815,
+    "imageUrl": "/images/815.jpg",
     "title": "Mushroom Mycelium Material",
     "designer": "Ecovative Design",
     "year": 2011,
@@ -32616,6 +32874,7 @@ export const ARCHIVE = [
   },
   {
     "id": 816,
+    "imageUrl": "/images/816.jpg",
     "title": "Newspaper Wood",
     "designer": "Mieke Meijer / Vij5",
     "year": 2011,
@@ -32657,6 +32916,7 @@ export const ARCHIVE = [
   },
   {
     "id": 817,
+    "imageUrl": "/images/817.jpg",
     "title": "Noam Dover & Michal Cederbaum Universal Typeface",
     "designer": "Noam Dover & Michal Cederbaum (BIC)",
     "year": 2014,
@@ -32698,6 +32958,7 @@ export const ARCHIVE = [
   },
   {
     "id": 818,
+    "imageUrl": "/images/818.jpg",
     "title": "Chair Farm",
     "designer": "Werner Aisslinger",
     "year": 2012,
@@ -32739,6 +33000,7 @@ export const ARCHIVE = [
   },
   {
     "id": 819,
+    "imageUrl": "/images/819.jpg",
     "title": "Slow Chair",
     "designer": "Ronan & Erwan Bouroullec",
     "year": 2007,
@@ -32780,6 +33042,7 @@ export const ARCHIVE = [
   },
   {
     "id": 820,
+    "imageUrl": "/images/820.jpg",
     "title": "Barber Osgerby Olympic Torch",
     "designer": "Edward Barber & Jay Osgerby",
     "year": 2012,
@@ -32821,6 +33084,7 @@ export const ARCHIVE = [
   },
   {
     "id": 821,
+    "imageUrl": "/images/821.jpg",
     "title": "Granby Workshop Tile",
     "designer": "Assemble",
     "year": 2015,
@@ -32862,6 +33126,7 @@ export const ARCHIVE = [
   },
   {
     "id": 822,
+    "imageUrl": "/images/822.jpg",
     "title": "Haas Brothers Accretion Vase",
     "designer": "Nikolai & Simon Haas",
     "year": 2014,
@@ -32903,6 +33168,7 @@ export const ARCHIVE = [
   },
   {
     "id": 823,
+    "imageUrl": "/images/823.jpg",
     "title": "IKEA PS ELLAN Chair",
     "designer": "Chris Martin",
     "year": 2006,
@@ -32944,6 +33210,7 @@ export const ARCHIVE = [
   },
   {
     "id": 824,
+    "imageUrl": "/images/824.jpg",
     "title": "Afrofuturism in Design Collection",
     "designer": "Various (Ron Eglash, Nontsikelelo Mutiti, Olalekan Jeyifous)",
     "year": 2020,
@@ -32985,6 +33252,7 @@ export const ARCHIVE = [
   },
   {
     "id": 825,
+    "imageUrl": "/images/825.jpg",
     "title": "Faye Toogood Element Table",
     "designer": "Faye Toogood",
     "year": 2020,
@@ -33026,6 +33294,7 @@ export const ARCHIVE = [
   },
   {
     "id": 826,
+    "imageUrl": "/images/826.jpg",
     "title": "Thomas Heatherwick Seed Cathedral",
     "designer": "Thomas Heatherwick",
     "year": 2010,
@@ -33108,6 +33377,7 @@ export const ARCHIVE = [
   },
   {
     "id": 828,
+    "imageUrl": "/images/828.jpg",
     "title": "ThinIce Climate Vest",
     "designer": "Superflux (Anab Jain & Jon Ardern)",
     "year": 2019,
@@ -33149,6 +33419,7 @@ export const ARCHIVE = [
   },
   {
     "id": 829,
+    "imageUrl": "/images/829.jpg",
     "title": "W.E.B. Du Bois Spiral Chart",
     "designer": "W.E.B. Du Bois",
     "year": 1900,
@@ -33190,6 +33461,7 @@ export const ARCHIVE = [
   },
   {
     "id": 830,
+    "imageUrl": "/images/830.jpg",
     "title": "Thonet No. 14 Chair",
     "designer": "Michael Thonet",
     "year": 1859,
@@ -33231,6 +33503,7 @@ export const ARCHIVE = [
   },
   {
     "id": 831,
+    "imageUrl": "/images/831.jpg",
     "title": "Leach Standard Ware Jug",
     "designer": "Bernard Leach",
     "year": 1930,
@@ -33272,6 +33545,7 @@ export const ARCHIVE = [
   },
   {
     "id": 832,
+    "imageUrl": "/images/832.jpg",
     "title": "Lucie Rie Bowl",
     "designer": "Lucie Rie",
     "year": 1978,
@@ -33313,6 +33587,7 @@ export const ARCHIVE = [
   },
   {
     "id": 833,
+    "imageUrl": "/images/833.jpg",
     "title": "Shoji Hamada Square Bottle",
     "designer": "Shoji Hamada",
     "year": 1960,
@@ -33354,6 +33629,7 @@ export const ARCHIVE = [
   },
   {
     "id": 834,
+    "imageUrl": "/images/834.jpg",
     "title": "Sunflower Seeds",
     "designer": "Ai Weiwei",
     "year": 2010,
@@ -33395,6 +33671,7 @@ export const ARCHIVE = [
   },
   {
     "id": 835,
+    "imageUrl": "/images/835.jpg",
     "title": "Thrown Vessel",
     "designer": "Edmund de Waal",
     "year": 2005,
@@ -33436,6 +33713,7 @@ export const ARCHIVE = [
   },
   {
     "id": 836,
+    "imageUrl": "/images/836.jpg",
     "title": "Raku Tea Bowl",
     "designer": "Chōjirō (attributed)",
     "year": 1580,
@@ -33477,6 +33755,7 @@ export const ARCHIVE = [
   },
   {
     "id": 837,
+    "imageUrl": "/images/837.jpg",
     "title": "René Lalique Vase",
     "designer": "René Lalique",
     "year": 1924,
@@ -33518,6 +33797,7 @@ export const ARCHIVE = [
   },
   {
     "id": 838,
+    "imageUrl": "/images/838.jpg",
     "title": "Lino Tagliapietra Dinosaur",
     "designer": "Lino Tagliapietra",
     "year": 1998,
@@ -33559,6 +33839,7 @@ export const ARCHIVE = [
   },
   {
     "id": 840,
+    "imageUrl": "/images/840.jpg",
     "title": "Georg Jensen Pitcher 1017",
     "designer": "Henning Koppel",
     "year": 1948,
@@ -33600,6 +33881,7 @@ export const ARCHIVE = [
   },
   {
     "id": 841,
+    "imageUrl": "/images/841.jpg",
     "title": "Wendy Ramshaw Rings",
     "designer": "Wendy Ramshaw",
     "year": 1972,
@@ -33641,6 +33923,7 @@ export const ARCHIVE = [
   },
   {
     "id": 842,
+    "imageUrl": "/images/842.jpg",
     "title": "Christopher Dresser Toast Rack",
     "designer": "Christopher Dresser",
     "year": 1881,
@@ -33682,6 +33965,7 @@ export const ARCHIVE = [
   },
   {
     "id": 843,
+    "imageUrl": "/images/843.jpg",
     "title": "Persian Carpet",
     "designer": "Unknown weaver",
     "year": 1550,
@@ -33723,6 +34007,7 @@ export const ARCHIVE = [
   },
   {
     "id": 844,
+    "imageUrl": "/images/844.jpg",
     "title": "Kente Cloth",
     "designer": "Ashanti/Ewe weavers",
     "year": 1800,
@@ -33764,6 +34049,7 @@ export const ARCHIVE = [
   },
   {
     "id": 845,
+    "imageUrl": "/images/845.jpg",
     "title": "Tube Chair",
     "designer": "Joe Colombo",
     "year": 1969,
@@ -33805,6 +34091,7 @@ export const ARCHIVE = [
   },
   {
     "id": 846,
+    "imageUrl": "/images/846.jpg",
     "title": "Citroën DS",
     "designer": "Flaminio Bertoni & André Lefèbvre",
     "year": 1955,
@@ -33846,6 +34133,7 @@ export const ARCHIVE = [
   },
   {
     "id": 847,
+    "imageUrl": "/images/847.jpg",
     "title": "London AEC Routemaster Bus",
     "designer": "Douglas Scott / London Transport",
     "year": 1956,
@@ -33887,6 +34175,7 @@ export const ARCHIVE = [
   },
   {
     "id": 848,
+    "imageUrl": "/images/848.jpg",
     "title": "Vespa 125",
     "designer": "Corradino D'Ascanio",
     "year": 1946,
@@ -33928,6 +34217,7 @@ export const ARCHIVE = [
   },
   {
     "id": 849,
+    "imageUrl": "/images/849.jpg",
     "title": "Concorde Nose Section",
     "designer": "Sud Aviation / British Aircraft Corporation",
     "year": 1969,
@@ -33969,6 +34259,7 @@ export const ARCHIVE = [
   },
   {
     "id": 850,
+    "imageUrl": "/images/850.jpg",
     "title": "Piaggio Ape",
     "designer": "Corradino D'Ascanio",
     "year": 1948,
@@ -34010,6 +34301,7 @@ export const ARCHIVE = [
   },
   {
     "id": 851,
+    "imageUrl": "/images/851.jpg",
     "title": "PH Snowball Pendant",
     "designer": "Poul Henningsen",
     "year": 1958,
@@ -34051,6 +34343,7 @@ export const ARCHIVE = [
   },
   {
     "id": 852,
+    "imageUrl": "/images/852.jpg",
     "title": "Artek Pendant A330S",
     "designer": "Alvar Aalto",
     "year": 1954,
@@ -34092,6 +34385,7 @@ export const ARCHIVE = [
   },
   {
     "id": 853,
+    "imageUrl": "/images/853.jpg",
     "title": "Akari 1A Table Lamp",
     "designer": "Isamu Noguchi",
     "year": 1951,
@@ -34174,6 +34468,7 @@ export const ARCHIVE = [
   },
   {
     "id": 855,
+    "imageUrl": "/images/855.jpg",
     "title": "Wilhelm Wagenfeld WG 24 Table Lamp",
     "designer": "Wilhelm Wagenfeld",
     "year": 1924,
@@ -34215,6 +34510,7 @@ export const ARCHIVE = [
   },
   {
     "id": 906,
+    "imageUrl": "/images/906.jpg",
     "title": "Material Design",
     "designer": "Matias Duarte / Google Design",
     "year": 2014,
@@ -34308,6 +34604,7 @@ export const ARCHIVE = [
   },
   {
     "id": 908,
+    "imageUrl": "/images/908.jpg",
     "title": "Inter",
     "designer": "Rasmus Andersson",
     "year": 2017,
@@ -34355,6 +34652,7 @@ export const ARCHIVE = [
   },
   {
     "id": 909,
+    "imageUrl": "/images/909.jpg",
     "title": "WikiHouse",
     "designer": "Alastair Parvin / WikiHouse Foundation",
     "year": 2011,
@@ -34401,6 +34699,7 @@ export const ARCHIVE = [
   },
   {
     "id": 910,
+    "imageUrl": "/images/910.jpg",
     "title": "Forensic Architecture: Triple-Chaser",
     "designer": "Forensic Architecture / Eyal Weizman",
     "year": 2019,
@@ -34447,6 +34746,7 @@ export const ARCHIVE = [
   },
   {
     "id": 911,
+    "imageUrl": "/images/911.jpg",
     "title": "Ocean Sole Flip-Flop Sculptures",
     "designer": "Julie Church / Ocean Sole",
     "year": 1999,
@@ -34494,6 +34794,7 @@ export const ARCHIVE = [
   },
   {
     "id": 912,
+    "imageUrl": "/images/912.jpg",
     "title": "Unsupervised — Machine Hallucinations — MoMA",
     "designer": "Refik Anadol",
     "year": 2022,
@@ -34541,6 +34842,7 @@ export const ARCHIVE = [
   },
   {
     "id": 913,
+    "imageUrl": "/images/913.jpg",
     "title": "MSCHF Satan Shoes",
     "designer": "MSCHF & Lil Nas X",
     "year": 2021,
@@ -34588,6 +34890,7 @@ export const ARCHIVE = [
   },
   {
     "id": 914,
+    "imageUrl": "/images/914.jpg",
     "title": "Animal: The Other Side of Evolution",
     "designer": "Ana Rajcevic",
     "year": 2012,
@@ -34630,6 +34933,7 @@ export const ARCHIVE = [
   },
   {
     "id": 915,
+    "imageUrl": "/images/915.jpg",
     "title": "Moirai Chandelier",
     "designer": "Ini Archibong",
     "year": 2018,
@@ -34676,6 +34980,7 @@ export const ARCHIVE = [
   },
   {
     "id": 916,
+    "imageUrl": "/images/916.jpg",
     "title": "Apple Human Interface Guidelines for iOS 7",
     "designer": "Jony Ive / Apple Human Interface Team",
     "year": 2013,
@@ -34723,6 +35028,7 @@ export const ARCHIVE = [
   },
   {
     "id": 917,
+    "imageUrl": "/images/917.jpg",
     "title": "Figma",
     "designer": "Dylan Field, Evan Wallace",
     "year": 2016,
@@ -34770,6 +35076,7 @@ export const ARCHIVE = [
   },
   {
     "id": 918,
+    "imageUrl": "/images/918.jpg",
     "title": "Precious Plastic",
     "designer": "Dave Hakkens",
     "year": 2013,
@@ -34817,6 +35124,7 @@ export const ARCHIVE = [
   },
   {
     "id": 919,
+    "imageUrl": "/images/919.jpg",
     "title": "Mycelium Brick (Hy-Fi Tower)",
     "designer": "David Benjamin / The Living",
     "year": 2014,
@@ -34864,6 +35172,7 @@ export const ARCHIVE = [
   },
   {
     "id": 920,
+    "imageUrl": "/images/920.jpg",
     "title": "Source Sans Pro",
     "designer": "Paul D. Hunt / Adobe",
     "year": 2012,
@@ -34911,6 +35220,7 @@ export const ARCHIVE = [
   },
   {
     "id": 921,
+    "imageUrl": "/images/921.jpg",
     "title": "Plastex / Grammy's Chair",
     "designer": "Hend Riad and Mariam Hazem / Reform Studio",
     "year": 2016,
@@ -34958,6 +35268,7 @@ export const ARCHIVE = [
   },
   {
     "id": 922,
+    "imageUrl": "/images/922.jpg",
     "title": "iThongo (Ancestral Dreamscape) Vessels",
     "designer": "Andile Dyalvane",
     "year": 2020,
@@ -35005,6 +35316,7 @@ export const ARCHIVE = [
   },
   {
     "id": 923,
+    "imageUrl": "/images/923.jpg",
     "title": "Entrevero Collection",
     "designer": "Cristián Mohaded",
     "year": 2018,
@@ -35052,6 +35364,7 @@ export const ARCHIVE = [
   },
   {
     "id": 924,
+    "imageUrl": "/images/924.jpg",
     "title": "Taboo Collection",
     "designer": "Bibi Seck / Birsel + Seck",
     "year": 2011,
@@ -35099,6 +35412,7 @@ export const ARCHIVE = [
   },
   {
     "id": 925,
+    "imageUrl": "/images/925.jpg",
     "title": "The New Aesthetic Tumblr",
     "designer": "James Bridle",
     "year": 2011,
@@ -35146,6 +35460,7 @@ export const ARCHIVE = [
   },
   {
     "id": 926,
+    "imageUrl": "/images/926.jpg",
     "title": "Mitigation of Shock",
     "designer": "Superflux (Anab Jain and Jon Ardern)",
     "year": 2017,
@@ -35240,6 +35555,7 @@ export const ARCHIVE = [
   },
   {
     "id": 928,
+    "imageUrl": "/images/928.jpg",
     "title": "Totomoxtle",
     "designer": "Fernando Laposse",
     "year": 2017,
@@ -35287,6 +35603,7 @@ export const ARCHIVE = [
   },
   {
     "id": 929,
+    "imageUrl": "/images/929.jpg",
     "title": "Ukhamba Vessels",
     "designer": "Zizipho Poswa / Southern Guild",
     "year": 2019,
@@ -35334,6 +35651,7 @@ export const ARCHIVE = [
   },
   {
     "id": 930,
+    "imageUrl": "/images/930.jpg",
     "title": "BabyPod 20",
     "designer": "Advanced Healthcare Technology & Williams Advanced Engineering",
     "year": 2017,
@@ -35376,6 +35694,7 @@ export const ARCHIVE = [
   },
   {
     "id": 931,
+    "imageUrl": "/images/931.jpg",
     "title": "Dazzle Ship",
     "designer": "Carlos Cruz-Diez",
     "year": 2014,
@@ -35423,6 +35742,7 @@ export const ARCHIVE = [
   },
   {
     "id": 932,
+    "imageUrl": "/images/932.jpg",
     "title": "Recursive Sans & Mono",
     "designer": "Stephen Nixon / Arrow Type",
     "year": 2020,
@@ -35470,6 +35790,7 @@ export const ARCHIVE = [
   },
   {
     "id": 933,
+    "imageUrl": "/images/933.jpg",
     "title": "Algae Bioplastic Bottle",
     "designer": "Ari Jónsson",
     "year": 2016,
@@ -35517,6 +35838,7 @@ export const ARCHIVE = [
   },
   {
     "id": 935,
+    "imageUrl": "/images/935.jpg",
     "title": "Non-Extractive Architecture",
     "designer": "Space Caviar (Joseph Grima)",
     "year": 2021,
@@ -35564,6 +35886,7 @@ export const ARCHIVE = [
   },
   {
     "id": 936,
+    "imageUrl": "/images/936.jpg",
     "title": "Iznik Mosque Lamp",
     "designer": "Unknown (Iznik workshop)",
     "year": 1557,
@@ -35605,6 +35928,7 @@ export const ARCHIVE = [
   },
   {
     "id": 937,
+    "imageUrl": "/images/937.jpg",
     "title": "Kashan Lustre Bowl",
     "designer": "Unknown (Kashan workshop)",
     "year": 1200,
@@ -35646,6 +35970,7 @@ export const ARCHIVE = [
   },
   {
     "id": 938,
+    "imageUrl": "/images/938.jpg",
     "title": "Zsolnay Eosin Vase",
     "designer": "Zsolnay Porcelain Manufactory",
     "year": 1900,
@@ -35687,6 +36012,7 @@ export const ARCHIVE = [
   },
   {
     "id": 939,
+    "imageUrl": "/images/939.jpg",
     "title": "Wedgwood Portland Vase (Jasperware copy)",
     "designer": "Josiah Wedgwood I",
     "year": 1790,
@@ -35728,6 +36054,7 @@ export const ARCHIVE = [
   },
   {
     "id": 940,
+    "imageUrl": "/images/940.jpg",
     "title": "Meissen Harlequin Figure",
     "designer": "Johann Joachim Kändler",
     "year": 1740,
@@ -35769,6 +36096,7 @@ export const ARCHIVE = [
   },
   {
     "id": 941,
+    "imageUrl": "/images/941.jpg",
     "title": "Sèvres Vase Hollandais",
     "designer": "Sèvres Manufactory",
     "year": 1761,
@@ -35810,6 +36138,7 @@ export const ARCHIVE = [
   },
   {
     "id": 942,
+    "imageUrl": "/images/942.jpg",
     "title": "Ogata Kenzan Dish (Morning Glory)",
     "designer": "Ogata Kenzan",
     "year": 1720,
@@ -35851,6 +36180,7 @@ export const ARCHIVE = [
   },
   {
     "id": 943,
+    "imageUrl": "/images/943.jpg",
     "title": "Buncheong Flask with Peonies",
     "designer": "Unknown (Jeolla Province kiln)",
     "year": 1450,
@@ -35892,6 +36222,7 @@ export const ARCHIVE = [
   },
   {
     "id": 944,
+    "imageUrl": "/images/944.jpg",
     "title": "Theaster Gates Voulkos #1",
     "designer": "Theaster Gates",
     "year": 2021,
@@ -35933,6 +36264,7 @@ export const ARCHIVE = [
   },
   {
     "id": 945,
+    "imageUrl": "/images/945.jpg",
     "title": "Phoebe Cummings Production Line",
     "designer": "Phoebe Cummings",
     "year": 2015,
@@ -35974,6 +36306,7 @@ export const ARCHIVE = [
   },
   {
     "id": 946,
+    "imageUrl": "/images/946.jpg",
     "title": "Raku XV Tea Bowl (Joka)",
     "designer": "Raku Kichizaemon XV",
     "year": 1993,
@@ -36015,6 +36348,7 @@ export const ARCHIVE = [
   },
   {
     "id": 947,
+    "imageUrl": "/images/947.jpg",
     "title": "Libenský/Brychtová Through the Cone",
     "designer": "Stanislav Libenský & Jaroslava Brychtová",
     "year": 1995,
@@ -36056,6 +36390,7 @@ export const ARCHIVE = [
   },
   {
     "id": 948,
+    "imageUrl": "/images/948.jpg",
     "title": "Bouke de Vries Memory Vessel",
     "designer": "Bouke de Vries",
     "year": 2020,
@@ -36097,6 +36432,7 @@ export const ARCHIVE = [
   },
   {
     "id": 949,
+    "imageUrl": "/images/949.jpg",
     "title": "René Roubíček Spatial Composition",
     "designer": "René Roubíček",
     "year": 1958,
@@ -36138,6 +36474,7 @@ export const ARCHIVE = [
   },
   {
     "id": 950,
+    "imageUrl": "/images/950.jpg",
     "title": "Theaster Gates Vessel #12",
     "designer": "Theaster Gates",
     "year": 2020,
@@ -36179,6 +36516,7 @@ export const ARCHIVE = [
   },
   {
     "id": 951,
+    "imageUrl": "/images/951.jpg",
     "title": "Ladislav Sutnar Teapot",
     "designer": "Ladislav Sutnar",
     "year": 1931,
@@ -36220,6 +36558,7 @@ export const ARCHIVE = [
   },
   {
     "id": 952,
+    "imageUrl": "/images/952.jpg",
     "title": "Pavel Hlava Bohemian Glass Sculpture",
     "designer": "Pavel Hlava",
     "year": 1960,
@@ -36261,6 +36600,7 @@ export const ARCHIVE = [
   },
   {
     "id": 953,
+    "imageUrl": "/images/953.jpg",
     "title": "František Vízner Glass Bowl",
     "designer": "František Vízner",
     "year": 1972,
@@ -36302,6 +36642,7 @@ export const ARCHIVE = [
   },
   {
     "id": 954,
+    "imageUrl": "/images/954.jpg",
     "title": "Václav Cigler Optical Glass Sculpture",
     "designer": "Václav Cigler",
     "year": 1966,
@@ -36343,6 +36684,7 @@ export const ARCHIVE = [
   },
   {
     "id": 955,
+    "imageUrl": "/images/955.jpg",
     "title": "Bořek Šípek Odette Fruit Bowl",
     "designer": "Bořek Šípek",
     "year": 1985,
@@ -36384,6 +36726,7 @@ export const ARCHIVE = [
   },
   {
     "id": 956,
+    "imageUrl": "/images/956.jpg",
     "title": "Bořek Šípek Prague Castle Chandelier",
     "designer": "Bořek Šípek",
     "year": 1992,
@@ -36425,6 +36768,7 @@ export const ARCHIVE = [
   },
   {
     "id": 957,
+    "imageUrl": "/images/957.jpg",
     "title": "Libuše Niklová Tomcat Accordion Toy",
     "designer": "Libuše Niklová",
     "year": 1963,
@@ -36466,6 +36810,7 @@ export const ARCHIVE = [
   },
   {
     "id": 958,
+    "imageUrl": "/images/958.jpg",
     "title": "Oskar Zieta Plopp Stool",
     "designer": "Oskar Zieta",
     "year": 2008,
@@ -36507,6 +36852,7 @@ export const ARCHIVE = [
   },
   {
     "id": 959,
+    "imageUrl": "/images/959.jpg",
     "title": "Roman Modzelewski RM58",
     "designer": "Roman Modzelewski",
     "year": 1959,
@@ -36589,6 +36935,7 @@ export const ARCHIVE = [
   },
   {
     "id": 961,
+    "imageUrl": "/images/961.jpg",
     "title": "Hanna Lachert Muszla Chair",
     "designer": "Hanna Lachert",
     "year": 1956,
@@ -36630,6 +36977,7 @@ export const ARCHIVE = [
   },
   {
     "id": 962,
+    "imageUrl": "/images/962.jpg",
     "title": "Józef Chierowski 366 Armchair",
     "designer": "Józef Chierowski",
     "year": 1962,
@@ -36671,6 +37019,7 @@ export const ARCHIVE = [
   },
   {
     "id": 963,
+    "imageUrl": "/images/963.jpg",
     "title": "Niko Kralj Rex Lounge Chair",
     "designer": "Niko Kralj",
     "year": 1952,
@@ -36712,6 +37061,7 @@ export const ARCHIVE = [
   },
   {
     "id": 964,
+    "imageUrl": "/images/964.jpg",
     "title": "Péter Ghyczy Garden Egg Chair",
     "designer": "Peter Ghyczy",
     "year": 1968,
@@ -36753,6 +37103,7 @@ export const ARCHIVE = [
   },
   {
     "id": 965,
+    "imageUrl": "/images/965.jpg",
     "title": "Jindřich Halabala H-269 Lounge Chair",
     "designer": "Jindřich Halabala",
     "year": 1930,
@@ -36794,6 +37145,7 @@ export const ARCHIVE = [
   },
   {
     "id": 966,
+    "imageUrl": "/images/966.jpg",
     "title": "Selman Selmanagić Seminar Chair",
     "designer": "Selman Selmanagić",
     "year": 1947,
@@ -36835,6 +37187,7 @@ export const ARCHIVE = [
   },
   {
     "id": 967,
+    "imageUrl": "/images/967.jpg",
     "title": "Selman Selmanagić B10 Shelving",
     "designer": "Selman Selmanagić",
     "year": 1956,
@@ -36876,6 +37229,7 @@ export const ARCHIVE = [
   },
   {
     "id": 968,
+    "imageUrl": "/images/968.jpg",
     "title": "Eva Zeisel Intourist Tea Service",
     "designer": "Eva Zeisel",
     "year": 1933,
@@ -36917,6 +37271,7 @@ export const ARCHIVE = [
   },
   {
     "id": 969,
+    "imageUrl": "/images/969.jpg",
     "title": "Eva Zeisel Tomorrow's Classic",
     "designer": "Eva Zeisel",
     "year": 1952,
@@ -36958,6 +37313,7 @@ export const ARCHIVE = [
   },
   {
     "id": 970,
+    "imageUrl": "/images/970.jpg",
     "title": "Imre Schrammel Pierced Porcelain Form",
     "designer": "Imre Schrammel",
     "year": 1985,
@@ -36999,6 +37355,7 @@ export const ARCHIVE = [
   },
   {
     "id": 971,
+    "imageUrl": "/images/971.jpg",
     "title": "Judit Burian Erika Chair",
     "designer": "Judit Burian",
     "year": 1959,
@@ -37081,6 +37438,7 @@ export const ARCHIVE = [
   },
   {
     "id": 973,
+    "imageUrl": "/images/973.jpg",
     "title": "Josef Hůrka Floor Lamp No. 1703",
     "designer": "Josef Hůrka",
     "year": 1960,
@@ -37122,6 +37480,7 @@ export const ARCHIVE = [
   },
   {
     "id": 974,
+    "imageUrl": "/images/974.jpg",
     "title": "Josef Hůrka Table Lamp Model 1706",
     "designer": "Josef Hůrka",
     "year": 1964,
@@ -37163,6 +37522,7 @@ export const ARCHIVE = [
   },
   {
     "id": 975,
+    "imageUrl": "/images/975.jpg",
     "title": "Věra Lišková Anthem of Joy in Glass",
     "designer": "Věra Lišková",
     "year": 1977,
@@ -37204,6 +37564,7 @@ export const ARCHIVE = [
   },
   {
     "id": 976,
+    "imageUrl": "/images/976.jpg",
     "title": "Wink Chair",
     "designer": "Toshiyuki Kita",
     "year": 1980,
@@ -37245,6 +37606,7 @@ export const ARCHIVE = [
   },
   {
     "id": 977,
+    "imageUrl": "/images/977.jpg",
     "title": "±0 Humidifier",
     "designer": "Naoto Fukasawa",
     "year": 2003,
@@ -37286,6 +37648,7 @@ export const ARCHIVE = [
   },
   {
     "id": 978,
+    "imageUrl": "/images/978.jpg",
     "title": "Roundish Chair",
     "designer": "Naoto Fukasawa",
     "year": 2014,
@@ -37327,6 +37690,7 @@ export const ARCHIVE = [
   },
   {
     "id": 979,
+    "imageUrl": "/images/979.jpg",
     "title": "Demetra Table Lamp",
     "designer": "Naoto Fukasawa",
     "year": 2012,
@@ -37368,6 +37732,7 @@ export const ARCHIVE = [
   },
   {
     "id": 980,
+    "imageUrl": "/images/980.jpg",
     "title": "Venus Natural Crystal Chair",
     "designer": "Tokujin Yoshioka",
     "year": 2008,
@@ -37409,6 +37774,7 @@ export const ARCHIVE = [
   },
   {
     "id": 981,
+    "imageUrl": "/images/981.jpg",
     "title": "Pane Chair",
     "designer": "Tokujin Yoshioka",
     "year": 2006,
@@ -37450,6 +37816,7 @@ export const ARCHIVE = [
   },
   {
     "id": 982,
+    "imageUrl": "/images/982.jpg",
     "title": "Hanabi Lamp",
     "designer": "Oki Sato (nendo)",
     "year": 2006,
@@ -37491,6 +37858,7 @@ export const ARCHIVE = [
   },
   {
     "id": 983,
+    "imageUrl": "/images/983.jpg",
     "title": "Thin Black Table",
     "designer": "Oki Sato (nendo)",
     "year": 2011,
@@ -37532,6 +37900,7 @@ export const ARCHIVE = [
   },
   {
     "id": 984,
+    "imageUrl": "/images/984.jpg",
     "title": "New Armor Chair",
     "designer": "Kwangho Lee",
     "year": 2013,
@@ -37573,6 +37942,7 @@ export const ARCHIVE = [
   },
   {
     "id": 985,
+    "imageUrl": "/images/985.jpg",
     "title": "Enameled Skin Copper Chair",
     "designer": "Kwangho Lee",
     "year": 2013,
@@ -37614,6 +37984,7 @@ export const ARCHIVE = [
   },
   {
     "id": 986,
+    "imageUrl": "/images/986.jpg",
     "title": "Bordeaux LCD Television",
     "designer": "Samsung Design Team",
     "year": 2006,
@@ -37655,6 +38026,7 @@ export const ARCHIVE = [
   },
   {
     "id": 987,
+    "imageUrl": "/images/987.jpg",
     "title": "Chotukool Refrigerator",
     "designer": "Godrej & Boyce Design Team",
     "year": 2010,
@@ -37696,6 +38068,7 @@ export const ARCHIVE = [
   },
   {
     "id": 988,
+    "imageUrl": "/images/988.jpg",
     "title": "Titan Edge Watch",
     "designer": "Titan Design Team",
     "year": 2002,
@@ -37737,6 +38110,7 @@ export const ARCHIVE = [
   },
   {
     "id": 989,
+    "imageUrl": "/images/989.jpg",
     "title": "Yoda Easy Chair",
     "designer": "Kenneth Cobonpue",
     "year": 2006,
@@ -37778,6 +38152,7 @@ export const ARCHIVE = [
   },
   {
     "id": 990,
+    "imageUrl": "/images/990.jpg",
     "title": "Linger Bench",
     "designer": "Alvin Tjitrowirjo",
     "year": 2009,
@@ -37814,6 +38189,7 @@ export const ARCHIVE = [
   },
   {
     "id": 991,
+    "imageUrl": "/images/991.jpg",
     "title": "Tropicália Modernity Lounge Chair",
     "designer": "Alvin Tjitrowirjo",
     "year": 2019,
@@ -37855,6 +38231,7 @@ export const ARCHIVE = [
   },
   {
     "id": 992,
+    "imageUrl": "/images/992.jpg",
     "title": "Match Lamp",
     "designer": "Chaiyut Plypetch",
     "year": 2004,
@@ -37896,6 +38273,7 @@ export const ARCHIVE = [
   },
   {
     "id": 993,
+    "imageUrl": "/images/993.jpg",
     "title": "Mr. P Lamp",
     "designer": "Chaiyut Plypetch",
     "year": 1997,
@@ -37932,6 +38310,7 @@ export const ARCHIVE = [
   },
   {
     "id": 994,
+    "imageUrl": "/images/994.jpg",
     "title": "Emperor Lamp",
     "designer": "Neri & Hu",
     "year": 2010,
@@ -37973,6 +38352,7 @@ export const ARCHIVE = [
   },
   {
     "id": 995,
+    "imageUrl": "/images/995.jpg",
     "title": "Industry Lounge Chair",
     "designer": "Neri & Hu",
     "year": 2013,
@@ -38014,6 +38394,7 @@ export const ARCHIVE = [
   },
   {
     "id": 996,
+    "imageUrl": "/images/996.jpg",
     "title": "Yii Cocoon Plan Sofa",
     "designer": "Rock Wang",
     "year": 2010,
@@ -38055,6 +38436,7 @@ export const ARCHIVE = [
   },
   {
     "id": 997,
+    "imageUrl": "/images/997.jpg",
     "title": "Audio Tooth Implant",
     "designer": "James Auger & Jimmy Loizeau",
     "year": 2001,
@@ -38096,6 +38478,7 @@ export const ARCHIVE = [
   },
   {
     "id": 998,
+    "imageUrl": "/images/998.jpg",
     "title": "Afterlife",
     "designer": "James Auger & Jimmy Loizeau",
     "year": 2009,
@@ -38137,6 +38520,7 @@ export const ARCHIVE = [
   },
   {
     "id": 999,
+    "imageUrl": "/images/999.jpg",
     "title": "Technological Dreams Series: No. 1, Robots",
     "designer": "Anthony Dunne & Fiona Raby",
     "year": 2007,
@@ -38178,6 +38562,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1000,
+    "imageUrl": "/images/1000.jpg",
     "title": "Designs for an Overpopulated Planet: Foragers",
     "designer": "Anthony Dunne & Fiona Raby",
     "year": 2009,
@@ -38223,6 +38608,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1001,
+    "imageUrl": "/images/1001.jpg",
     "title": "Uninvited Guests",
     "designer": "Superflux (Anab Jain & Jon Ardern)",
     "year": 2015,
@@ -38264,6 +38650,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1002,
+    "imageUrl": "/images/1002.jpg",
     "title": "The Substitute",
     "designer": "Alexandra Daisy Ginsberg",
     "year": 2019,
@@ -38305,6 +38692,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1003,
+    "imageUrl": "/images/1003.jpg",
     "title": "Mycelium Chair",
     "designer": "Eric Klarenbeek",
     "year": 2013,
@@ -38346,6 +38734,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1004,
+    "imageUrl": "/images/1004.jpg",
     "title": "Wanderers: Mushtari",
     "designer": "Neri Oxman",
     "year": 2014,
@@ -38387,6 +38776,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1005,
+    "imageUrl": "/images/1005.jpg",
     "title": "Vespers III",
     "designer": "Neri Oxman",
     "year": 2018,
@@ -38428,6 +38818,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1006,
+    "imageUrl": "/images/1006.jpg",
     "title": "Cardboard Cathedral",
     "designer": "Shigeru Ban",
     "year": 2013,
@@ -38469,6 +38860,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1007,
+    "imageUrl": "/images/1007.jpg",
     "title": "Tokujin Yoshioka Rainbow Church",
     "designer": "Tokujin Yoshioka",
     "year": 2013,
@@ -38510,6 +38902,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1008,
+    "imageUrl": "/images/1008.jpg",
     "title": "Junya Ishigami Table",
     "designer": "Junya Ishigami",
     "year": 2005,
@@ -38551,6 +38944,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1009,
+    "imageUrl": "/images/1009.jpg",
     "title": "Kenya Hara Umeboshi Series",
     "designer": "Kenya Hara",
     "year": 2003,
@@ -38592,6 +38986,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1010,
+    "imageUrl": "/images/1010.jpg",
     "title": "Kashiwa Sato 7-Eleven Japan Rebrand",
     "designer": "Kashiwa Sato",
     "year": 2004,
@@ -38633,6 +39028,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1011,
+    "imageUrl": "/images/1011.jpg",
     "title": "Presidencial Armchair",
     "designer": "Jorge Zalszupin",
     "year": 1959,
@@ -38674,6 +39070,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1012,
+    "imageUrl": "/images/1012.jpg",
     "title": "Tonico Lounge Chair",
     "designer": "Sergio Rodrigues",
     "year": 1963,
@@ -38715,6 +39112,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1013,
+    "imageUrl": "/images/1013.jpg",
     "title": "Knit Chair",
     "designer": "Emiliano Godoy",
     "year": 2004,
@@ -38756,6 +39154,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1014,
+    "imageUrl": "/images/1014.jpg",
     "title": "Prima Collection",
     "designer": "Andrés Mier y Terán",
     "year": 2017,
@@ -38797,6 +39196,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1015,
+    "imageUrl": "/images/1015.jpg",
     "title": "Wave Cabinet",
     "designer": "Sebastian Errazuriz",
     "year": 2014,
@@ -38838,6 +39238,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1016,
+    "imageUrl": "/images/1016.jpg",
     "title": "Spaghetti Bench",
     "designer": "Pablo Reinoso",
     "year": 2006,
@@ -38879,6 +39280,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1017,
+    "imageUrl": "/images/1017.jpg",
     "title": "Lagoa Armchair",
     "designer": "Zanini de Zanine",
     "year": 2019,
@@ -38920,6 +39322,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1018,
+    "imageUrl": "/images/1018.jpg",
     "title": "Euvira Rocking Chair",
     "designer": "Jader Almeida",
     "year": 2013,
@@ -38961,6 +39364,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1019,
+    "imageUrl": "/images/1019.jpg",
     "title": "Construtivista Chair",
     "designer": "Rodrigo Almeida",
     "year": 2014,
@@ -39002,6 +39406,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1020,
+    "imageUrl": "/images/1020.jpg",
     "title": "Nomad Patterns",
     "designer": "Livia Marin",
     "year": 2012,
@@ -39043,6 +39448,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1021,
+    "imageUrl": "/images/1021.jpg",
     "title": "Aura Pendant Lamp",
     "designer": "Bandido Studio (Alejandro Campos & Joel Rojas)",
     "year": 2019,
@@ -39084,6 +39490,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1022,
+    "imageUrl": "/images/1022.jpg",
     "title": "LM Stool",
     "designer": "Nifemi Marcus-Bello",
     "year": 2018,
@@ -39125,6 +39532,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1023,
+    "imageUrl": "/images/1023.jpg",
     "title": "Atlas Chair",
     "designer": "Ini Archibong",
     "year": 2019,
@@ -39166,6 +39574,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1024,
+    "imageUrl": "/images/1024.jpg",
     "title": "Dusasa II",
     "designer": "El Anatsui",
     "year": 2007,
@@ -39208,6 +39617,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1025,
+    "imageUrl": "/images/1025.jpg",
     "title": "Endangered Collection (Sloth Pod)",
     "designer": "Porky Hefer",
     "year": 2018,
@@ -39249,6 +39659,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1026,
+    "imageUrl": "/images/1026.jpg",
     "title": "Zelli Bookshelf",
     "designer": "Younes Duret",
     "year": 2006,
@@ -39290,6 +39701,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1027,
+    "imageUrl": "/images/1027.jpg",
     "title": "Oríkì Act III: Whispers of a Trail",
     "designer": "Nifemi Marcus-Bello",
     "year": 2025,
@@ -39331,6 +39743,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1028,
+    "imageUrl": "/images/1028.jpg",
     "title": "Monstera Deliciosa Seating Pods",
     "designer": "Porky Hefer",
     "year": 2015,
@@ -39372,6 +39785,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1029,
+    "imageUrl": "/images/1029.jpg",
     "title": "Bògòlanfini (Mud Cloth)",
     "designer": "Bamana peoples (traditional)",
     "year": 1900,
@@ -39413,6 +39827,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1030,
+    "imageUrl": "/images/1030.jpg",
     "title": "PET Lamp Colombia",
     "designer": "Álvaro Catalán de Ocón",
     "year": 2013,
@@ -39454,6 +39869,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1031,
+    "imageUrl": "/images/1031.jpg",
     "title": "Kuba Cut-Pile Textile",
     "designer": "Kuba peoples (traditional)",
     "year": 1800,
@@ -39495,6 +39911,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1032,
+    "imageUrl": "/images/1032.jpg",
     "title": "Plastic Rivers Rug",
     "designer": "Álvaro Catalán de Ocón",
     "year": 2022,
@@ -39534,6 +39951,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1033,
+    "imageUrl": "/images/1033.jpg",
     "title": "Giraffe Chair",
     "designer": "Marcelo Ferraz, Marcelo Suzuki & Lina Bo Bardi",
     "year": 1987,
@@ -39573,6 +39991,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1034,
+    "imageUrl": "/images/1034.jpg",
     "title": "Uchiwa Fan Lamp",
     "designer": "Zanini de Zanine",
     "year": 2011,
@@ -39612,6 +40031,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1035,
+    "imageUrl": "/images/1035.jpg",
     "title": "Neorustica Collection",
     "designer": "Brunno Jahara",
     "year": 2010,
@@ -39651,6 +40071,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1036,
+    "imageUrl": "/images/1036.jpg",
     "title": "Iquo Cafe Chair",
     "designer": "Ini Archibong",
     "year": 2018,
@@ -39690,6 +40111,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1037,
+    "imageUrl": "/images/1037.jpg",
     "title": "Aura Wall Lamp",
     "designer": "Bandido Studio (Alejandro Campos & Joel Rojas)",
     "year": 2019,
@@ -39729,6 +40151,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1038,
+    "imageUrl": "/images/1038.jpg",
     "title": "Hugo França Canoa Bench",
     "designer": "Hugo França",
     "year": 2003,
@@ -39768,6 +40191,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1039,
+    "imageUrl": "/images/1039.jpg",
     "title": "Clara Porset Butaque Chair",
     "designer": "Clara Porset",
     "year": 1956,
@@ -39807,6 +40231,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1040,
+    "imageUrl": "/images/1040.jpg",
     "title": "Oscar Hagerman Rural Furniture",
     "designer": "Oscar Hagerman",
     "year": 1970,
@@ -39846,6 +40271,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1041,
+    "imageUrl": "/images/1041.jpg",
     "title": "Dokter and Misses Stools",
     "designer": "Dokter and Misses",
     "year": 2015,
@@ -39885,6 +40311,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1042,
+    "imageUrl": "/images/1042.jpg",
     "title": "Hamed Ouattara Scrap Metal Chair",
     "designer": "Hamed Ouattara",
     "year": 2014,
@@ -39924,6 +40351,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1043,
+    "imageUrl": "/images/1043.jpg",
     "title": "Bibi Seck Neem Cabinet",
     "designer": "Bibi Seck",
     "year": 2019,
@@ -39963,6 +40391,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1044,
+    "imageUrl": "/images/1044.jpg",
     "title": "Leica M3",
     "designer": "Wilhelm Stein (Leitz design team)",
     "year": 1954,
@@ -40002,6 +40431,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1045,
+    "imageUrl": "/images/1045.jpg",
     "title": "Swiss Army Knife",
     "designer": "Karl Elsener",
     "year": 1891,
@@ -40041,6 +40471,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1046,
+    "imageUrl": "/images/1046.jpg",
     "title": "16 Animali Puzzle",
     "designer": "Enzo Mari",
     "year": 1957,
@@ -40080,6 +40511,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1047,
+    "imageUrl": "/images/1047.jpg",
     "title": "9090 Espresso Maker",
     "designer": "Richard Sapper",
     "year": 1978,
@@ -40119,6 +40551,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1048,
+    "imageUrl": "/images/1048.jpg",
     "title": "Classic Toaster",
     "designer": "Max Gort-Barten",
     "year": 1952,
@@ -40158,6 +40591,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1049,
+    "imageUrl": "/images/1049.jpg",
     "title": "Beogram 4000",
     "designer": "Jacob Jensen",
     "year": 1972,
@@ -40197,6 +40631,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1050,
+    "imageUrl": "/images/1050.jpg",
     "title": "T3 Pocket Radio",
     "designer": "Dieter Rams",
     "year": 1958,
@@ -40236,6 +40671,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1051,
+    "imageUrl": "/images/1051.jpg",
     "title": "Classic Scissors",
     "designer": "Olof Bäckström",
     "year": 1967,
@@ -40275,6 +40711,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1052,
+    "imageUrl": "/images/1052.jpg",
     "title": "LEGO Brick",
     "designer": "Godtfred Kirk Christiansen",
     "year": 1958,
@@ -40314,6 +40751,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1053,
+    "imageUrl": "/images/1053.jpg",
     "title": "Cumano Folding Table",
     "designer": "Achille Castiglioni",
     "year": 1978,
@@ -40353,6 +40791,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1054,
+    "imageUrl": "/images/1054.jpg",
     "title": "Diana Side Table",
     "designer": "Konstantin Grcic",
     "year": 2002,
@@ -40392,6 +40831,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1055,
+    "imageUrl": "/images/1055.jpg",
     "title": "9093 Bird Kettle",
     "designer": "Michael Graves",
     "year": 1985,
@@ -40431,6 +40871,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1056,
+    "imageUrl": "/images/1056.jpg",
     "title": "Compas Direction Desk",
     "designer": "Jean Prouvé",
     "year": 1953,
@@ -40470,6 +40911,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1057,
+    "imageUrl": "/images/1057.jpg",
     "title": "Ribbon Chair (F582)",
     "designer": "Pierre Paulin",
     "year": 1966,
@@ -40509,6 +40951,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1058,
+    "imageUrl": "/images/1058.jpg",
     "title": "Antony Chair",
     "designer": "Jean Prouvé",
     "year": 1954,
@@ -40548,6 +40991,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1059,
+    "imageUrl": "/images/1059.jpg",
     "title": "Nuage Bookcase",
     "designer": "Charlotte Perriand",
     "year": 1952,
@@ -40587,6 +41031,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1060,
+    "imageUrl": "/images/1060.jpg",
     "title": "PK22 Chair",
     "designer": "Poul Kjærholm",
     "year": 1956,
@@ -40626,6 +41071,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1061,
+    "imageUrl": "/images/1061.jpg",
     "title": "PK80 Daybed",
     "designer": "Poul Kjærholm",
     "year": 1957,
@@ -40665,6 +41111,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1062,
+    "imageUrl": "/images/1062.jpg",
     "title": "Oxford Chair",
     "designer": "Arne Jacobsen",
     "year": 1965,
@@ -40704,6 +41151,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1063,
+    "imageUrl": "/images/1063.jpg",
     "title": "Hanging Egg Chair",
     "designer": "Nanna & Jørgen Ditzel",
     "year": 1959,
@@ -40743,6 +41191,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1064,
+    "imageUrl": "/images/1064.jpg",
     "title": "Fjord Armchair",
     "designer": "Patricia Urquiola",
     "year": 2002,
@@ -40788,6 +41237,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1065,
+    "imageUrl": "/images/1065.jpg",
     "title": "Gaulino Chair",
     "designer": "Oscar Tusquets Blanca",
     "year": 1987,
@@ -40828,6 +41278,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1066,
+    "imageUrl": "/images/1066.jpg",
     "title": "J39 Folkchair",
     "designer": "Børge Mogensen",
     "year": 1947,
@@ -40873,6 +41324,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1067,
+    "imageUrl": "/images/1067.jpg",
     "title": "Tip Ton Chair",
     "designer": "Edward Barber & Jay Osgerby",
     "year": 2011,
@@ -40913,6 +41365,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1068,
+    "imageUrl": "/images/1068.jpg",
     "title": "Vegetal Chair",
     "designer": "Ronan & Erwan Bouroullec",
     "year": 2008,
@@ -40953,6 +41406,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1069,
+    "imageUrl": "/images/1069.jpg",
     "title": "Taraxacum 88",
     "designer": "Achille Castiglioni",
     "year": 1988,
@@ -40998,6 +41452,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1070,
+    "imageUrl": "/images/1070.jpg",
     "title": "Panthella Table Lamp",
     "designer": "Verner Panton",
     "year": 1971,
@@ -41038,6 +41493,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1071,
+    "imageUrl": "/images/1071.jpg",
     "title": "AJ Table Lamp",
     "designer": "Arne Jacobsen",
     "year": 1960,
@@ -41078,6 +41534,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1072,
+    "imageUrl": "/images/1072.jpg",
     "title": "Eclisse Table Lamp",
     "designer": "Vico Magistretti",
     "year": 1965,
@@ -41118,6 +41575,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1073,
+    "imageUrl": "/images/1073.jpg",
     "title": "Beehive Pendant (A331)",
     "designer": "Alvar Aalto",
     "year": 1953,
@@ -41158,6 +41616,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1074,
+    "imageUrl": "/images/1074.jpg",
     "title": "Potence Wall Lamp",
     "designer": "Jean Prouvé",
     "year": 1950,
@@ -41198,6 +41657,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1075,
+    "imageUrl": "/images/1075.jpg",
     "title": "Twiggy Floor Lamp",
     "designer": "Marc Sadler",
     "year": 2006,
@@ -41238,6 +41698,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1076,
+    "imageUrl": "/images/1076.jpg",
     "title": "Super Lamp",
     "designer": "Martine Bedin",
     "year": 1981,
@@ -41278,6 +41739,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1077,
+    "imageUrl": "/images/1077.jpg",
     "title": "Havana Suspension Lamp",
     "designer": "Jozeph Forakis",
     "year": 1993,
@@ -41318,6 +41780,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1078,
+    "imageUrl": "/images/1078.jpg",
     "title": "PH 4½-4 Pendant",
     "designer": "Poul Henningsen",
     "year": 1926,
@@ -41358,6 +41821,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1079,
+    "imageUrl": "/images/1079.jpg",
     "title": "Vlisco Dutch Wax Print",
     "designer": "N.V. P.F. van Vlissingen & Co.",
     "year": 1846,
@@ -41398,6 +41862,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1080,
+    "imageUrl": "/images/1080.jpg",
     "title": "Katran Chair",
     "designer": "Sahil Merchant & Sarthak Sahni",
     "year": 2015,
@@ -41438,6 +41903,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1081,
+    "imageUrl": "/images/1081.jpg",
     "title": "Wednesday Light",
     "designer": "Tord Boontje",
     "year": 2000,
@@ -41478,6 +41944,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1082,
+    "imageUrl": "/images/1082.jpg",
     "title": "Garland",
     "designer": "Tord Boontje",
     "year": 2002,
@@ -41518,6 +41985,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1083,
+    "imageUrl": "/images/1083.jpg",
     "title": "Chewie Stool",
     "designer": "Kenneth Cobonpue",
     "year": 2019,
@@ -41558,6 +42026,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1084,
+    "imageUrl": "/images/1084.jpg",
     "title": "Vase",
     "designer": "Jennifer Lee",
     "year": 1985,
@@ -41598,6 +42067,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1085,
+    "imageUrl": "/images/1085.jpg",
     "title": "Big White Jug",
     "designer": "Alison Britton",
     "year": 1987,
@@ -41638,6 +42108,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1086,
+    "imageUrl": "/images/1086.jpg",
     "title": "Edge of Chaos II",
     "designer": "David Huycke",
     "year": 2015,
@@ -41678,6 +42149,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1087,
+    "imageUrl": "/images/1087.jpg",
     "title": "Large Grey Vessel",
     "designer": "Anna Dickinson",
     "year": 2012,
@@ -41718,6 +42190,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1088,
+    "imageUrl": "/images/1088.jpg",
     "title": "Jari",
     "designer": "Ha Jihoon",
     "year": 2015,
@@ -41758,6 +42231,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1089,
+    "imageUrl": "/images/1089.jpg",
     "title": "Porsche Bracelet",
     "designer": "Gijs Bakker",
     "year": 2002,
@@ -41798,6 +42272,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1090,
+    "imageUrl": "/images/1090.jpg",
     "title": "Eclipse Night Moon Jar",
     "designer": "Akiko Hirai",
     "year": 2019,
@@ -41838,6 +42313,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1091,
+    "imageUrl": "/images/1091.jpg",
     "title": "Midwife II",
     "designer": "Emma Woffenden",
     "year": 2016,
@@ -41878,6 +42354,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1092,
+    "imageUrl": "/images/1092.jpg",
     "title": "Silver Leaf Dish TW 11",
     "designer": "Tapio Wirkkala",
     "year": 1954,
@@ -41917,6 +42394,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1093,
+    "imageUrl": "/images/1093.jpg",
     "title": "La Cornuta Espresso Machine",
     "designer": "Gio Ponti, Antonio Fornaroli & Alberto Rosselli",
     "year": 1948,
@@ -41956,6 +42434,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1094,
+    "imageUrl": "/images/1094.jpg",
     "title": "Tea Service",
     "designer": "Jean Puiforcat",
     "year": 1922,
@@ -41996,6 +42475,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1095,
+    "imageUrl": "/images/1095.jpg",
     "title": "Fazzoletto Vase",
     "designer": "Fulvio Bianconi & Paolo Venini",
     "year": 1948,
@@ -42036,6 +42516,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1096,
+    "imageUrl": "/images/1096.jpg",
     "title": "Cameo Glass Vase",
     "designer": "Émile Gallé",
     "year": 1900,
@@ -42076,6 +42557,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1097,
+    "imageUrl": "/images/1097.jpg",
     "title": "The Dark River",
     "designer": "Lenore Tawney",
     "year": 1962,
@@ -42115,6 +42597,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1098,
+    "imageUrl": "/images/1098.jpg",
     "title": "Slit Tapestry Red/Green",
     "designer": "Gunta Stölzl",
     "year": 1927,
@@ -42155,6 +42638,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1099,
+    "imageUrl": "/images/1099.jpg",
     "title": "Alquimia 13",
     "designer": "Olga de Amaral",
     "year": 1984,
@@ -42195,6 +42679,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1100,
+    "imageUrl": "/images/1100.jpg",
     "title": "Cisitalia 202 GT",
     "designer": "Pininfarina (Battista 'Pinin' Farina)",
     "year": 1946,
@@ -42235,6 +42720,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1101,
+    "imageUrl": "/images/1101.jpg",
     "title": "Morris Minor",
     "designer": "Alec Issigonis",
     "year": 1948,
@@ -42275,6 +42761,7 @@ export const ARCHIVE = [
   },
   {
     "id": 1102,
+    "imageUrl": "/images/1102.jpg",
     "title": "Copacabana Promenade",
     "designer": "Roberto Burle Marx",
     "year": 1970,
