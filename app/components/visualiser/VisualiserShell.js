@@ -102,6 +102,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
   const fpsHistory = useRef([]);
   const journeyRef = useRef([]);
   const sealedRef = useRef(false);
+  const selectedNodeRef = useRef(null);
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -231,7 +232,6 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
     // --- Interaction state ---
     const mouse = { x: 0, y: 0, active: false };
     let hoveredNode = null;
-    let selectedNode = null;
     let filterType = null;
 
     // --- Zoom/pan state ---
@@ -329,7 +329,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
         }
       }
 
-      const highlightNode = isSealed ? null : (selectedNode || hoveredNode);
+      const highlightNode = isSealed ? null : (selectedNodeRef.current || hoveredNode);
       const highlightNeighbours = highlightNode ? new Set(adj.get(highlightNode.id) || []) : null;
 
       // Journey state
@@ -651,7 +651,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
           sealedRef.current = false;
           setJourneySealed(false);
           if (node) {
-            selectedNode = node;
+            selectedNodeRef.current = node;
             const entry = getEntry(node.id);
             if (entry) {
               const step = { entry, connectionText: null, connectionType: null, fromEntry: null };
@@ -661,13 +661,13 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
           } else {
             journeyRef.current = [];
             setJourney([]);
-            selectedNode = null;
+            selectedNodeRef.current = null;
           }
           return;
         }
 
         if (node) {
-          selectedNode = node;
+          selectedNodeRef.current = node;
           const entry = getEntry(node.id);
           if (!entry) return;
 
@@ -714,7 +714,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
       if (currentJourney.length >= 2) {
         sealedRef.current = true;
         setJourneySealed(true);
-        selectedNode = null;
+        selectedNodeRef.current = null;
       }
     };
 
@@ -804,6 +804,7 @@ export default function VisualiserShell({ devMode = false, onOpenItem = null }) 
     setJourney([]);
     sealedRef.current = false;
     setJourneySealed(false);
+    selectedNodeRef.current = null;
   }, []);
 
   return (
