@@ -1,25 +1,30 @@
 # Topology Guide
 
-## Known Overconnected Hubs
+## Hub Ceiling — 30 Inbound Max
 
-These objects dominate the network topology. Never add a new connection to any of these without removing an existing one first:
+All mega-hubs were pruned in March 2025. The ceiling is **30 inbound connections**. Do not add connections to any object above 25 inbound without removing one first.
 
-- **London Underground Map (13)** — ~97 connections
-- **606 Universal Shelving System (11)** — ~91 connections
-- **Carlton Bookcase (12)** — ~87 connections
-- **Penguin Books (14)** — heavily connected
-- **Pompidou Centre (15)** — heavily connected
-- **IBM Logo / Paul Rand (56)** — frequently used as a target
+Current top inbound (as of March 2025):
 
-## Topology Rebuild Plan (Active — Archive Reached 1,000)
+- **Arco (1), Mezzadro (2), Parentesi (3), Pompidou (15), SK 4 (16)** — 31 inbound
+- **Snoopy (5), Superleggera (6), Ulm Stool (7), Grillo (10), Egg Chair (24)** — 30 inbound
+- **London Underground Map (13), 606 (11), Carlton (12), Penguin (14), IBM Logo (56)** — all below 30
 
-The archive has reached 1,000 entries. The topology rebuild is now due:
+## Topology Status (March 2025)
 
-- **Connection ceiling: 12 per object.** No object should have more than 12 connections. The top hubs will be pruned to their best 10-12 connections. The remaining 90+ connections dilute quality and create gravity wells.
-- **Connection floor: 6-8 per object.** Every object needs at least 6 connections. Entries with 3-5 connections are dead ends.
-- **Algorithmic scoring:** Score every possible pairing on material overlap, process overlap, problem overlap, chronological proximity, geographical tension, and network distance. Prioritise connections that bridge distant clusters.
+The topology rebuild is **complete**. Key metrics:
+
+- **Min degree: 3** — no dead-end entries
+- **Median degree: 5** — healthy navigability
+- **Max inbound: 31** — no more gravity wells
+- **0 template patterns** in connection texts
+- **0 formulaic significance texts**
+
+### Remaining opportunities
+- **192 entries at degree 3** — functional but could be richer (target 4-5)
+- **171 entries with 0 inbound** — reachable by browsing but nobody links to them
+- **Material connections at 4.3%** — underrepresented (target ~10%)
 - **Lateral reach over proximity.** Connecting the Pewter Stool to the Panton Chair is a short hop (both canonical European furniture). Connecting the Pewter Stool to the London Underground Map because both impose a radical constraint on process — that's the long lateral reach that creates serendipity.
-- **The network visualiser is the diagnostic tool.** Run before/after comparison.
 
 ## Topology Tools
 
@@ -58,18 +63,18 @@ Integrated in `/staging` page, shows candidates overlaid on the existing network
 
 ## Discipline Balance
 
-Target discipline representation (current counts after 1,000 entries):
+Current counts (March 2025, after reclassification pass):
 
 | Discipline | Count | Status |
 |-----------|-------|--------|
-| Product | 303 | Strong |
-| Furniture | 300 | Strong |
+| Furniture | 297 | Strong |
+| Product | 240 | Strong |
 | Graphic | 138 | Good |
 | Architecture | 71 | Adequate |
-| Lighting | 69 | Adequate |
+| Textile | 69 | Good — was 29 |
+| Lighting | 68 | Adequate |
 | Ceramic | 35 | Growing |
-| Textile | 29 | Improved — was 23 |
-| Glass | 21 | Improved — was 19 |
-| Typography | 15 | Adequate for discipline |
-| Metalwork | 11 | Improved — was 8, still weakest |
-| Transport | 8 | Improved — was 6 |
+| Glass | 35 | Growing |
+| Metalwork | 20 | Improved — was 11 |
+| Typography | 16 | Adequate for discipline |
+| Transport | 11 | Still weakest |

@@ -66,10 +66,12 @@ Probabilistic AI handles reasoning. Deterministic code handles execution. This s
 
 ## Current State
 
-- **1,000 entries** in live archive, **3,208 connections**, zero broken targets
-- **11 disciplines:** Product (303), Furniture (300), Graphic (138), Architecture (71), Lighting (69), Ceramic (35), Textile (29), Glass (21), Typography (15), Metalwork (11), Transport (8)
-- Weakest disciplines: **Metalwork, Glass, Textile** — prioritise when adding
+- **1,000 entries** in live archive, **3,021 connections**, zero broken targets
+- **11 disciplines:** Product (240), Furniture (297), Graphic (138), Architecture (71), Textile (69), Lighting (68), Ceramic (35), Glass (35), Metalwork (20), Typography (16), Transport (11)
+- Weakest disciplines: **Transport, Typography** — prioritise when adding
 - Entry IDs: 1–1102 (not contiguous — gaps from block consolidation)
+- **Min degree 3** — no dead-end entries. Median degree 5. Max inbound 31.
+- All significance texts and connection reasons at Sudjic/Rawsthorn standard — zero formulaic openers, zero template patterns, zero American spellings
 
 ## Git Rules
 
@@ -108,14 +110,17 @@ Six typed connections — see `docs/voice-guide.md` for the full quality standar
 
 **The test:** If you can swap the object names and the text still reads plausible, the connection is not specific enough. Rewrite.
 
-## Overconnected Hubs — Do Not Add Without Pruning
+## Hub Ceiling — 30 Inbound Max
 
-- **London Underground Map (13)** — ~97 connections
-- **606 Shelving (11)** — ~91 connections
-- **Carlton Bookcase (12)** — ~87 connections
-- **Penguin Books (14)**, **Pompidou (15)**, **IBM Logo (56)** — heavily connected
+All mega-hubs have been pruned. Current top inbound counts:
 
-See `docs/topology-guide.md` for the full topology rebuild plan.
+- **Arco (1), Mezzadro (2), Parentesi (3), Pompidou (15), SK 4 (16)** — 31 inbound
+- **Snoopy (5), Superleggera (6), Ulm Stool (7), Grillo (10), Egg Chair (24)** — 30 inbound
+- **London Underground Map (13), 606 Shelving (11), Carlton (12), Penguin (14), IBM Logo (56)** — all below 30
+
+**Do not add connections to any hub above 25 inbound without removing one first.**
+
+See `docs/topology-guide.md` for topology guidance.
 
 ---
 

@@ -96,3 +96,30 @@ Added a radial arc network visualisation as an alternative to the force-directed
 This is a **prototype** — the Connection Map needs to become a designed artefact, not just a diagram. The force-directed view is a physics simulation; the radial view is a step toward intentional composition. Neither is finished. Future work should treat the visualisation as a design brief: curated colour palette, proper typography, considered hierarchy, intentional negative space, and transitions that feel designed rather than springy.
 
 Reference material in `docs/waves-model*.jpg` — screenshots from 6529.io's network visualisation showing the sophistication level to aim for and push past.
+
+## 11. Quality Audit and Network Rebuild (Mar 2025)
+
+Comprehensive quality pass bringing the entire archive to Sudjic/Rawsthorn standard. The archive had a "two-speed" problem: IDs 1-100 and 600+ were well-written, but the expansion-phase entries (IDs 100-600) were formulaic.
+
+**Prose quality:**
+- **325+ significance texts rewritten** — eliminated all formulaic openers ("It demonstrates how", "One must", "The work reveals", "Essential for understanding")
+- **67 descriptions rewritten** in the ID 100-600 problem zone
+- **28 weak "Both" connection conclusions sharpened**
+- **294 missing periods added** to connection reasons
+- **46 American spellings corrected** (color→colour, behavior→behaviour, organize→organise)
+- **3 broken significance texts fixed** (entries 395, 398, 514)
+
+**Network topology:**
+- **Enforced 30-inbound ceiling** on 13 mega-hubs (previously up to 104 inbound) — ~280 weakest connections pruned using algorithmic scoring (length, specificity markers, template language penalties)
+- **96+ new connections added** to dead-end and low-degree entries — all A-grade, swap-tested
+- **10 inter-hub connections restored** after pruning script accidentally removed them
+- **4 data errors fixed** (connection texts describing wrong targets)
+- **Every entry now ≥3 total connections** — zero dead ends
+
+**Data hygiene:**
+- **63 entries reclassified** to correct disciplines
+- **3 fabricated entries replaced** with verified canonical objects
+- **Origin normalisation** (England→United Kingdom, USA→United States)
+- **Duplicate removal** across archive
+
+**Final state:** 1,000 entries, 3,021 connections, 0 validation errors, 0 template patterns, 0 formulaic openers, 0 American spellings. Min degree 3, median 5, max inbound 31.
