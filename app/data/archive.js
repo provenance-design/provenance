@@ -120,6 +120,16 @@ export const ARCHIVE = [
         "id": 1,
         "type": "sameProblem",
         "reason": "Castiglioni's own argument with himself: Arco (1962) uses 65kg of marble to reach light across a room. Parentesi (1971) uses a tensioned cable and gravity. Nine years between monument and disappearance."
+      },
+      {
+        "id": 779,
+        "type": "method",
+        "reason": "Parentesi (1971) threads a cable from ceiling to floor and lets gravity hold a spotlight in place. Toio (1962) threads a car headlight up a brass stem and lets a fishing reel set its height. Two Castiglioni lamps where the adjustment mechanism is the design — no housing, no shade, no disguise."
+      },
+      {
+        "id": 778,
+        "type": "argument",
+        "reason": "Sapper's Tizio (1972) engineers a counterweight system of such precision that current flows through the arms themselves — the lamp as resolved machine. Castiglioni's Parentesi (1971) hangs a bracket on a tensioned cable and trusts gravity — the lamp as irreducible gesture. Italian lighting's two temperaments: the engineer and the poet."
       }
     ],
     "keywords": [
@@ -149,6 +159,11 @@ export const ARCHIVE = [
         "id": 9,
         "type": "argument",
         "reason": "Sella is designed entirely around use. Juicy Salif is designed entirely around conversation. Function vs. meaning at its starkest."
+      },
+      {
+        "id": 779,
+        "type": "method",
+        "reason": "The Sella repurposes a bicycle saddle and a cast-iron doorstop into a telephone stool. Five years later, the Castiglionis applied the same readymade methodology to lighting: the Toio assembles a car headlight, a fishing-rod reel, and a transformer into a floor lamp. Both objects design by selection rather than fabrication — the intelligence is in the act of combination, not in the shaping of material."
       }
     ],
     "keywords": [
@@ -178,6 +193,16 @@ export const ARCHIVE = [
         "id": 8,
         "type": "sameProblem",
         "reason": "Taccia fires light upward into an inverted glass bowl. Snoopy fires it downward onto white marble. The Castiglionis solve indirect table lighting twice by reversing the direction of the bounce."
+      },
+      {
+        "id": 530,
+        "type": "sameProblem",
+        "reason": "Magistretti stacks three pure geometric solids — cylinder, cone, hemisphere — and the Atollo (1977) becomes monumental through proportion alone. The Castiglionis rest a metal reflector on a slab of Carrara marble and the Snoopy (1967) becomes playful through a profile that resembles a cartoon dog. Two Italian table lamps that derive their entire character from the relationship between base and shade."
+      },
+      {
+        "id": 855,
+        "type": "lineage",
+        "reason": "Wagenfeld's WG 24 (1924) stacks hemisphere, cylinder, and circle in opal glass — the Bauhaus table lamp as geometric exercise. The Castiglionis' Snoopy (1967) stacks marble slab, glass stem, and metal reflector — the table lamp as personality. Forty-three years between geometry as ideology and geometry as wit."
       }
     ],
     "keywords": [
@@ -331,6 +356,16 @@ export const ARCHIVE = [
         "id": 5,
         "type": "sameProblem",
         "reason": "Taccia borrows from Roman column capitals to bounce light off ceilings. Snoopy bounces it off a slab of Carrara marble. Ancient technique and brute material — two ways the Castiglionis refuse to point a bulb at you."
+      },
+      {
+        "id": 1070,
+        "type": "argument",
+        "reason": "Panton's Panthella (1971) diffuses light through a continuous opaline acrylic form — the lamp is a single sculptural surface that glows from within. The Castiglionis' Taccia (1962) bounces light upward off an inverted glass bowl — the lamp is an architectural device that illuminates the ceiling, not itself. Two approaches to indirect table lighting: become the light, or redirect it."
+      },
+      {
+        "id": 644,
+        "type": "material",
+        "reason": "Mouille's Three-Arm Ceiling Lamp (1952) hand-forms aluminium reflectors like a silversmith shaping vessels — each arm a sculptural gesture directing light downward. The Castiglionis' Taccia (1962) casts an aluminium column-body and floats an inverted glass bowl above it — light bounces upward off the concave surface. Aluminium as hand-formed sculpture in one, as industrial casting in the other."
       }
     ],
     "keywords": [
@@ -399,6 +434,16 @@ export const ARCHIVE = [
         "id": 4,
         "type": "lineage",
         "reason": "Sella observed telephone behaviour in 1957. Grillo redesigned the telephone itself in 1965. The same user-centred logic, applied at different scales."
+      },
+      {
+        "id": 147,
+        "type": "method",
+        "reason": "Zanuso and Sapper's Grillo (1965) folds earpiece onto mouthpiece with a single hinge, halving the telephone's footprint. Sapper's Black 201 television (1969) wraps a portable screen in monolithic black ABS, making the housing disappear behind the content. The same designer applying the same logic — compress the object, foreground the function — to two different electronic products four years apart."
+      },
+      {
+        "id": 527,
+        "type": "zeitgeist",
+        "reason": "Zanuso and Sapper's Grillo (1965) hinges earpiece to mouthpiece — the telephone as compact object. Zanuso's TS502 (1963) hinges two halves of a plastic cube — the radio as pocket companion. Two Italian products from the same years, both treating the hinge as the design move that transforms professional electronics into personal possessions."
       }
     ],
     "keywords": [
@@ -429,6 +474,16 @@ export const ARCHIVE = [
         "id": 12,
         "type": "argument",
         "reason": "The defining opposition. 606: permanence, neutrality, system. Carlton: presence, emotion, spectacle. Entire postwar design discourse in two shelving units."
+      },
+      {
+        "id": 52,
+        "type": "method",
+        "reason": "Knoll's Planning Unit (1948) designs interchangeable components — desks, storage, partitions — that clip together in any office configuration. Rams's 606 (1960) designs interchangeable shelves, cabinets, and desks that clip onto aluminium E-Tracks in any domestic configuration. Both systems trust the user to be the designer, providing a grammar rather than a sentence."
+      },
+      {
+        "id": 104,
+        "type": "sameProblem",
+        "reason": "The Eames Storage Unit 421-C (1949) builds modular storage from an industrial kit — perforated steel, birch plywood, fibreglass panels — where every component is visible and interchangeable. Rams's 606 (1960) builds modular storage from aluminium E-Tracks where every component clips on without tools. Both solve the same problem: storage that adapts to changing lives. The Eameses celebrate the parts; Rams makes them disappear."
       }
     ],
     "keywords": [
@@ -497,6 +552,11 @@ export const ARCHIVE = [
         "id": 55,
         "type": "lineage",
         "reason": "Beck's 1933 map stripped London's geography to a diagram — Johnston's sans-serif lettering was essential to that abstraction. Thirty-seven years later, Vignelli applied the same logic to New York: abstract the geography, systematise the typography, trust the diagram. Two cities, two centuries of transit, one conviction that the map IS the system."
+      },
+      {
+        "id": 829,
+        "type": "method",
+        "reason": "Beck, an engineering draughtsman, replaced geographic accuracy with schematic clarity — horizontal, vertical, and 45-degree lines making the Underground navigable at the cost of spatial truth. Du Bois, a sociologist, replaced the conventional bar chart with a spiral diagram — radial proportion making the growth of Black land ownership in Georgia legible in a way no standard statistical format could. Both invented new visual grammars because existing conventions couldn’t carry their argument."
       }
     ],
     "keywords": [
@@ -813,6 +873,16 @@ export const ARCHIVE = [
         "id": 27,
         "type": "lineage",
         "reason": "Klint's method directly produced Wegner's Round Chair — study precedent, measure the body, synthesise. Teacher to student to masterpiece."
+      },
+      {
+        "id": 28,
+        "type": "lineage",
+        "reason": "Klint's Faaborg Chair (1914) synthesises Chippendale, klismos, and Chinese horseshoe-back chairs into a single mahogany frame — proportion derived from measurement, not intuition. Juhl's Chieftain (1949) separates frame from upholstery so completely that the seat floats free of the structure — proportion derived from sculptural instinct. Student and rebellious inheritor: Juhl studied under Klint at the Royal Academy, then broke every rule his teacher established."
+      },
+      {
+        "id": 1060,
+        "type": "argument",
+        "reason": "Klint's Faaborg Chair (1914) works in mahogany and leather, synthesising historical timber-frame precedents into a warm, proportioned armchair for a museum. Kjærholm's PK22 (1956) works in cold-flattened spring steel and wicker, treating the chair as a structural problem solved with engineering precision. Both are Danish, both obsessed with proportion — but Klint looks backward to craft tradition while Kjærholm looks sideways to industrial technology."
       }
     ],
     "keywords": [
@@ -842,6 +912,16 @@ export const ARCHIVE = [
         "id": 22,
         "type": "method",
         "reason": "PH Artichoke and PH 5 solve the same problem in the same year — one with 72 leaves, one with three shades. Henningsen arguing with himself."
+      },
+      {
+        "id": 458,
+        "type": "sameProblem",
+        "reason": "Henningsen's 1958 Artichoke uses 72 copper leaves calculated by trigonometry to eliminate glare from any seated position — engineering applied to the physics of light. Aulenti's 1970 Pipistrello uses a telescoping stem and adjustable methacrylate shade shaped like a bat's wing — engineering applied to the theatre of light. Both solve the problem of how to make a lamp that controls its own illumination, but Henningsen controls photons while Aulenti controls atmosphere."
+      },
+      {
+        "id": 852,
+        "type": "sameProblem",
+        "reason": "Henningsen’s PH Artichoke uses 72 precisely angled copper leaves to ensure no light path from the bulb reaches the eye directly — a complex mechanical solution to glare control. Aalto’s A330S perforates a single brass ring, releasing light sideways through small holes while the white interior reflects downward — a materially simple solution to the same problem. Both Scandinavian designers of the 1950s treating glare as the central challenge of pendant lighting, solved through radically different levels of component complexity."
       }
     ],
     "keywords": [
@@ -877,6 +957,11 @@ export const ARCHIVE = [
         "id": 14,
         "type": "method",
         "reason": "Henningsen's shade geometry disappears into 'a nice lamp.' Tschichold's composition rules disappear into 'a nice book.' The highest compliment for both: nobody notices the system."
+      },
+      {
+        "id": 1070,
+        "type": "argument",
+        "reason": "Henningsen’s 1958 PH 5 uses five separate shades to ensure the bulb is invisible from any angle — a complex assembly of distinct components, each performing a specific optical task. Panton’s 1971 Panthella is a single continuous opaline acrylic form — shade, stem, and base are one unbroken parabolic curve, the entire object emitting light. Both eliminate glare, but Henningsen builds a mechanism from parts while Panton dissolves the parts into a monolith."
       }
     ],
     "keywords": [
@@ -985,6 +1070,16 @@ export const ARCHIVE = [
         "id": 46,
         "type": "zeitgeist",
         "reason": "Jacobsen designed the SAS Royal down to the ashtrays — total authorial control. Noguchi sculpted a coffee table as gallery art for the living room — total aesthetic autonomy. The architect who controls everything meets the sculptor who controls nothing but the object."
+      },
+      {
+        "id": 630,
+        "type": "argument",
+        "reason": "Jacobsen's 1960 SAS Royal Hotel designed everything from structure to cutlery under one authorial vision — total design as total control. The Bouroullecs' 2006 Alcove Sofa creates a private room within an open-plan office through tall fabric panels alone — partial enclosure as gentle suggestion. Jacobsen controls the entire environment; the Bouroullecs insert a single object that creates its own environment within someone else's."
+      },
+      {
+        "id": 1062,
+        "type": "lineage",
+        "reason": "Jacobsen’s 1960 SAS Royal Hotel was the total design project — he designed everything from the building’s curtain-wall facade down to the Egg Chair’s upholstered shell. Five years later, his Oxford Chair applied the same integrated approach to a different institution: a high-backed writing chair for Merton College dons, where the backrest’s height provides the concentration and enclosure that an academic reading desk demands. The Egg Chair wraps the body for a hotel lobby; the Oxford Chair frames the mind for a college study."
       }
     ],
     "keywords": [
@@ -1019,6 +1114,11 @@ export const ARCHIVE = [
         "id": 28,
         "type": "method",
         "reason": "Wegner designed the Round Chair and the Wishbone Chair the same year — one reduces to perfect simplicity, the other adds the Y-shaped splat. Two solutions from one mind."
+      },
+      {
+        "id": 1065,
+        "type": "sameProblem",
+        "reason": "Wegner’s 1949 Round Chair achieves a top rail that flows into the armrests in a single continuous curve — joinery so refined it is invisible, the wood grain uninterrupted across the joint. Tusquets Blanca’s 1987 Gaulino derives its profile from Gaudí’s parabolic structural geometries — the rear legs splay outward in a continuous line with the back uprights. Both chairs express their structural logic through the curve of a single continuous line, but Wegner’s curve comes from studying the hand’s grip and Tusquets Blanca’s from studying Gaudí’s catenary arches."
       }
     ],
     "keywords": [
@@ -1049,6 +1149,11 @@ export const ARCHIVE = [
         "id": 26,
         "type": "method",
         "reason": "Same designer, same year. Round Chair reduces to essentials; Wishbone adds the Y-splat. Both masterpieces — proof that there isn't one right answer."
+      },
+      {
+        "id": 456,
+        "type": "argument",
+        "reason": "Juhl's 1949 Chieftain Chair separates structure from surface — the upholstered seat floats free of the sculptural teak frame, each element autonomous. Ponti's 1951 cabinet merges structure and surface into geometric compartments where the division of space is simultaneously the design and the construction. Both Italian and Danish modernism assert elegance, but Juhl achieves it through separation and Ponti through integration."
       }
     ],
     "keywords": [
@@ -1079,6 +1184,11 @@ export const ARCHIVE = [
         "id": 26,
         "type": "zeitgeist",
         "reason": "1949. Wegner's Round Chair makes joinery invisible — the top rail flows into the armrests in one curve. Juhl's Chieftain makes the frame a sculpture — the seat floats free of the structure. Disappearance versus display. The same Copenhagen guild, the same year, opposite beliefs about what a chair should show you."
+      },
+      {
+        "id": 1012,
+        "type": "sameProblem",
+        "reason": "Juhl’s 1949 Chieftain separates the upholstered seat and back from the teak frame — they touch but don’t merge, the frame sculptural and almost figurative. Rodrigues’s 1963 Tonico wraps a single continuous leather sling under the jacaranda frame’s front rail and over its back rail — structure and surface inseparable. Both solve the problem of how a hardwood frame relates to its seated body, but Juhl floats the comfort away from the structure while Rodrigues binds them together."
       }
     ],
     "keywords": [
@@ -1277,6 +1387,11 @@ export const ARCHIVE = [
         "id": 47,
         "type": "zeitgeist",
         "reason": "Koppel's biomorphic silver and Noguchi's biomorphic furniture emerge from the same postwar moment — abstract sculpture entering domestic life from opposite sides of the Atlantic."
+      },
+      {
+        "id": 1092,
+        "type": "material",
+        "reason": "Koppel hand-raises Pitcher 992 (1952) from a flat disc of sterling silver into a biomorphic form with no straight lines — the silver stretched by thousands of hammer blows into organic curves that reference sculpture more than tableware. Wirkkala hand-hammers Silver Leaf Dish TW 11 (1954) from sterling silver into a leaf form — each vein raised from beneath by individual blows against a wooden form. Both silversmiths begin with the same flat disc and the same hammer, but Koppel pursues the abstract and Wirkkala pursues the botanical."
       }
     ],
     "keywords": [
@@ -1351,6 +1466,11 @@ export const ARCHIVE = [
         "id": 25,
         "type": "argument",
         "reason": "Jacobsen controlled every detail of SAS Royal. Utzon lost control entirely. Total design achieved vs. total design denied."
+      },
+      {
+        "id": 733,
+        "type": "sameProblem",
+        "reason": "Utzon's 1973 Sydney Opera House cuts interlocking shells from a single sphere — a geometric insight that makes the impossible roof buildable. Le Corbusier's 1955 Ronchamp chapel curves thick concrete walls like a ship's hull, the roof a hollow shell that does not touch the walls. Both solve the problem of how to make concrete express sculptural emotion rather than structural rationalism, but Utzon finds geometry that enables construction while Le Corbusier abandons geometry for plasticity."
       }
     ],
     "keywords": [
@@ -1541,6 +1661,11 @@ export const ARCHIVE = [
         "id": 29,
         "type": "sameProblem",
         "reason": "The 670's leather was chosen to age like a baseball glove. The Spanish Chair's leather was chosen to mould like a saddle. Eames and Mogensen both design for the patina — the chair that looks best is the one that's been sat in longest."
+      },
+      {
+        "id": 28,
+        "type": "sameProblem",
+        "reason": "Juhl's Chieftain (1949) floats upholstery free of a sculptural teak frame — the chair as composed object, comfort as visual proposition. The Eameses' 670 (1956) nests leather cushions into moulded rosewood shells — the chair as engineered object, comfort as material proposition. Both solve the luxury armchair without the club-chair cliché, but Juhl separates structure from surface while the Eameses unify them into a single compound form."
       }
     ],
     "keywords": [
@@ -1576,6 +1701,11 @@ export const ARCHIVE = [
         "id": 321,
         "type": "method",
         "reason": "The Eameses order their house from industrial catalogues — every component standardised, every assembly photographable (1949). MakerBot ships the Thing-O-Matic as an open-source kit with deliberately exposed wiring and plywood housing (2010). Both make their own construction visible, trusting that transparency about how things are made is itself a design value."
+      },
+      {
+        "id": 1006,
+        "type": "method",
+        "reason": "The Eames House assembles factory-standard steel decking, industrial sash windows, and Ferrobord panels into a house — every component ordered from a catalogue. Ban’s Cardboard Cathedral assembles 98 cardboard tubes, each 600mm in diameter, into an A-frame church seating 700 people. Both architects build with components designed for other purposes, proving that architectural intelligence lies in the selection and arrangement of existing elements rather than the invention of new ones."
       }
     ],
     "keywords": [
@@ -1610,6 +1740,11 @@ export const ARCHIVE = [
         "id": 17,
         "type": "sameProblem",
         "reason": "The Eames Splint moulds plywood to a wounded soldier's leg. Aalto's Paimio scrolls plywood to a tuberculosis patient's breathing angle. Healthcare as the forcing function — when the body is in crisis, bent plywood stops being an aesthetic choice and starts being a medical one."
+      },
+      {
+        "id": 957,
+        "type": "method",
+        "reason": "The Eameses developed compound-curve moulded plywood for the US Navy — over 150,000 leg splints whose anatomical form is generated directly by the material’s bending properties. Niklová exploited PVC’s accordion-rib moulding for Fatra Napajedla — a cat toy whose entire play behaviour (compression, stretch, bounce) emerges from the material’s structural properties. Both designers treat the manufacturing process as the source of form rather than a means of achieving it: plywood bends, PVC ribs, and the product is whatever that process naturally produces."
       }
     ],
     "keywords": [
@@ -1725,6 +1860,11 @@ export const ARCHIVE = [
         "id": 35,
         "type": "zeitgeist",
         "reason": "TWA (1962) and Sydney Opera House (1973) — both expressive concrete shells, both designed by architects who didn't see them finished. Ambition outrunning institutions."
+      },
+      {
+        "id": 1100,
+        "type": "sameProblem",
+        "reason": "Saarinen’s 1962 TWA Flight Center wraps a reinforced concrete roof into four intersecting barrel vaults that evoke a bird in flight — architecture as a single continuous sculptural surface. Pininfarina’s 1946 Cisitalia 202 eliminates separate wings, running boards, and bolt-on headlamps, wrapping the mechanicals in one envelope of hand-formed aluminium — the first car whose body reads as sculpture rather than assembly. Both dissolve the boundary between structure and skin into a single expressive surface, and both entered museum collections as design objects."
       }
     ],
     "keywords": [
@@ -1800,6 +1940,11 @@ export const ARCHIVE = [
         "id": 32,
         "type": "method",
         "reason": "Noguchi's paper lanterns are handmade — each one slightly different because human hands are slightly different. Wirkkala's glasses are charred — each one unique because burning wood is unpredictable. Designed imprecision. The opposite of quality control, and the whole point."
+      },
+      {
+        "id": 1034,
+        "type": "lineage",
+        "reason": "Noguchi’s Akari lanterns take the form of traditional Gifu chōchin paper lanterns and reinterpret them as light sculptures — washi paper and bamboo ribbing producing light that is simultaneously Japanese craft and American modernism. Zanini de Zanine takes the form of the Japanese uchiwa fan and reinterprets it in Opalflex thermoplastic — an industrial material diffusing light across a traditional form. Both designers begin with a specific Japanese paper object and translate it into a contemporary lighting language that retains the original’s cultural memory."
       }
     ],
     "keywords": [
@@ -2130,6 +2275,11 @@ export const ARCHIVE = [
         "id": 43,
         "type": "zeitgeist",
         "reason": "Rand's IBM logo (1972) and Eames's Powers of Ten (1977, also for IBM) — the same corporation commissioning both graphic identity and experimental film. Corporate patronage at its best."
+      },
+      {
+        "id": 767,
+        "type": "method",
+        "reason": "Rand's 1972 IBM logo cuts eight horizontal stripes through three letters — unifying disparate letterforms into a single visual system through a mechanical overlay. Fletcher's 1989 V&A logo interlocks three characters vertically — the ampersand enlarged so V and A nest into its curves. Both solve corporate identity through the spatial relationship between letterforms, but Rand imposes a system onto the letters while Fletcher discovers the system already latent within them."
       }
     ],
     "keywords": [
@@ -2205,6 +2355,11 @@ export const ARCHIVE = [
         "id": 207,
         "type": "argument",
         "reason": "Nakashima's Conoid Bench lets each walnut slab's natural edge, knots, and grain determine the furniture's final form — material as auteur (1960). Kuramata's Cabinet de Curiosité dissolves the cabinet into transparent acrylic so its contents float in space — material as disappearance (1988). Two furniture makers with opposite material philosophies: one insists you see the wood, the other insists you see through it."
+      },
+      {
+        "id": 1038,
+        "type": "method",
+        "reason": "Nakashima’s Conoid Bench preserves the walnut slab’s natural edge — knots, bark inclusions, live edges retained as evidence of the tree’s specific biography. França carves his Canoa Bench from a single massive pequi vinagreiro trunk with chainsaw and adze, leaving exterior bark-texture intact while excavating a smooth interior. Both work by subtraction from a found tree, but Nakashima slices and displays the cross-section while França hollows and displays the volume."
       }
     ],
     "keywords": [
@@ -2360,6 +2515,11 @@ export const ARCHIVE = [
         "id": 44,
         "type": "method",
         "reason": "Womb Chair (1948) and Tulip Chair (1956) — Saarinen solving different problems with the same material (fibreglass) eight years apart. Comfort, then unity."
+      },
+      {
+        "id": 132,
+        "type": "lineage",
+        "reason": "Saarinen designed the Womb Chair and the Ottoman from the same fibreglass shell vocabulary — but the Ottoman is not a miniature chair. It rethinks the compound curves for a horizontal surface that receives weight through the legs rather than the back. Same material system, different structural logic, same year."
       }
     ],
     "keywords": [
@@ -2395,6 +2555,11 @@ export const ARCHIVE = [
         "id": 17,
         "type": "sameProblem",
         "reason": "Breuer's Cesca combines tubular steel with Viennese cane — industrial and traditional in one cantilever. Aalto's Paimio uses only birch — warm from frame to seat. Two answers to 'how does modern furniture stop feeling cold?' Breuer hybridises, Aalto commits."
+      },
+      {
+        "id": 347,
+        "type": "lineage",
+        "reason": "Breuer's 1928 Cesca uses a cantilevered steel tube with cane weaving — the original marriage of industrial frame and craft surface. Dahlström's 1994 BD:1 reduces that proposition to its structural minimum: a continuous steel tube with a plywood seat, the entire chair a diagram of its own forces. Sixty-six years of refinement, the cantilever progressively stripped of everything except the spring."
       }
     ],
     "keywords": [
@@ -2595,6 +2760,11 @@ export const ARCHIVE = [
         "id": 44,
         "type": "zeitgeist",
         "reason": "The Eames shell sits on any base — dowel legs, wire, rocker, pedestal. The Tulip shell sits on one base only — the pedestal, lacquered white to hide the aluminium. Eames designs a platform. Saarinen designs a sculpture. Modularity versus unity, 1950s America arguing with itself."
+      },
+      {
+        "id": 964,
+        "type": "lineage",
+        "reason": "The Eameses’ 1950 DSW/DSR established that a single moulded fibreglass shell could be the universal answer to seating — one form, multiple bases, infinite contexts. Ghyczy’s 1968 Garden Egg takes the fibreglass shell and closes it: a hinged pod that opens to reveal its upholstered interior, sealing the sitter inside a self-contained microenvironment. Both exploit fibreglass’s mouldability, but the Eameses open the shell to the world while Ghyczy shuts it away from it."
       }
     ],
     "keywords": [
@@ -2789,6 +2959,11 @@ export const ARCHIVE = [
         "id": 36,
         "type": "sameProblem",
         "reason": "Aalto's Savoy system: every vase, bowl, and candleholder shares the same undulating wave — organic coherence, family resemblance. Jacobsen's Cylinda-Line: every pot, jug, and tray shares the same cylinder — geometric coherence, mathematical rigour. Two ways to unify a product family: DNA versus formula."
+      },
+      {
+        "id": 947,
+        "type": "material",
+        "reason": "Aalto’s Savoy Vase (1936) is mouth-blown glass shaped into undulating organic waves — the molten material captured at the moment of fluidity, each piece unique despite the mould. Libenský and Brychtová’s Through the Cone (1995) is cast in a single monolithic piece from iron-rich batch glass — the optical density producing deep blue-green at the exterior and luminous amber through thin sections. Both exploit glass’s unique property of being simultaneously liquid and solid, but Aalto preserves the breath and Libenský captures the mass."
       }
     ],
     "keywords": [
@@ -3017,6 +3192,16 @@ export const ARCHIVE = [
         "id": 80,
         "type": "lineage",
         "reason": "The stool's bent-wood technique directly develops from Aalto's armchair experiments, but eliminates upholstery and complex curves to achieve industrial reproducibility."
+      },
+      {
+        "id": 182,
+        "type": "method",
+        "reason": "Aalto's Stool 60 bends birch by steaming solid wood until it yields — industrial force applied to a natural material. His Flower Dish lets molten glass find its own organic curve under heat, then arrests the movement. Both exploit the moment when material becomes plastic, but the stool imposes geometry while the dish records it."
+      },
+      {
+        "id": 220,
+        "type": "sameProblem",
+        "reason": "Aalto's Stool 60 (1933) bends three birch legs into a circular seat through mortise-and-tenon joints — stackable, minimal, no metal fasteners. Day's Polypropylene Chair (1964) moulds a single plastic shell onto a steel-rod base — stackable, minimal, no upholstery. Both solve the same problem: a chair reduced to the fewest possible components that stacks efficiently. Aalto does it in bent birch; Day does it in injection-moulded plastic. Thirty-one years between the same ambition in two materials."
       }
     ],
     "keywords": [
@@ -3042,7 +3227,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Nordic Modernism",
     "wikiTitle": "Paimio Chair",
-    "description": "A continuous bent birch plywood shell forms both seat and backrest, supported by a laminated birch frame that flows in unbroken curves from floor to armrest. The single-piece seat shell, cut from 15mm plywood and shaped through steam-pressing, eliminates joints where bacteria could accumulate. Originally designed for tuberculosis patients, the chair's smooth surfaces and organic form prioritize hygiene while providing ergonomic support for extended sitting.",
+    "description": "A continuous bent birch plywood shell forms both seat and backrest, supported by a laminated birch frame that flows in unbroken curves from floor to armrest. The single-piece seat shell, cut from 15mm plywood and shaped through steam-pressing, eliminates joints where bacteria could accumulate. Originally designed for tuberculosis patients, the chair's smooth surfaces and organic form prioritise hygiene while providing ergonomic support for extended sitting.",
     "significance": "Proves that functional requirements can generate beautiful forms when designers think systematically about use contexts. It demonstrates that medical or institutional briefs often push innovation harder than domestic furniture — constraints force creative solutions that later influence broader design culture.",
     "connections": [
       {
@@ -3054,6 +3239,11 @@ export const ARCHIVE = [
         "id": 81,
         "type": "method",
         "reason": "Same designer, same year, same material, opposite briefs. The Paimio's plywood shell is seamless — bacteria can't colonise the joints in a tuberculosis ward. The 41's seat is woven birch bark — flexible and breathable for a domestic living room. Aalto letting the context, not the aesthetic, determine the construction."
+      },
+      {
+        "id": 961,
+        "type": "lineage",
+        "reason": "Aalto’s 1932 Paimio Armchair established that a continuous bent birch plywood shell could form both seat and backrest — a single surface supported by a laminated frame. Lachert’s 1956 Muszla Chair achieves a similar plywood shell form within the Warsaw Ład cooperative, proving that the Scandinavian plywood language was not inaccessible behind the Iron Curtain. Both chairs derive their entire logic from the plywood sheet’s willingness to bend, but Lachert developed hers under socialist cultural policy rather than Nordic industrial patronage."
       }
     ],
     "keywords": [
@@ -3086,6 +3276,16 @@ export const ARCHIVE = [
         "id": 80,
         "type": "method",
         "reason": "The 41 weaves birch bark strips in a traditional Finnish technique — the seat flexes under the body's weight. The Paimio presses a single sheet of plywood into a continuous scroll — the seat must be wiped clean in a sanatorium. Same bent-birch frame, but craft serves comfort in one and hygiene in the other."
+      },
+      {
+        "id": 38,
+        "type": "sameProblem",
+        "reason": "Aalto's Armchair 41 (1932) weaves birch bark across a bent-birch frame — traditional Finnish technique absorbing dynamic loads. Mathsson's Eva (1934) weaves hemp across a bent-beech frame — Swedish ergonomic research generating comfort without upholstery. Two Scandinavian chairs from the same years, both solving the same problem: how a woven surface on a bent-wood frame can replace springs, padding, and cushions entirely."
+      },
+      {
+        "id": 110,
+        "type": "material",
+        "reason": "Aalto's Armchair 41 (1932) bends birch into L-shaped legs and weaves birch bark between them — two techniques, one species. Summers' SF/SC (1938) cuts an entire chair from a single sheet of thirteen-layer birch plywood — no joints, no fasteners, geometry alone. Both chairs trust birch to do everything, but Aalto combines industrial lamination with pre-industrial craft while Summers commits absolutely to one industrial process."
       }
     ],
     "keywords": [
@@ -3128,6 +3328,11 @@ export const ARCHIVE = [
         "id": 362,
         "type": "method",
         "reason": "Jacobsen's AJ Cutlery flows each handle continuously into its functional head — no joint, no interruption, the implement as one unbroken line (1958). Sato's 21400 mm chair bends a single aluminium rod into a complete seat — no cut, no weld, the chair as one unbroken line (2010). Continuity as method at two scales: cutlery and furniture, both refusing to break the metal."
+      },
+      {
+        "id": 781,
+        "type": "material",
+        "reason": "Jacobsen’s AJ Cutlery (1958) reduces each implement to its essential geometric form — knife as blade-edge, fork as parallel tines, spoon as perfect ellipse — in matt-finished stainless steel where the handles flow continuously into functional heads. Mellor’s Pride Cutlery (1953) uses stainless steel with a gently tapering handle and weight distribution calculated for instinctive balance. Both reimagine the same material for the same function, but Jacobsen designs from geometry and Mellor designs from the hand."
       }
     ],
     "keywords": [
@@ -3242,6 +3447,11 @@ export const ARCHIVE = [
         "id": 8,
         "type": "sameProblem",
         "reason": "Wegner exposes Chair 24's joints — you can see exactly where plywood meets steel, where wood meets metal. The Taccia conceals its light source — the bulb fires upward, hits a concave aluminium reflector, and bounces indirect light off the ceiling through a glass diffuser you can't see past. Both are about the joint between components, but Wegner shows it and the Castiglionis hide it."
+      },
+      {
+        "id": 101,
+        "type": "material",
+        "reason": "Eames's DCM (1947) mounts moulded plywood on a steel-rod frame with rubber shock mounts — the plywood and the steel never touch directly, they negotiate through rubber. Wegner's Chair 24 (1950) mounts a bent plywood shell on a steel-rod frame with visible bolts — the plywood and the steel are honestly fastened. Both combine the same two materials for the same purpose, but Eames isolates them and Wegner confronts their meeting."
       }
     ],
     "keywords": [
@@ -3311,6 +3521,16 @@ export const ARCHIVE = [
         "id": 357,
         "type": "argument",
         "reason": "Rams's RT 20 concentrates every control on its front face — the radio as a legible electronic instrument (1963). The Bouroullecs' Serif wraps a television in a thick frame with detachable legs — the screen as a piece of domestic furniture (2014). Fifty years between making technology honest and making technology comfortable."
+      },
+      {
+        "id": 95,
+        "type": "lineage",
+        "reason": "Rams's SK55 (1956) arranges radio controls in a single row, left to right in order of use — the interface as horizontal sequence. His RT 20 (1963) concentrates all controls on one face of a cube, power and tuning dominant, secondary functions receding — the interface as spatial hierarchy. Seven years between the line and the grid: the same designer discovering that electronic products need area, not just length."
+      },
+      {
+        "id": 420,
+        "type": "argument",
+        "reason": "Rams's RT 20 (1963) organises every control on the front face into a legible spatial hierarchy — the product teaches you how to use it by where things are. Fukasawa's wall-mounted CD player (1999) eliminates controls entirely — you pull a cord like an extractor fan, and it plays. Thirty-six years between making the interface rational and making the interface invisible."
       }
     ],
     "keywords": [
@@ -3388,7 +3608,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "description": "Rams' only furniture piece demonstrates his belief that good design should be unobtrusive. The chair's aluminum frame supports a single molded shell, avoiding visible joints or decorative elements. Its proportions follow the same geometric restraint as his electronic products, treating the human body as another technical specification to solve efficiently.",
+    "description": "Rams' only furniture piece demonstrates his belief that good design should be unobtrusive. The chair's aluminium frame supports a single molded shell, avoiding visible joints or decorative elements. Its proportions follow the same geometric restraint as his electronic products, treating the human body as another technical specification to solve efficiently.",
     "significance": "Rams designed one chair, and it looks exactly like his radios. That consistency is the point. The RZ 62 proves that reduction is not a style applied to products but a philosophical position that works regardless of what you sit on or listen to. Authorship here comes from method, not signature — the opposite of how most furniture designers build a reputation.",
     "connections": [
       {
@@ -3400,11 +3620,16 @@ export const ARCHIVE = [
         "id": 1,
         "type": "zeitgeist",
         "reason": "Rams's RZ 62 cantilevers the sitter over a thin aluminium base — structural calculation making the chair look impossible. The Arco cantilevers a lamp over a 65kg marble block — counterbalance making the arc look weightless. Both are 1962 exercises in defying expectation through engineering, German and Italian."
+      },
+      {
+        "id": 235,
+        "type": "material",
+        "reason": "Rams's 1962 RZ 62 uses aluminium as a precise, restrained frame for a moulded shell — Braun's design philosophy applied to furniture. Race's 1945 BA3A casts the entire frame from surplus aircraft aluminium in a single pour, eliminating complex joinery. Both treat aluminium as a structural argument rather than a finish, but Rams refines it to corporate understatement while Race celebrates the raw economy of wartime surplus."
       }
     ],
     "keywords": [
       "reduction",
-      "aluminum",
+      "aluminium",
       "cantilever",
       "modular",
       "systematic",
@@ -3432,6 +3657,11 @@ export const ARCHIVE = [
         "id": 5,
         "type": "argument",
         "reason": "Rams makes the mixer's engineering legible — you can see the motor housing dictate the form, the attachment system exposed and logical. The Castiglionis make the Snoopy's engineering endearing — the marble counterweight gives it a heavy bottom, the glass stem gives it a neck, the metal shade gives it a head. Both are honest about function, but Rams communicates clarity and the Castiglionis communicate character."
+      },
+      {
+        "id": 987,
+        "type": "argument",
+        "reason": "Rams’s M 140 mixer builds form from the motor’s cylindrical requirement — the housing follows the engineering, and the attachment system communicates its own logic. Godrej’s Chotukool refrigerator eliminates the motor entirely: a Peltier-effect chip replaces the compressor, enabling a 43-litre top-opening box that runs on 12V in rural India. Rams designs the most refined version of a product’s existing technology; Godrej asks whether the existing technology is the right starting point."
       }
     ],
     "keywords": [
@@ -3469,6 +3699,11 @@ export const ARCHIVE = [
         "id": 91,
         "type": "method",
         "reason": "The MPZ 2 juicer makes you watch citrus compress through transparent acrylic. The M 140 mixer makes the attachment system visible to communicate operation. Rams insisting, across twenty years and two kitchen appliances, that you should see what the object is doing."
+      },
+      {
+        "id": 1045,
+        "type": "argument",
+        "reason": "Rams’s MPZ 2 Juicer reduces citrus extraction to three essential elements: conical reamer, collection vessel, pouring spout — one function executed with absolute clarity. Elsener’s Swiss Army Knife stacks blade, scissors, file, screwdriver, and can opener onto a single pivot within a red celluloid scale — multiple functions compressed into one object. Both are canonical demonstrations of component economy, but Rams achieves it through elimination while Elsener achieves it through integration."
       }
     ],
     "keywords": [
@@ -3494,7 +3729,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "description": "The portable radio's cylindrical form houses the antenna requirement while the control interface reduces tuning to essential elements. The telescoping antenna extends from the geometric center, maintaining visual balance during operation. White housing eliminates colour distraction, focusing attention on the relationship between form and electromagnetic function.",
+    "description": "The portable radio's cylindrical form houses the antenna requirement while the control interface reduces tuning to essential elements. The telescoping antenna extends from the geometric centre, maintaining visual balance during operation. White housing eliminates colour distraction, focusing attention on the relationship between form and electromagnetic function.",
     "significance": "The T 1000 is where Rams proved that portable electronics could have the same formal discipline as a stationary system. The cylinder is not arbitrary — it houses the antenna at its geometric centre, maintaining visual balance whether extended or retracted. Technical constraint and aesthetic logic arrive at the same form, which is Rams's definition of inevitability.",
     "connections": [
       {
@@ -3610,7 +3845,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Functionalism",
     "wikiTitle": null,
-    "description": "The ET66 applies Rams' mature design language to electronic calculation, with a matte black case that recedes to emphasize the yellow function keys and white number pad. The asymmetric layout places mathematical operations logically while the angled form fits naturally in the hand. Each button's colour coding creates an intuitive hierarchy that reduces cognitive load during complex calculations.",
+    "description": "The ET66 applies Rams' mature design language to electronic calculation, with a matte black case that recedes to emphasise the yellow function keys and white number pad. The asymmetric layout places mathematical operations logically while the angled form fits naturally in the hand. Each button's colour coding creates an intuitive hierarchy that reduces cognitive load during complex calculations.",
     "significance": "Thirty years separate Rams' first transistor radio from the ET66, yet the yellow function keys and asymmetric grid could slot into any Braun product from any decade. The calculator is not evidence of consistency — it is evidence that the system was right in the first place. The same colour-coded hierarchy that organised a 1950s radio organises a 1980s calculator without modification, because the logic was never about the technology. Software interface design would later reinvent the same principle from scratch.",
     "connections": [
       {
@@ -3632,6 +3867,11 @@ export const ARCHIVE = [
         "id": 88,
         "type": "argument",
         "reason": "Rams organises the RT 20's interface hierarchically on a compact cube — power and tuning occupy prime positions, the speaker grille becomes texture — the radio announcing itself as a precision instrument (1963). The Bouroullecs frame a flat screen with a thick border referencing picture frames and add detachable legs — the television disguising itself as furniture (2014). Rams celebrates the electronic object; the Bouroullecs conceal it."
+      },
+      {
+        "id": 530,
+        "type": "argument",
+        "reason": "Bill's 1956 Kitchen Clock houses timekeeping in an organic teardrop ceramic form — Ulm's rationalism softened for the domestic kitchen. Magistretti's 1977 Atollo stacks cylinder, cone, and hemisphere into a lamp that achieves monumental presence through pure geometric authority. Both reduce their object to essential geometric forms, but Bill's geometry serves modesty while Magistretti's serves grandeur."
       }
     ],
     "keywords": [
@@ -3639,7 +3879,7 @@ export const ARCHIVE = [
       "visual hierarchy",
       "systematic branding",
       "ergonomic form",
-      "color coding",
+      "colour coding",
       "mathematical logic",
       "handheld devices",
       "interface design"
@@ -3669,6 +3909,11 @@ export const ARCHIVE = [
         "id": 150,
         "type": "argument",
         "reason": "Rams's Cosmolux folds five UV tubes into a hinged steel case that opens to 18cm and closes to 7cm — light engineering as compact utility (1964). Henningsen's Artichoke deploys 72 copper leaves across twelve rows to hide a single bulb from every angle — light engineering as spatial instrument (1960). Two German-speaking engineers, opposite definitions of what light design should solve."
+      },
+      {
+        "id": 148,
+        "type": "argument",
+        "reason": "Rams's Cosmolux folds into a rigid 7cm slab — precision engineering that hides behind a hinge. Hosoe's Hebi bends into any position and stays there — a corrugated PVC snake that makes its flexibility the entire formal proposition. Two approaches to the adjustable object: German discipline that stores neatly, Italian theatre that performs its own adaptability."
       }
     ],
     "keywords": [
@@ -3748,6 +3993,11 @@ export const ARCHIVE = [
         "id": 13,
         "type": "argument",
         "reason": "Bill's Kitchen Clock (1956) replaces numerals with mathematical ratios — you read the hour from a white disc where geometry alone marks time. Beck's map (1933) replaces geography with topology — you read the route from a diagram where angles alone mark distance. Both subtract until only the structure remains, but Bill does it for contemplation and Beck for navigation."
+      },
+      {
+        "id": 842,
+        "type": "lineage",
+        "reason": "Bill’s 1956 Kitchen Wall Clock applies mathematical precision to a ceramic domestic object — a teardrop body, no numerals, pure geometric markers. Seventy-five years earlier, Dresser’s Toast Rack achieved the same formal radicalism in electroplated silver — triangles and spheres replacing Victorian curlicues. Dresser’s geometric programme for industrial metalwork anticipates Bill’s for post-war consumer products: both prove that rigorous geometric abstraction can sit comfortably on a kitchen counter."
       }
     ],
     "keywords": [
@@ -3864,6 +4114,16 @@ export const ARCHIVE = [
         "id": 27,
         "type": "lineage",
         "reason": "The coffee table applies the plywood molding techniques developed for the LCW to a horizontal surface problem — transferring chair-making knowledge to table construction."
+      },
+      {
+        "id": 454,
+        "type": "lineage",
+        "reason": "The 1947 CTW coffee table separates plywood top from wire base, achieving span through tension. The 1945 Plywood Chair, designed two years earlier, applies wartime moulding technology directly to seating — compound curves following the body's contours in five layers of wood. The table refines; the chair invents. Both prove that military plywood pressing could become civilian furniture, but the chair is where the Eames method begins."
+      },
+      {
+        "id": 137,
+        "type": "sameProblem",
+        "reason": "Eames's CTW (1947) presses five layers of plywood into a slightly concave disc on four bent plywood legs — the table as exercise in compound curves. Noguchi's Table (1947) balances a freeform glass top on two interlocking walnut legs — the table as exercise in sculptural equilibrium. Two coffee tables from the same year, both three elements, both organic in outline, but Eames works within industrial moulding and Noguchi works within hand-carved sculpture."
       }
     ],
     "keywords": [
@@ -3900,6 +4160,11 @@ export const ARCHIVE = [
         "id": 237,
         "type": "argument",
         "reason": "The ESU system uses modular steel angles and interchangeable panels to build permanent storage walls (1949). Race's Cormorant uses an aluminium scissor-frame and canvas to build a chair that folds flat for transport (1961). Same principle — metal framework supporting functional surfaces — opposite ambitions: one fills a room, the other disappears from it."
+      },
+      {
+        "id": 1059,
+        "type": "sameProblem",
+        "reason": "The Eameses’ 1949 ESU system arranges modular panels of wood, metal, and masonite within a standardised steel framework — every panel type serving different storage needs while maintaining visual coherence through the grid. Perriand’s 1952 Nuage steps enamelled steel shelves and birch plywood dividers at different heights to create an asymmetric, cloud-like profile. Both solve the problem of wall-mounted storage, but Eames imposes a grid and varies the infill while Perriand breaks the grid and varies the outline."
       }
     ],
     "keywords": [
@@ -3931,11 +4196,16 @@ export const ARCHIVE = [
         "id": 13,
         "type": "argument",
         "reason": "Beck's map (1933) teaches by subtraction — strip London's geography down to coloured lines and angles, and the system becomes self-evident. Eames's Colouring Toy (1955) teaches by addition — spin overlapping discs and new colours appear that weren't there before. One makes the complex simple by removing information. The other makes the simple complex by generating it."
+      },
+      {
+        "id": 554,
+        "type": "method",
+        "reason": "The Eameses' 1955 Colouring Toy teaches abstract principles through physical manipulation — spinning discs that blend colour when rotated. Miyake's 132 5. dress teaches garment construction through the same principle: a flat geometric shape that unfolds into a three-dimensional form on the body. Both collapse the gap between understanding and experience by making the user complete the design through physical action."
       }
     ],
     "keywords": [
       "educational design",
-      "color theory",
+      "colour theory",
       "learning through play",
       "optical principles",
       "interactive mechanism",
@@ -4033,7 +4303,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Corporate Modernism",
     "wikiTitle": "Eames Aluminum Group",
-    "description": "The Aluminium Group replaces the Eameses' earlier rigid seat shells with a flexible vinyl membrane stretched between aluminum ribs, creating continuous support that moves with the user. The die-cast aluminum frame uses aircraft manufacturing techniques, while the suspension system eliminates traditional upholstery in favor of engineered comfort.",
+    "description": "The Aluminium Group replaces the Eameses' earlier rigid seat shells with a flexible vinyl membrane stretched between aluminium ribs, creating continuous support that moves with the user. The die-cast aluminium frame uses aircraft manufacturing techniques, while the suspension system eliminates traditional upholstery in favour of engineered comfort.",
     "significance": "Demonstrates the evolution from molded forms to engineered systems in modern seating. Its membrane technology and material precision establish templates for high-end office furniture, showing how aerospace methods can humanize corporate environments.",
     "connections": [
       {
@@ -4053,7 +4323,7 @@ export const ARCHIVE = [
       }
     ],
     "keywords": [
-      "aluminum casting",
+      "aluminium casting",
       "membrane suspension",
       "aircraft technology",
       "office furniture",
@@ -4075,7 +4345,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-Industrial",
     "wikiTitle": "S Chair",
-    "description": "Dixon's S Chair uses bent and welded steel rod to create a continuous cantilever seat that references Panton's formal innovation while rejecting plastic in favor of industrial metal construction. The chair emerges from Dixon's background in nightclub fabrication, applying improvised welding techniques to create furniture that celebrates rather than conceals its rough industrial making process.",
+    "description": "Dixon's S Chair uses bent and welded steel rod to create a continuous cantilever seat that references Panton's formal innovation while rejecting plastic in favour of industrial metal construction. The chair emerges from Dixon's background in nightclub fabrication, applying improvised welding techniques to create furniture that celebrates rather than conceals its rough industrial making process.",
     "significance": "Dixon welded the S Chair from scrap steel in a nightclub workshop, and the roughness is the argument. Where Panton's cantilever in plastic was seamless and industrial, Dixon's version in bent rod is visibly hand-made, each weld a declaration that design can emerge from improvisation rather than manufacturing precision. The 1980s salvage aesthetic starts here.",
     "connections": [
       {
@@ -4244,7 +4514,7 @@ export const ARCHIVE = [
     "movement": "Memphis",
     "wikiTitle": "Ettore Sottsass",
     "description": "A sideboard constructed from geometric blocks in contrasting laminates, using primary colours and patterns that refuse visual harmony. Each component maintains its independence rather than serving overall unity. The storage function becomes subordinate to the object's role as domestic sculpture and cultural provocation.",
-    "significance": "Exemplifies Memphis's challenge to functionalist orthodoxy, showing how furniture can prioritize cultural communication over efficiency. It clarifies how design objects can embody ideological positions about consumption, domesticity, and social values.",
+    "significance": "Exemplifies Memphis's challenge to functionalist orthodoxy, showing how furniture can prioritise cultural communication over efficiency. It clarifies how design objects can embody ideological positions about consumption, domesticity, and social values.",
     "connections": [
       {
         "id": 112,
@@ -4303,7 +4573,7 @@ export const ARCHIVE = [
       "working drawings",
       "axonometric",
       "geometric construction",
-      "color notation",
+      "colour notation",
       "design process",
       "Memphis methodology",
       "systematic design",
@@ -4329,6 +4599,16 @@ export const ARCHIVE = [
         "id": 117,
         "type": "lineage",
         "reason": "Le Strutture Tremano (1979) makes a table that looks like it might collapse — 'The Structures Are Trembling.' Six years earlier, the Totem uses ceramic stacking to evoke ritual presence. Sottsass moving from spiritual monument to structural anxiety, both rejecting the idea that furniture should reassure you."
+      },
+      {
+        "id": 374,
+        "type": "argument",
+        "reason": "Sottsass's 1979 Le Strutture Tremano makes a table that looks like it might collapse — structural precariousness as political statement, geometric and angular. Vinci's 2000 Weeds, Aliens and Other Stories makes furniture that refuses to welcome you — alien protrusions and biological textures as provocation, organic and visceral. Both weaponise discomfort, but Sottsass destabilises structure while Vinci destabilises the body's relationship to surface."
+      },
+      {
+        "id": 1076,
+        "type": "zeitgeist",
+        "reason": "Sottsass’s 1979 Le Strutture Tremano is a table designed to look unstable — chipboard and laminate on spindly enamelled legs, the title (‘The Structures Tremble’) naming its deliberate visual anxiety. Bedin’s 1981 Super Lamp is a wheeled table lamp on six castors — mobile, toylike, refusing every convention of the stationary, vertical table lamp. Both emerge from the same pre-Memphis moment in Italian radical design, treating instability and mobility as provocations against the assumption that furniture should stay put and behave."
       }
     ],
     "keywords": [
@@ -4366,6 +4646,11 @@ export const ARCHIVE = [
         "id": 44,
         "type": "method",
         "reason": "Sottsass drafts the Murmansk centrepiece with the same architectural precision Saarinen uses for the Tulip Chair — plans, elevations, exact proportions. The difference: Saarinen draws to solve engineering. Sottsass draws to choreograph ceremony."
+      },
+      {
+        "id": 416,
+        "type": "argument",
+        "reason": "Sottsass's 1965 Totem builds monumental presence through additive construction — ceramic modules stacked, glazed, and fired to permanence. Baas's 2007 Smoke Mirror creates surface through subtraction — controlled charring that removes material rather than adding it. Both use fire as a design tool, but Sottsass fires clay to preserve form while Baas burns wood to destroy it. Creation and destruction, from the same kiln logic."
       }
     ],
     "keywords": [
@@ -4403,6 +4688,11 @@ export const ARCHIVE = [
         "id": 119,
         "type": "material",
         "reason": "Totems in glazed ceramic. Geometric compositions in lithographic print. Sottsass testing the same colour-and-form vocabulary across materials — what works as a three-dimensional sculpture and what works as a flat image, the same visual question asked in clay and on paper."
+      },
+      {
+        "id": 582,
+        "type": "argument",
+        "reason": "Sottsass's 1982 Mumansk treats silverplate as architectural spectacle — geometric volumes stacked into a miniature cityscape that elevates the dining ritual through spatial drama. Schwarcz's 1987 Vessel 985 deposits copper through electrolysis, building metal surfaces that no traditional metalsmith could achieve. Both transform the vessel from tableware to art object, but Sottsass imposes architectural geometry while Schwarcz lets electrochemistry generate form."
       }
     ],
     "keywords": [
@@ -4412,7 +4702,7 @@ export const ARCHIVE = [
       "modular geometry",
       "ritual objects",
       "non-Western influence",
-      "color blocking",
+      "colour blocking",
       "anti-utility"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2011EY1968/full/800,/0/default.jpg"
@@ -4435,6 +4725,16 @@ export const ARCHIVE = [
         "id": 5,
         "type": "argument",
         "reason": "Sottsass's silver centrepiece treats tableware as architectural landscape — geometric volumes, spatial drama. The Snoopy treats a table lamp as a small character — marble base, glass stem, tilted metal nose. Monumentality against intimacy."
+      },
+      {
+        "id": 33,
+        "type": "material",
+        "reason": "Sottsass’s Mumansk (1982) treats silver as a material for architectural landscape — geometric volumes creating a miniature cityscape on the dining table, the precious metal deployed for spatial drama rather than decorative refinement. Koppel’s Pitcher 992 (1952) treats silver as a material for sculptural flow — one continuous biomorphic curve from base to lip, the precious metal deployed for organic form. Same silver, opposite spatial vocabularies: the angular city and the liquid body."
+      },
+      {
+        "id": 371,
+        "type": "method",
+        "reason": "Sottsass's 1973 lithograph with Tiger Tateishi lays flat, saturated colour fields against white ground — a painter's vocabulary applied through the printing press. Utrillo's 1925 theatre costume translates his painted street scenes onto fabric wrapped around a moving body. Both artists export their painterly language into other media, but Sottsass keeps the image flat while Utrillo gives it a spine and momentum."
       }
     ],
     "keywords": [
@@ -4472,12 +4772,17 @@ export const ARCHIVE = [
         "id": 30,
         "type": "argument",
         "reason": "Sottsass's lithograph explores pure geometric relationships through colour — the Panton Chair achieves pure geometric form in a single plastic curve. Both distil design to geometry, on paper and in polypropylene."
+      },
+      {
+        "id": 114,
+        "type": "lineage",
+        "reason": "Sottsass's 1973 lithographs with Tiger Tateishi treat print as a laboratory for colour interaction — geometric fields in tension. His 1981 drawings for Carlton and Casablanca apply the same colour blocking to furniture elevations. The lithographic research becomes the Memphis palette."
       }
     ],
     "keywords": [
       "lithographic print",
       "geometric abstraction",
-      "color interaction",
+      "colour interaction",
       "visual research",
       "perception studies",
       "experimental graphics",
@@ -4565,7 +4870,7 @@ export const ARCHIVE = [
       "stripes",
       "pre-Memphis",
       "vessel",
-      "color",
+      "colour",
       "radical design"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AM4668/full/800,/0/default.jpg"
@@ -4724,6 +5029,11 @@ export const ARCHIVE = [
         "id": 10,
         "type": "sameProblem",
         "reason": "Breuer's first chair joins timber rails with traditional mortise-and-tenon joinery — the craft holding it together is invisible inside the joints. The Grillo joins earpiece to mouthpiece with a visible steel hinge — the mechanism holding it together is the most prominent feature. Both are about connection, but Breuer hides the joint and Zanuso displays it."
+      },
+      {
+        "id": 455,
+        "type": "lineage",
+        "reason": "Breuer's 1922 Wooden Armchair uses traditional mortise-and-tenon joinery in cherrywood — his first chair, still bound to the workshop. His 1935 desk extends the cantilever principle he discovered in steel tube to the work surface, and the tube becomes corporate infrastructure. Thirteen years from craft student to industrial designer: the same mind, abandoning wood for metal, the joint for the bend."
       }
     ],
     "keywords": [
@@ -5048,8 +5358,8 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Festival Style",
     "wikiTitle": "Ernest Race",
-    "description": "Race's Flamingo uses bent steel rod construction with upholstered seat and back shells to create a chair that balances structural logic with comfort. The wire frame creates a cage-like structure that supports separate cushioned elements, allowing the metal framework to remain visible and express its load-bearing function. The proportions emphasize the horizontal spread of the armrests.",
-    "significance": "Viewers should recognize how Race adapts American wire furniture innovations for British manufacturing capabilities and domestic comfort expectations. The chair demonstrates how structural expression can coexist with traditional upholstery rather than eliminating it entirely.",
+    "description": "Race's Flamingo uses bent steel rod construction with upholstered seat and back shells to create a chair that balances structural logic with comfort. The wire frame creates a cage-like structure that supports separate cushioned elements, allowing the metal framework to remain visible and express its load-bearing function. The proportions emphasise the horizontal spread of the armrests.",
+    "significance": "Viewers should recognise how Race adapts American wire furniture innovations for British manufacturing capabilities and domestic comfort expectations. The chair demonstrates how structural expression can coexist with traditional upholstery rather than eliminating it entirely.",
     "connections": [
       {
         "id": 34,
@@ -5102,6 +5412,11 @@ export const ARCHIVE = [
         "id": 8,
         "type": "sameProblem",
         "reason": "Jacobs moulds a single plywood shell that becomes seat and back simultaneously — one surface doing two jobs. The Taccia's glass bowl simultaneously diffuses light and shields the eye from glare — one component doing two jobs. Same economy of means: the Jason in 1950s Danish plywood, the Taccia in 1960s Italian glass."
+      },
+      {
+        "id": 133,
+        "type": "sameProblem",
+        "reason": "Jacobs's Jason Chair of 1950 and Race's Flamingo of 1959 both solve the same post-war British problem: how to make modern seating with limited industrial capacity. Jacobs bends plywood into a continuous shell; Race bends steel rod into a cage and adds separate upholstered cushions. One eliminates upholstery entirely, the other makes it the point."
       }
     ],
     "keywords": [
@@ -5139,6 +5454,11 @@ export const ARCHIVE = [
         "id": 8,
         "type": "argument",
         "reason": "Baresel-Bofinger uses injection moulding to make seat, back and legs from one shot of polypropylene — total material integration. The Taccia goes the other way: aluminium base (weight and stability), steel column (height), glass bowl (diffusion) — three materials, each doing what it does best. Integration versus articulation as strategies for functional clarity."
+      },
+      {
+        "id": 338,
+        "type": "lineage",
+        "reason": "Baresel-Bofinger's 1964 chair proved injection-moulded plastic could form a complete stackable chair — seat, back, and legs in one shot. Colwell's 1967 Contour takes the single-shell principle further: the fibreglass follows the body's contours without any upholstery at all, the material providing structure, surface, and comfort simultaneously. Three years from stackable to sculptural, the same technology serving opposite ambitions."
       }
     ],
     "keywords": [
@@ -5260,6 +5580,11 @@ export const ARCHIVE = [
         "id": 252,
         "type": "argument",
         "reason": "Noguchi restricts the actor's movement with angular geometric panels in stiffened felt, leather, and rubber — the Fool's costume as sculptural cage (1955). Lucienne Day liberates the textile surface with flowing gestural marks in blue — the hanging as atmospheric space (1985). Two textile works that define freedom and constraint through opposite formal strategies."
+      },
+      {
+        "id": 136,
+        "type": "method",
+        "reason": "Noguchi designed both the Fool's costume and this broader costume scheme for the same 1955 King Lear production — but the methods diverge. The Fool's rigid felt panels restrict the actor's body; the wider costume designs reduce figures to geometric silhouettes that amplify dramatic relationships through spatial proportion. Same production, same sculptor, opposite strategies for controlling the body on stage."
       }
     ],
     "keywords": [
@@ -5375,6 +5700,11 @@ export const ARCHIVE = [
         "id": 18,
         "type": "sameProblem",
         "reason": "Sapper's Black 201 uses dark ABS plastic to eliminate visual distraction from the screen — Aalto's Stool 60 uses three birch legs to eliminate visual distraction from the seat. Both achieve clarity through reduction, in electronics and furniture."
+      },
+      {
+        "id": 533,
+        "type": "zeitgeist",
+        "reason": "Sapper's Black 201 of 1969 makes the television disappear behind a monolithic black housing — the screen surrounded by as little as possible. Zanuso's Black ST 201 of the same year turns the television into a sculptural object — the black housing and chrome accents asserting material presence. Same city, same year, same problem, opposite answers: one evacuates the object, the other celebrates it."
       }
     ],
     "keywords": [
@@ -5543,6 +5873,11 @@ export const ARCHIVE = [
         "id": 152,
         "type": "zeitgeist",
         "reason": "Bass's Advise & Consent poster (1962): geometric abstraction selling political drama to cinema audiences. Chappell's sheet music covers (1970): modernist typography selling pop songs to amateur pianists. Graphic modernism migrating from Hollywood to the high street, from auteur to anonymous."
+      },
+      {
+        "id": 396,
+        "type": "lineage",
+        "reason": "Bass's 1962 Advise & Consent poster uses geometric abstraction to represent political conflict — black and white shapes colliding without literal figures. The Beggarstaffs' 1895 Harper's poster anticipates this by sixty-seven years: Japanese woodblock-inspired flat colour and cut-paper silhouettes that eliminate detail until only the figure's essence remains. Bass inherited the principle that visual reduction serves communication — the Beggarstaffs proved it first."
       }
     ],
     "keywords": [
@@ -5622,6 +5957,26 @@ export const ARCHIVE = [
         "id": 345,
         "type": "sameProblem",
         "reason": "The Vignellis blow a glass carafe whose rounded ribs serve the hand while the conical stopper signals the pour (1991). Morrison shapes a beer glass whose taper, rim, and weight serve the foam and the lip (1992). Two designers in consecutive years, both starting from the liquid and working outward to the form."
+      },
+      {
+        "id": 266,
+        "type": "zeitgeist",
+        "reason": "Games's official Festival of Britain poster of 1951 uses crystalline geometry and atomic imagery to project national optimism — science as public spectacle. Fraser's Guinness poster from the same year embeds a beer brand within the Festival's visual language, proving that commercial advertising and cultural celebration could share the same iconography. Two 1951 posters: one commissions the mood, the other borrows it."
+      },
+      {
+        "id": 426,
+        "type": "method",
+        "reason": "The Vignellis' 1991 carafe reduces glass to pure geometric form — a cylinder topped with a cone, no ornament, no excess. Wagenfeld's 1938 storage boxes apply the same reductive logic to a nesting system — identical proportional relationships in clear glass, each box revealing its contents and its stacking logic. Both treat transparency as a design principle: the object explains itself by showing you everything."
+      },
+      {
+        "id": 487,
+        "type": "argument",
+        "reason": "Müller-Brockmann's 1950 Zürich festival poster codifies Swiss graphic design through mathematical grid and geometric precision — the designer imposing order. Broomfield's 1957 photograph of nylon bobbins in a Welsh factory finds geometry already present in industrial production — the photographer recognising order. Both achieve visual rhythm through systematic composition, but one constructs it on the page while the other discovers it on the factory floor."
+      },
+      {
+        "id": 718,
+        "type": "argument",
+        "reason": "The Vignellis' 1991 carafe uses clear glass as a vessel of geometric purity — transparency revealing the liquid within, the material serving rationalist understatement. Herkner's 2012 Bell Table uses mouth-blown glass in jewel colours as a structural base — sapphire, emerald, amethyst — the material serving chromatic presence. Both make glass the primary design statement, but the Vignellis make it disappear while Herkner makes it impossible to ignore."
       }
     ],
     "keywords": [
@@ -5659,6 +6014,11 @@ export const ARCHIVE = [
         "id": 155,
         "type": "lineage",
         "reason": "Vignelli's rational typography directly descends from Müller-Brockmann's Swiss International Style — the same geometric grid logic and reduction to essential elements, but applied to Italian cultural communication rather than Swiss institutional messaging."
+      },
+      {
+        "id": 450,
+        "type": "sameProblem",
+        "reason": "Vignelli's 1965 Il Gioco dei Potenti uses strict geometric type arrangement to communicate theatrical drama through mathematical precision — the grid as authority. Bragg's 1980 Ken poster uses a single cropped word at extreme scale to communicate cinematic menace through typographic domination — the letter as threat. Both solve the same problem: how to sell a performance through type alone, without photography or illustration."
       }
     ],
     "keywords": [
@@ -5721,7 +6081,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Memphis",
     "wikiTitle": null,
-    "description": "A chair that explodes the conventions of seating through radical formal disruption. Shire combines geometric shapes — sphere, cylinder, pyramid — in impossible relationships that prioritize symbolic meaning over ergonomic logic. The vivid colour palette and angular composition create visual tension rather than physical comfort, transforming furniture into sculptural statement.",
+    "description": "A chair that explodes the conventions of seating through radical formal disruption. Shire combines geometric shapes — sphere, cylinder, pyramid — in impossible relationships that prioritise symbolic meaning over ergonomic logic. The vivid colour palette and angular composition create visual tension rather than physical comfort, transforming furniture into sculptural statement.",
     "significance": "The work presents furniture as conceptual argument rather than functional solution — the chair demonstrates how postmodern design challenges rather than serves user expectations. It shows that objects can communicate ideas about culture, identity, and artistic rebellion through pure formal language.",
     "connections": [
       {
@@ -5780,6 +6140,11 @@ export const ARCHIVE = [
         "id": 493,
         "type": "zeitgeist",
         "reason": "Mariscal's Hilton Trolley (1981) anthropomorphises furniture through cartoon-like figuration — wheels become feet, handles become gesturing arms, the trolley as a dancing figure. Ilori's Captain Hook Chair Frame (2020) anthropomorphises furniture through bold colour and playful proportions informed by Nigerian textile patterns — the chair as character, grinning from across the room. Both reject neutral efficiency in favour of furniture that performs personality, though forty years apart and from opposite design traditions."
+      },
+      {
+        "id": 545,
+        "type": "zeitgeist",
+        "reason": "Mariscal's 1981 Hilton Trolley turns domestic service into cartoon theatre — furniture as performance, anthropomorphised and playful. Archizoom's 1975 Aeo Chair turns domestic seating into political polemic — furniture as refusal, anti-decorative and confrontational. Both reject the bourgeois living room, but Mariscal replaces it with humour while Archizoom replaces it with ideology."
       }
     ],
     "keywords": [
@@ -5817,6 +6182,11 @@ export const ARCHIVE = [
         "id": 44,
         "type": "method",
         "reason": "Bedin draws a lamp as if drawing a character in a cartoon — personality first, specifications never. Saarinen draws the Tulip Chair through architectural plans — precision first, personality emerging from the engineering. Memphis versus modernism: the sketch that invents a feeling versus the drawing that solves a problem."
+      },
+      {
+        "id": 400,
+        "type": "lineage",
+        "reason": "Bedin's 1981 Super Lamp drawing uses felt-tip colour and loose line to communicate form — the sketch as design medium, not the specification as design medium. Christie's 2018 Frankenstein costume drawing synthesises digital rendering with physical construction planning, testing fabric, light, and movement before cutting. Thirty-seven years of theatrical design drawing evolving from intuitive mark-making to computational rehearsal, the sketch becoming simulation."
       }
     ],
     "keywords": [
@@ -5943,6 +6313,11 @@ export const ARCHIVE = [
         "id": 162,
         "type": "zeitgeist",
         "reason": "Bedin's Terminus: a lamp with wheels and a face — anthropomorphic, affectionate. De Lucchi's Oceanic: a desk lamp as geometric sculpture — abstract, commanding. Memphis 1981's two approaches to liberating the lamp: give it a personality, or give it a monument."
+      },
+      {
+        "id": 643,
+        "type": "argument",
+        "reason": "Du Pasquier's 1986 Floating Smithereens carpet scatters geometric fragments across the floor without hierarchy — postmodern pattern rejecting symmetry and border. Urquiola's 2006 Antibodi covers a steel-framed chaise in hundreds of individually cut felt and leather flowers — each stitched to a quilted base, together forming the upholstery itself. Both dissolve the distinction between decoration and structure, but du Pasquier works in two dimensions while Urquiola wraps the argument around a body."
       }
     ],
     "keywords": [
@@ -5980,6 +6355,11 @@ export const ARCHIVE = [
         "id": 8,
         "type": "sameProblem",
         "reason": "De Lucchi's Oceanic is a Memphis lamp that presents itself to you — biomorphic shape, colour, character. The Taccia presents light to the ceiling and lets the ceiling return it to you indirectly. Oceanic is the subject; the Taccia makes the room the subject. Self-regarding design versus self-effacing design."
+      },
+      {
+        "id": 737,
+        "type": "argument",
+        "reason": "De Lucchi's 1981 Oceanic Lamp uses bold colour as Memphis declaration — applied to geometric form, colour as sign. Barragán's 1948 Casa Barragán uses hot pink, yellow ochre, and terracotta orange as structural material — colour defining space, creating mood, directing movement through architecture. Both insist that colour carries meaning, but de Lucchi treats it as surface vocabulary while Barragán treats it as spatial force."
       }
     ],
     "keywords": [
@@ -5989,7 +6369,7 @@ export const ARCHIVE = [
       "sculptural lighting",
       "task lighting",
       "adjustable mechanisms",
-      "color blocking",
+      "colour blocking",
       "functional radicalism"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2018LC0100/full/800,/0/default.jpg"
@@ -6140,6 +6520,11 @@ export const ARCHIVE = [
         "id": 97,
         "type": "method",
         "reason": "Sowden's Metropole clock: a stepped Art Deco silhouette in Memphis colours, timekeeping as architectural spectacle. Rams's Cosmolux sun lamp: a white cylinder, medical precision, geometry as health tool. Two objects that tell you the time (one literally) — Memphis treats it as theatre, Braun treats it as mathematics."
+      },
+      {
+        "id": 160,
+        "type": "method",
+        "reason": "Sowden's Design for Beds (1982) treats the headboard as an architectural facade — geometric panels in contrasting patterns. His Metropole Clock (1982) treats the mantel clock as an Art Deco skyscraper — stepped profile in bold colour blocking. The same designer applying Memphis surface logic to two different domestic typologies in the same year."
       }
     ],
     "keywords": [
@@ -6176,6 +6561,11 @@ export const ARCHIVE = [
         "id": 160,
         "type": "zeitgeist",
         "reason": "Du Pasquier's Floating Smithereens Carpet fragments geometric shapes into scattered compositions across the floor plane (1986). Sowden's bed designs stack geometric panels in contrasting patterns above the mattress (1982). Memphis pattern logic applied to two domestic surfaces — the one you walk on and the one you sleep against."
+      },
+      {
+        "id": 1079,
+        "type": "argument",
+        "reason": "Du Pasquier’s 1986 Floating Smithereens scatters geometric shapes across a carpet — pattern without cultural reference, decoration as pure abstract composition. Vlisco’s Dutch wax print, industrially produced since 1846, carries patterns so culturally loaded that their specific designs (Ayo, Jumping Cow, Ankara) function as social communication in West Africa. Both are repeat-pattern textiles, but du Pasquier empties pattern of meaning while Vlisco’s patterns are so densely meaningful that wearing them is a public statement."
       }
     ],
     "keywords": [
@@ -6212,6 +6602,11 @@ export const ARCHIVE = [
         "id": 169,
         "type": "lineage",
         "reason": "Selmanagic's post-war chair demonstrates how Bauhaus steel furniture principles survived fascism and emigration — Bayer's promotional methods helped establish the visual language that legitimized such continuities."
+      },
+      {
+        "id": 1098,
+        "type": "zeitgeist",
+        "reason": "Bayer’s 1927 Breuer Metallmöbel brochure uses sans-serif typography and asymmetrical composition to sell tubular steel furniture — the Bauhaus visual programme applied to commercial promotion. The same year, Stölzl’s Slit Tapestry uses the slit weave technique — where colour fields meet without interlocking, leaving structural gaps in the cloth — as a compositional element that painting cannot replicate. Both emerge from the Bauhaus in 1927, both insist on medium-specificity: Bayer that typography has its own logic, Stölzl that weaving has its own formal language."
       }
     ],
     "keywords": [
@@ -6380,6 +6775,11 @@ export const ARCHIVE = [
         "id": 341,
         "type": "argument",
         "reason": "Morris's Strawberry Thief demands the indigo discharge technique — multiple printing stages, specialist knowledge, irreducible complexity (1883). Incadinc's dress kit eliminates traditional sewing entirely — pre-cut components, modular assembly, accessible simplicity (1966). Eighty years apart, textile production argues with itself: guard the craft or open the door."
+      },
+      {
+        "id": 215,
+        "type": "argument",
+        "reason": "Morris's Strawberry Thief of 1883 transforms observed nature — thrushes in his garden — into pattern through laborious hand-block printing, asserting craft as moral act. Crossley's Indian Heroes of 1858 transforms colonial violence into consumable decoration through industrial carpet production. Both convert reality into domestic pattern, but Morris's conversion is an act of attention; Crossley's is an act of erasure."
       }
     ],
     "keywords": [
@@ -6454,6 +6854,11 @@ export const ARCHIVE = [
         "id": 173,
         "type": "material",
         "reason": "Lea's indigo discharge printing and Indian's hand-block process — Morris choosing dyestuffs and techniques that industrial factories had abandoned. Every colour in these textiles is an ideological decision: natural dyes because the machine produces inferior ones."
+      },
+      {
+        "id": 180,
+        "type": "method",
+        "reason": "Lea and Tulip and Willow share Morris's indigo discharge process on cotton — white figures emerging from dark ground through chemical removal rather than application. But Lea's 1885 pattern flows diagonally along a single stem rhythm, while Tulip and Willow's 1873 design integrates two distinct botanical systems, tulips and willows, into shared linear rhythm. Same dyeing chemistry, different compositional logic."
       }
     ],
     "keywords": [
@@ -6491,6 +6896,11 @@ export const ARCHIVE = [
         "id": 173,
         "type": "lineage",
         "reason": "Wreath refines Indian wallpaper's dense botanical complexity into geometric organisation, showing Morris's evolution toward structural discipline while maintaining natural reference."
+      },
+      {
+        "id": 175,
+        "type": "method",
+        "reason": "Morris's Lea fabric (1885) uses indigo discharge printing to create flowing diagonal stems — botanical rhythm driven by textile process. His Wreath wallpaper (1876) organises the same botanical vocabulary into circular formations — geometric order imposed on natural forms. The same designer discovering that the constraint of the medium changes the character of the motif."
       }
     ],
     "keywords": [
@@ -6570,6 +6980,11 @@ export const ARCHIVE = [
         "id": 110,
         "type": "lineage",
         "reason": "Morris's Trellis (1862) constrains roses within a geometric lattice — nature disciplined by pattern. Summers's plywood chair (1938) constrains an entire chair within a single bent sheet — construction disciplined by material. Two acts of imposing geometric logic on organic material, seventy-six years apart."
+      },
+      {
+        "id": 1096,
+        "type": "method",
+        "reason": "Morris’s 1862 Trellis wallpaper constrains naturalistic botanical drawing within a geometric lattice — roses climbing a trellis, nature contained by structure, the infinite repeat disguising the mechanical reproduction. Gallé’s 1900 cameo glass vases layer and carve botanical imagery in relief through multiple coloured glass layers — nature emerging from the material itself, light passing through carved depths. Both artist-craftsmen treat botanical observation as the raw material for decorative art, but Morris prints it flat while Gallé carves it deep."
       }
     ],
     "keywords": [
@@ -6886,6 +7301,16 @@ export const ARCHIVE = [
         "id": 92,
         "type": "argument",
         "reason": "Rams designs the MPZ 2 juicer so its mechanism is transparently visible — you see the fruit compress through acrylic, every function legible. The London Poster Project distributes blank poster templates across the city — you see the framework, the content comes from whoever picks one up. Both make the structure visible and invite the user to complete the process."
+      },
+      {
+        "id": 440,
+        "type": "argument",
+        "reason": "The Guerrilla Girls' Met poster (1989) weaponises museum typography to indict institutional bias — the format is borrowed, the message is confrontational, the audience is shocked. The London Poster Project (2009) distributes blank poster templates across the city — the format is provided, the message comes from anyone, the audience becomes the author. Both use the poster as democratic instrument, but one speaks for the silenced and the other hands them the pen."
+      },
+      {
+        "id": 263,
+        "type": "sameProblem",
+        "reason": "Games's Festival of Britain poster (1951) uses geometric abstraction to celebrate national identity through a single designer's authoritative vision. The London Poster Project (2009) uses constrained silkscreen to celebrate London through twenty designers' parallel responses to one brief. The same problem — how graphic design represents a city to itself — solved through singular authority in one and distributed authorship in the other."
       }
     ],
     "keywords": [
@@ -7002,6 +7427,11 @@ export const ARCHIVE = [
         "id": 191,
         "type": "method",
         "reason": "Crompton builds Fantasy from layered fabrics and mixed threads into geometric abstraction — raw edges as deliberate design elements (1936). Six years earlier, Horse used the same mixed-stitch technique to render a recognisable animal in flat colour planes (1930). One artist's journey from figuration to abstraction, both works insisting that embroidery is a medium for serious composition."
+      },
+      {
+        "id": 267,
+        "type": "lineage",
+        "reason": "Crompton's 1936 Fantasy panel pioneered raw edges and mixed stitching as deliberate design elements in British textile — machine and hand combined without hierarchy. Webster's 1951 Beryl fabric inherits that permission to sit between traditions, placing organic leaf-forms in a mechanical repeat grid. Crompton broke the craft boundary; fifteen years later, Festival style turned the break into a commercial proposition."
       }
     ],
     "keywords": [
@@ -7088,7 +7518,7 @@ export const ARCHIVE = [
       "modernist representation",
       "simplified forms",
       "craft interpretation",
-      "controlled color",
+      "controlled colour",
       "traditional subjects",
       "hand-stitching",
       "applied modernism"
@@ -7160,6 +7590,16 @@ export const ARCHIVE = [
         "id": 195,
         "type": "lineage",
         "reason": "Worth constructs an 1881 evening dress through seaming, goring, and draping — the body shaped by fabric architecture. Cadwallader constructs a 2022 tour costume through boned corset and 240,000 hand-applied crystals — the body shaped by light engineering. Both demand thousands of hours of hand-finishing; both turn the wearer into spectacle."
+      },
+      {
+        "id": 368,
+        "type": "method",
+        "reason": "Worth's 1881 evening dress maps the female body through strategic seaming and goring — every panel calculated to create the fashionable silhouette. Hemsley's 1938 breeches map the rider's body in motion — reinforcement at stress points, freedom at joints, grip where saddle meets thigh. Both use pattern cutting as a precise recording of how bodies behave, but one serves appearance and the other serves performance."
+      },
+      {
+        "id": 555,
+        "type": "argument",
+        "reason": "Worth's 1881 evening dress achieves its silhouette through maximum construction — boning, goring, bustle hoops, draped panels, adjustable tapes. Miyake's 1991 suit achieves a better fit through minimum construction — fewer seams, simpler cutting, minimal waste. A century of tailoring separates them, but the argument is structural: Worth adds complexity to control the body, Miyake removes it to liberate the body."
       }
     ],
     "keywords": [
@@ -7285,7 +7725,7 @@ export const ARCHIVE = [
       {
         "id": 27,
         "type": "sameProblem",
-        "reason": "Gray bends tubular steel into continuous armrest-to-base lines — Wegner bends beech into a continuous arm-to-arm top rail. Both achieve structural flow through continuous curves, in metal and wood respectively."
+        "reason": "Gray bends tubular steel into continuous armrest-to-base lines; Wegner bends beech into a continuous arm-to-arm top rail. Same structural ambition — unbroken flow from one bearing point to another — but Gray's steel allows tighter radii and industrial repetition, while Wegner's wood demands hand-shaped joints and tolerates no filler."
       },
       {
         "id": 37,
@@ -7328,6 +7768,11 @@ export const ARCHIVE = [
         "id": 38,
         "type": "sameProblem",
         "reason": "Gray bends tubular steel into an S-curve that springs under load — the tube is the structure, the seat, and the suspension. Mathsson shapes laminated beech to match spinal pressure maps — the wood is the structure, the hemp webbing is the suspension. Two women designers in the 1930s, engineering comfort through continuous curves."
+      },
+      {
+        "id": 204,
+        "type": "lineage",
+        "reason": "Gray's S-bend chair of 1938 bends a single tube into a continuous curve — no joints, no welds, structure and seat as one gesture. Her 1930 metal frame chair drawing shows the earlier stage: tubular steel as a framework for separate seat and back components, cantilever as structural proposition. Eight years between them traces Gray's journey from assembled parts to continuous line."
       }
     ],
     "keywords": [
@@ -7365,6 +7810,11 @@ export const ARCHIVE = [
         "id": 30,
         "type": "argument",
         "reason": "Gray's technical drawing reveals the precise geometry required to engineer the Transatlantique — Panton's chair IS the precise geometry, S-curve rendered directly in polypropylene. The drawing and the object, both pure geometric propositions."
+      },
+      {
+        "id": 201,
+        "type": "lineage",
+        "reason": "Gray's 1927 Transat drawing uses sharp linear precision to control three-dimensional form — every joint and angle specified. Her 1922 carpet design works the opposite way: overlapping circles generate depth through transparency rather than specification. The same designer, five years apart, moving from the drawn line to the dyed surface, from rigid coordinate to organic geometry."
       }
     ],
     "keywords": [
@@ -7486,6 +7936,11 @@ export const ARCHIVE = [
         "id": 100,
         "type": "zeitgeist",
         "reason": "Gray's Articulated Chair (1965): modular elements that reconfigure for different positions — furniture that adapts to you. The Eames Elephant (designed 1945, produced 2007): moulded plywood shaped like a toy animal — furniture that delights you. Two explorations of what a chair can be beyond sitting: a system and a creature."
+      },
+      {
+        "id": 77,
+        "type": "sameProblem",
+        "reason": "Gray's Articulated Chair (1965) proposes modular seating elements that reconfigure according to user needs — furniture as kit of parts. Propst and Nelson's Action Office II (1968) proposes modular office components that reconfigure according to work patterns — workspace as kit of parts. Both recognise that fixed furniture assumes a fixed life, and both were ahead of the market that eventually proved them right."
       }
     ],
     "keywords": [
@@ -7659,6 +8114,16 @@ export const ARCHIVE = [
         "id": 27,
         "type": "material",
         "reason": "The Butterfly Stool: two plywood curves in tension — the seat floats between them. The Wishbone: a steam-bent frame with 120 metres of woven cord — the seat grows from the structure. Yanagi makes furniture from sculpture. Wegner makes furniture from craft. Wood bent for different reasons."
+      },
+      {
+        "id": 360,
+        "type": "method",
+        "reason": "Yanagi's 1954 Butterfly stool joins two identical plywood shells at their touching edges — structure through tension, no traditional joinery. Nendo's 2008 Cabbage Chair folds a single sheet of recycled paper into structural geometry — structure through origami, no adhesive or frame. Both eliminate conventional furniture engineering, proving that geometry alone can hold weight. One works in plywood, the other in paper."
+      },
+      {
+        "id": 641,
+        "type": "sameProblem",
+        "reason": "Yanagi's 1954 Butterfly stool joins two identical curved plywood shells at their edges — structural integrity through symmetrical tension. Jalk's 1963 GJ Chair interlocks two plywood shells that slide together without fasteners — structural integrity through geometric fit. Same material, same era, same ambition to eliminate conventional joinery, but Yanagi's stool worked in production while Jalk's chair defeated it. The GJ's curves demanded tolerances that 1960s pressing could not consistently achieve."
       }
     ],
     "keywords": [
@@ -8141,6 +8606,11 @@ export const ARCHIVE = [
         "id": 223,
         "type": "lineage",
         "reason": "Day's later radio refines the domestication strategy developed in CS17, moving toward simpler geometries as electronic miniaturization allows less furniture-like solutions."
+      },
+      {
+        "id": 399,
+        "type": "zeitgeist",
+        "reason": "Day's 1956 Pye television cabinet domesticates electronics through traditional woodworking and careful proportion. The GEC radio of 1948 faces the same challenge eight years earlier — housing new technology in forms that British living rooms will accept. Both translate continental functionalism through British manufacturing constraints, but the radio's 1948 austerity dictates simpler geometry than the television's 1956 confidence."
       }
     ],
     "keywords": [
@@ -8339,7 +8809,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Modernism",
     "wikiTitle": null,
-    "description": "A geometric carpet pattern using interlocking circular forms that create optical depth through overlapping relationships. The design employs a limited colour palette to emphasize the mathematical precision of the circular geometry rather than decorative surface effects. Day translates his furniture design principles of structural clarity into textile patterning, treating the carpet as an architectural element that organises space through repetitive geometry.",
+    "description": "A geometric carpet pattern using interlocking circular forms that create optical depth through overlapping relationships. The design employs a limited colour palette to emphasise the mathematical precision of the circular geometry rather than decorative surface effects. Day translates his furniture design principles of structural clarity into textile patterning, treating the carpet as an architectural element that organises space through repetitive geometry.",
     "significance": "Day's Discus carpet treats pattern as architecture — the interlocking circles organise floor space through mathematical precision rather than decorative illustration. The design transfers his furniture principles of structural clarity to textile, proving that a designer's formal discipline is not medium-specific but methodological. The carpet does not decorate a room; it structures it.",
     "connections": [
       {
@@ -8430,6 +8900,16 @@ export const ARCHIVE = [
         "id": 32,
         "type": "sameProblem",
         "reason": "Day's convertible bed-settee uses mechanical transformation between two states — Wirkkala's glass captures the single moment of transformation when molten glass meets charred wood. Designed mechanism versus frozen instant."
+      },
+      {
+        "id": 234,
+        "type": "zeitgeist",
+        "reason": "Day's 1957 Bed-Settee uses a mechanical folding system to make one piece of furniture serve two functions — sofa by day, bed by night. Race's 1953 Kangaroo isolates the rocking mechanism from the seating shell so each component can do its job without compromise. Two British designers in the 1950s engineering domestic furniture to do more with less, driven by the same post-war housing constraints."
+      },
+      {
+        "id": 1101,
+        "type": "sameProblem",
+        "reason": "Day’s 1957 Bed-Settee converts from sofa to bed through folding components — maximum function from minimum floor space, designed for the spatial constraints of post-war British housing. Issigonis’s 1948 Morris Minor uses monocoque construction to maximise interior volume within a compact footprint — flat floor, thin doors, upright seating, every dimension serving passenger space. Both designers respond to the same post-war British problem: how to provide comfort within severe spatial and material constraints, one in furniture and one in transport."
       }
     ],
     "keywords": [
@@ -8497,13 +8977,13 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": "Ernest Race",
-    "description": "Cast aluminum frame with plywood seat and back, designed for mass production using aircraft industry materials surplus from wartime. The structural logic separates frame from seating surface, allowing efficient manufacturing and material economy. Perforated back provides flex and visual lightness while maintaining structural integrity.",
+    "description": "Cast aluminium frame with plywood seat and back, designed for mass production using aircraft industry materials surplus from wartime. The structural logic separates frame from seating surface, allowing efficient manufacturing and material economy. Perforated back provides flex and visual lightness while maintaining structural integrity.",
     "significance": "Race built the BA3 from aluminium salvaged from scrapped warplanes — the defining material fact of post-war British design. The cast frame replaces traditional joinery with a technology learned from the aircraft industry, and the perforated plywood back provides flex without upholstery. Austerity Britain's furniture innovation came not from new ideas but from new materials arriving with no instructions.",
     "connections": [
       {
         "id": 233,
         "type": "lineage",
-        "reason": "Race refined the aluminum casting techniques from BA3 into the more sophisticated rod-frame construction of Antelope."
+        "reason": "Race refined the aluminium casting techniques from BA3 into the more sophisticated rod-frame construction of Antelope."
       },
       {
         "id": 8,
@@ -8522,7 +9002,7 @@ export const ARCHIVE = [
       }
     ],
     "keywords": [
-      "aluminum casting",
+      "aluminium casting",
       "aircraft materials",
       "post-war production",
       "structural separation",
@@ -8544,13 +9024,13 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Post-war Modernism",
     "wikiTitle": "Ernest Race",
-    "description": "Dining armchair version of the BA3 using identical aluminum casting technology but with enclosed armrests. The frame geometry accommodates arm support while maintaining the same manufacturing efficiencies. Spring-mounted seat provides comfort within the industrial aesthetic.",
+    "description": "Dining armchair version of the BA3 using identical aluminium casting technology but with enclosed armrests. The frame geometry accommodates arm support while maintaining the same manufacturing efficiencies. Spring-mounted seat provides comfort within the industrial aesthetic.",
     "significance": "The DA1 extends Race's aluminium casting system into an armchair without changing the manufacturing process. Same material, same casting technique, different geometry — the furniture family as industrial logic rather than stylistic variation. Race proved that systematic production thinking could generate a full range from a single technical insight.",
     "connections": [
       {
         "id": 231,
         "type": "lineage",
-        "reason": "DA1 extends BA3's aluminum casting system into dining furniture, proving the manufacturing method's versatility across chair types."
+        "reason": "DA1 extends BA3's aluminium casting system into dining furniture, proving the manufacturing method's versatility across chair types."
       },
       {
         "id": 37,
@@ -8564,7 +9044,7 @@ export const ARCHIVE = [
       }
     ],
     "keywords": [
-      "aluminum casting",
+      "aluminium casting",
       "dining furniture",
       "armchair typology",
       "systems design",
@@ -8592,7 +9072,7 @@ export const ARCHIVE = [
       {
         "id": 231,
         "type": "lineage",
-        "reason": "Antelope evolves from BA3's aluminum work but shifts to steel rod construction, showing Race's material experimentation within consistent manufacturing logic."
+        "reason": "Antelope evolves from BA3's aluminium work but shifts to steel rod construction, showing Race's material experimentation within consistent manufacturing logic."
       },
       {
         "id": 81,
@@ -8769,7 +9249,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Functionalism",
     "wikiTitle": "Ernest Race",
-    "description": "Aluminum folding mechanism with canvas seat creates portable seating through precise engineering. The scissor-action frame locks into position while distributing weight through triangulated geometry. Canvas provides comfort while folding flat for storage and transport.",
+    "description": "Aluminium folding mechanism with canvas seat creates portable seating through precise engineering. The scissor-action frame locks into position while distributing weight through triangulated geometry. Canvas provides comfort while folding flat for storage and transport.",
     "significance": "The Cormorant folds flat through a scissor mechanism engineered with the precision of an aircraft component — which is exactly what Race's background prepared him to design. The aluminium frame locks into position through triangulated geometry, distributing a seated person's weight through structural logic rather than material mass. Portable furniture, done properly, is an engineering problem.",
     "connections": [
       {
@@ -8791,7 +9271,7 @@ export const ARCHIVE = [
     "keywords": [
       "folding mechanism",
       "portable furniture",
-      "aluminum construction",
+      "aluminium construction",
       "canvas seat",
       "mechanical engineering",
       "triangulated structure",
@@ -8958,6 +9438,11 @@ export const ARCHIVE = [
         "id": 116,
         "type": "argument",
         "reason": "Day organises summer flora into hierarchical ceramic composition — Sottsass's Murmansk drawing reveals Memphis objects as bold architectural sketches. Both work at the intersection of decoration and structure, English restraint and Italian theatre."
+      },
+      {
+        "id": 241,
+        "type": "method",
+        "reason": "Day's Summer plate organises botanical forms hierarchically — seasonal flora arranged by visual weight across the porcelain surface. Her Columbine plate, made the same year for the same manufacturer, strips a single flower to skeletal geometry — stems as thin black lines, petals as interlocking colour fields. Same designer, same factory, same year: one composition through hierarchy, the other through reduction."
       }
     ],
     "keywords": [
@@ -9032,14 +9517,14 @@ export const ARCHIVE = [
         "reason": "Day's Winter plate evokes seasonal dormancy through stark, branching lines on white ceramic — the cold made visible. The Egg creates enclosure through a continuous foam-and-fabric shell — warmth made physical. Both address the body's relationship to environment: Day depicts exposure on a surface, Jacobsen builds shelter as a form."
       },
       {
-        "id": 16,
-        "type": "zeitgeist",
-        "reason": "Lucienne Day's Winter plate (1958): stark botanical forms, reduced to graphic clarity on ceramic. Rams's SK 4 (1956): exposed mechanism, reduced to visual hierarchy in white metal. Late-1950s reductionism — the British ceramicist and the German product designer both stripping their objects to essential structure."
-      },
-      {
         "id": 172,
         "type": "method",
         "reason": "Day's Winter plate: botanical forms reduced to stark geometric lines — modernist abstraction on ceramic. Morris's Strawberry Thief: naturalistic birds achieved through multiple hand-printing stages — Arts and Crafts complexity on cotton. The maximum you can remove and the maximum you can add, both called pattern design."
+      },
+      {
+        "id": 230,
+        "type": "method",
+        "reason": "Day's 1958 Winter plate fills Rosenthal porcelain with dense, structural line-work — heavy stems and angular branching across a curved surface. Her 1961 Night and Day glass towel applies the same systematic abstraction to flat-woven linen, where the pattern must serve glass-polishing function as well as visual rhythm. Same designer adapting the same formal language to opposite material constraints: rigid ceramic versus flexible cloth."
       }
     ],
     "keywords": [
@@ -9120,14 +9605,14 @@ export const ARCHIVE = [
         "reason": "Day's ceramic practice evolved from organic naturalism to geometric abstraction, Club showing her increased confidence with pure form four years after Regent Street."
       },
       {
-        "id": 1,
-        "type": "zeitgeist",
-        "reason": "Day's Club plate uses bold intersecting circles in ceramic glaze — strong graphic gesture on a small domestic surface. The Arco uses a bold steel arc over a marble block — strong engineering gesture in a domestic room. Both are 1962 objects that bring confidence into the home, graphic and structural."
-      },
-      {
         "id": 24,
         "type": "method",
         "reason": "Lucienne Day's Club plate: bold intersecting circles creating geometric tension on glazed ceramic. Jacobsen's Egg: a continuous fibreglass shell creating spatial privacy in a hotel lobby. Circular confidence — the ceramicist's interlocking forms and the architect's enclosing form, both declaring that the curve is enough."
+      },
+      {
+        "id": 253,
+        "type": "lineage",
+        "reason": "Day's 1939 furnishing fabric retains recognisable botanical forms — simplified but still floral, still rooted in English textile tradition. Her 1962 Club design for Rosenthal pushes the same instinct to pure geometric abstraction — bold intersecting circles with no botanical reference at all. Twenty-three years of the same designer gradually replacing the flower with the circle."
       }
     ],
     "keywords": [
@@ -9170,11 +9655,6 @@ export const ARCHIVE = [
         "id": 109,
         "type": "argument",
         "reason": "Day paints abstracted autumn leaves onto ceramic plates — seasonal observation translated into decorative surface. Dixon welds scrap steel into a cantilevered chair — salvage-yard observation translated into structural form. Both look carefully at something and make an object from what they see, but Day looks at nature and Dixon looks at industry."
-      },
-      {
-        "id": 3,
-        "type": "zeitgeist",
-        "reason": "Day paints abstracted autumn leaves onto ceramic plates — nature stylised for the domestic table. Castiglioni runs a steel cable from floor to ceiling — industrial infrastructure domesticated for the living room. Both bring something foreign into the home: Day brings the garden in, Castiglioni brings the building's structure in."
       }
     ],
     "keywords": [
@@ -9289,7 +9769,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Festival of Britain Style",
     "wikiTitle": null,
-    "description": "A furnishing fabric featuring an abstract pattern of intersecting lines and geometric forms printed on cotton. The design uses a restricted palette to create rhythmic visual movement through the repetition of angular motifs. Day's approach eliminates traditional floral decoration in favor of contemporary graphic abstraction.",
+    "description": "A furnishing fabric featuring an abstract pattern of intersecting lines and geometric forms printed on cotton. The design uses a restricted palette to create rhythmic visual movement through the repetition of angular motifs. Day's approach eliminates traditional floral decoration in favour of contemporary graphic abstraction.",
     "significance": "Rig replaced the floral chintz that had dominated British furnishing fabrics with angular, abstract geometry. Day's pattern design is not decoration applied to cloth but a formal statement about what post-war British domesticity should look like — modern, confident, and free of nostalgic reference. The fabric helped furnish the optimism that the Festival of Britain had promised.",
     "connections": [
       {
@@ -9467,7 +9947,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary British Design",
     "wikiTitle": "Kenneth Grange",
-    "description": "A cylindrical door handle machined from solid aluminum with a brushed finish. The form reduces the door handle to its essential functional requirements: grip diameter, leverage mechanics, and material durability. Grange eliminates decorative elements in favor of precise engineering and tactile quality.",
+    "description": "A cylindrical door handle machined from solid aluminium with a brushed finish. The form reduces the door handle to its essential functional requirements: grip diameter, leverage mechanics, and material durability. Grange eliminates decorative elements in favour of precise engineering and tactile quality.",
     "significance": "Grange's door handle is a cylinder machined from solid aluminium — the most used object in any building, reduced to its ergonomic and mechanical essence. No rosette, no ornamental profile, no concession to period style. The handle proves that industrial design thinking, applied to architectural hardware, produces forms that traditional ironmongery never considered because it was too busy being decorative.",
     "connections": [
       {
@@ -9487,7 +9967,7 @@ export const ARCHIVE = [
       }
     ],
     "keywords": [
-      "aluminum machining",
+      "aluminium machining",
       "ergonomic design",
       "architectural hardware",
       "tactile quality",
@@ -9521,6 +10001,11 @@ export const ARCHIVE = [
         "id": 256,
         "type": "method",
         "reason": "Grange uses the same design methodology across both objects - reducing complex mechanisms to simple, user-focused forms that make technology transparent."
+      },
+      {
+        "id": 1051,
+        "type": "zeitgeist",
+        "reason": "Grange’s 1966 Kenwood Chefette strips the food processor to a cylindrical ABS housing that prioritises grip and stability — form following the hand’s requirements. Bäckström’s 1967 Fiskars Classics use orange injection-moulded polypropylene handles with asymmetric loops sized to different fingers — form following the hand’s anatomy. Two designers, one year apart, in two Scandinavian countries, independently reaching the same conclusion: that a hand-held tool’s form should be generated by ergonomic testing rather than visual styling."
       }
     ],
     "keywords": [
@@ -9546,7 +10031,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Industrial Design",
     "wikiTitle": null,
-    "description": "Grange redesigned Kodak's slide projector as a precise optical instrument, using a rectilinear aluminum housing that reflects the internal mechanism's geometry. The form follows the path of light from lamp to lens, with controls positioned according to the operator's workflow. Heat dissipation vents become integral design elements rather than afterthoughts.",
+    "description": "Grange redesigned Kodak's slide projector as a precise optical instrument, using a rectilinear aluminium housing that reflects the internal mechanism's geometry. The form follows the path of light from lamp to lens, with controls positioned according to the operator's workflow. Heat dissipation vents become integral design elements rather than afterthoughts.",
     "significance": "Grange's Kodaslide projector is British industrial design competing with German functionalism on its own terms. The rectilinear aluminium housing follows the internal light path from lamp to lens, with controls positioned according to the operator's workflow. Form follows optics — a discipline as rigorous as anything from Ulm, but arrived at through pragmatic engineering rather than ideological commitment.",
     "connections": [
       {
@@ -9558,11 +10043,16 @@ export const ARCHIVE = [
         "id": 83,
         "type": "sameProblem",
         "reason": "Grange's Kodaslide: rectilinear aluminium, the projector as precision optical instrument. Jacobsen's Cylinda-Line: cylindrical stainless steel, the jug as geometric proof. Two designers reducing complex objects to their essential geometric envelope — rectangle for optics, cylinder for vessels."
+      },
+      {
+        "id": 1044,
+        "type": "sameProblem",
+        "reason": "Grange’s 1961 Kodaslide 40 redesigns Kodak’s slide projector as a rectilinear aluminium housing that follows the path of light from lamp to lens to screen — the form is a diagram of the optical function. The Leica M3’s 1954 top plate is a single machined brass casting integrating shutter speed dial, rewind knob, and viewfinder in a body that has remained virtually unchanged for seventy years. Both treat precision optical instruments as objects whose form should be an exact expression of their internal mechanics."
       }
     ],
     "keywords": [
       "slide projector",
-      "aluminum housing",
+      "aluminium housing",
       "optical instrument",
       "audio-visual design",
       "heat dissipation",
@@ -9583,7 +10073,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Systems Design",
     "wikiTitle": null,
-    "description": "Grange developed a modular wardrobe hook using precision-cast aluminum components that connect without tools or fixings. Each element serves multiple functions - the mounting bracket doubles as a stop, the hook rotates to optimize hanging angle. The system scales from single hooks to complex organisational arrays through identical components.",
+    "description": "Grange developed a modular wardrobe hook using precision-cast aluminium components that connect without tools or fixings. Each element serves multiple functions - the mounting bracket doubles as a stop, the hook rotates to optimise hanging angle. The system scales from single hooks to complex organisational arrays through identical components.",
     "significance": "Exemplifies 1970s systems thinking applied to domestic hardware, showing how modular design principles could democratize customization. Argues that good design should adapt to user needs rather than imposing fixed solutions, anticipating contemporary interest in flexible living systems.",
     "connections": [
       {
@@ -9595,11 +10085,16 @@ export const ARCHIVE = [
         "id": 32,
         "type": "argument",
         "reason": "Grange's modular wardrobe hook achieves precision through cast aluminium — Wirkkala's glassware achieves unpredictability through charred moulds. Both designed processes more than designed forms, but seeking opposite outcomes: exact repeatability versus permanent variation."
+      },
+      {
+        "id": 254,
+        "type": "method",
+        "reason": "Grange's 1970 Variset hook and his 2001 door handle share the same design logic: machine a single piece of aluminium until only the functional gesture remains. The Variset's die-cast hook rotates to optimise hanging angle; the door handle's brushed cylinder reduces grip to pure ergonomic diameter. Three decades apart, same designer, same material, same conviction that precision engineering is the aesthetic."
       }
     ],
     "keywords": [
       "modular system",
-      "aluminum casting",
+      "aluminium casting",
       "wardrobe organisation",
       "tool-free assembly",
       "domestic hardware",
@@ -9636,7 +10131,7 @@ export const ARCHIVE = [
     ],
     "keywords": [
       "modular expansion",
-      "aluminum casting",
+      "aluminium casting",
       "domestic organisation",
       "component system",
       "adjustable positions",
@@ -9668,7 +10163,7 @@ export const ARCHIVE = [
       {
         "id": 120,
         "type": "material",
-        "reason": "Grange's modular hooks use precision aluminium components that connect without tools — Sottsass's conical cruet vessels in primary colours sit at different angles on a shared base. Both create families of objects from a modular system, functional and theatrical respectively."
+        "reason": "Grange's aluminium hooks click onto a wall rail without tools — each component engineered to tolerances that make assembly invisible. Sottsass's conical cruet vessels lean at different angles on a shared ceramic base — each component shaped to make assembly theatrical. Same modular logic, opposite ambitions: Grange hides the system, Sottsass celebrates it."
       },
       {
         "id": 3,
@@ -9685,7 +10180,7 @@ export const ARCHIVE = [
       "specialized hooks",
       "coat storage",
       "hat storage",
-      "aluminum casting",
+      "aluminium casting",
       "reinforced connections",
       "modular system",
       "wall mounting",
@@ -9716,6 +10211,11 @@ export const ARCHIVE = [
         "id": 2,
         "type": "argument",
         "reason": "Castiglioni's Mezzadro (1957) puts a tractor seat in a living room and lets you see it's a tractor seat — the found object's origin is the point. Grange takes industrial logic and machines it into a brushed-aluminium door handle (2001) — every trace of the factory refined away. One celebrates the object's history. The other polishes it clean."
+      },
+      {
+        "id": 255,
+        "type": "method",
+        "reason": "Grange's Kenwood Chefette (1966) strips a food processor to a cylindrical motor housing in white ABS — functional clarity through material reduction. His Variset hooks (1970) strip wall mounting to three die-cast variants sharing identical manufacturing logic — functional clarity through systemic thinking. The same designer applying the same rigour at two scales: the kitchen appliance and the hallway fitting."
       }
     ],
     "keywords": [
@@ -9753,6 +10253,11 @@ export const ARCHIVE = [
         "id": 14,
         "type": "argument",
         "reason": "Tschichold's rules (1947) give every Penguin book the same grid, the same margins, the same typeface — consistency as civic service. Calvert's Women at Work (2017) takes the standardised road-sign language she co-designed for Britain and swaps the male figures for female ones — consistency as political critique. Two designers who understand that visual systems carry authority, and wield that understanding differently."
+      },
+      {
+        "id": 440,
+        "type": "sameProblem",
+        "reason": "The Guerrilla Girls' Met poster (1989) uses museum statistics to indict institutional gender bias — data as weapon. Calvert's Women at Work (2017) updates road signage to challenge gender assumptions in public iconography — the sign system itself as the site of critique. Both expose how visual systems encode inequality, but the Guerrilla Girls attack from outside while Calvert revises from within, as the original designer of Britain's road signs."
       }
     ],
     "keywords": [
@@ -10010,6 +10515,11 @@ export const ARCHIVE = [
         "id": 156,
         "type": "sameProblem",
         "reason": "Odell's Boric Acid wallpaper: molecular geometry turned decorative — the invisible structure of chemistry made into a pattern you live with. Shire's Bel Air: visible geometry turned confrontational — three-dimensional shapes you can't ignore. Science at rest and sculpture at war."
+      },
+      {
+        "id": 265,
+        "type": "method",
+        "reason": "Odell designed both Boric Acid and Insulin as wallpapers in 1951, both translating molecular diagrams into domestic pattern. Boric Acid's hydrogen-boron lattice tessellates naturally into a geometric repeat; Insulin's far more complex protein structure required radical simplification to work as ornament. Same designer, same year, same method — but the molecule's complexity dictates how far the pattern can go."
       }
     ],
     "keywords": [
@@ -10178,6 +10688,16 @@ export const ARCHIVE = [
         "id": 3,
         "type": "argument",
         "reason": "Conran's Midwinter bowl modernises British tableware through simplified forms with restrained floral decoration — reduction that preserves warmth. The Parentesi reduces the table lamp to a cable between floor and ceiling with a sliding bracket — reduction that preserves nothing except the ability to direct light. Two degrees of minimalism: Conran's keeps comfort, Castiglioni's keeps only function."
+      },
+      {
+        "id": 272,
+        "type": "zeitgeist",
+        "reason": "Conran's 1954 Midwinter bowl modernises British tableware through simplified ceramic form. His 1957 Geometry Stripe fabric does the same for textiles — vertical bands of colour, no figuration, pure industrial rhythm. Both are the same designer making the same argument in different media: that abstract modernism could enter the British living room through everyday objects, not gallery exhibitions."
+      },
+      {
+        "id": 572,
+        "type": "lineage",
+        "reason": "Conran's 1954 Midwinter bowl modernised British tableware by simplifying ceramic form for contemporary taste. Wedgwood's 2022 On the White Road tests whether a 260-year-old pottery can do the same — recalibrating traditional bone china bodies and slip-casting for current sensibilities without abandoning what makes Wedgwood Wedgwood. Sixty-eight years apart, the same British challenge: how to modernise ceramic tradition without destroying it."
       }
     ],
     "keywords": [
@@ -10267,6 +10787,11 @@ export const ARCHIVE = [
         "id": 7,
         "type": "method",
         "reason": "Fuller's poster (1971): geodesic dome geometry communicating environmental urgency — structure as message. Bill's Ulm Stool (1954): three wood panels joined by a dowel communicating functional philosophy — structure as manifesto. Geometric thinking enlisted for different causes: saving the planet and furnishing a school."
+      },
+      {
+        "id": 751,
+        "type": "argument",
+        "reason": "Fuller's 1971 poster uses geodesic dome imagery to argue that architecture can save the planet — systematic geometry as environmental solution. Nishizawa's 2010 Teshima Art Museum makes a white concrete shell that is barely distinguishable from the rice terraces it sits in — architecture dissolved into landscape rather than imposed upon it. Both address architecture's environmental responsibility, but Fuller builds upward in grids while Nishizawa sinks into the earth as a water drop."
       }
     ],
     "keywords": [
@@ -10341,6 +10866,11 @@ export const ARCHIVE = [
         "id": 33,
         "type": "argument",
         "reason": "Baer's Zometool construction system builds from mathematical relationships found in nature — Koppel's pitcher flows from the biomorphic curves found in nature. Mathematics and intuition arriving at organic form through different methods."
+      },
+      {
+        "id": 557,
+        "type": "method",
+        "reason": "Baer's Zometool uses colour-coded nodes and struts based on the golden ratio to build complex three-dimensional structures through systematic connection. Gell's 1979 Multi-Purpose Puzzle uses interlocking wooden elements that assemble into stools, tables, and sculptures through spatial logic. Both treat geometry as play — construction systems where the method of assembly is the educational content, not just the means to an end."
       }
     ],
     "keywords": [
@@ -10378,6 +10908,11 @@ export const ARCHIVE = [
         "id": 88,
         "type": "argument",
         "reason": "Lichtenstein applies Ben-Day dots and comic aesthetics to environmental messaging — Rams's RT 20 applies functional reduction to audio equipment. Pop Art expression against German functionalism, both communicating through surface."
+      },
+      {
+        "id": 285,
+        "type": "sameProblem",
+        "reason": "Lichtenstein's Save our Planet (1971) applies Ben-Day dots and comic-book aesthetics to water conservation — the artist's signature style conscripted for environmental messaging. Extinction Rebellion's flag (2019) appropriates national-flag format for climate protest — collective identity repurposed for planetary emergency. Two generations of environmental graphic design, both borrowing the authority of existing visual systems."
       }
     ],
     "keywords": [
@@ -10514,6 +11049,11 @@ export const ARCHIVE = [
         "id": 209,
         "type": "method",
         "reason": "XR's placard uses deliberately crude letterforms to reject polished communication — Kuramata's drawers use deliberately irregular geometry to reject polished furniture. Both employ roughness as a critical strategy against professional smoothness."
+      },
+      {
+        "id": 290,
+        "type": "argument",
+        "reason": "The Extinction Rebellion placard uses deliberately crude letterforms to refuse polished design — urgency demands rawness, not refinement. Alma's 2019 protest sketch does the opposite: the hand selects, edits, and composes the same demonstrations into drawn observation. One rejects design skill as inappropriate to crisis; the other insists that the trained eye is precisely what crisis documentation needs."
       }
     ],
     "keywords": [
@@ -10583,6 +11123,16 @@ export const ARCHIVE = [
         "id": 283,
         "type": "sameProblem",
         "reason": "The flag: fabric moving in wind, visible across a crowd — collective identity in mass demonstration. The placard: cardboard held by one hand, readable at close range — individual voice in mass protest. XR designing for two scales of communication: the movement seen from above and the message read face to face."
+      },
+      {
+        "id": 284,
+        "type": "method",
+        "reason": "ESP's printing block (2019) carves the XR hourglass into plywood — a relief tool that anyone can ink and press onto any surface, producing identical symbols through manual reproduction. The XR flag (2019) carries the same symbol on fabric that moves in wind and coordinates a crowd from above. Same movement, same symbol, but the block works at the scale of the hand and the flag works at the scale of the street."
+      },
+      {
+        "id": 445,
+        "type": "lineage",
+        "reason": "PESTS' flyer (1980) uses cheap printing and hand distribution to spread art-world activism — ephemeral paper passed person to person. Extinction Rebellion's flag (2019) uses fabric and wind to spread environmental activism — a symbol visible across a crowd. Forty years between paper-scale and street-scale protest graphics, but both depend on the same logic: the cheaper and simpler the medium, the further the message travels."
       }
     ],
     "keywords": [
@@ -10620,6 +11170,11 @@ export const ARCHIVE = [
         "id": 209,
         "type": "sameProblem",
         "reason": "XR's hi-vis vest appropriates industrial safety wear for protest — Kuramata appropriates the familiar drawer form for sculptural investigation. Both take a standard functional object and load it with unexpected meaning."
+      },
+      {
+        "id": 339,
+        "type": "material",
+        "reason": "The Extinction Rebellion vest appropriates high-visibility synthetic fabric — material engineered for industrial safety — as political protest uniform. Quarmby's 1965 pouffe uses moulded synthetic foam — material engineered for industrial packaging — as domestic furniture. Both repurpose industrial synthetics for entirely unintended contexts, proving that a material's meaning is never fixed by its origin."
       }
     ],
     "keywords": [
@@ -10825,6 +11380,11 @@ export const ARCHIVE = [
         "id": 293,
         "type": "zeitgeist",
         "reason": "Douglas's Heathrow signage (2007): neutral information architecture serving every passenger equally. Gatley's GLC poster (1984): partisan graphic rhetoric persuading Londoners to resist abolition. Two London design problems — the airport and the council — solved through opposite relationships to political neutrality."
+      },
+      {
+        "id": 754,
+        "type": "argument",
+        "reason": "Douglas's 2007 Heathrow wayfinding reduces airport complexity to navigable information hierarchies — design as orientation, guiding people through vast space. Perrault's 1995 Bibliothèque nationale inverts every expectation of library orientation — books above in glass towers, readers sunk below ground level, a pine forest you cannot enter. Both address how design organises human movement through institutional space, but Douglas clarifies while Perrault deliberately disorients."
       }
     ],
     "keywords": [
@@ -10946,6 +11506,11 @@ export const ARCHIVE = [
         "id": 298,
         "type": "zeitgeist",
         "reason": "Gatley's GLC poster (1984): defending London's local government against Thatcher's centralisation. Aboutboul's European Socialists poster (1994): promoting women's representation within EU institutions. Two decades of European left politics — municipal resistance and continental feminism — each designing graphics for democratic participation."
+      },
+      {
+        "id": 452,
+        "type": "lineage",
+        "reason": "Gatley's 1984 GLC poster uses stark black typography and wordplay — 'Say No To No Say' — to fight local government abolition. Oldham's 2015 In Loving Memory of Work uses funeral announcement typography to frame unemployment as death. Both weaponise typographic convention against the political establishment, but Gatley borrows the language of campaigning while Oldham borrows the language of mourning. Thirty-one years apart, the same conviction that type can carry political rage."
       }
     ],
     "keywords": [
@@ -11025,6 +11590,11 @@ export const ARCHIVE = [
         "id": 298,
         "type": "sameProblem",
         "reason": "Mabb's austerity critique (2015) and Aboutboul's feminist platform (1994) — two posters arguing from within the socialist tradition about what socialism should prioritise. Economic justice and gender justice, different decades, same political family."
+      },
+      {
+        "id": 303,
+        "type": "sameProblem",
+        "reason": "Mabb overlays austerity critique onto Morris's decorative patterns (2015) — nineteenth-century socialist craft forced into collision with twenty-first-century economic politics. De Oraá juxtaposes socialist messaging with bourgeois symbols (1966) — revolutionary graphics that weaponise the enemy's visual language. Both designers make political posters by appropriating the aesthetics of what they oppose."
       }
     ],
     "keywords": [
@@ -11050,7 +11620,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Post-Communist Democratic Graphics",
     "wikiTitle": "Tomáš Garrigue Masaryk",
-    "description": "This commemorative poster uses restrained typography and photographic portraiture to honor Czechoslovakia's first president during the 1990 democratic transition. The design balances institutional authority with democratic accessibility, using serif typography to suggest historical continuity while maintaining modern clarity. The quote placement emphasises moral leadership over political pragmatism.",
+    "description": "This commemorative poster uses restrained typography and photographic portraiture to honour Czechoslovakia's first president during the 1990 democratic transition. The design balances institutional authority with democratic accessibility, using serif typography to suggest historical continuity while maintaining modern clarity. The quote placement emphasises moral leadership over political pragmatism.",
     "significance": "In 1990, Czechoslovakia needed to build democratic legitimacy overnight. This poster does it by connecting the new state to Masaryk's moral authority — the first president's portrait and words drafted into service for a country reinventing itself. Typography and hierarchy are not decorative choices here; they are instruments of political legitimation.",
     "connections": [
       {
@@ -11333,6 +11903,11 @@ export const ARCHIVE = [
         "id": 92,
         "type": "method",
         "reason": "Hollis applies Swiss grid systems to political content — Rams applies systematic reduction to kitchen appliance. Both committed to the idea that visual discipline serves clarity, in different domains."
+      },
+      {
+        "id": 154,
+        "type": "method",
+        "reason": "Vignelli's Il Gioco dei Potenti (1965) uses a strict grid and sans-serif hierarchy to organise a theatre poster — Swiss rationality serving cultural communication. Hollis's Monument cover (1975) applies the same Swiss grid system to fringe socialist theory — typographic authority giving scholarly credibility to radical politics. The same method producing different authority: one legitimises art, the other legitimises dissent."
       }
     ],
     "keywords": [
@@ -11538,6 +12113,11 @@ export const ARCHIVE = [
         "id": 314,
         "type": "material",
         "reason": "GynePunk's speculum: 3D printing serving urgent functional need — accessible healthcare tools for marginalised communities. RCA's experimental print: 3D printing exploring formal possibility — material research in an institutional setting. The same technology, deployed for survival and for speculation."
+      },
+      {
+        "id": 386,
+        "type": "argument",
+        "reason": "Chinche's 2019 GynePunk speculum is an open-source prototype designed to bypass institutional gatekeeping — the unfinished object as democratic tool. Wood's 2018 Valextra handle prototype reveals iterative development within luxury goods — the unfinished object as pathway to commercial refinement. Both expose the design process that polished products conceal, but one democratises access while the other refines exclusivity."
       }
     ],
     "keywords": [
@@ -11699,7 +12279,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Craft",
     "wikiTitle": null,
-    "description": "A personal grooming tool fabricated using stereolithography, exploiting the process's precision to create teeth with gradually varying spacing and thickness. The comb's performance relies on computational control of material distribution, using algorithms to optimize tooth flexibility and spacing for different hair types. Each tooth's cross-section is individually calculated rather than repeated.",
+    "description": "A personal grooming tool fabricated using stereolithography, exploiting the process's precision to create teeth with gradually varying spacing and thickness. The comb's performance relies on computational control of material distribution, using algorithms to optimise tooth flexibility and spacing for different hair types. Each tooth's cross-section is individually calculated rather than repeated.",
     "significance": "Illustrates how digital fabrication enables mass customization at the scale of individual products. Demonstrates that computational design can improve functional performance, not just create complex aesthetics — algorithm becomes design tool.",
     "connections": [
       {
@@ -11711,6 +12291,11 @@ export const ARCHIVE = [
         "id": 319,
         "type": "method",
         "reason": "Park's 3D-printed comb exploits stereolithography's precision to graduate tooth spacing in ways no mould could achieve (2018). Brunner's 3D-printed flint exploits selective laser sintering's surface texturing to reinterpret the oldest tool in human history (2018). Same year, same premise: digital fabrication applied to objects so ancient they predate design itself."
+      },
+      {
+        "id": 810,
+        "type": "method",
+        "reason": "Park’s Comb uses stereolithography to create teeth with gradually varying spacing and thickness — a gradient of function across a single printed object. Laarman’s Gradient Chair uses robotic metal printing to transition from bronze to stainless steel to copper along its length — a gradient of material across a single printed structure. Both exploit additive manufacturing’s unique ability to vary properties continuously, something no moulding or casting process permits."
       }
     ],
     "keywords": [
@@ -11825,7 +12410,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Swiss Design",
     "wikiTitle": null,
-    "description": "Noh's scissors reduce the archetypal form to its functional essence, eliminating the traditional finger loops in favor of a pinch grip that requires users to actively engage with the cutting mechanism. The gesture becomes part of the design logic — compression activates the blades while release opens them. This removal of conventional handles forces a more conscious relationship between hand and tool.",
+    "description": "Noh's scissors reduce the archetypal form to its functional essence, eliminating the traditional finger loops in favour of a pinch grip that requires users to actively engage with the cutting mechanism. The gesture becomes part of the design logic — compression activates the blades while release opens them. This removal of conventional handles forces a more conscious relationship between hand and tool.",
     "significance": "Noh removed the finger loops — the one feature every pair of scissors has shared for centuries — and made a better argument about ergonomics than any handle redesign could. The pinch grip forces conscious engagement with the cutting action. Subtraction, here, is the design move.",
     "connections": [
       {
@@ -12000,6 +12585,11 @@ export const ARCHIVE = [
         "id": 3,
         "type": "method",
         "reason": "Studio Drift suspends real dandelion seeds in bronze-framed glass circuits — nature preserved in technological amber. Castiglioni suspends a spotlight on a floor-to-ceiling cable — function stripped to a sliding point of light. Two lamps that approach disappearance from opposite directions: one through poetic fragility, one through engineering economy."
+      },
+      {
+        "id": 808,
+        "type": "lineage",
+        "reason": "Studio Drift embedded real dandelion seeds in LED-lit bronze circuits — each chandelier preserving a moment of biological dispersal within a technological framework. Melchiorri took this logic further: his Algae Chandelier seals living Chlorella vulgaris inside hand-blown borosilicate glass, creating a light fixture that actively photosynthesises. Drift freezes a natural process; Melchiorri keeps it alive."
       }
     ],
     "keywords": [
@@ -12025,7 +12615,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Social Architecture",
     "wikiTitle": "Assemble (collective)",
-    "description": "Assemble's bookends demonstrate their approach to design as social intervention through everyday objects. The rough, unfinished aesthetic reflects their architectural practice of community engagement—rejecting polished design in favor of accessible, democratic forms. These objects embody their philosophy that good design emerges from collective making rather than individual authorship.",
+    "description": "Assemble's bookends demonstrate their approach to design as social intervention through everyday objects. The rough, unfinished aesthetic reflects their architectural practice of community engagement—rejecting polished design in favour of accessible, democratic forms. These objects embody their philosophy that good design emerges from collective making rather than individual authorship.",
     "significance": "These bookends demonstrate how design can carry political intent through material choices. Assemble's deliberately rough aesthetic argues that democratic design should reject exclusivity, showing how formal decisions can embody social values.",
     "connections": [
       {
@@ -12088,6 +12678,11 @@ export const ARCHIVE = [
         "id": 6,
         "type": "zeitgeist",
         "reason": "1957. Giacosa finishes subtracting from the idea of a car — 470kg, 2.97 metres, a fabric roof because the steel panel wasn't worth the die. Ponti finishes eight years of subtracting from a Chiavari fisherman's chair — 1.7kg, ash legs at 18mm, not one gram unjustified. Two Italians who understood that perfection is knowing what to leave out."
+      },
+      {
+        "id": 971,
+        "type": "material",
+        "reason": "Giacosa’s Fiat 500 (1957) and Burian’s Erika Chair (1959) both form pressed steel into a continuous curved shell — but the car’s monocoque body carries 470 kilograms of mechanicals and four passengers through the stress of Milan cobblestones, while the chair’s pressed-steel shell carries one seated body with turned wooden legs providing the contradiction of warmth against industrial process. Same stamping logic, opposite scales of structural demand."
       }
     ],
     "keywords": [
@@ -12340,7 +12935,7 @@ export const ARCHIVE = [
       "layered printing",
       "urban art",
       "aerosol media",
-      "color separation",
+      "colour separation",
       "unofficial practice",
       "alternative printmaking"
     ],
@@ -12565,7 +13160,7 @@ export const ARCHIVE = [
       "cantilever",
       "single shell",
       "Pop design",
-      "structural color",
+      "structural colour",
       "industrial furniture",
       "1960s optimism"
     ],
@@ -12588,7 +13183,7 @@ export const ARCHIVE = [
       {
         "id": 63,
         "type": "sameProblem",
-        "reason": "Quarmby's moulded foam pouffe creates seamless soft seating — Breuer's Cesca creates sprung seating from continuous steel tube and cane. Both solve comfort, through material softness and structural spring respectively."
+        "reason": "Quarmby's pouffe absorbs the sitter into a seamless foam block — comfort as envelopment, no visible structure at all. Breuer's Cesca suspends the sitter on cantilevered steel tube and stretched cane — comfort as spring, all visible structure. Two answers to the same question: how does a chair make sitting feel effortless?"
       },
       {
         "id": 287,
@@ -12893,6 +13488,11 @@ export const ARCHIVE = [
         "id": 73,
         "type": "material",
         "reason": "Morrison's Pill Stool: a solid cylinder of lacquered cork — the material's warmth and weight ARE the design, no frame, no structure, just substance. Aalto's Savoy vase: a blown glass form — the material's fluidity and transparency ARE the design, no handle, no base, just surface. Two objects that are nothing but their material."
+      },
+      {
+        "id": 1094,
+        "type": "method",
+        "reason": "Morrison’s 1997 Pill Stool reduces seating to a perfect cylinder in solid beech — geometry as the only formal logic, every decorative element eliminated. Puiforcat’s 1922 Tea Service rebuilds the teapot from intersecting geometric solids — a truncated cone meeting a hemisphere, with lapis lazuli finials and gold details. Both derive form entirely from geometric first principles, but Morrison’s geometry serves reduction (less is enough) while Puiforcat’s geometry serves reconstruction (the traditional form rebuilt from platonic solids)."
       }
     ],
     "keywords": [
@@ -12967,6 +13567,16 @@ export const ARCHIVE = [
         "id": 109,
         "type": "lineage",
         "reason": "Jongerius's Delft Blue B-jug (2001) reinterprets three centuries of Dutch ceramic tradition through contemporary form — the blue glaze stays, the shape shifts. Dixon's S Chair (1987) reinterprets British metalwork tradition through post-punk energy — the welding stays, the context shifts. Heritage as raw material."
+      },
+      {
+        "id": 349,
+        "type": "lineage",
+        "reason": "Jongerius's 2001 Delft B-jug introduces deliberate imperfection into traditional craft — hand-thrown pottery that acknowledges its own wobble. Her 2013 UN Lounge Chair applies the same principle at institutional scale, smuggling weaving, knitting, and embroidery into diplomatic furniture that would otherwise be corporate sterile. Twelve years between craft subversion on a jug and craft subversion on a committee room chair."
+      },
+      {
+        "id": 560,
+        "type": "method",
+        "reason": "Jongerius's 2001 Delft B-jug deliberately introduces imperfections into hand-thrown pottery — wobbles that a seventeenth-century craftsman would have corrected. Kuroda's 2006 platter embraces the accidents of firing — irregular rims and glaze variations left visible rather than ground away. Both treat imperfection as a position rather than a failure, but Jongerius introduces it consciously while Kuroda accepts it from the kiln."
       }
     ],
     "keywords": [
@@ -13017,7 +13627,7 @@ export const ARCHIVE = [
       "human-centered design",
       "craft techniques",
       "corporate environments",
-      "color gradation",
+      "colour gradation",
       "pattern variation",
       "psychological comfort"
     ],
@@ -13219,6 +13829,11 @@ export const ARCHIVE = [
         "id": 649,
         "type": "lineage",
         "reason": "Hoffmann's Flat Model (1904) hand-hammers silver into geometric cutlery at the Wiener Werkstätte — craft workshop producing objects that look machine-made. Brandt's MT49 Tea Infuser (1924) hand-raises silver into geometric vessels at the Bauhaus metal workshop — craft workshop producing objects that look machine-made. Twenty years apart, two central European workshops arrive at the same paradox: handcraft dedicated to the erasure of the hand."
+      },
+      {
+        "id": 82,
+        "type": "material",
+        "reason": "Hoffmann’s Flat Model Cutlery (1904) reduces silver to flat geometric profiles — no moulding, no engraving, no tapering — the luxury material stripped to the discipline of the grid. Jacobsen’s AJ Cutlery (1958) also eliminates ornament from flatware, but in stainless steel rather than silver, letting industrial material carry the same geometric severity that Hoffmann reserved for a precious metal. The argument shifts from ‘silver can be modern’ to ‘steel can be beautiful.’"
       }
     ],
     "keywords": [
@@ -13243,7 +13858,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Functionalism",
     "wikiTitle": null,
-    "description": "A cast aluminum table reduced to essential geometric forms, with a single central pedestal supporting a circular top. The casting process allows for structural integrity while maintaining visual lightness through material honesty. The monolithic base contrasts with the floating appearance of the thin tabletop.",
+    "description": "A cast aluminium table reduced to essential geometric forms, with a single central pedestal supporting a circular top. The casting process allows for structural integrity while maintaining visual lightness through material honesty. The monolithic base contrasts with the floating appearance of the thin tabletop.",
     "significance": "Grcic's Mono table looks structurally impossible — a thin disc floating on a narrow pedestal — because cast aluminium's tensile strength is invisible. The poetry is in the gap between what the eye expects to fail and what the material quietly sustains. Contemporary functionalism's best argument: that reduction is not austerity but revelation.",
     "connections": [
       {
@@ -13255,10 +13870,15 @@ export const ARCHIVE = [
         "id": 70,
         "type": "argument",
         "reason": "Grcic reduces the table to cast-aluminium geometric minimum — Aalto's Tea Trolley layers birch, rattan and rubber into a warm domestic object. Geometric austerity against material generosity, both functional, neither compromised."
+      },
+      {
+        "id": 983,
+        "type": "sameProblem",
+        "reason": "Grcic’s 1995 Mono table reduces a table to a cast aluminium pedestal and circular top — structural clarity through material mass. Sato’s 2011 Thin Black Table reduces a table to a 3mm steel sheet powder-coated matte black — structural clarity through material absence. Both designers solve the same problem (what is the minimum table?) but arrive at opposite material propositions: Grcic’s minimum is a solid casting, Sato’s is a line drawing in space."
       }
     ],
     "keywords": [
-      "cast aluminum",
+      "cast aluminium",
       "pedestal table",
       "geometric reduction",
       "industrial casting",
@@ -13409,6 +14029,16 @@ export const ARCHIVE = [
         "id": 3,
         "type": "material",
         "reason": "The Bouroullecs' Algue clips interlock into branching planar screens — users build two-dimensional surfaces from repeated identical elements. The Parentesi offers one-dimensional adjustment — a bracket moving up and down a single cable. Both are user-completed systems, but Algue multiplies in two dimensions and Parentesi adjusts in one."
+      },
+      {
+        "id": 353,
+        "type": "argument",
+        "reason": "The Bouroullecs' 2004 Algue clips identical plastic modules together to grow organic-looking spatial divisions — nature's logic reproduced through injection moulding. Jongerius's 2010 Woven Windows embeds digital photographs into hand-woven cloth — digital logic absorbed into ancient textile technique. Both collapse the boundary between natural and artificial, but Algue makes plastic look organic while Woven Windows makes the loom carry pixels."
+      },
+      {
+        "id": 1075,
+        "type": "material",
+        "reason": "The Bouroullecs’ Algue clips identical injection-moulded plastic elements together like seaweed fronds — plastic’s cheapness and repeatability enabling a space-filling screen from a single component multiplied. Sadler’s Twiggy uses fibreglass composite to create a floor lamp shade so thin and light it appears weightless at the end of a slender stem — plastic’s strength-to-weight ratio enabling a structural impossibility. Both exploit plastic’s specific material properties, but Algue uses its economy while Twiggy uses its engineering performance."
       }
     ],
     "keywords": [
@@ -13522,7 +14152,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Conceptual Design",
     "wikiTitle": null,
-    "description": "Constructed from a continuous 21.4-meter length of aluminum bent into chair form without cutting or joining, this piece demonstrates how single-material continuity can create structural furniture. The precise title quantifies the exact material input, making the design process transparent while challenging assumptions about furniture assembly. The aluminum's inherent properties — strength, flexibility, and workability — drive every formal decision.",
+    "description": "Constructed from a continuous 21.4-meter length of aluminium bent into chair form without cutting or joining, this piece demonstrates how single-material continuity can create structural furniture. The precise title quantifies the exact material input, making the design process transparent while challenging assumptions about furniture assembly. The aluminium's inherent properties — strength, flexibility, and workability — drive every formal decision.",
     "significance": "By titling the chair with its exact material length — 21,400 millimetres — Nendo makes the constraint the concept. No cuts, no joins, one continuous aluminium line bent into furniture. The rules are the design. This is the opposite of expressive form-making: the designer's role is to define limitations, then follow them to their conclusion. Process transparency becomes meaning.",
     "connections": [
       {
@@ -13543,7 +14173,7 @@ export const ARCHIVE = [
     ],
     "keywords": [
       "continuous material",
-      "aluminum bending",
+      "aluminium bending",
       "single-material construction",
       "process transparency",
       "quantified design",
@@ -13613,6 +14243,11 @@ export const ARCHIVE = [
         "id": 104,
         "type": "zeitgeist",
         "reason": "Saint Laurent's scarf (1980): Mondrian-inspired geometry printed on silk — abstract art as luxury accessory. Eames's ESU (1949): coloured panels in a steel-and-plywood grid — abstract composition as storage unit. Two objects turning geometric pattern into commercial design — one for the neck, one for the living room."
+      },
+      {
+        "id": 1099,
+        "type": "material",
+        "reason": "Saint Laurent’s 1980 silk scarf carries complex graphic information through precise pattern registration and calculated colour — the silk substrate is a carrier for a fashion house’s visual language. De Amaral’s 1984 Alquimia 13 coats woven linen and rice paper with gold leaf — the textile substrate is transmuted into something between fabric and icon, the gold transforming a Latin American weaving tradition into sacred object. Both treat a textile surface as a ground for transformation, but Saint Laurent prints an identity while de Amaral performs an alchemy."
       }
     ],
     "keywords": [
@@ -13875,6 +14510,11 @@ export const ARCHIVE = [
         "id": 369,
         "type": "zeitgeist",
         "reason": "Clarke's narrative ceramics (2000) and Libensky's sculptural glass (1991): two makers insisting that material knowledge — how clay holds a story, how glass holds light — constitutes a form of design thinking that systematic methodology can't replace."
+      },
+      {
+        "id": 118,
+        "type": "material",
+        "reason": "Clarke’s Gone Fishing (2000) turns a silver fish slice into a narrative object — the handle shaped as a fishing rod, the ‘line’ connecting to the perforated blade — silver carrying a joke as well as a function. Sottsass’s Mumansk (1982) turns a silver centrepiece into an architectural cityscape — geometric volumes making the dining table a stage set. Both treat silver as a vehicle for storytelling rather than preciousness, but Clarke tells a seaside anecdote and Sottsass builds a metropolis."
       }
     ],
     "keywords": [
@@ -13942,7 +14582,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Critical Design",
     "wikiTitle": "Dunne & Raby",
-    "description": "Aluminum chair incorporating Faraday cage principles to shield users from electromagnetic radiation. The mesh construction functions as both seating surface and electromagnetic barrier, making invisible technological anxieties physically manifest. Design speculation becomes functional prototype.",
+    "description": "Aluminium chair incorporating Faraday cage principles to shield users from electromagnetic radiation. The mesh construction functions as both seating surface and electromagnetic barrier, making invisible technological anxieties physically manifest. Design speculation becomes functional prototype.",
     "significance": "Pioneering example of critical design methodology — using functional objects to materialize social questions about technology. It reveals how design research can question assumptions through making rather than just analysis.",
     "connections": [
       {
@@ -13965,7 +14605,7 @@ export const ARCHIVE = [
       "critical design",
       "Faraday cage",
       "electromagnetic radiation",
-      "aluminum mesh",
+      "aluminium mesh",
       "technology anxiety",
       "protective furniture",
       "speculative design",
@@ -14258,6 +14898,11 @@ export const ARCHIVE = [
         "id": 100,
         "type": "zeitgeist",
         "reason": "Wood's toothpaste bag: consumer packaging elevated to luxury accessory — supermarket aesthetics on a fashion runway. The Eames Elephant: a 1945 prototype finally manufactured as a collectible toy — studio experiment entering children's rooms. Pop-culture references and design-heritage references, each challenging what luxury objects are allowed to look like."
+      },
+      {
+        "id": 913,
+        "type": "method",
+        "reason": "Wood’s Iside bag uses Italian leather craftsmanship to replicate a toothpaste tube — luxury materials imitating the disposable, questioning the boundary between high fashion and everyday objects. MSCHF’s Satan Shoes modify Nike Air Max 97s with a drop of human blood in the sole and a bronze pentagram — everyday sneakers imitating the transgressive. Both work by inserting something from one cultural register into another, but Wood’s intervention is witty and MSCHF’s is deliberately inflammatory — the lawsuit was the point."
       }
     ],
     "keywords": [
@@ -14330,6 +14975,16 @@ export const ARCHIVE = [
         "id": 388,
         "type": "method",
         "reason": "Heatherwick spins the Spun Chair from a single metal sheet on a lathe. He assembles the Olympic Cauldron from 204 individual copper petals. Same designer, opposite manufacturing logics — one subtracts from a whole, the other aggregates from parts."
+      },
+      {
+        "id": 539,
+        "type": "argument",
+        "reason": "Heatherwick's 2012 Olympic Cauldron uses 204 identical copper petals that rise mechanically into a unified form — standardised components orchestrated into collective meaning. Pesce's 2002 Nobody's Shelves use digital fabrication to ensure every unit differs — resin's unpredictable behaviour making identical copies impossible. Both reject the single monument, but Heatherwick achieves unity through identical parts while Pesce achieves individuality through the same production line."
+      },
+      {
+        "id": 826,
+        "type": "method",
+        "reason": "Heatherwick’s Olympic Cauldron assembles 204 individual copper petals into a unified flame bowl through mechanical choreography — many discrete elements becoming one form. Two years earlier, his Seed Cathedral reversed the logic: 60,000 acrylic rods project outward from a cube, each containing a seed from Kew’s Millennium Seed Bank, one form dissolving into many filaments. The same designer’s two approaches to the relationship between the singular and the multiple."
       }
     ],
     "keywords": [
@@ -14355,7 +15010,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary British Design",
     "wikiTitle": "Spun chair",
-    "description": "A rotating chair created by spinning molten metal around a form, resulting in a seamless shell that can rock and spin on its base. The manufacturing process generates both the chair's form and its kinetic behaviour — the spinning motion used in production becomes the spinning motion of use. Heatherwick eliminates traditional chair components (legs, back, arms) in favor of a single continuous surface that defines sitting through physics rather than convention.",
+    "description": "A rotating chair created by spinning molten metal around a form, resulting in a seamless shell that can rock and spin on its base. The manufacturing process generates both the chair's form and its kinetic behaviour — the spinning motion used in production becomes the spinning motion of use. Heatherwick eliminates traditional chair components (legs, back, arms) in favour of a single continuous surface that defines sitting through physics rather than convention.",
     "significance": "The manufacturing process is the design concept: the spinning of molten metal around a form produces both the chair's shape and its behaviour. Sit in it, and it spins — the motion of making becomes the motion of use. Heatherwick eliminates legs, back, and arms in favour of physics. No component of a conventional chair survives.",
     "connections": [
       {
@@ -14403,6 +15058,16 @@ export const ARCHIVE = [
         "id": 611,
         "type": "method",
         "reason": "Superflux's speculative publication documents critical futures thinking — Grcic's Chair_One embodies critical structural thinking in die-cast aluminium. Both committed to intellectual rigour, in editorial and furniture."
+      },
+      {
+        "id": 633,
+        "type": "method",
+        "reason": "Dunne and Raby's Placebo Project (2001) builds eight prototype objects that address electromagnetic anxiety — none of them work, all of them provoke. Superflux's Issue 1 (2015) builds an editorial format where each page is a speculative artefact from an uncertain future — none of them predict, all of them question. Both use design to make invisible anxieties tangible, but one works through objects in a room and the other through pages in a magazine."
+      },
+      {
+        "id": 627,
+        "type": "sameProblem",
+        "reason": "Formafantasma's Cambio (2020) investigates the global timber industry through exhibition, platform, and policy — design research as institutional critique, working with facts. Superflux's Issue 1 (2015) investigates technological futures through editorial speculation — design research as fiction, working with scenarios. Both expand graphic design beyond communication into investigation, but one maps what exists and the other imagines what might."
       }
     ],
     "keywords": [
@@ -14435,6 +15100,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "argument",
         "reason": "Rogers exposes the Pompidou's mechanical systems on its façade (1977) — transparency as democratic ideology, the public sees how the building works. DJI conceals the drone's flight systems inside a smooth aerodynamic shell — concealment as accessibility, the pilot doesn't need to understand the mechanics. Showing the technology to empower the viewer. Hiding it to empower the user."
+      },
+      {
+        "id": 510,
+        "type": "lineage",
+        "reason": "DJI's 2013 Phantom repackaged military drone technology for consumer use, hiding flight control behind a simple interface. Sony's 2000 Memory Stick Walkman eliminated moving parts from portable music, hiding digital storage behind minimal navigation controls. Both represent the moment professional technology became consumer product — but Sony insisted on a proprietary format while DJI embraced open ecosystems. The same simplification instinct, opposite platform strategies."
       }
     ],
     "keywords": [
@@ -14507,7 +15177,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Constructivism",
     "wikiTitle": "Varvara Stepanova",
-    "description": "Stepanova's textile design applies Constructivist principles to mass production, using geometric forms and industrial motifs to transform everyday flannel into revolutionary propaganda. The pattern integrates abstract shapes with mechanistic imagery, rejecting bourgeois decoration in favor of ideological content. The design functions as both clothing and political statement, embedding Soviet values into the fabric of daily life.",
+    "description": "Stepanova's textile design applies Constructivist principles to mass production, using geometric forms and industrial motifs to transform everyday flannel into revolutionary propaganda. The pattern integrates abstract shapes with mechanistic imagery, rejecting bourgeois decoration in favour of ideological content. The design functions as both clothing and political statement, embedding Soviet values into the fabric of daily life.",
     "significance": "Stepanova moved from the gallery to the factory floor — and meant it as a political act, not an aesthetic one. Constructivist geometry printed on everyday flannel was ideology worn against the skin. The pattern is propaganda at the most intimate scale: not a poster on a wall but a shirt on a body. The avant-garde had never been this close to ordinary life before.",
     "connections": [
       {
@@ -14561,6 +15231,11 @@ export const ARCHIVE = [
         "id": 262,
         "type": "argument",
         "reason": "Front captures the gesture of drawing in space with motion-tracking, then 3D-prints the frozen line into a physical lamp — digital process becoming material object. ZEITGUISED scans physical surfaces and textures, then animates them into flowing digital sculptures — material reality becoming virtual performance. One direction: screen to workshop. The other: workshop to screen."
+      },
+      {
+        "id": 520,
+        "type": "method",
+        "reason": "Hadid's Nova Shoes (2013) use parametric software to generate a continuous heel-to-sole surface — computational form applied to a physical product. ZEITGUISED's geist.xyz (2016) uses CGI to simulate impossible physics — computational form freed from physical constraints entirely. Both exploit the same digital tools, but one must resolve to matter and the other never leaves the screen."
       }
     ],
     "keywords": [
@@ -14651,7 +15326,7 @@ export const ARCHIVE = [
       "poster design",
       "commercial graphics",
       "Japanese influence",
-      "flat color",
+      "flat colour",
       "advertising",
       "Arts and Crafts",
       "visual reduction",
@@ -14682,6 +15357,11 @@ export const ARCHIVE = [
         "id": 118,
         "type": "argument",
         "reason": "Pollitzer synthesises modernist reduction with decorative surface — Sottsass's Mumansk synthesises architectural massing with precious material. Both combine structural ambition with surface richness."
+      },
+      {
+        "id": 227,
+        "type": "material",
+        "reason": "Pollitzer's Architectural Panel (1933) applies geometric pattern to commercial architecture — Art Deco surface treatment where ornament and structure negotiate. Day's Discus Carpet (1962) applies geometric pattern to domestic textiles — modernist surface treatment where ornament becomes autonomous. Both use geometric repetition as decoration, but one serves a building's facade and the other serves a living room's floor."
       }
     ],
     "keywords": [
@@ -14880,7 +15560,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "British Wartime Design",
     "wikiTitle": null,
-    "description": "Kestelman's wartime design work demonstrates how graphic designers adapted modernist principles to serve national communication needs. The design employs simplified forms and direct visual communication, stripping away decorative elements in favor of immediate legibility and emotional impact during a period of material scarcity and urgent messaging.",
+    "description": "Kestelman's wartime design work demonstrates how graphic designers adapted modernist principles to serve national communication needs. The design employs simplified forms and direct visual communication, stripping away decorative elements in favour of immediate legibility and emotional impact during a period of material scarcity and urgent messaging.",
     "significance": "Wartime rationing forced on Kestelman exactly the economy of means that modernists had been arguing for voluntarily — simplified forms, direct communication, no decorative surplus. The convergence is telling: austerity and avant-garde arrived at the same visual language for entirely different reasons. Necessity and ideology, producing identical results.",
     "connections": [
       {
@@ -14923,6 +15603,16 @@ export const ARCHIVE = [
         "id": 2,
         "type": "method",
         "reason": "Remy's chest of drawers (1991): salvaged drawers strapped together with a furniture belt — domestic memory preserved in found objects. The Castiglionis' Mezzadro (1957): a tractor seat mounted on a stem — industrial function preserved in a readymade. Two acts of rescue: Remy saves old furniture from disposal, the Castiglionis save a farm part from its context."
+      },
+      {
+        "id": 344,
+        "type": "argument",
+        "reason": "Remy's 1991 chest of drawers binds found objects together to preserve their individual histories — memory as design material. Morrison's 1994 Bottlerack takes an art-historical found object — Duchamp's readymade — and strips it of memory, making it function as a better kitchen tool. Both work with existing things, but Remy accumulates meaning while Morrison evacuates it."
+      },
+      {
+        "id": 615,
+        "type": "method",
+        "reason": "Remy's 1991 chest of drawers binds found furniture drawers with a canvas strap — the binding is the design, holding together objects that were never meant to coexist. Hans's 2007 Fracture Furniture wraps polystyrene bodies in polyester bandage soaked in synthetic resin — the wrapping is the engineering, creating structural strength from a medical repair technique. Both designers make the act of holding together visible as the primary formal gesture."
       }
     ],
     "keywords": [
@@ -15012,6 +15702,11 @@ export const ARCHIVE = [
         "id": 260,
         "type": "zeitgeist",
         "reason": "Wanders's Foam Bowl (1997): sponge dipped in clay and fired — the mould destroys itself to create the vessel. Grange's Variset hooks (1970): precision-cast aluminium components that connect without tools. Dutch material experimentation and British engineering precision — chaos and control, both producing functional objects."
+      },
+      {
+        "id": 636,
+        "type": "material",
+        "reason": "Jongerius’s Foam Bowl (1997) soaks a synthetic sponge in liquid porcelain slip, then fires it to burn away the sponge — the hardened ceramic preserving every bubble and pore of the original foam. Scholten & Baijings’s Paper Porcelain (2010) begins as folded, scored cardboard reproduced in unglazed porcelain — metal drill dust added to recreate the cardboard’s speckle. Both use porcelain to fossilise a non-ceramic original, but Jongerius preserves a sponge’s cellular chaos and Scholten & Baijings preserve paper’s deliberate folds."
       }
     ],
     "keywords": [
@@ -15080,7 +15775,7 @@ export const ARCHIVE = [
     "movement": "Dutch Design",
     "wikiTitle": null,
     "description": "A floor lamp constructed from multiple translucent fabric shades arranged in a vertical stack, creating layers of diffused light that can be adjusted by repositioning individual elements. The modular system allows users to configure the light output and visual composition according to need, with each shade acting as both functional diffuser and sculptural element. The soft, organic forms contrast with the rational stacking principle, creating tension between systematic organisation and natural shapes.",
-    "significance": "Demonstrates early exploration of modular lighting systems that prioritize user agency over fixed designer intention. It reveals how systematic thinking can accommodate organic forms and variable configurations rather than determining single solutions.",
+    "significance": "Demonstrates early exploration of modular lighting systems that prioritise user agency over fixed designer intention. It reveals how systematic thinking can accommodate organic forms and variable configurations rather than determining single solutions.",
     "connections": [
       {
         "id": 314,
@@ -15091,6 +15786,11 @@ export const ARCHIVE = [
         "id": 1,
         "type": "argument",
         "reason": "Wanders' Set Up Shades cluster fabric lampshades at different heights on flexible cables — adjustable, soft, ambient, like a gathering of lights. The Arco positions a single aluminium reflector at the end of a rigid 2.7-metre arc — fixed, precise, directional, like an engineering instrument. Both light a room, but Wanders creates atmosphere and Castiglioni creates focus."
+      },
+      {
+        "id": 1077,
+        "type": "sameProblem",
+        "reason": "Wanders’s Set Up Shades stack multiple translucent fabric layers vertically, creating diffused light through the accumulation of semi-transparent surfaces — the shade is a pile of soft elements. Forakis’s Havana interweaves injection-moulded polycarbonate strips into a spherical shell held together by their own tension — the shade is a single self-supporting structure with no armature. Both designers solve the same problem (how to diffuse a bare bulb without a conventional shade) but Wanders stacks while Forakis weaves."
       }
     ],
     "keywords": [
@@ -15170,6 +15870,11 @@ export const ARCHIVE = [
         "id": 24,
         "type": "method",
         "reason": "Berlage's chair applies architectural proportional systems to furniture — the whole form governed by geometric ratios derived from building design. Jacobsen's Egg applies sculptural intuition to furniture — the whole form governed by how foam curves around a sitting body. Both bridge architecture and furniture, but Berlage through proportion and Jacobsen through ergonomics."
+      },
+      {
+        "id": 343,
+        "type": "sameProblem",
+        "reason": "Morrison's Thinking Man's Chair (1986) reduces a garden chair to welded steel rod — geometric minimalism as quiet intelligence. Hutten's Berlage Chair (2004) reduces a dining chair to right-angled planes — geometric minimalism as architectural homage. Both arrive at rectilinear austerity, but Morrison subtracts until nothing is left while Hutten builds from Berlage's orthogonal vocabulary."
       }
     ],
     "keywords": [
@@ -15202,6 +15907,16 @@ export const ARCHIVE = [
         "id": 781,
         "type": "argument",
         "reason": "Bakker's neckpiece strips jewellery to a minimal wire marking the body — anti-ornament, anti-material, the idea of adornment reduced to geometry. Mellor's Pride cutlery celebrates material — silver-plated, weighted, the handle shaped to the palm. Two positions on what metal objects worn or held close to the body should feel like."
+      },
+      {
+        "id": 479,
+        "type": "method",
+        "reason": "Bakker's 1987 neckpiece strips jewellery to geometry and the body — minimal material, maximum spatial framing. Barber's 2011 design study strips away the commercial brief to isolate the same fundamental question: what happens when you change this proportion, this surface, this weight? Both are investigations into the essence of their discipline, conducted through physical models rather than theory."
+      },
+      {
+        "id": 841,
+        "type": "sameProblem",
+        "reason": "Bakker strips jewellery to its essential function — marking the body — using minimal material and industrial processes to challenge precious material traditions. Ramshaw takes the opposite approach to the same problem: she multiplies rather than reduces, designing sets of five to twelve rings in gold, silver, and enamel, displayed on lathe-turned stands that turn jewellery into tabletop sculpture. Both redefine what jewellery is, but Bakker subtracts until only the gesture remains while Ramshaw accumulates until the collection becomes the form."
       }
     ],
     "keywords": [
@@ -15238,7 +15953,7 @@ export const ARCHIVE = [
       {
         "id": 303,
         "type": "lineage",
-        "reason": "Jongerius continues her signature method of combining traditional Dutch craft references with contemporary material experimentation — from ceramic glazing techniques to textile fiber research."
+        "reason": "Jongerius continues her signature method of combining traditional Dutch craft references with contemporary material experimentation — from ceramic glazing techniques to textile fibre research."
       },
       {
         "id": 308,
@@ -15252,7 +15967,7 @@ export const ARCHIVE = [
       "organic patterns",
       "Dutch design",
       "process aesthetics",
-      "fiber experimentation",
+      "fibre experimentation",
       "surface quality",
       "systematic methodology"
     ],
@@ -15292,7 +16007,7 @@ export const ARCHIVE = [
       "ceramic reference",
       "optical depth",
       "material translation",
-      "fiber treatment",
+      "fibre treatment",
       "surface variation",
       "craft knowledge",
       "textile innovation",
@@ -15454,6 +16169,11 @@ export const ARCHIVE = [
         "id": 417,
         "type": "argument",
         "reason": "The HS-011 is a polypropylene stacking chair optimised for cost-per-unit — anonymous, injection-moulded, sold by the container load from Taizhou. Hutten's Table-upon-table (1991) stacks one table on another and calls the result a barstool — signed, hand-assembled, sold as a conceptual joke from Eindhoven. Mass production's endpoint and conceptual design's starting point, both questioning what a chair actually needs to be."
+      },
+      {
+        "id": 415,
+        "type": "method",
+        "reason": "Baas hand-carves wood to mimic a mass-produced plastic chair (2008) — extraordinary craft skill deployed to produce something deliberately ordinary. Hutten stacks one table on another to create a barstool (1991) — zero craft deployed to produce something deliberately absurd. Both Dutch designers questioning furniture typology, but Baas invests maximum labour for minimum conceptual distance while Hutten invests minimum labour for maximum conceptual distance."
       }
     ],
     "keywords": [
@@ -15612,6 +16332,11 @@ export const ARCHIVE = [
         "id": 10,
         "type": "sameProblem",
         "reason": "Fukasawa's au NEON reduces the mobile phone to a smooth surfaced pebble — intimacy through material softness and simple form. The Grillo creates intimacy through sculptural compactness and the physical gesture of folding open — the act of unfolding is the act of initiating conversation. Both design phones for the hand's pleasure, forty years apart."
+      },
+      {
+        "id": 1088,
+        "type": "sameProblem",
+        "reason": "Fukasawa’s 2006 au NEON reduces the mobile phone to essential elements — the clamshell mechanism becomes a ritual of opening and closing, the interface demanding focused attention. Ha Jihoon’s 2015 Jari reduces the lamp to a palm-sized rechargeable object supporting a quality of attention rather than a functional task. Both designers treat small personal objects as instruments of focused presence — the phone opened for a call, the lamp placed for a reading — rather than as devices optimised for maximum features."
       }
     ],
     "keywords": [
@@ -15637,7 +16362,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Japanese Minimalism",
     "wikiTitle": null,
-    "description": "The W11K refines the mobile phone toward pure rectangular geometry while maintaining intuitive button hierarchy. Fukasawa eliminates decorative elements in favor of precise surface transitions and logical control placement. The design achieves visual calm through systematic proportion and restrained material choices.",
+    "description": "The W11K refines the mobile phone toward pure rectangular geometry while maintaining intuitive button hierarchy. Fukasawa eliminates decorative elements in favour of precise surface transitions and logical control placement. The design achieves visual calm through systematic proportion and restrained material choices.",
     "significance": "The W11K is not minimalist because it looks minimal — it is minimal because every remaining element serves a behavioural purpose. Fukasawa's distinction matters: visual minimalism removes things for aesthetic effect; behavioural minimalism removes things that interrupt the user's unconscious fluency. The difference is between style and logic.",
     "connections": [
       {
@@ -15932,7 +16657,7 @@ export const ARCHIVE = [
       "cultural appropriation",
       "art historical reference",
       "commercial critique",
-      "color coding",
+      "colour coding",
       "post-punk",
       "anti-design",
       "meaning concealment",
@@ -16294,6 +17019,11 @@ export const ARCHIVE = [
         "id": 14,
         "type": "argument",
         "reason": "Tschichold's rules codify typography as neutral information vessel, while Barnbrook's award deliberately corrupts typographic neutrality to embed ideological content within institutional recognition."
+      },
+      {
+        "id": 443,
+        "type": "sameProblem",
+        "reason": "PESTS' poster (1980) asks 'How often do you see a one person show by an artist of colour?' — confrontational capitals that force the art world to answer. Barnbrook's Framed Award (2003) uses aggressive letterforms to challenge the sanitised aesthetics of institutional recognition. Both weaponise typography against the institutions that normally commission it, but PESTS attacks through a question and Barnbrook attacks through form."
       }
     ],
     "keywords": [
@@ -16330,6 +17060,11 @@ export const ARCHIVE = [
         "id": 100,
         "type": "argument",
         "reason": "Memphis Swatch celebrated consumerism through playful aesthetics, while Barnbrook's merchandise critiques the same consumer mechanisms through deliberate exposure of their exploitative foundations."
+      },
+      {
+        "id": 627,
+        "type": "sameProblem",
+        "reason": "Barnbrook's Merchandise (2016) uses the mechanisms of consumer culture — the commodity itself — to critique commodification, embedding the Honduran factory system in the design object. Formafantasma's Cambio (2020) uses the mechanisms of design exhibition — the gallery platform itself — to critique the timber supply chain. Both make the production system the subject of the work rather than hiding it behind the finished product."
       }
     ],
     "keywords": [
@@ -16397,6 +17132,11 @@ export const ARCHIVE = [
         "id": 440,
         "type": "method",
         "reason": "Advantages (1985) mimics gallery wall text to list the art world's exclusions. Met Museum poster (1989) mimics bus advertising to broadcast the art world's statistics. The Guerrilla Girls' consistent method: dress critique in the visual authority of whatever institution you're attacking."
+      },
+      {
+        "id": 446,
+        "type": "method",
+        "reason": "The Guerrilla Girls list real discrimination as fake career benefits — appropriating the tone of institutional authority to expose what institutions conceal. PESTS photocopy segregation-era signage and apply it to contemporary galleries — appropriating historical exclusion to expose its present continuity. Both collectives weaponise existing formats rather than designing new ones, proving that the most effective graphic intervention is stolen language, not invented imagery."
       }
     ],
     "keywords": [
@@ -16479,6 +17219,11 @@ export const ARCHIVE = [
         "id": 250,
         "type": "method",
         "reason": "PESTS' bold typographic challenge to institutional exclusion — Day's Rig fabric creating visual rhythm through abstract printed pattern. Graphic repetition as weapon in one hand, wallpaper in the other."
+      },
+      {
+        "id": 448,
+        "type": "zeitgeist",
+        "reason": "Garland's Aldermaston march poster (1962) strips graphics to pure information — route, date, purpose — because the cause is too urgent for decoration. PESTS' poster (1980) strips graphics to a single question in bold capitals — because the question is too direct to soften. Both treat typography as confrontation rather than communication, eighteen years apart."
       }
     ],
     "keywords": [
@@ -16516,6 +17261,11 @@ export const ARCHIVE = [
         "id": 185,
         "type": "method",
         "reason": "PESTS' exhibition list (1980): a typed document cataloguing gallery exclusions — bureaucratic form weaponised. Hornby's Great British Classics (2011): a packaged product cataloguing national identity — commercial form commodified. Lists that expose what institutions choose to include."
+      },
+      {
+        "id": 440,
+        "type": "method",
+        "reason": "The Guerrilla Girls count female artists in the Met and publish the statistic on a billboard (1989). PESTS list gallery exhibitions and publish the racial breakdown in a flyer (1980). Both weaponise institutional data against the institution that produced it — the same method of turning evidence into accusation, nine years apart."
       }
     ],
     "keywords": [
@@ -16553,6 +17303,11 @@ export const ARCHIVE = [
         "id": 236,
         "type": "sameProblem",
         "reason": "PESTS flyers: photocopied activist messages distributed hand to hand in 1980s New York galleries. Race's Sheppey Chair: lightweight stacking furniture distributed institution to institution in 1960s Britain. Mass distribution through designed economy — of paper and of plywood."
+      },
+      {
+        "id": 284,
+        "type": "method",
+        "reason": "PESTS' flyer (1980) uses cheap printing and hand distribution to circulate art-world activism — ephemeral paper that travels by being passed. ESP's XR printing block (2019) uses hand-cut plywood and ink to reproduce protest symbols on any surface — a tool that travels by being shared. Both grassroots reproduction methods where the message multiplies because the medium is cheap enough for anyone to use."
       }
     ],
     "keywords": [
@@ -16674,6 +17429,11 @@ export const ARCHIVE = [
         "id": 92,
         "type": "argument",
         "reason": "Garland strips the CND march poster to pure information — route, date, purpose, nothing decorative. Rams strips the juicer to pure function — motor, press, container, nothing decorative. Both remove everything except what the user needs: Garland's marcher needs directions, Rams's cook needs juice."
+      },
+      {
+        "id": 771,
+        "type": "argument",
+        "reason": "Garland’s Aldermaston march poster strips typography to pure information — sans-serif, hierarchical, urgent. Kent’s 1965 serigraphs do the opposite: they overload the surface with Wonder Bread packaging, poetry, and scripture until protest becomes visual carnival. Two graphic designers making political art from opposite ends of the spectrum — one empties the page, the other fills it to bursting."
       }
     ],
     "keywords": [
@@ -17013,7 +17773,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Modernism",
     "wikiTitle": "Gio Ponti",
-    "description": "Geometric compartments divide storage space according to rational principles, while maintaining visual lightness through careful proportioning. Clean lines eliminate decorative elements in favor of functional clarity. Material choices emphasize surface quality over ornamental detail.",
+    "description": "Geometric compartments divide storage space according to rational principles, while maintaining visual lightness through careful proportioning. Clean lines eliminate decorative elements in favour of functional clarity. Material choices emphasise surface quality over ornamental detail.",
     "significance": "Represents Italian modernism's synthesis of rational planning with Mediterranean sensibility. Shows how storage furniture could embody modernist ideology while serving domestic rather than institutional needs.",
     "connections": [
       {
@@ -17066,6 +17826,11 @@ export const ARCHIVE = [
         "id": 54,
         "type": "zeitgeist",
         "reason": "Gray's lacquered screen pivots to create flexible spatial divisions — Bass's spiralling sequence rotates to create psychological destabilisation. Both use rotational movement, one for spatial freedom, the other for narrative discomfort."
+      },
+      {
+        "id": 1097,
+        "type": "sameProblem",
+        "reason": "Gray’s 1923 Screen uses lacquered wood panels on metal hinges to divide interior space — solid surfaces creating flexible spatial boundaries within modernist rooms. Tawney’s 1962 Dark River uses open-warp linen, almost fourteen feet tall, hung free from the ceiling — the separated warp threads creating slits and voids that let light and air pass through. Both objects divide space, but Gray’s panels are opaque barriers you walk around while Tawney’s weaving is a permeable membrane you see through."
       }
     ],
     "keywords": [
@@ -17150,6 +17915,11 @@ export const ARCHIVE = [
         "id": 171,
         "type": "argument",
         "reason": "Morris hand-printed Bird and Anemone because he believed machine production killed the life in pattern. Hans laser-cuts folk decoration from MDF because she believes machine production can carry the life of hand-cutting. A century apart, opposite conclusions about whether industry and ornament can coexist."
+      },
+      {
+        "id": 1026,
+        "type": "method",
+        "reason": "Hans’s Laser Chair laser-cuts decorative patterns derived from folded paper cut-outs into black MDF — a digital process faithfully reproducing hand-craft imperfections. Duret’s Zelli Bookshelf laser-cuts Moroccan zellij tilework geometry into sheet steel — a digital process converting centuries-old hand-cut terracotta mosaic patterns into contemporary furniture structure. Both use laser-cutting to translate a specific handcraft tradition into a new material and scale, making the craft geometry structural rather than ornamental."
       }
     ],
     "keywords": [
@@ -17323,6 +18093,11 @@ export const ARCHIVE = [
         "id": 759,
         "type": "argument",
         "reason": "Tolmer's Mise en page (1931) treats the page as a kinetic field — diagonal compositions, photographic collisions, and typographic hierarchy all engineered to move the eye through commercial content at speed. Lubalin's Avant Garde logotype (1968) treats the word as a single locked unit — ten letters interlocked so tightly that the eye cannot move through them at all. Tolmer disperses attention across the page; Lubalin compresses it into a monogram. Two opposite theories of how typography holds a reader."
+      },
+      {
+        "id": 504,
+        "type": "argument",
+        "reason": "Tolmer codifies asymmetrical layout as a system of hierarchy and movement — every element placed to guide the eye through a planned sequence. Houédard overtypes characters until all hierarchy dissolves into impenetrable density — the eye finds no sequence, only ritual accumulation. Tolmer organises the page to communicate; Houédard overwhelms it to transcend communication."
       }
     ],
     "keywords": [
@@ -17621,6 +18396,11 @@ export const ARCHIVE = [
         "id": 474,
         "type": "argument",
         "reason": "Barber creates architectural continuity through material precision while Dixon emphasises material transformation through process — ordered integration versus experimental making as design approaches."
+      },
+      {
+        "id": 342,
+        "type": "material",
+        "reason": "Morrison's Ply-Chair (1989) exploits bent plywood's structural properties to create a minimal shell where material logic dictates the form — anonymous, universal. Barber's De La Warr Pavilion Chair (2005) uses bent plywood to echo a specific building's curved concrete — contextual, site-bound. The same material serving opposite ambitions: one chair belongs everywhere, the other belongs to one building."
       }
     ],
     "keywords": [
@@ -18017,6 +18797,11 @@ export const ARCHIVE = [
         "id": 10,
         "type": "sameProblem",
         "reason": "The Bouroullecs' Serif TV uses a thin profile and fabric-textured back so the television works as furniture — technology disguised as domestic object. The Grillo used sculptural ABS and a folding mechanism so the telephone worked as personal accessory — technology elevated to designed object. Both integrate electronics into domestic life, but the Serif hides and the Grillo displays."
+      },
+      {
+        "id": 986,
+        "type": "sameProblem",
+        "reason": "Samsung’s 2006 Bordeaux dressed a display screen in deep-red piano lacquer borrowed from luxury consumer goods — the first successful design repositioning of a mass-market television as a desirable object. The Bouroullecs’ 2013 Serif TV treats the screen as furniture, adding detachable legs so it stands on a surface like a picture frame. Both address the same problem — what should a flat screen look like when it’s not showing anything? — but Samsung borrows from luxury goods while the Bouroullecs borrow from domestic furniture."
       }
     ],
     "keywords": [
@@ -18112,7 +18897,7 @@ export const ARCHIVE = [
       "structural expression",
       "Afrofuturism",
       "cultural design",
-      "color theory",
+      "colour theory",
       "furniture frame",
       "Nigerian patterns",
       "playful modernism",
@@ -18131,7 +18916,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Minimalism",
     "wikiTitle": "iPad",
-    "description": "The iPad reduces computing to a single surface, eliminating physical keyboards and mice through multitouch interface. Its aluminum unibody construction achieves structural efficiency while the edge-to-edge glass creates the illusion of content floating above the device. The home button provides singular tactile reference in an otherwise smooth surface.",
+    "description": "The iPad reduces computing to a single surface, eliminating physical keyboards and mice through multitouch interface. Its aluminium unibody construction achieves structural efficiency while the edge-to-edge glass creates the illusion of content floating above the device. The home button provides singular tactile reference in an otherwise smooth surface.",
     "significance": "Ive reduced computing to a single sheet of glass. No keyboard, no mouse, no visible mechanism — just a surface that responds to touch. The iPad's real innovation is not technological but conceptual: it proved that removing every physical interface element was not a compromise but a liberation. Content floats; the device disappears.",
     "connections": [
       {
@@ -18159,7 +18944,7 @@ export const ARCHIVE = [
       "multitouch interface",
       "unibody construction",
       "digital minimalism",
-      "aluminum manufacturing",
+      "aluminium manufacturing",
       "touch computing",
       "interface reduction",
       "mobile computing",
@@ -18178,13 +18963,13 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Minimalism",
     "wikiTitle": "iPhone",
-    "description": "The iPhone consolidates multiple devices into a single multitouch surface, eliminating physical keyboards and styluses. Its rounded rectangle form language balances grip ergonomics with screen maximization. The aluminum frame and glass surface create premium material hierarchy while enabling radio transparency.",
+    "description": "The iPhone consolidates multiple devices into a single multitouch surface, eliminating physical keyboards and styluses. Its rounded rectangle form language balances grip ergonomics with screen maximization. The aluminium frame and glass surface create premium material hierarchy while enabling radio transparency.",
     "significance": "The iPhone did not improve the phone — it abolished it. What replaced it was a pocket-sized glass rectangle that happened to make calls. Ive's stroke was convergence without compromise: phone, camera, music player, internet terminal, all governed by a single multitouch surface. The physical keyboard didn't evolve; it vanished.",
     "connections": [
       {
         "id": 496,
         "type": "lineage",
-        "reason": "iPhone continues Ive's strategy of using premium materials and simplified interfaces, but moves from translucent plastic to opaque aluminum and glass."
+        "reason": "iPhone continues Ive's strategy of using premium materials and simplified interfaces, but moves from translucent plastic to opaque aluminium and glass."
       },
       {
         "id": 10,
@@ -18200,7 +18985,7 @@ export const ARCHIVE = [
     "keywords": [
       "multitouch",
       "convergence device",
-      "aluminum construction",
+      "aluminium construction",
       "mobile interface",
       "smartphone",
       "glass manufacturing",
@@ -18257,7 +19042,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Minimalism",
     "wikiTitle": "iPhone 6",
-    "description": "The iPhone 6 extends Ive's reductive language through dimensional tension: the screen enlarges to 4.7 inches while the body thins to 6.9mm, creating a surface-to-volume ratio that prioritises interface over object. The aluminum unibody construction eliminates visible joints, making the device appear carved from a single block. Antenna bands become the only surface interruption, acknowledging technical necessity within formal reduction.",
+    "description": "The iPhone 6 extends Ive's reductive language through dimensional tension: the screen enlarges to 4.7 inches while the body thins to 6.9mm, creating a surface-to-volume ratio that prioritises interface over object. The aluminium unibody construction eliminates visible joints, making the device appear carved from a single block. Antenna bands become the only surface interruption, acknowledging technical necessity within formal reduction.",
     "significance": "By 2014, every smartphone was a glass slab. The iPhone 6's contribution is not formal but industrial — its unibody aluminium chassis turned manufacturing constraints into design language. Antenna lines become graphic elements; chamfered edges catch light to articulate thinness. The object's beauty is entirely a byproduct of engineering logic.",
     "connections": [
       {
@@ -18277,7 +19062,7 @@ export const ARCHIVE = [
       }
     ],
     "keywords": [
-      "aluminum unibody",
+      "aluminium unibody",
       "dimensional tension",
       "antenna integration",
       "touch interface",
@@ -18299,7 +19084,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Digital Minimalism",
     "wikiTitle": "iPod Touch",
-    "description": "The fifth-generation iPod Touch achieves 6.1mm thickness through component miniaturization and battery reduction, prioritising portability over power. The aluminum back panel curves into chamfered edges, creating a continuous surface that eliminates the plastic antenna window required in cellular devices. The home button becomes the only physical interruption in an otherwise seamless interface plane.",
+    "description": "The fifth-generation iPod Touch achieves 6.1mm thickness through component miniaturization and battery reduction, prioritising portability over power. The aluminium back panel curves into chamfered edges, creating a continuous surface that eliminates the plastic antenna window required in cellular devices. The home button becomes the only physical interruption in an otherwise seamless interface plane.",
     "significance": "Strip the phone, the GPS, the cellular radio from an iPhone, and what remains is a pure interface device — all screen, no obligation. The iPod Touch proved that subtraction is its own design method. Without communication hardware, the object becomes thinner, lighter, and conceptually clearer: a window onto content, nothing more.",
     "connections": [
       {
@@ -18320,7 +19105,7 @@ export const ARCHIVE = [
     ],
     "keywords": [
       "thickness reduction",
-      "aluminum construction",
+      "aluminium construction",
       "antenna elimination",
       "component miniaturization",
       "seamless interface",
@@ -18341,7 +19126,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Industrial Design",
     "wikiTitle": "Olivetti Lexicon 80",
-    "description": "The Lexicon 80 transforms the typewriter from mechanical assemblage to sculptural object through cast aluminum body work that conceals the typing mechanism entirely. Nizzoli shapes the housing as continuous curves, eliminating visible joints and creating surface tension between the ribbon cover and typing platform. The green painted finish unifies all components, while the chrome details—shift lock, margin stops, paper guides—provide functional punctuation within the monochromatic field.",
+    "description": "The Lexicon 80 transforms the typewriter from mechanical assemblage to sculptural object through cast aluminium body work that conceals the typing mechanism entirely. Nizzoli shapes the housing as continuous curves, eliminating visible joints and creating surface tension between the ribbon cover and typing platform. The green painted finish unifies all components, while the chrome details—shift lock, margin stops, paper guides—provide functional punctuation within the monochromatic field.",
     "significance": "Nizzoli understood in 1948 what most manufacturers grasped only decades later: people buy values, not mechanisms. The Lexicon 80's cast aluminium body conceals every moving part behind continuous curves — the typewriter becomes a statement about its owner's taste before it types a single letter. Olivetti sold culture; the typing was incidental.",
     "connections": [
       {
@@ -18364,7 +19149,7 @@ export const ARCHIVE = [
       "sculptural housing",
       "surface continuity",
       "mechanical concealment",
-      "cast aluminum",
+      "cast aluminium",
       "Italian industrial design",
       "corporate identity",
       "desktop dignity",
@@ -18419,7 +19204,7 @@ export const ARCHIVE = [
       "radical typography",
       "portable office",
       "expressive technology",
-      "color field",
+      "colour field",
       "anti-institutional design"
     ],
     "imageUrl": "https://framemark.vam.ac.uk/collections/2006AW3414/full/800,/0/default.jpg"
@@ -18447,6 +19232,11 @@ export const ARCHIVE = [
         "id": 463,
         "type": "method",
         "reason": "Pintori’s Lexikon poster (1953) turns the typewriter’s internal mechanics — radiating typebars, rotary hub — into graphic composition. Squires’s Circuit fabric (1967) turns the circuit board’s internal logic — linear connections, component symbols — into furnishing pattern. Both make invisible machine architecture visible through surface design, fourteen years apart: the typewriter in two dimensions, the computer in cloth."
+      },
+      {
+        "id": 503,
+        "type": "method",
+        "reason": "Pintori takes the typewriter's mechanism apart to make a poster — typebars radiating from a hub, the machine's internal logic becoming graphic composition. Houédard takes the typewriter's output apart to make visual poetry — keystrokes clustering and scattering across the page like excavated fragments. Both treat the typewriter as a source of visual form rather than text, but Pintori reveals the machine and Houédard reveals the residue."
       }
     ],
     "keywords": [
@@ -18558,6 +19348,11 @@ export const ARCHIVE = [
         "id": 503,
         "type": "method",
         "reason": "Minnesota Ojibwa (1965): typewriter characters composing a figurative scene — the key as pencil. Cultic Textsite (1969): typewriter characters accumulating into abstract terrain — the key as trowel. Houédard's evolution from representation to abstraction, using exactly the same tool."
+      },
+      {
+        "id": 492,
+        "type": "method",
+        "reason": "Houédard's 1965 concrete poetry builds layers of overtyped characters until individual letters dissolve into pure visual pattern — the typewriter as graphic instrument. Kossoff's 1998 etching builds layers of marks until Poussin's classical composition becomes sculptural density on a flat surface. Both accumulate marks past the point of legibility, transforming their respective media — typewriter and etching plate — into instruments of pure visual weight."
       }
     ],
     "keywords": [
@@ -18652,6 +19447,11 @@ export const ARCHIVE = [
         "id": 817,
         "type": "method",
         "reason": "Houedard's typewriter poems (1970) exploit the fixed-width grid of a mechanical typewriter — each character occupying the same horizontal space, the constraint generating geometric patterns impossible with proportional type. Dover and Cederbaum's Universal Typeface (2014) exploit the shared characteristics across thousands of handwriting samples collected via BIC ballpoint pens — each letter an averaged composite, the constraint of consensus generating a single face. Both extract visual form from mechanical systems, but Houedard uses one machine's rigidity and Dover and Cederbaum use thousands of hands' variation."
+      },
+      {
+        "id": 499,
+        "type": "material",
+        "reason": "Houédard’s typewriter poems (1970) strip the machine to pure pattern-making — each character both letter and mark, the typewriter grid becoming a visual medium rather than a textual one. Nizzoli’s Lexicon 80 (1948) conceals the typewriter’s mechanism behind a sculptural cast aluminium shell, transforming the machine into a beautiful object. Both redefine the typewriter’s identity, but Houédard does it through what the keys produce on paper and Nizzoli does it through what the body looks like in a room."
       }
     ],
     "keywords": [
@@ -18724,7 +19524,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Consumer Electronics Design",
     "wikiTitle": "Walkman",
-    "description": "This mature Walkman design streamlines the original concept into pure functional geometry. The yellow accents and simplified button layout make operation intuitive while the compact proportions optimize pocket portability. Auto-reverse and improved ergonomics show how the format evolved through user feedback and technological advancement.",
+    "description": "This mature Walkman design streamlines the original concept into pure functional geometry. The yellow accents and simplified button layout make operation intuitive while the compact proportions optimise pocket portability. Auto-reverse and improved ergonomics show how the format evolved through user feedback and technological advancement.",
     "significance": "By 1990, the Walkman was no longer an invention but a genre. Each iteration shaved millimetres, added features, refined the cassette mechanism — but the fundamental proposition remained untouched. The design lesson is in the discipline of incremental refinement: knowing what to improve without disturbing what already works.",
     "connections": [
       {
@@ -18917,6 +19717,11 @@ export const ARCHIVE = [
         "id": 1050,
         "type": "sameProblem",
         "reason": "Sony’s Credit Card Radio (1985) compresses an FM receiver to credit-card dimensions — the radio as impossible thinness, every component reinvented to fit a wallet. Rams’s T3 Pocket Radio (1958) compresses a transistor receiver to jacket-pocket dimensions — the radio as geometric reduction, every control justified by function. Twenty-seven years apart, the same question: how small can a radio be before it stops being a radio?"
+      },
+      {
+        "id": 988,
+        "type": "sameProblem",
+        "reason": "Sony’s 1985 Credit Card Radio uses the credit card format as both constraint and metaphor, achieving impossible thinness by rethinking every internal component. Titan’s 2002 Edge watch achieves 3.5mm total thickness by developing a custom ultra-thin quartz movement — the world’s thinnest analogue watch at launch. Both products define their design brief as a single dimension (thinness) and then rebuild every component to serve it, proving that the most productive constraint is often the most arbitrary one."
       }
     ],
     "keywords": [
@@ -19030,7 +19835,7 @@ export const ARCHIVE = [
     "movement": "Contemporary Glass Design",
     "wikiTitle": null,
     "description": "Conran's Strata tumbler exploits the optical properties of lead crystal through precise geometric layering that creates internal light refraction patterns. The cylindrical form is punctuated by horizontal bands cut at different depths, generating visual texture through pure geometry rather than applied decoration. Each band catches and redirects light differently, creating the 'strata' effect that gives the piece its name while maintaining the structural clarity essential to functional glassware.",
-    "significance": "Viewers should recognize how Conran uses material properties as the primary design generator. The Strata tumbler demonstrates that contemporary craft lies not in rejecting industrial precision but in using it to amplify inherent material qualities—here, crystal's refractive potential becomes both decorative strategy and functional logic.",
+    "significance": "Viewers should recognise how Conran uses material properties as the primary design generator. The Strata tumbler demonstrates that contemporary craft lies not in rejecting industrial precision but in using it to amplify inherent material qualities—here, crystal's refractive potential becomes both decorative strategy and functional logic.",
     "connections": [
       {
         "id": 516,
@@ -19177,6 +19982,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "argument",
         "reason": "Piano and Rogers expose the Pompidou's ducts, trusses, and escalators in primary colours (1977) — the building is its own diagram, structure as public spectacle. Coates layers columns, pediments, and classical fragments inside a Jasper Conran shop (1986) — the interior is its own stage set, history as retail spectacle. Two architects making architecture visible, but Rogers reveals how the building works while Coates performs how it used to look."
+      },
+      {
+        "id": 397,
+        "type": "zeitgeist",
+        "reason": "Pollitzer's Architectural Panel (1933) synthesises modernist reduction with decorative surface treatment — Art Deco as commercial ornament. Coates's Jasper Conran shop (1986) synthesises classical elements with contemporary materials — postmodernism as commercial theatre. Fifty-three years between two approaches to making commerce look cultured, both borrowing the past to legitimise the present."
       }
     ],
     "keywords": [
@@ -19256,6 +20066,11 @@ export const ARCHIVE = [
         "id": 50,
         "type": "method",
         "reason": "Hadid's parametric shoe flows heel into sole in one seamless computational surface — Nelson's Platform Bench lines up hardwood slats on a base for five simultaneous uses. Digital fluidity against modular simplicity, both achieving versatility through different logics."
+      },
+      {
+        "id": 1089,
+        "type": "method",
+        "reason": "Hadid applies parametric architectural modelling to a high-heeled shoe — the heel flowing seamlessly into the sole through continuous curved surface, architectural language transferred to fashion. Bakker 3D-scans a Porsche door handle and rapid-prototypes it in nylon as a bracelet — automotive interface transferred to jewellery. Both use digital scanning and fabrication to transplant one design discipline’s form language onto another discipline’s typology, the object carrying the memory of its origin on its surface."
       }
     ],
     "keywords": [
@@ -19293,6 +20108,11 @@ export const ARCHIVE = [
         "id": 611,
         "type": "argument",
         "reason": "Hadid's BRIT Award flows — parametric curves melting into liquid geometry, no edge, no plane. Grcic's Chair_One fractures — triangulated die-cast facets, all edge, all plane. Computation generating two opposite material languages: one dissolved, the other crystallised."
+      },
+      {
+        "id": 520,
+        "type": "lineage",
+        "reason": "Hadid's Nova Shoes (2013) apply parametric modelling to footwear — flowing surfaces generated by algorithm, worn on the body. Her BRIT Award (2017) applies the same computational geometry to a trophy — faceted surfaces generated by algorithm, held in the hand. The same design intelligence migrating from fashion to ceremony, both objects treating computational form as the new ornament."
       }
     ],
     "keywords": [
@@ -19330,6 +20150,11 @@ export const ARCHIVE = [
         "id": 592,
         "type": "method",
         "reason": "Hadid's model emerges from the ground plane as continuous topography — the building refusing to be a box, becoming landscape instead. Pesce's UP5 emerges from vacuum-packed flatness as an anthropomorphic mass — the chair refusing to be furniture, becoming a body instead. Two objects that won't accept the shape their category prescribes."
+      },
+      {
+        "id": 813,
+        "type": "sameProblem",
+        "reason": "Hadid’s architectural models propose buildings that emerge from the ground as continuous landscape — architecture that eliminates the boundary between building and terrain. Eliasson’s Weather Project eliminates the boundary between building and atmosphere: mono-frequency sodium lamps and a mirrored ceiling turn the Turbine Hall into an artificial sunset. Both treat architecture as the manipulation of an entire perceptual field rather than the design of a discrete object."
       }
     ],
     "keywords": [
@@ -19367,6 +20192,11 @@ export const ARCHIVE = [
         "id": 21,
         "type": "sameProblem",
         "reason": "Perry subverts the classical reclining figure by depicting the artist as both subject and object — Henningsen subverts the pendant lamp by arranging 72 copper leaves to eliminate all glare. Both transform traditional forms through obsessive technical and conceptual reworking."
+      },
+      {
+        "id": 577,
+        "type": "method",
+        "reason": "Perry's Mr and Mrs Perry (2006) uses etching to layer autobiography, social commentary, and decorative tradition into densely worked prints. His Reclining Artist (2017) uses printmaking to subvert the classical reclining figure — the artist as cross-dressed subject. The same printmaking practice serving two functions: self-portrait as social document in one, art-historical appropriation as gender statement in the other."
       }
     ],
     "keywords": [
@@ -19602,6 +20432,11 @@ export const ARCHIVE = [
         "id": 320,
         "type": "method",
         "reason": "Fukasawa's Muji CD Player (1999) removes the chassis that has defined audio equipment for decades, replacing it with a hanging disc and a pull-cord that makes the user conscious of every play. Noh's Scissors (2018) remove the finger loops that have defined scissors for centuries, replacing them with a pinch action that makes the user conscious of every cut. Subtraction as interface design: both force awareness by removing the expected mechanism."
+      },
+      {
+        "id": 979,
+        "type": "lineage",
+        "reason": "Fukasawa’s 1999 Muji CD Player eliminates the chassis and replaces the power button with a pull-cord — the interface becomes a physical gesture borrowed from a ventilation fan. His 2012 Demetra lamp eliminates the switch and replaces it with a touch-sensitive shade surface — stroke to dim. The same designer, thirteen years apart, pursuing the same argument: that the most intuitive interface is one where the object itself is the control, and the user’s gesture replaces the mechanism."
       }
     ],
     "keywords": [
@@ -19906,6 +20741,11 @@ export const ARCHIVE = [
         "id": 5,
         "type": "argument",
         "reason": "Pesce pours resin so it overflows and hardens unpredictably — every Crosby Chair is different because the process is deliberately imprecise. Every Snoopy is identical because the process is deliberately precise — marble turned, glass blown, metal pressed to exact specification. Pesce celebrates the accident; the Castiglionis eliminate it."
+      },
+      {
+        "id": 1035,
+        "type": "material",
+        "reason": "Pesce’s Crosby Chair uses controlled imperfection in resin casting — each chair emerging with unique surface variations and colour distributions, the manufacturing process deliberately producing difference. Jahara’s Neorustica leaves visible formwork marks and aggregate texture in cast concrete seats paired with timber legs. Both designers treat the casting process’s traces — the marks left by the mould, the variations in the pour — as the finish rather than a defect to be concealed."
       }
     ],
     "keywords": [
@@ -19990,6 +20830,11 @@ export const ARCHIVE = [
         "id": 607,
         "type": "method",
         "reason": "Pesce's Mourmans invitation is a designed object that must be physically manipulated to read — the graphic design demands bodily engagement, not just looking. Van der Poll's Do Hit Chair is a steel cube that must be physically beaten with a sledgehammer to sit in — the furniture demands bodily violence, not just sitting. Two objects that refuse to function until the user has physically changed them."
+      },
+      {
+        "id": 1091,
+        "type": "method",
+        "reason": "Pesce’s Gallery Mourmans invitation folds to reveal sculptural forms — printed matter that becomes a three-dimensional object, the content embedded within the physical manipulation. Woffenden’s Midwife II casts a figure within a glass mass — a torso-scale form where the subject is embedded within and partially concealed by the material, visible through the depth of glass but trapped within it. Both artists embed their content inside the physical object rather than placing it on its surface, making the act of looking-through the work’s central demand."
       }
     ],
     "keywords": [
@@ -20056,7 +20901,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Contemporary Radical Design",
     "wikiTitle": null,
-    "description": "A shelving system where each unit differs from others through controlled variation in manufacturing, using resin's unpredictable behaviour to ensure uniqueness. The shelves appear to sag under their own weight, subverting expectations of structural stability. The system questions whether storage furniture should prioritize efficiency or expressive potential.",
+    "description": "A shelving system where each unit differs from others through controlled variation in manufacturing, using resin's unpredictable behaviour to ensure uniqueness. The shelves appear to sag under their own weight, subverting expectations of structural stability. The system questions whether storage furniture should prioritise efficiency or expressive potential.",
     "significance": "Nobody's Shelves use digital fabrication to produce variation, not standardisation. Each unit differs — a deliberate rejection of the identical copy. Pesce's argument is political as much as aesthetic: if manufacturing can now make every object unique, why should we accept uniformity? The shelves are functional furniture that doubles as a manifesto against conformity.",
     "connections": [
       {
@@ -20354,7 +21199,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Radical Design",
     "wikiTitle": "Michele De Lucchi",
-    "description": "De Lucchi's early lamp abandons rational lighting design for expressive, almost sculptural form-making. The organic silhouette and unconventional proportions prioritize visual impact over lighting efficiency. This approach treats the lamp as an art object that happens to provide illumination, challenging modernist orthodoxies about form following function.",
+    "description": "De Lucchi's early lamp abandons rational lighting design for expressive, almost sculptural form-making. The organic silhouette and unconventional proportions prioritise visual impact over lighting efficiency. This approach treats the lamp as an art object that happens to provide illumination, challenging modernist orthodoxies about form following function.",
     "significance": "De Lucchi abandoned rational lighting design for something closer to sculpture that happens to illuminate. The Sinerpica is a manifesto in object form — a declaration that a lamp's expressive force matters more than its lumens. This is where Italian radicalism broke with modernist functionalism: not by arguing against it theoretically, but by designing its opposite.",
     "connections": [
       {
@@ -20570,6 +21415,11 @@ export const ARCHIVE = [
         "id": 45,
         "type": "method",
         "reason": "Miyake's Spiral Handbag (1990): wire coiled into a self-supporting bag — modular repetition of a single element creating three-dimensional form. Saarinen's TWA Terminal (1962): concrete poured into soaring shells — structural repetition of a single material creating spatial drama. One element, many times, two scales."
+      },
+      {
+        "id": 548,
+        "type": "method",
+        "reason": "Miyake's Plastic Body Bustier (1980) moulds synthetic material directly to the torso — the body as form, plastic as medium. His Spiral Handbag (1990) pleats polyester into a rigid spiral — the fabric as structure, heat-setting as engineering. Ten years between two objects that treat textile as an engineering material rather than a decorative surface."
       }
     ],
     "keywords": [
@@ -20775,6 +21625,11 @@ export const ARCHIVE = [
         "id": 5,
         "type": "zeitgeist",
         "reason": "Mari publishes dimensioned drawings so anyone can build furniture from standard pine boards and nails — the design is the instruction. The Snoopy's design is the assembly: stack marble, add glass, top with metal. Both are transparent about how they're made, but Mari invites you to make it and the Castiglionis invite you to see it."
+      },
+      {
+        "id": 797,
+        "type": "argument",
+        "reason": "Mari published Autoprogettazione plans so anyone with pine boards and nails could build furniture without a designer. Jain’s Palmyra House inverts this: Studio Mumbai’s thirty craftspeople build architecture without conventional drawings, but no one outside the workshop could replicate the process. Both reject the architect-as-office model, but Mari democratises making while Jain concentrates it in a guild."
       }
     ],
     "keywords": [
@@ -20842,7 +21697,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "Italian Postmodernism",
     "wikiTitle": null,
-    "description": "De Vecchi transforms the traditional Milanese coffee pot through geometric abstraction — cylindrical body, conical spout, triangular handle create a composition of pure forms. Stainless steel construction eliminates decorative elements while the proportional relationships between geometric volumes create visual tension. The spout angle and handle position optimize pouring ergonomics within the formal constraint.",
+    "description": "De Vecchi transforms the traditional Milanese coffee pot through geometric abstraction — cylindrical body, conical spout, triangular handle create a composition of pure forms. Stainless steel construction eliminates decorative elements while the proportional relationships between geometric volumes create visual tension. The spout angle and handle position optimise pouring ergonomics within the formal constraint.",
     "significance": "De Vecchi's coffee pot is a geometric manifesto that happens to make coffee. Every surface is resolved to a precise angle, every proportion deliberate. The object argues that utility and geometric rigour are not in conflict — that a pot can pour perfectly and simultaneously state a position about form.",
     "connections": [
       {
@@ -20980,6 +21835,11 @@ export const ARCHIVE = [
         "id": 7,
         "type": "method",
         "reason": "Chipperfield's Palace of Justice (2001): repeated concrete bays creating monumental civic rhythm — simple elements, complex whole. Bill's Ulm Stool (1954): three wood panels creating functional geometry — simple elements, complete object. Systematic repetition at the scale of a courthouse and a seat."
+      },
+      {
+        "id": 1102,
+        "type": "material",
+        "reason": "Chipperfield’s Salerno courthouse uses local travertine and repetitive window modules to create institutional gravitas without classical pastiche — the stone’s Mediterranean associations carrying cultural weight that imported materials could not. Burle Marx’s 1970 Copacabana promenade uses hand-cut Portuguese calçada limestone in black, white, and red — retaining and amplifying the original 1890s wave pattern while adding geometric panels. Both architects use local stone traditions (Italian travertine, Portuguese calçada) as the material basis for civic architecture, the stone’s cultural memory doing work that no modern material could replicate."
       }
     ],
     "keywords": [
@@ -21503,6 +22363,11 @@ export const ARCHIVE = [
         "id": 45,
         "type": "sameProblem",
         "reason": "De Waal's Signs & Wonders (2009): hundreds of small porcelain cylinders installed in vitrines — intimate objects generating architectural-scale presence through repetition. Saarinen's TWA Terminal (1962): a few massive concrete shells generating spatial drama through structural daring. Scale from accumulation versus scale from ambition."
+      },
+      {
+        "id": 799,
+        "type": "argument",
+        "reason": "De Waal arranges hundreds of small porcelain vessels in systematic rows on shelving — each individually thrown, collectively forming a meditation on repetition and variation within an interior space. Chihuly installs enormous blown glass forms among living plants in botanical gardens — each a one-off spectacle, collectively creating a landscape where glass competes with botany. Two artists scaling craft to installation, one through multiplication of the intimate, the other through amplification of the singular."
       }
     ],
     "keywords": [
@@ -21629,6 +22494,11 @@ export const ARCHIVE = [
         "id": 579,
         "type": "sameProblem",
         "reason": "Mr and Mrs Perry: personal relationships — the domestic interior as subject. The Charms of Lincolnshire: regional identity — the county landscape as subject. Perry in 2006, using the same dense visual layering to examine Britain at two scales: the marriage and the territory."
+      },
+      {
+        "id": 492,
+        "type": "material",
+        "reason": "Kossoff reworks Poussin's Rape of the Sabines through aggressive mark-making — the etching plate as a site of physical struggle with art-historical precedent (1998). Perry layers autobiography and social commentary through etching and lithography — the print surface as a site of personal archaeology (2006). Both use printmaking's capacity for revision and accumulation, but Kossoff excavates another painter's composition while Perry excavates his own identity."
       }
     ],
     "keywords": [
@@ -21666,6 +22536,11 @@ export const ARCHIVE = [
         "id": 5,
         "type": "zeitgeist",
         "reason": "Perry covers his ceramic pots with hand-drawn figures, slogans, heraldic motifs — every surface loaded with meaning and provocation. The Snoopy's surfaces carry nothing — polished marble, clear glass, painted metal. Perry argues that objects should be covered in culture; the Castiglionis argue that objects should be covered in nothing."
+      },
+      {
+        "id": 1020,
+        "type": "method",
+        "reason": "Perry loads classical ceramic forms with transgressive imagery — the vase’s respectable shape providing cover for content that subverts it. Marin collapses porcelain vessels into melted forms while their blue-and-white chinoiserie patterns continue across the deformed surface uninterrupted. Both artists use the ceramic vessel’s cultural authority against itself, but Perry keeps the form intact and corrupts the decoration while Marin keeps the decoration intact and corrupts the form."
       }
     ],
     "keywords": [
@@ -21916,7 +22791,7 @@ export const ARCHIVE = [
     "collection": "Victoria & Albert Museum, London",
     "movement": "American Studio Craft",
     "wikiTitle": null,
-    "description": "Schwarcz uses enamel on copper to create vessels that prioritize surface over form, developing painting-like compositions that wrap around three-dimensional objects. Her numbering system treats each piece as part of a systematic investigation into how pictorial space can be mapped onto vessel surfaces, making the container secondary to its graphic skin.",
+    "description": "Schwarcz uses enamel on copper to create vessels that prioritise surface over form, developing painting-like compositions that wrap around three-dimensional objects. Her numbering system treats each piece as part of a systematic investigation into how pictorial space can be mapped onto vessel surfaces, making the container secondary to its graphic skin.",
     "significance": "Schwarcz numbered her vessels the way a scientist numbers experiments — each one a data point in a decades-long investigation into how pictorial space maps onto three-dimensional form. The vessel is secondary; the enamel surface is the subject. By holding the shape constant, she isolated the variable that interested her: what happens when painting wraps around a body.",
     "connections": [
       {
@@ -22110,6 +22985,11 @@ export const ARCHIVE = [
         "id": 6,
         "type": "sameProblem",
         "reason": "Newson's Lockheed Lounge (1988): riveted aluminium panels creating an aeronautical chaise — maximum surface drama, the chair as fuselage. Ponti's Superleggera (1957): shaved ash creating a gossamer frame — minimum structural presence, the chair as near-absence. Two approaches to the same furniture type at opposite ends of the material spectrum."
+      },
+      {
+        "id": 802,
+        "type": "argument",
+        "reason": "Newson’s Lockheed Lounge clads its fibreglass shell in hand-beaten aluminium — a surface so polished it reflects the room, turning furniture into jewellery at body scale. Owens’s Stag Bench exposes raw alabaster and plywood — surfaces so deliberately unfinished they resist the gaze. Both designers brought the logic of their primary discipline (industrial design, fashion) into furniture, but Newson makes the surface seductive while Owens makes it confrontational."
       }
     ],
     "keywords": [
@@ -22147,6 +23027,11 @@ export const ARCHIVE = [
         "id": 608,
         "type": "argument",
         "reason": "Bey casts classical chair backs in bronze and embeds them in a tree trunk — existing furniture embalmed, frozen, made permanent. Gamper saws existing chairs apart and bolts the fragments into hybrids — existing furniture dismembered, recombined, made temporary. Two Dutch/Italian artists mining the history of sitting, one as archaeologist, the other as surgeon."
+      },
+      {
+        "id": 818,
+        "type": "argument",
+        "reason": "Bey inserts cast bronze replicas of classical chair backs into a fallen tree trunk — the tree is already dead, and the furniture is a posthumous collaboration between nature and culture. Aisslinger’s Chair Farm plants living willow saplings in metal jigs, growing chairs over several years that remain alive after the jig is removed. Both make furniture from trees, but Bey memorialises a tree that has ended while Aisslinger cultivates one that continues."
       }
     ],
     "keywords": [
@@ -22184,6 +23069,11 @@ export const ARCHIVE = [
         "id": 96,
         "type": "argument",
         "reason": "Arad's Rover Chair (1981): a car seat wrenched from its context, raw welded steel frame — design as confrontation. Rams's ET66 (1987): every key precisely placed in a calculated grid — design as resolution. Punk furniture and Ulm precision, the same decade's opposite instincts."
+      },
+      {
+        "id": 60,
+        "type": "material",
+        "reason": "Morrison’s Rover Chair (1981) salvages a leather seat from a scrapped Rover 2000 and mounts it on a scaffold-fitting steel frame — automotive leather repurposed as domestic furniture without pretending to be anything else. Mies van der Rohe’s Barcelona Chair (1929) stretches leather cushions across X-shaped chromed steel bars — leather and steel composed as an essay on luxury and precision. Both are leather-on-steel-frame chairs, but Morrison’s leather arrives with its previous life intact and Mies’s leather arrives as pure material abstraction."
       }
     ],
     "keywords": [
@@ -22435,6 +23325,11 @@ export const ARCHIVE = [
         "id": 569,
         "type": "material",
         "reason": "Coper’s Black form uses manganese oxide to achieve a dark surface that emphasises architectural geometry. Hans’s Black Gold uses black pigment in porcelain to intensify the graphic, pictogram quality of modular forms. Both understand that black removes the distraction of colour and forces you to read shape."
+      },
+      {
+        "id": 970,
+        "type": "material",
+        "reason": "Hans’s Black Gold system builds tableware from five interchangeable porcelain components — the material’s precision enables modularity, and the glaze (black or gold) transforms identical forms into different cultural registers. Schrammel drills systematic perforations through thrown porcelain walls until the vessel becomes a lattice of light — the material’s translucency at thin sections is the entire argument. Both treat porcelain as a medium whose properties (precision, translucency, glaze response) are the design, not just the substrate."
       }
     ],
     "keywords": [
@@ -22969,6 +23864,11 @@ export const ARCHIVE = [
         "id": 590,
         "type": "method",
         "reason": "Arad finds one car seat and welds a frame for it — a single salvaged object given a second life through structural invention. Gamper finds a hundred broken chairs and saws them into a hundred hybrids — mass salvage given new life through combinatorial surgery. One transplant versus one hundred. Both asking: does furniture need to be designed from scratch, or just reassembled from what already exists?"
+      },
+      {
+        "id": 599,
+        "type": "method",
+        "reason": "Bey's Kokon Furniture (1997) wraps discarded classical furniture in translucent PVC — the original form visible but unreachable beneath its new skin. Gamper's 100 Chairs (2007) disassembles discarded chairs and recombines their parts into hybrids — the original forms destroyed to generate new ones. Both use found furniture as raw material, but Bey preserves and seals while Gamper dismembers and resurrects."
       }
     ],
     "keywords": [
@@ -22998,11 +23898,6 @@ export const ARCHIVE = [
     "significance": "Scholten & Baijings did not impose Dutch colour on Japanese craft — they negotiated. The Arita workshops had to develop new techniques to achieve the colour precision the designers specified; the designers had to accept what four centuries of ceramic knowledge made possible. Genuine cultural exchange in design is rare. This is what it looks like: both parties changed by the collaboration. The innovation is chromatic, not formal — new colour, not new shape.",
     "connections": [
       {
-        "id": 2,
-        "type": "method",
-        "reason": "Scholten & Baijings' Colour Porcelain (2012): systematic colour gradients applied to ceramic tableware — chromatic research as design method. The Castiglionis' Mezzadro (1957): a tractor seat bolted to a cantilever — found-object selection as design method. Dutch colour systems and Italian readymade wit — two ways to make the method visible."
-      },
-      {
         "id": 21,
         "type": "argument",
         "reason": "Scholten & Baijings calibrate subtle colour transitions across porcelain surfaces — the palette is so quiet you lean in. Henningsen calibrates 72 copper leaves to eliminate every trace of glare — the light is so even you stop noticing it. Two Dutch/Danish objects where the design's intelligence is almost invisible."
@@ -23011,6 +23906,11 @@ export const ARCHIVE = [
         "id": 231,
         "type": "method",
         "reason": "Day tests dye combinations systematically before committing Calyx's colour palette to screen-printed linen — the Festival of Britain pattern emerging from research, not intuition. Scholten & Baijings test glaze interactions systematically before committing their porcelain gradients to Arita kilns — a 400-year-old ceramic tradition updated through chromatic experiment. Colour as laboratory work."
+      },
+      {
+        "id": 838,
+        "type": "sameProblem",
+        "reason": "Scholten & Baijings brought Dutch colour sensibilities to the 400-year-old porcelain workshops of Arita — a cross-cultural exchange producing objects that belong to neither tradition alone. Tagliapietra brought Murano’s thousand-year cane and filigrana techniques to America’s fifty-year studio glass movement, transmitting skills at Pilchuck Glass School that transformed an entire generation’s practice. Both are cases where craft knowledge crossed a cultural boundary and produced work that could not have existed on either side alone."
       }
     ],
     "keywords": [
@@ -23184,6 +24084,11 @@ export const ARCHIVE = [
         "id": 612,
         "type": "method",
         "reason": "Newson’s Felt Chair (1993) balances a smooth fibreglass monocoque on a single cast-aluminium rear leg — the shell so softly curved it looks textile, not composite. His Orgone Lounge (1993) rests a moulded fibreglass chaise on three cone legs — the shell so glossily lacquered it looks liquid, not solid. Both produced by Cappellini in the same year: two propositions for what fibreglass becomes when a sculptor makes furniture."
+      },
+      {
+        "id": 981,
+        "type": "argument",
+        "reason": "Newson’s Felt Chair, despite its name, is lacquered reinforced fibreglass — a rigid, smooth monocoque shell that looks soft but is entirely hard. Yoshioka’s Pane Chair is compressed polyester fibre — the insulation material used in building — that is entirely soft yet supports a body’s weight without any skeleton. Both chairs challenge the assumption that structure requires rigidity, but Newson disguises hardness as softness while Yoshioka makes softness genuinely structural."
       }
     ],
     "keywords": [
@@ -23305,6 +24210,11 @@ export const ARCHIVE = [
         "id": 96,
         "type": "argument",
         "reason": "Rams’s ET66 is designed to be timeless — so resolved it should never need replacing. Hans’s Rex is designed to be recyclable — so responsible that replacing it causes no damage. Two philosophies of permanence: Rams says the best product is one you never throw away. Hans says the best product is one you can always throw away safely."
+      },
+      {
+        "id": 311,
+        "type": "sameProblem",
+        "reason": "Emeco's 111 Navy Chair (2022) injection-moulds 111 recycled plastic bottles into a stackable chair that maintains the proportions of a 1944 aluminium original. Hans's Rex Chair (2021) injection-moulds recycled PA6 nylon from fishing nets into a contract chair with a deposit-return system. Both solve the same problem — how to make a sustainable plastic chair at industrial scale — but Emeco recycles a design and a material simultaneously, while Hans designs a circular economy into the business model."
       }
     ],
     "keywords": [
@@ -23379,6 +24289,11 @@ export const ARCHIVE = [
         "id": 541,
         "type": "method",
         "reason": "Toikka's Dodo (2004): a rocking toy as abstract bird — Finnish plywood bent into zoological form for Magis. Hayon's Monkey (2008): a dining set as cartoon primate — Spanish lacquered wood carved into zoological character for Magis. Same manufacturer, same brief (children's furniture as animal), completely different relationships to abstraction. Toikka withholds the face. Hayon can't stop grinning."
+      },
+      {
+        "id": 795,
+        "type": "sameProblem",
+        "reason": "Hayon casts a cartoon monkey in concrete resin to hold a tray; Front cast a life-size horse in fibreglass to hold a lampshade. Both objects solve the same problem — turning an animal form into functional furniture — but at radically different scales: Hayon’s monkey is a whimsical tabletop object, Front’s horse is a room-scale provocation that makes the domestic space feel like a stable."
       }
     ],
     "keywords": [
@@ -23455,11 +24370,6 @@ export const ARCHIVE = [
         "reason": "The Campanas stitch hundreds of plush toy animals onto a steel chair frame until the structure disappears beneath accumulated softness. The Castiglionis expose every component — saddle, stem, doorstop — each object legible, each function visible. Brazilian excess buries the structure; Italian wit reveals it."
       },
       {
-        "id": 15,
-        "type": "zeitgeist",
-        "reason": "The Campanas' Banquete Chair stuffs an armchair with commercial plush toys — consumer excess critiqued through consumer excess. The Pompidou exposes its own mechanical guts on the facade — institutional transparency performed through institutional spectacle. Two objects that use the thing they're criticising as their primary material."
-      },
-      {
         "id": 603,
         "type": "method",
         "reason": "Pratone's polyurethane grass blades swallow you — the chair disappears into an artificial landscape, the sitter absorbed by fake nature. The Campanas' Banquete swallows you — the chair disappears into a mass of plush animals, the sitter absorbed by fake childhood. Both Italian and Brazilian Radical Design strategies: make the furniture so excessive that sitting becomes an experience of submersion, not support."
@@ -23505,6 +24415,11 @@ export const ARCHIVE = [
         "id": 55,
         "type": "method",
         "reason": "The Campanas wind 500 metres of rope around a steel frame — the material's tangled behaviour IS the upholstery, every chair unique. Vignelli routes millions of passengers through a colour-coded grid — the system's logical behaviour IS the navigation, every journey legible. Order and chaos: two systems that work because they commit fully."
+      },
+      {
+        "id": 996,
+        "type": "sameProblem",
+        "reason": "The Campanas wind 500 metres of red cotton rope around an aluminium and steel frame in a seemingly random pattern — the fibre creates both seat surface and visual identity, each chair unique because each winding is unrepeatable. Wang wraps conventional sofa upholstery in hand-woven rattan panels derived from Taiwanese basket-making — the weave is structurally load-bearing, not decorative. Both solve the same problem (how can a hand-wound natural fibre define a piece of furniture?) but the Campanas celebrate chaos while Wang insists on structural discipline."
       }
     ],
     "keywords": [
@@ -23542,6 +24457,11 @@ export const ARCHIVE = [
         "id": 565,
         "type": "method",
         "reason": "Coper assembles a vessel from stacked geometric primitives — cylinder meets disc meets cone, the pot as architectural composition. Toogood assembles a chair from stacked geometric primitives — drum meets cylinder meets sphere, the furniture as sculptural composition. Ceramic logic and furniture logic arriving at the same formal vocabulary: the vocabulary of mass."
+      },
+      {
+        "id": 1064,
+        "type": "sameProblem",
+        "reason": "Toogood’s 2014 Roly Poly assembles oversized cylindrical volumes — fat arms, rounded back, drum seat — into a fibreglass armchair that looks like a child’s drawing made real, monolithic and opaque. Urquiola’s 2002 Fjord wraps a steel frame in generous padded fabric with a low-slung cupped seat designed to be slumped into rather than sat upon. Both chairs reject the angular rationalism of late-1990s furniture, but Toogood does it through exaggerated geometry while Urquiola does it through exaggerated comfort."
       }
     ],
     "keywords": [
@@ -23710,6 +24630,11 @@ export const ARCHIVE = [
         "id": 178,
         "type": "argument",
         "reason": "Formafantasma's Cambio traces the global timber industry's ecological damage — wood as problem, the forest as site of extraction. Morris's Trellis celebrates the garden as source of ornamental abundance — wood as solution, the forest as site of inspiration. Two relationships with trees, 140 years apart: exploitation and devotion."
+      },
+      {
+        "id": 816,
+        "type": "argument",
+        "reason": "Formafantasma’s Cambio investigates the global timber industry — supply chains, deforestation, colonial extraction — treating wood as a political material. Meijer’s Newspaper Wood takes the product of a tree (paper) and compresses it back into something that looks and works like wood, completing a material loop that Cambio’s research would call poetically circular but ecologically insufficient. One interrogates the timber system; the other short-circuits it."
       }
     ],
     "keywords": [
@@ -23868,6 +24793,11 @@ export const ARCHIVE = [
         "id": 14,
         "type": "method",
         "reason": "The Bouroullecs' Palissade uses one steel section profile across an entire outdoor furniture collection — bench, chair, table, all from the same extrusion. Tschichold uses one typographic system across Penguin's entire publishing output — novel, guide, classic, all from the same grid. Single-system design generating entire families."
+      },
+      {
+        "id": 819,
+        "type": "argument",
+        "reason": "The Bouroullecs’ Palissade collection uses hot-dip galvanised steel tube to make outdoor furniture that is entirely rigid — the diagonal cross-bracing resists flex, and the material weathers rather than wears. Their Slow Chair does the opposite: a knitted textile stretched over tubular aluminium that flexes and gives under the sitter’s weight, becoming more comfortable over time. Two furniture systems from the same designers — one resists the body, the other negotiates with it."
       }
     ],
     "keywords": [
@@ -23905,6 +24835,11 @@ export const ARCHIVE = [
         "id": 593,
         "type": "method",
         "reason": "Colombo's Multi Chair: two cushions and a hinge — sitting, lounging, sleeping, the whole domestic programme in one compact object. Grcic's Mayday: a cone, a hook, and a cord — table lamp, hanging lamp, emergency light, the whole lighting programme in one portable tool. Two designers who believe a single well-designed object should make several lesser objects unnecessary."
+      },
+      {
+        "id": 1072,
+        "type": "argument",
+        "reason": "Grcic’s 2000 Mayday is a portable lamp designed for use — a polypropylene cone with an integrated hook for hanging and a handle that doubles as a cord winder, the form entirely determined by function. Magistretti’s 1965 Eclisse is a lamp designed for interaction — two nested die-cast aluminium spheres, the inner one rotating by hand to eclipse the light source. Both reduce the lamp to a single gesture, but Grcic’s gesture is utilitarian (hang it, carry it) while Magistretti’s is sensory (turn it, dim it)."
       }
     ],
     "keywords": [
@@ -23979,6 +24914,11 @@ export const ARCHIVE = [
         "id": 448,
         "type": "zeitgeist",
         "reason": "Dunne & Raby's United Micro Kingdoms (2013) imagines alternative political futures through designed objects — speculation as activism. Garland's Aldermaston (1962) confronts actual political present through marching typography — documentation as activism. Fifty years between two positions on how design engages with power: by imagining alternatives or by demanding change."
+      },
+      {
+        "id": 824,
+        "type": "sameProblem",
+        "reason": "Dunne and Raby’s United Micro Kingdoms imagines four alternative Britains organised around different political philosophies — speculative design as a tool for questioning governance. The Afrofuturism in Design Collection imagines Black technological futures through African aesthetic traditions — speculative design as a tool for reclaiming excluded narratives. Both use design fiction to make political propositions visible, but one speculates from a position of institutional comfort, the other from systematic exclusion."
       }
     ],
     "keywords": [
@@ -24016,6 +24956,11 @@ export const ARCHIVE = [
         "id": 610,
         "type": "lineage",
         "reason": "Marcelis’s Candy Cube (2017) casts polyester resin into a monolithic cube that glows at the edges when light hits it — furniture where colour IS the material. Her Dawn Light (2015) casts the same resin into geometric volumes embedded with neon tubes — lighting where colour IS the material. Both exploit resin’s translucency to make light and pigment inseparable, the earlier work establishing the vocabulary that the Candy Cube distils to its purest form."
+      },
+      {
+        "id": 1007,
+        "type": "material",
+        "reason": "Marcelis’s Candy Cube is a monolithic block of cast polyester resin — when sunlight hits its edges, they glow with the internal colour, turning a piece of furniture into a light event. Yoshioka’s Rainbow Church suspends 500 square prism glass rods to refract daylight into the full visible spectrum across the gallery floor. Both designers treat a transparent material’s optical properties — refraction, transmission, internal colour — as the primary design logic, not as an incidental quality of the substrate."
       }
     ],
     "keywords": [
@@ -24153,6 +25098,11 @@ export const ARCHIVE = [
         "id": 51,
         "type": "material",
         "reason": "Bertoia's Diamond Chair (1952) bends steel wire into a shell — the structure is the surface, and the surface is air. Prouvé's Standard Chair (1934) presses sheet steel into a leg — the structure is the profile, and the profile is a stress diagram. Two chairs that are nothing but their metalwork."
+      },
+      {
+        "id": 971,
+        "type": "material",
+        "reason": "Prouvé’s Standard Chair (1934) uses sheet-steel rear legs wider than the solid-rod front legs — an asymmetry calculated from stress analysis, the material shaped to match the forces it bears. Burian’s Erika Chair (1959) uses a pressed steel frame to produce a continuous shell seat and backrest, the industrial forming process visible in the smooth curves. Both use sheet steel as primary structure in a dining chair, but Prouvé differentiates the steel section to match each leg’s load and Burian unifies the steel into one wrapping shell."
       }
     ],
     "keywords": [
@@ -24433,6 +25383,11 @@ export const ARCHIVE = [
         "id": 546,
         "type": "argument",
         "reason": "De Lucchi's Sinerpica Lamp (1983) treats a lamp as a Memphis character — personality through colour and angle. Maurer's Bulb Lamp (1966) treats a lamp as a Pop portrait — personality through tautological scale. Both give lighting fixtures emotional presence, but de Lucchi's lamp performs while Maurer's lamp stares."
+      },
+      {
+        "id": 855,
+        "type": "argument",
+        "reason": "Maurer’s 1966 Bulb Lamp is a tautology — a clear glass bulb inside a larger clear glass bulb, the object refusing to be anything other than what it already is. Wagenfeld’s 1924 WG 24 is a manifesto — hemispherical opal glass shade, cylindrical glass stem, circular metal base, every element a pure geometric form demonstrating that beauty emerges from function. Both reduce the table lamp to its conceptual minimum, but Wagenfeld’s minimum is geometric idealism and Maurer’s is material self-reference."
       }
     ],
     "keywords": [
@@ -24607,6 +25562,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "lineage",
         "reason": "Brandt's MT49 tea infuser of 1924 — hemisphere, handle, strainer — is the Bauhaus manifesto in miniature: geometric form, truth to material, every component visible and legible. The Pompidou of 1977 — trusses, ducts, escalators — is the same manifesto at urban scale: structural form, truth to engineering, every system visible and colour-coded. The Bauhaus metal workshop's conviction that objects should show how they work, scaled up by fifty years and several thousand tonnes of steel."
+      },
+      {
+        "id": 650,
+        "type": "material",
+        "reason": "Brandt’s MT49 Tea Infuser (1924) pairs hand-raised silver with turned ebony — the hemisphere a single sheet of silver, the handle a dark wood cylinder on a brass mount. Dresser’s Claret Jug (1879) pairs electroplated silver with ebony in angular geometric form — the body almost triangular, the handle a dark contrast to the metallic surface. Both combine the same two materials forty-five years apart, but Brandt works from Bauhaus geometry and Dresser from proto-modernist anticipation."
       }
     ],
     "keywords": [
@@ -24864,6 +25824,11 @@ export const ARCHIVE = [
         "id": 98,
         "type": "argument",
         "reason": "Braun's Pocket de Luxe reduces the electric shaver to anonymous geometric efficiency — the machine disappears. Loewy's Starliner reduces the American car to European proportion and clean line — the chrome disappears. German and American minimalism arriving at the same conclusion: less is more sellable (eventually)."
+      },
+      {
+        "id": 1093,
+        "type": "material",
+        "reason": "Loewy’s Studebaker Starliner (1953) stripped chrome to a minimum — a thin bumper, a modest grille — while every competitor in Detroit was piling it on. Ponti’s La Cornuta (1948) built the entire espresso machine body from chrome-plated steel, using the material’s reflective surface to turn a café appliance into a tabletop cathedral. Both designers understood chrome as cultural signal, but Loewy whispered where Ponti shouted."
       }
     ],
     "keywords": [
@@ -25074,6 +26039,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "method",
         "reason": "Piano and Rogers submit the museum to engineering's constraints — structure and services on the outside — and the Pompidou's façade becomes a diagram, beauty sacrificed to transparency. Crouwel submits the alphabet to the cathode-ray tube's constraints — only horizontal and vertical strokes — and the New Alphabet's letters become architecture, legibility sacrificed to system. Both accept the machine's logic absolutely, and both produce something more radical than aesthetics could have."
+      },
+      {
+        "id": 502,
+        "type": "material",
+        "reason": "Crouwel’s New Alphabet (1967) is constructed entirely from horizontal and vertical strokes — no curves, no diagonals — designed for the limitations of early cathode-ray tube typesetting where curved lines rendered as jagged steps. The Selectric I (1961) replaces the typewriter’s forest of typebars with a single rotating sphere, the entire alphabet carried on one golf-ball element. Both redesign letterforms around the constraints of their output technology, but Crouwel simplifies the letter to fit the screen and IBM miniaturises the mechanism to fit the sphere."
       }
     ],
     "keywords": [
@@ -29878,6 +30848,11 @@ export const ARCHIVE = [
         "id": 7,
         "type": "method",
         "reason": "Bill builds the Ulm Stool from three flat panels and a dowel — the seat as geometric proposition, each surface a proof that furniture needs no decorative memory. Renner builds Futura from circles, triangles, and straight lines — the alphabet as geometric proposition, each letter a proof that modern typography needs no calligraphic memory. Concrete art and concrete type, both arriving at function through pure geometry."
+      },
+      {
+        "id": 354,
+        "type": "material",
+        "reason": "Renner’s Futura (1927) constructs letterforms from near-perfect geometric primitives — circle, triangle, straight line — cast in lead type for hot-metal typesetting. Hoffmann’s Flat Model Cutlery (1904) reduces every utensil to flat geometric profiles — no moulding, no tapering — cut from silver sheet. Both apply the same geometric discipline to their respective materials, but Renner shapes lead into abstract letters and Hoffmann shapes silver into abstract implements."
       }
     ],
     "keywords": [
@@ -30175,6 +31150,11 @@ export const ARCHIVE = [
         "id": 564,
         "type": "method",
         "reason": "Odundo's asymmetric vessel (1995) builds an undulating form through coil alone — no wheel, no glaze, the surface polished to a mirror, the maker's fingerprints erased. Coper's bud-shaped pot (1968) builds an enclosed form through coil and throw — each stage visible in surface ridges, the clay's memory of the maker's hands recorded in texture. Two potters building vessels from the bottom up, both obsessed with wall tension and outer form, but Odundo's process disappears and Coper's stays visible."
+      },
+      {
+        "id": 929,
+        "type": "material",
+        "reason": "Odundo’s Asymmetric Vessel (1995) is hand-coiled terracotta burnished to a deep orange-red — the form suggesting a standing human body without ever depicting one. Poswa’s Ukhamba Vessels (2019) are hand-coiled terracotta at monumental scale, reinterpreting the traditional Xhosa beer pot. Both women hand-coil terracotta and let the clay’s warmth carry cultural memory, but Odundo abstracts the body into the vessel and Poswa scales the ritual vessel into the body’s space."
       }
     ],
     "keywords": [
@@ -30349,6 +31329,11 @@ export const ARCHIVE = [
         "id": 2,
         "type": "argument",
         "reason": "The Mezzadro's tractor seat was never designed for a living room — the crude pressed-steel form is the evidence. The Moon Jar's two hemispheres never align perfectly — every jar is slightly oval, slightly off-centre, and the visible seam is the evidence. Two objects whose intelligence is in what the designer refused to correct."
+      },
+      {
+        "id": 835,
+        "type": "material",
+        "reason": "The Moon Jar (c.1700) joins two hemispheres of white porcelain at their rims — the visible seam a record of the making method, the spherical form an ideal that the imperfect join prevents from achieving perfection. De Waal’s Thrown Vessel (2005) is a single cylinder of porcelain, translucent white, celadon-glazed — one of hundreds of near-identical forms arranged in groups. Both use porcelain’s whiteness as a primary expressive quality, but the Moon Jar celebrates the singular imperfect vessel and de Waal celebrates the accumulated identical one."
       }
     ],
     "keywords": [
@@ -30395,6 +31380,11 @@ export const ARCHIVE = [
         "id": 580,
         "type": "method",
         "reason": "Woodman's Pillow Pitcher (1988) uses the classical pitcher form as a canvas for painting-like ceramic surfaces — pillow-soft slabs draped over a vessel armature, the boundary between pot and painting dissolved. Perry's Matching Pair (2017) uses two identical vase forms to explore masculine and feminine coded imagery — the pairing creates dialogue, each vessel defined by its opposite. Both load the traditional vessel with content beyond containment, but Woodman narrates through material gesture and Perry through imagery."
+      },
+      {
+        "id": 120,
+        "type": "material",
+        "reason": "Woodman’s Pillow Pitcher (1988) uses earthenware painted in bold flat colours — turquoise, yellow, terracotta — referencing Greek pottery and Matisse’s cutouts simultaneously. Morrison’s Cruet Set (1984) uses hand-glazed earthenware cones in red, blue, yellow, and white, each tilted at a different angle. Both apply colour to earthenware as a primary design decision rather than decoration, but Woodman paints narrative and Morrison paints geometry."
       }
     ],
     "keywords": [
@@ -31348,6 +32338,11 @@ export const ARCHIVE = [
         "id": 697,
         "type": "argument",
         "reason": "Raw Edges' Endgrain (2007) reveals material layers through bandsaw cutting — cross-section as pattern. Laarman's Gradient Chair (2014) programmes material transitions through robotic deposition — gradation as function. Both treat material layering as content, but Raw Edges reveal layers post-production while Laarman builds them pre-production."
+      },
+      {
+        "id": 930,
+        "type": "material",
+        "reason": "Laarman’s Gradient Chair (2014) is 3D-printed from bronze, stainless steel, and copper powders — the chair graduating from one metal to another along its length, a material gradient impossible in any traditional forming process. The BabyPod 20 (2017) transfers carbon fibre composite technology from Formula 1 cockpits to neonatal transport — a material developed for extreme performance repurposed for extreme fragility. Both transfer advanced manufacturing from one context to an entirely alien one: Laarman from laboratory to living room, Williams from racetrack to ambulance."
       }
     ],
     "keywords": [
@@ -31640,6 +32635,11 @@ export const ARCHIVE = [
         "id": 506,
         "type": "method",
         "reason": "Dover and Cederbaum's Universal Typeface (2014) exploits shared characteristics across thousands of handwriting samples collected via BIC pens — each letter an averaged composite, consensus generating a single face. Houedard's typewriter poems (1970) exploit the fixed-width grid of a mechanical typewriter — each character occupying the same horizontal space, the constraint generating geometric patterns. Both extract visual form from mechanical systems, but one uses thousands of hands' variation and the other uses one machine's rigidity."
+      },
+      {
+        "id": 284,
+        "type": "material",
+        "reason": "Dover and Cederbaum’s Universal Typeface (2014) averages thousands of handwriting samples into a single digital font — ink traces from diverse hands compressed into one consensus letterform. The ESP Printing Block (2019) is machine-cut plywood carrying the Extinction Rebellion symbol — ink rolled onto raised wood surface and pressed onto paper by hand. Both depend on ink meeting surface as the moment of meaning, but the Universal Typeface digitises away the individual hand and the printing block amplifies it."
       }
     ],
     "keywords": [
@@ -31758,6 +32758,11 @@ export const ARCHIVE = [
         "id": 691,
         "type": "argument",
         "reason": "Eliasson's Little Sun (2012) and Barber & Osgerby's Olympic Torch (2012) are both 2012 objects that carry symbolic light — one for daily survival, one for global ceremony. Both treat light as a social material. Both are held in the hand. One lights a room; the other lights a nation."
+      },
+      {
+        "id": 1067,
+        "type": "method",
+        "reason": "Barber & Osgerby’s 2012 Olympic Torch uses a triangular aluminium cross-section — three-sided to reference the three times London has hosted the Olympics — with 8,000 perforations, one for each torchbearer. Their 2011 Tip Ton Chair uses a two-position polypropylene shell — pushed forward, the front legs tilt the seat 5 degrees into active posture. Both designs embed their conceptual brief (three Olympic Games, two sitting postures) directly into the object’s geometry, making the numerical logic physically legible."
       }
     ],
     "keywords": [
@@ -31804,6 +32809,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "sameProblem",
         "reason": "Assemble set up a ceramic workshop inside a derelict terrace — Granby gives Liverpool back to its residents through employment and making. Piano and Rogers put the escalator on the outside so you can ride it for free — the Pompidou gives Paris back to its citizens without a ticket. Both argue that cultural institutions are not buildings but acts of redistribution."
+      },
+      {
+        "id": 585,
+        "type": "material",
+        "reason": "Assemble’s Granby Workshop Tiles (2015) are handmade ceramics produced by a social enterprise in Liverpool — waste materials and found objects pressed into clay, each tile a record of community labour. Unknown Fields’ Rare Earthenware (2015) uses rare earth mining waste from Baotou, China, formed into traditional ceramic vessels — each pot a record of toxic extraction. Both use ceramics as material evidence of social processes, but Granby records regeneration and Rare Earthenware records destruction."
       }
     ],
     "keywords": [
@@ -32223,6 +33233,11 @@ export const ARCHIVE = [
         "id": 31,
         "type": "sameProblem",
         "reason": "Kaj Franck's Kilta (1953) creates democratic tableware through industrial production — affordable ceramics designed for the Finnish table. Leach's Standard Ware (1930) creates democratic tableware through studio production — affordable ceramics thrown for the Cornish table. Both argue that everyday ceramics deserve as much design attention as exhibition pieces."
+      },
+      {
+        "id": 568,
+        "type": "material",
+        "reason": "Leach’s Standard Ware Jug (1930) is stoneware with celadon glaze — a production piece for daily use, the glaze referencing Song Dynasty precedents while the form serves a Cornish kitchen. Coper’s White Pot on High Foot (1975) is thrown stoneware with white manganese glaze — the cylindrical foot elevating a bulbous form into sculptural territory. Both use stoneware’s density and warmth, but Leach makes the material serve function and Coper makes it serve architecture."
       }
     ],
     "keywords": [
@@ -32310,6 +33325,11 @@ export const ARCHIVE = [
         "id": 573,
         "type": "lineage",
         "reason": "Edmund de Waal's teapot (in the archive) continues the lineage that Hamada and Leach established — East Asian ceramic knowledge filtered through British studio practice. De Waal trained under Geoffrey Whiting, who trained under Leach, who trained with Hamada. The line is direct."
+      },
+      {
+        "id": 942,
+        "type": "material",
+        "reason": "Hamada’s Square Bottle (1960) uses stoneware with kaki glaze and wax-resist decoration — brush strokes over wax creating negative space where darker clay shows through. Kenzan’s Dish (c.1720) uses low-fired earthenware with iron slip ground and white slip painting — flowers drawn over dark surface. Both Japanese potters build images through the dialogue between dark ground and light mark, but Hamada subtracts through wax and Kenzan adds through slip."
       }
     ],
     "keywords": [
@@ -32351,6 +33371,11 @@ export const ARCHIVE = [
         "id": 811,
         "type": "method",
         "reason": "Roman Ondák's Measuring the Universe (2007) accumulates thousands of individual marks to fill a gallery wall — each mark a person, the total a population. Ai Weiwei's Sunflower Seeds (2010) accumulates millions of individual seeds to fill a gallery floor — each seed a person, the total a nation. Both make individuality visible through overwhelming repetition."
+      },
+      {
+        "id": 940,
+        "type": "material",
+        "reason": "Ai Weiwei’s Sunflower Seeds (2010) are one hundred million hand-painted porcelain seeds, each individually sculpted by 1,600 artisans in Jingdezhen over two years. Kändler’s Meissen Harlequin (c.1740) is modelled in hard-paste porcelain at Meissen — Europe’s first porcelain factory. Both deploy the prestige material of their respective ceramic traditions for figurative sculpture, but Kändler makes one exquisite figure for aristocratic display and Ai makes a hundred million identical seeds for democratic installation."
       }
     ],
     "keywords": [
@@ -32438,6 +33463,11 @@ export const ARCHIVE = [
         "id": 16,
         "type": "argument",
         "reason": "Rams's SK 4 of 1956 — machine-pressed, assembled in a factory, every surface uniform and unmarked — argues that the highest form is the one where the maker disappears entirely. Chōjirō's Raku tea bowl of 1580 — hand-formed, pulled from the kiln glowing hot, every crack and irregularity the point — argues that the highest form is the one that shows its own making and ageing. Functionalism and wabi-sabi: two philosophies of what 'honesty' means in a designed object."
+      },
+      {
+        "id": 946,
+        "type": "material",
+        "reason": "Chōjirō’s Raku Tea Bowl (c.1580) is hand-formed clay, not wheel-thrown, fired at low temperature and pulled from the kiln while glowing hot — thermal shock producing the cracks that become the bowl’s character. Raku XV’s Tea Bowl Joka (1993) is hand-formed from the same family clay body four centuries later — pressed and pinched rather than thrown, each thumbprint a dialogue with ancestral technique. Same clay, same kiln, same family: four hundred years of material continuity in which the only variable is the hand."
       }
     ],
     "keywords": [
@@ -32602,6 +33632,11 @@ export const ARCHIVE = [
         "id": 651,
         "type": "argument",
         "reason": "Anni Albers's Wall Hanging (1926) creates a systematic abstract composition from woven threads — the grid as artistic medium. Ramshaw's Ring Sets (1972) create systematic abstract compositions from stacked metal — the pole as display medium. Both bring systematic rigour to handcraft at different scales: textile and jewellery."
+      },
+      {
+        "id": 985,
+        "type": "material",
+        "reason": "Ramshaw’s Rings (1972) apply vitreous enamel to gold and silver — adding colour through fired glass fused to precious metal, each ring a different combination displayed on a lathe-turned stand. Lee’s Enameled Skin Copper Chair (2013) applies enamel to hammered copper — adding colour through the same fired-glass-on-metal bond, but at the scale of furniture rather than jewellery. Same technique, opposite scales: the finger and the body."
       }
     ],
     "keywords": [
@@ -32643,6 +33678,11 @@ export const ARCHIVE = [
         "id": 775,
         "type": "zeitgeist",
         "reason": "Paul Renner's Futura (1927) builds letterforms from geometric primitives — circles and triangles. Christopher Dresser's Toast Rack (1881) builds tableware from geometric primitives — triangles and spheres. Both prove that geometric abstraction has practical applications beyond art — Renner in typography, Dresser in metalwork."
+      },
+      {
+        "id": 654,
+        "type": "material",
+        "reason": "Dresser’s Toast Rack (1881) uses electroplated silver — a geometric abstraction of the toast-holding function that looks designed in 1961. Behrens’s AEG Electric Kettle (1909) offers brass, copper-plate, and nickel-plate surfaces on the same standardised body — the first industrial combinatorial system. Both exploit metal plating as a democratising technology: the appearance of precious metalwork at accessible cost."
       }
     ],
     "keywords": [
@@ -32817,6 +33857,11 @@ export const ARCHIVE = [
         "id": 45,
         "type": "zeitgeist",
         "reason": "Saarinen's TWA Terminal (1962) and the Citroën DS (1955) are both mid-century designs that use continuous curved surfaces to create objects of such formal completeness that they transcend their function — the terminal becomes sculpture, the car becomes cathedral. Both prove that engineering can produce grace."
+      },
+      {
+        "id": 499,
+        "type": "material",
+        "reason": "The Citroën DS (1955) and the Olivetti Lexicon 80 (1948) both use aluminium body panels to create seamless sculptural enclosures — Bertoni wrapping an entire car in one aerodynamic skin, Nizzoli concealing a typewriter’s mechanism behind continuous curves. Both treat aluminium as a material of concealment: the DS hides hydropneumatic suspension beneath its flowing body, the Lexicon hides a forest of typebars behind sculptural calm."
       }
     ],
     "keywords": [
@@ -32863,6 +33908,11 @@ export const ARCHIVE = [
         "id": 16,
         "type": "sameProblem",
         "reason": "Rams designed the SK 4 for decades of domestic service — a white metal housing that doesn't date, controls that explain themselves, an acrylic lid that makes maintenance visible. Douglas Scott designed the Routemaster for fifty years of London service — aluminium body panels that don't rust, engines mechanics know by sound, moquette seats that wear for decades. Same problem: how to design for longevity when the industry wants planned obsolescence."
+      },
+      {
+        "id": 804,
+        "type": "material",
+        "reason": "The Routemaster (1956) mounts an aluminium body on a steel subframe for lightness in a vehicle designed to stop and start thousands of times daily. De Lucchi’s Tolomeo (1987) uses polished aluminium arms with stainless-steel tension cables for a lamp designed to be repositioned thousands of times over its life. Both pair aluminium with steel for the same reason — the aluminium carries the visible surface while the steel carries the structural loads — but one does it at the scale of a London street, the other at the scale of a desk."
       }
     ],
     "keywords": [
@@ -32909,6 +33959,11 @@ export const ARCHIVE = [
         "id": 2,
         "type": "method",
         "reason": "The Castiglionis found a tractor seat in an agricultural catalogue and bolted it to a steel stem — farm technology repurposed as domestic furniture. D'Ascanio built helicopters, then pressed an aircraft-grade monocoque shell into the Vespa's body — aerospace technology repurposed as urban transport. Both recognised that the best solution already existed in another industry."
+      },
+      {
+        "id": 1074,
+        "type": "material",
+        "reason": "D’Ascanio’s Vespa 125 (1946) stamps its entire body from pressed steel — the monocoque shell IS the frame, no separate chassis, the material doing structural and cosmetic duty simultaneously. Prouvé’s Potence Wall Lamp (1950) uses a pressed-steel reflector shade at the end of a pivoting steel arm — the same forming process producing a focused light surface rather than a vehicle body. Both use pressed steel’s ability to hold a shape under load, but the Vespa wraps a rider and the Potence directs a beam."
       }
     ],
     "keywords": [
@@ -32955,6 +34010,11 @@ export const ARCHIVE = [
         "id": 15,
         "type": "method",
         "reason": "The Pompidou's escalators are kinetic mechanisms on the outside of the building — the tubes climb the façade, the structure performing in public. Concorde's droop nose is a kinetic mechanism on the outside of the aircraft — the visor tilts for take-off, streamlines for Mach 2, the structure performing in public. Both turn engineering into spectacle by refusing to hide it."
+      },
+      {
+        "id": 362,
+        "type": "material",
+        "reason": "Concorde’s fuselage (1969) is aluminium alloy engineered to withstand thermal expansion at Mach 2 — the airframe grows 30 centimetres in flight as friction heats the skin to 127°C. Gabi’s 21400 mm Chair (2010) is 21.4 metres of aluminium bent into chair form without cutting or joining — the material stretched cold around continuous curves until it holds a human body. Both push aluminium to its structural limits, but Concorde does it through heat and Gabi does it through geometry."
       }
     ],
     "keywords": [
@@ -32996,6 +34056,11 @@ export const ARCHIVE = [
         "id": 780,
         "type": "argument",
         "reason": "David Mellor's Traffic Light (1965) designs public infrastructure that everyone uses and nobody notices. D'Ascanio's Ape (1948) designs commercial infrastructure that millions use and everyone notices. Both are democratic design, but the traffic light is invisible while the Ape is unmissable."
+      },
+      {
+        "id": 590,
+        "type": "material",
+        "reason": "D’Ascanio’s Piaggio Ape (1948) takes the Vespa’s front half — handlebars, engine, single wheel — and welds on a flatbed cargo platform, converting a personal vehicle into a commercial one with steel and a welder’s torch. Morrison’s Rover Chair (1981) takes a Rover 2000 leather seat and mounts it on a tubular steel frame with scaffold fittings, converting a crashed car into a living room chair. Both scavenge existing steel structures and repurpose them — the Ape adds utility, the Rover adds domesticity."
       }
     ],
     "keywords": [
@@ -33159,6 +34224,11 @@ export const ARCHIVE = [
         "id": 846,
         "type": "argument",
         "reason": "The Citroën DS (1955) is automotive maximalism — hydropneumatic suspension, fibreglass roof, a body sculpted like a low-drag aircraft. The Isetta (1956) is automotive minimalism — a single door, a single cylinder, a body designed by a refrigerator company. Both are radical 1950s departures from convention, but the DS argues cars should be more than transport and the Isetta that they should be nothing but."
+      },
+      {
+        "id": 631,
+        "type": "material",
+        "reason": "The BMW Isetta (1956) uses pressed steel to enclose the absolute minimum viable car — two seats, one door, three wheels, a bubble of shelter from the weather. Bouroullec’s Palissade (2015) uses hot-dip galvanised steel tube to create the absolute minimum viable outdoor furniture — no cushions, no decoration, structural rigidity from diagonal bracing alone. Both reduce steel to the threshold of sufficiency, but the Isetta answers ‘how little car can you build?’ and Palissade answers ‘how little garden chair?’"
       }
     ],
     "keywords": [
@@ -34000,6 +35070,11 @@ export const ARCHIVE = [
         "id": 348,
         "type": "argument",
         "reason": "Jongerius's Delft Blue B-jug (2001) deliberately introduces imperfections into a centuries-old Dutch ceramic tradition — cracks and bumps as evidence that the maker's hand intervened in industrial production. Dyalvane's iThongo vessels (2020) deliberately introduce a new glyph system into a centuries-old Xhosa ceramic tradition — incised marks as evidence that ancestral knowledge is being encoded for the first time. Both disrupt established ceramic traditions, but Jongerius disrupts through flaws and Dyalvane disrupts through invention."
+      },
+      {
+        "id": 782,
+        "type": "material",
+        "reason": "Dyalvane’s iThongo Vessels (2020) are monumental hand-built ceramics incised with Xhosa glyphs — personal symbols encoding ubuntu and ancestral space, the marks cut into the clay surface as cultural text. Odundo’s Asymmetric Vessel (1995) is hand-coiled and burnished terracotta whose swelling form references the human body without ever depicting it. Both African ceramic artists make the vessel carry cultural memory through hand-forming, but Dyalvane inscribes meaning into the surface and Odundo embodies it in the form."
       }
     ]
   },
@@ -34281,7 +35356,7 @@ export const ARCHIVE = [
       {
         "id": 923,
         "type": "zeitgeist",
-        "reason": "Laposse's Totomoxtle (Mexico, 2017) and Mohaded's Entrevero (Argentina, 2018) are both Latin American designers working with indigenous communities to produce contemporary design objects from traditional materials — heritage corn husks and Andean copper respectively. Both give rural craft communities economic access to the international design market. Both insist that the variation between pieces isn't rustic charm but evidence of material knowledge that specification sheets can't capture."
+        "reason": "Laposse laminates heritage corn husks into veneer sheets that argue for Oaxacan biodiversity; Mohaded hammers Andean copper into vessels that argue for Calchaquí metalworking tradition. A year apart, a continent apart, the same proposition: indigenous material knowledge is not ethnographic citation but living design intelligence. Both insist that variation between pieces is evidence of expertise, not imprecision — and both route the economic value back to the communities whose knowledge makes the work possible."
       }
     ]
   },
@@ -34371,6 +35446,11 @@ export const ARCHIVE = [
         "id": 907,
         "type": "zeitgeist",
         "reason": "Fairphone (2015) applies modular design thinking to a smartphone so it can be repaired by its owner — the user as technician. BabyPod 20 (2017) applies F1 crash-survival engineering to a neonatal incubator so it can be operated by medical staff during transport — the nurse as co-designer. Both are products that redesign their category by importing logic from outside it: Fairphone from open-source software, BabyPod from motorsport. Both prove that the best design solutions often come from people who don't know what's 'normal' in the field they're entering."
+      },
+      {
+        "id": 696,
+        "type": "material",
+        "reason": "Williams Advanced Engineering built the BabyPod 20 (2017) in carbon fibre composite developed for Formula 1 cockpits — a material engineered to protect racing drivers at 300km/h, repurposed to protect newborns at ambulance speed. Joris Laarman’s Bone Chair (2006) uses topology-optimisation software originally developed to reduce car-body weight — an algorithm that adds material where stress concentrates and removes it where forces are low. Both transfer automotive engineering to a completely different body: the infant and the sitter."
       }
     ]
   },
@@ -34600,6 +35680,11 @@ export const ARCHIVE = [
         "id": 937,
         "type": "argument",
         "reason": "Kashan lustre, c.1200, achieves its surface shimmer through metallic reduction firing — chemistry doing the work, the surface an accident of heat and atmosphere. Iznik, c.1557, achieves its surface through mechanical precision — each colour painted in discrete zones, nothing left to atmospheric chance. One surface is a record of process surrendered; the other is a record of process controlled."
+      },
+      {
+        "id": 939,
+        "type": "material",
+        "reason": "The Iznik Mosque Lamp (1557) is earthenware coated in dense white slip, painted in cobalt blue, turquoise, and tomato red — a palette so thick the pigment stands in relief above the glaze surface. Wedgwood’s Portland Vase (1790) is unglazed jasperware — a dense stoneware body that eliminates glaze entirely, the white relief figures applied to a coloured ground. Both are ceramic objects whose entire argument is in the relationship between white and coloured surface, but Iznik builds colour on top and Wedgwood builds colour underneath."
       }
     ]
   },
@@ -34641,6 +35726,11 @@ export const ARCHIVE = [
         "id": 936,
         "type": "argument",
         "reason": "Kashan lustre, c.1200, achieves its surface shimmer through metallic reduction firing — chemistry doing the work, the surface an accident of heat and atmosphere. Iznik, c.1557, achieves its surface through mechanical precision — each colour painted in discrete zones, nothing left to atmospheric chance. One surface is a record of process surrendered; the other is a record of process controlled."
+      },
+      {
+        "id": 938,
+        "type": "material",
+        "reason": "The Kashan Lustre Bowl (c.1200) achieves its metallic surface through a second reducing firing that deposits silver and copper particles on the glaze — the ceramic mimicking metal through chemistry. The Zsolnay Eosin Vase (c.1900) achieves its iridescent surface through the eosin glaze process — the ceramic shifting between red, green, and gold depending on the viewing angle. Both use glaze chemistry to make clay pretend to be metal, but Kashan produces steady golden lustre and Zsolnay produces unstable colour-shift."
       }
     ]
   },
@@ -34815,6 +35905,11 @@ export const ARCHIVE = [
         "id": 117,
         "type": "argument",
         "reason": "Sottsass's 1965 Totem ceramics use a commercial stoneware body to carry surface pattern as cultural signal — brash, repetitive, deliberately anti-refined. The Sèvres Vase Hollandais of c.1761 uses soft-paste porcelain to carry surface painting as social credential — refined, singular, expensive to achieve. Both understand ceramic surface as an argument about where you stand; they disagree completely about what that position should communicate."
+      },
+      {
+        "id": 968,
+        "type": "material",
+        "reason": "The Sèvres Vase Hollandais (1761) is soft-paste porcelain produced at the royal manufactory — ground colour applied over the entire body, white panels reserved for painted scenes commissioned by the court. Zeisel’s Intourist Tea Service (1933) is porcelain produced at the Lomonosov state factory — organic forms answering Stalin-era industrial quotas while smuggling in elegance. Both are porcelain shaped by state patronage, but Sèvres serves aristocratic display and Lomonosov serves socialist production."
       }
     ]
   },
@@ -34979,6 +36074,11 @@ export const ARCHIVE = [
         "id": 821,
         "type": "argument",
         "reason": "Assemble's 2015 Granby Workshop tile and Cummings's 2015 Production Line are near-simultaneous ceramics interventions in British culture, both made within the same twelve months. The Granby tile is fired and sold — ceramics as community economic model, permanence as the point. The Cummings installation is unfired and temporary — ceramics as critique of permanence itself. Two positions on what the ceramic discipline is for."
+      },
+      {
+        "id": 670,
+        "type": "material",
+        "reason": "Cummings builds elaborate unfired clay structures directly within the gallery — the work exists in its raw, bone-dry state and is dismantled when the exhibition ends. Max Lamb pours molten pewter into moulds dug in wet sand on a Cornish beach — each stool recording the exact texture of sand and the moment of casting. Both reject the kiln and the foundry in favour of direct, impermanent encounters between material and context, but Cummings refuses to fire and Lamb refuses to mould."
       }
     ]
   },
@@ -35102,6 +36202,11 @@ export const ARCHIVE = [
         "id": 689,
         "type": "method",
         "reason": "Chipperfield fills the Neues Museum's bomb-damaged walls with pale concrete in 2009 — new material sits beside shrapnel scars without apology. De Vries reassembles eighteenth-century porcelain shards into new vessels in 2020 — the fracture lines become the composition. Architecture and ceramics, different scales, identical principle: damage is not a problem to solve but information to preserve."
+      },
+      {
+        "id": 940,
+        "type": "material",
+        "reason": "De Vries acquires broken historical porcelain — typically shards of eighteenth-century European ware — and reassembles them into new forms: not repaired but recomposed, the breaks left visible, the missing pieces accepted as absence. Kändler’s Meissen Harlequin (c.1740) is modelled in hard-paste porcelain at Europe’s first porcelain factory — the material so new and precious that every figure was kept intact in aristocratic collections. Both artists’ work depends on porcelain’s cultural status as precious material, but Kändler creates objects meant never to break and de Vries creates objects from the fact that they did."
       }
     ]
   },
@@ -35599,6 +36704,11 @@ export const ARCHIVE = [
         "id": 840,
         "type": "argument",
         "reason": "Koppel's 1948 Pitcher 1017 for Georg Jensen is silver at its most fluid — biomorphic curves, hand-beaten surfaces, a form that looks poured rather than made. Welch's 1961 Hobart Candlestick is iron at its most architectonic — stacked discs, stepped profile, a form that looks built rather than cast. Both are post-war Scandinavian-influenced metalwork, but Koppel achieves sculptural warmth through the malleability of precious metal and Welch achieves monumental stillness through the weight of cast iron."
+      },
+      {
+        "id": 995,
+        "type": "material",
+        "reason": "Welch’s Hobart Candlestick (1961) uses cast iron to build a stack of concentric discs — architectonic geometry from a foundry material more commonly associated with cooking ranges and bollards. Seletti’s Industry Lounge Chair (2013) uses a cast iron frame with exposed bolt joints — the material’s industrial associations deliberately left raw. Both rescue cast iron from its utilitarian context, but Welch gives it geometric elegance and Seletti gives it self-aware roughness."
       }
     ],
     "keywords": [
@@ -35943,6 +37053,11 @@ export const ARCHIVE = [
         "id": 567,
         "type": "sameProblem",
         "reason": "Zeisel's Intourist tea service (1933) unifies teapot, cups and sugar bowl through a consistent formal logic of gentle swells and restrained curves — the service as volumetric system, the argument entirely in the volume. Coper's large oval-bodied pot (1968) narrows from a wide elliptical body to an elliptical opening through a geometric progression — the vessel as mathematical exercise, the argument entirely in the volume. Both ceramicists who refuse surface decoration and stake everything on the eloquence of three-dimensional form."
+      },
+      {
+        "id": 834,
+        "type": "material",
+        "reason": "Zeisel’s Intourist Tea Service (1933) is porcelain produced at the Lomonosov factory in Leningrad — 1,600 workers making tableware to industrial quotas. Ai Weiwei’s Sunflower Seeds (2010) are one hundred million hand-painted porcelain seeds produced by 1,600 artisans in Jingdezhen over two years. Both deploy porcelain at industrial scale under political systems that instrumentalise labour, but Zeisel’s factory produces functional objects for socialist dining and Ai’s workshop produces symbolic objects that critique mass production itself."
       }
     ]
   },
@@ -36025,6 +37140,11 @@ export const ARCHIVE = [
         "id": 947,
         "type": "method",
         "reason": "Libenský and Brychtová cast glass using controlled light transmission through thick walls; Schrammel pierces porcelain to admit light through thin walls. Both are using light as a structural argument — not illumination added to an object, but a property embedded in the material itself by the maker's decision. The methods are opposite; the claim is the same."
+      },
+      {
+        "id": 324,
+        "type": "material",
+        "reason": "Schrammel throws porcelain then cuts systematic perforations through the wall — the vessel becoming a lattice of positive and negative that transforms ceramic into a structure of light. Studio Drift’s Fragile Future (2011) embeds real dandelion seeds in LED-lit glass tubes — the chandelier combining natural fragility with technological permanence. Both make their material’s translucency the subject: Schrammel perforates porcelain until light passes through the walls, and Drift suspends organic matter in glass until light passes through the seeds."
       }
     ]
   },
@@ -36655,6 +37775,11 @@ export const ARCHIVE = [
         "id": 588,
         "type": "argument",
         "reason": "Marc Newson's 1988 Lockheed Lounge is riveted aircraft aluminium stretched over a fiberglass form — a skin that is purely surface, with the structure hidden inside. Lee's 2013 Enameled Skin Copper Chair hammers copper into a skin that is simultaneously surface and structure. Newson's aluminium skin covers an interior form; Lee's copper skin IS the form. One hides the structure behind surface; the other makes surface and structure identical."
+      },
+      {
+        "id": 1024,
+        "type": "material",
+        "reason": "Lee’s Enameled Skin Copper Chair (2013) hammers thin copper sheet over a chair-shaped armature, the hammering visible in every surface facet, then fires enamel over the metal for colour. El Anatsui’s Dusasa II (2007) flattens thousands of aluminium bottle caps and connects them with copper wire — each cap individually folded and wired into a massive hanging textile. Both treat thin metal as a skin that records the labour of its making, but Lee hammers copper into furniture and Anatsui wires aluminium into tapestry."
       }
     ]
   },
@@ -36855,6 +37980,11 @@ export const ARCHIVE = [
         "id": 694,
         "type": "method",
         "reason": "Piet Hein Eek's 1990 Scrapwood Cupboard is built from waste timber offcuts sorted by colour and grain into a patchwork surface — the reclaimed material's variety becoming the design pattern. Tjitrowirjo's 2009 Linger bench uses reclaimed teak whose individual character is preserved but not celebrated through systematic variety. Eek performs the material's diversity; Tjitrowirjo accepts the material's history. Both reject the idea that reclaimed material should be hidden behind a uniform finish."
+      },
+      {
+        "id": 991,
+        "type": "lineage",
+        "reason": "Tjitrowirjo’s 2009 Linger Bench retains the natural texture and colour variation of reclaimed Indonesian teak as its primary design element — the material’s history becomes the aesthetic. His 2019 Tropicalía Modernity chair advances the argument: rattan woven panels within a teak frame assert that Indonesian design has its own modernity, rooted in specific material practices and tropical climate conditions rather than imported European or American modernism."
       }
     ]
   },
@@ -36973,6 +38103,11 @@ export const ARCHIVE = [
         "id": 645,
         "type": "sameProblem",
         "reason": "Ingo Maurer's 1966 Bulb Lamp takes the light bulb — an icon of illumination — and makes it the lamp: the metaphor made literal. Plypetch's 1997 Mr. P takes the human figure — an icon of domestic presence — and makes it the lamp: the body as the thing that holds light. Both are lamps that use a visual icon as their form. Maurer uses the icon of electricity; Plypetch uses the icon of personhood."
+      },
+      {
+        "id": 161,
+        "type": "sameProblem",
+        "reason": "Bedin's Terminus (1981) puts a lamp on castor wheels and gives it a face — anthropomorphic lighting as Memphis domestic companion. Plypetch's Mr. P (1997) casts a lamp as a standing stick figure with a bulb for a head — anthropomorphic lighting as conceptual joke. Both turn the table lamp into a character, but Bedin's character belongs to a design movement and Plypetch's belongs to a punchline."
       }
     ]
   },
@@ -37925,6 +39060,11 @@ export const ARCHIVE = [
         "id": 1015,
         "type": "zeitgeist",
         "reason": "Errazuriz hinges forty-six maple slats into a Wave Cabinet that performs its opening as a kinetic event, 2014. Reinoso extends a park bench's timber slats until they climb walls and curl across ceilings as tendrils, 2006. Two South American designers, eight years apart, refusing furniture's static territory — one through mechanism, the other through growth. The cabinet waves; the bench escapes."
+      },
+      {
+        "id": 960,
+        "type": "material",
+        "reason": "Lassus’s Spaghetti Bench (2006) uses green-painted cast iron ends — the standard park bench material — as the anchor for timber slats that extend beyond the frame, climb the wall, and loop across the ceiling. Welch’s Hobart Candlestick (1961) uses cast iron to build a stack of concentric discs — architectonic geometry from a foundry material. Both reclaim cast iron from civic anonymity: Lassus makes the park bench surreal and Welch makes the candlestick precise."
       }
     ]
   },
@@ -40454,6 +41594,11 @@ export const ARCHIVE = [
         "id": 34,
         "type": "sameProblem",
         "reason": "Maija Isola's 1964 Unikko for Marimekko occupies the same territory as Vlisco wax print: a boldly patterned cotton textile whose graphic character became culturally specific — Unikko to Finnish modernist identity, wax print to West African dress culture. Isola's poppy was a defiant design against her employer's wishes. Vlisco's prints were made for a market the designers had never visited. Both became cultural property through use rather than through design intent."
+      },
+      {
+        "id": 654,
+        "type": "material",
+        "reason": "Vlisco Dutch Wax Print (1846) uses copper engraved rollers to apply wax to cotton — an industrial batik process where the copper cylinder carries the design and the wax resists the dye. Behrens’s AEG Electric Kettle (1909) offers copper-plate as one of three surface finishes on a standardised body — the copper carrying aesthetic warmth rather than pattern. Both use copper as a mediating material in industrial production, but Vlisco’s copper transfers pattern to cloth and Behrens’s copper transfers warmth to the product surface."
       }
     ]
   },
@@ -40654,6 +41799,11 @@ export const ARCHIVE = [
         "id": 1090,
         "type": "sameProblem",
         "reason": "Lee fires stoneware for seven days at 1300°C and accepts whatever the ash and atmosphere produce — the surface is a geological record. Hirai throws a moon jar in two halves, layers slips, and fires to oscillate between darkness and luminosity — the surface is an astronomical event. Two British studio potters, two stoneware vessels, two arguments about whether the kiln is a collaborator or a performer."
+      },
+      {
+        "id": 831,
+        "type": "material",
+        "reason": "Jennifer Lee’s Vase (1985) is thrown and hand-built stoneware fired in wood-burning kilns at 1300°C over seven days — the extended firing and natural ash deposits producing colour variations that no glaze recipe could replicate. Leach’s Standard Ware Jug (1930) is stoneware with celadon glaze — the glaze referencing Song Dynasty precedents within a British studio pottery framework. Both commit to stoneware’s slow, high-fire process, but Lee lets the kiln’s atmosphere dictate the surface and Leach controls it with deliberate glaze application."
       }
     ]
   },
@@ -40699,6 +41849,11 @@ export const ARCHIVE = [
         "id": 583,
         "type": "argument",
         "reason": "Britton's Big White Jug (1987) pushes the vessel toward abstraction — the form flattened, tilted, the surface painted with architectural marks, clay used for spatial investigation. Yanagihara's Laughing Mouth (1985) pushes the vessel toward figuration — the opening becomes a grinning mouth, clay used for psychological confrontation. Two potters in the 1980s, both rejecting functional restraint, arriving at opposite positions: one makes pots that think, the other makes pots that emote."
+      },
+      {
+        "id": 787,
+        "type": "material",
+        "reason": "Britton’s Big White Jug (1987) is hand-built from earthenware slabs, press-moulded and assembled — not thrown — covered in white tin glaze onto which she paints broad confident marks. Woodman’s Pillow Pitcher (1988) is earthenware painted in bold flat colours — wide, flat, bulging — referencing Greek pottery and Matisse simultaneously. Both use earthenware’s accessibility and paintability as licence to work between ceramic and painting, but Britton builds architectural forms and Woodman builds art-historical ones."
       }
     ]
   },
@@ -40739,6 +41894,11 @@ export const ARCHIVE = [
         "id": 1087,
         "type": "sameProblem",
         "reason": "Huycke's 2015 Edge of Chaos II builds a hollow silver form entirely from granulation — thousands of tiny spheres fused without solder using a copper-oxide bonding agent, the surface a record of ancient Etruscan technique revived through obsessive repetition. Dickinson's 2012 Large Grey Vessel casts glass in a kiln then grinds, sandblasts, and polishes until the cast surface is entirely removed, the object a record of sustained subtraction. Silver accumulated sphere by sphere. Glass reduced pass by pass. Two studio practitioners in precious materials whose surfaces are arguments about labour."
+      },
+      {
+        "id": 789,
+        "type": "material",
+        "reason": "Huycke’s Edge of Chaos II (2015) builds a hollow silver form from granulation — thousands of tiny spheres fused without solder using copper-oxide bonding, an ancient technique pushed to mathematical extremes. Suzuki’s Raised Silver Vessel (2005) raises a form from a single flat disc by thousands of hammer blows over months — each blow stretching the metal outward into organic rippling. Both transform silver through obsessive repetitive process, but Huycke accumulates particles and Suzuki deforms a plane."
       }
     ]
   },
@@ -41017,6 +42177,11 @@ export const ARCHIVE = [
         "id": 649,
         "type": "argument",
         "reason": "Brandt's MT49 (1924) reduces a tea infuser to hemisphere, handle, strainer — Bauhaus geometry applied to hot-water ritual, every form answering a function. Ponti, Fornaroli and Rosselli's La Cornuta (1948) inflates an espresso machine to cathedral scale — hexagonal base, domed crown, projecting gargoyles, every form exceeding its function. Two approaches to the ceremony of hot drinks: Brandt strips it bare, Ponti dresses it up."
+      },
+      {
+        "id": 1048,
+        "type": "material",
+        "reason": "Ponti’s La Cornuta (1948) uses chrome-plated steel to turn an espresso machine into a tabletop cathedral — the hexagonal base rising to a domed crown, the horizontal brewing groups projecting like flying buttresses. The Dualit Classic Toaster (1952) uses polished stainless steel and cast aluminium for a slot toaster built to commercial grade — the hand-operated ejector mechanism deliberately mechanical, the steel body designed to outlast decades of kitchen use. Both treat metal as a material of permanence in the kitchen, but La Cornuta aspires to sacred architecture and the Dualit aspires to industrial endurance."
       }
     ]
   },
@@ -41057,6 +42222,11 @@ export const ARCHIVE = [
         "id": 36,
         "type": "lineage",
         "reason": "Puiforcat's Tea Service (1922) uses mathematical systems to generate silver tea vessels from geometric solids — each piece a calculated intersection of cones and spheres. Jacobsen's Cylinda-Line (1967) uses a single geometric rule — the cylinder — to generate an entire tableware family in stainless steel. Puiforcat's system is proportional; Jacobsen's is typological. Both prove that a mathematical discipline can replace decorative tradition in metalwork."
+      },
+      {
+        "id": 33,
+        "type": "material",
+        "reason": "Puiforcat’s Tea Service (1922) builds each sterling silver vessel from intersecting geometric solids — the teapot a truncated cone meeting a sphere, the creamer a cylinder meeting a plane — with lapis lazuli finials and gold details adding colour to metal. Koppel’s Pitcher 992 (1952) hand-raises sterling silver into a biomorphic form with no straight lines, no right angles, no historical references. Same precious metal, opposite geometries: Puiforcat’s silver is Euclidean and Koppel’s is organic."
       }
     ]
   },
@@ -41296,6 +42466,11 @@ export const ARCHIVE = [
         "id": 45,
         "type": "zeitgeist",
         "reason": "Saarinen's TWA Terminal (1962) and Pininfarina's Cisitalia 202 (1946) both treat a functional object as continuous sculptural surface — the terminal's concrete shells and the car's aluminium body share a refusal to distinguish structure from skin. MoMA acquired both as design objects. One shelters passengers from weather; the other shelters a driver from wind. Same sculptural ambition, different speeds."
+      },
+      {
+        "id": 611,
+        "type": "material",
+        "reason": "Pininfarina shaped the Cisitalia 202 GT (1946) by hammering aluminium panels over wooden bucks — each curve a sculptor’s decision about how light falls across a moving surface. Grcic’s Chair_One (2003) is die-cast aluminium forced into flat triangulated planes by industrial pressure — no hand, no buck, no curve. Same metal, opposite forming philosophies: the artisan envelope versus the computational shell."
       }
     ]
   },
@@ -41336,6 +42511,11 @@ export const ARCHIVE = [
         "id": 846,
         "type": "argument",
         "reason": "Bertoni's DS (1955) treats the car as a sculptural event — hydropneumatic suspension, continuous aerodynamic body, Barthes's 'cathedral'. Issigonis's Morris Minor (1948) treats the car as a spatial problem — maximum interior volume, minimum exterior footprint, rack-and-pinion steering. The DS asks what a car can mean; the Minor asks what a car can fit. French ambition against British pragmatism."
+      },
+      {
+        "id": 42,
+        "type": "material",
+        "reason": "Issigonis’s Morris Minor (1948) was the first mass-produced British car with a monocoque body — pressed steel replacing the separate chassis, the skin becoming the structure. The Eames Leg Splint (1942) used moulded plywood in exactly the same structural logic — the shell IS the frame, compound curves providing rigidity without a separate skeleton. Both emerged from wartime material constraints: the splint from plywood developed for naval applications, the Minor from steel shortages that demanded lighter, more efficient body construction."
       }
     ]
   },
