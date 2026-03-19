@@ -9053,7 +9053,7 @@ export const ARCHIVE = [
       "industrial construction",
       "furniture families"
     ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2011EX8528/full/800,/0/default.jpg"
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AX7600/full/800,/0/default.jpg"
   },
   {
     "id": 233,
@@ -11145,7 +11145,7 @@ export const ARCHIVE = [
       "movement branding",
       "activist appropriation"
     ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2021NB8480/full/800,/0/default.jpg"
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2019MD6284/full/800,/0/default.jpg"
   },
   {
     "id": 286,
@@ -18455,7 +18455,7 @@ export const ARCHIVE = [
       "geometric purity",
       "material efficiency"
     ],
-    "imageUrl": "https://framemark.vam.ac.uk/collections/2014HG5421/full/800,/0/default.jpg"
+    "imageUrl": "https://framemark.vam.ac.uk/collections/2006AY4372/full/800,/0/default.jpg"
   },
   {
     "id": 477,
@@ -23086,7 +23086,8 @@ export const ARCHIVE = [
       "punk design",
       "ready-made"
     ],
-    "id": 590
+    "id": 590,
+    "imageUrl": "/images/590.jpg"
   },
   {
     "title": "Bookworm Shelf",
