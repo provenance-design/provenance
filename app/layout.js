@@ -3,6 +3,18 @@ import './globals.css';
 export const metadata = {
   title: 'Provenance — A Curated Archive of Significant Design',
   description: 'Design knowledge, not design inspiration. A curated archive of significant design objects with argued cross-disciplinary connections.',
+  openGraph: {
+    title: 'Provenance — Today\'s Design Object',
+    description: 'A curated archive of 1,000 design objects. A new entry featured daily.',
+    url: 'https://provenancearchive.uk',
+    siteName: 'Provenance',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Provenance — Today\'s Design Object',
+    description: 'A curated archive of 1,000 design objects. A new entry featured daily.',
+  },
 };
 
 export default function RootLayout({ children }) {

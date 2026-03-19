@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { ARCHIVE, DISCIPLINES, CONNECTION_TYPES } from "./data/archive";
+import { DAILY_FRAMINGS } from "./data/daily-framings";
 import VisualiserShell from './components/visualiser/VisualiserShell';
 const CONN_TYPES = Object.fromEntries(Object.entries(CONNECTION_TYPES).map(([k, v]) => [k, { ...v, icon: v.symbol }]));
 const PALETTE = { Product: "#8B4513", Furniture: "#2F5233", Graphic: "#4A6741", Lighting: "#5B7065", Architecture: "#6B7B6F", Typography: "#7A8B7A", Textile: "#9B6B4A", Transport: "#5A7B8B", Ceramic: "#8B7355", Glass: "#6B8B7B", Metalwork: "#7B6B8B" };
@@ -752,7 +753,39 @@ export default function Page() {
   const [connMapMode, setConnMapMode] = useState("force");
   const [connMapAuth, setConnMapAuth] = useState(false);
   const [connMapPw, setConnMapPw] = useState("");
-  const [featured] = useState(() => ARCHIVE[0]);
+  const [todayConnection] = useState(() => {
+    // Deterministic daily connection: djb2 hash of UTC date string
+    const dateStr = new Date().toISOString().slice(0, 10);
+    let hash = 5381;
+    for (let i = 0; i < dateStr.length; i++) hash = ((hash << 5) + hash) ^ dateStr.charCodeAt(i);
+    // Build flat list of all cross-discipline connections
+    const idMap = new Map(ARCHIVE.map(e => [e.id, e]));
+    const allConns = [];
+    ARCHIVE.forEach(entry => {
+      (entry.connections || []).forEach(c => {
+        const target = idMap.get(c.id);
+        if (target && entry.discipline !== target.discipline) {
+          allConns.push({ from: entry, to: target, type: c.type, reason: c.reason });
+        }
+      });
+    });
+    const conn = allConns[Math.abs(hash) % allConns.length];
+    // Build a 2-3 hop path continuing from the target object
+    const path = [];
+    let current = conn.to;
+    const visited = new Set([conn.from.id, conn.to.id]);
+    for (let hop = 0; hop < 3; hop++) {
+      const valid = (current.connections || []).filter(c => idMap.has(c.id) && !visited.has(c.id));
+      if (valid.length === 0) break;
+      const pick = valid[Math.abs(hash * (hop + 2)) % valid.length];
+      const next = idMap.get(pick.id);
+      path.push({ entry: next, type: pick.type });
+      visited.add(next.id);
+      current = next;
+    }
+    const framing = DAILY_FRAMINGS[dateStr] || `${conn.from.title} and ${conn.to.title}.`;
+    return { ...conn, path, framing };
+  });
   const scrollPosRef = useRef(0);
 
   useEffect(() => {
@@ -890,31 +923,77 @@ export default function Page() {
 
       <div style={{ padding: '44px', maxWidth: '1100px', margin: '0 auto' }}>
 
-        {/* FEATURED */}
-        {view === 'featured' && (
+        {/* TODAY — Connection-first daily feature */}
+        {view === 'featured' && todayConnection && (
           <div>
-            <div style={{ fontSize: '10px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8A080', marginBottom: '32px', fontWeight: 500 }}>Today&apos;s Entry</div>
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '56px' }}>
-              <div>
-                <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: '110px', color: '#E8E4DC', lineHeight: 0.85, letterSpacing: '-0.04em', marginBottom: '16px' }}>{featured.year}</div>
-                <div style={{ display: 'inline-block', fontSize: '10px', letterSpacing: '0.14em', textTransform: 'uppercase', fontWeight: 500, color: PALETTE[featured.discipline], borderBottom: `2px solid ${PALETTE[featured.discipline]}`, marginBottom: '16px', paddingBottom: '2px' }}>{featured.discipline}</div>
-                <h1 style={{ fontFamily: "'DM Serif Display', serif", fontSize: '36px', fontWeight: 400, lineHeight: 1.1, letterSpacing: '-0.015em', marginBottom: '10px' }}>{featured.title}</h1>
-                <div style={{ fontSize: '15px', color: '#888', marginBottom: '8px' }}>{featured.designer}</div>
-                <div style={{ fontSize: '12px', color: '#BBB', marginBottom: '28px' }}>{featured.manufacturer} · {featured.origin} · {featured.collection}</div>
-                <p style={{ fontSize: '15px', lineHeight: 1.75, color: '#444', marginBottom: '28px' }}>{featured.description}</p>
-                <div style={{ fontSize: '9.5px', letterSpacing: '0.16em', textTransform: 'uppercase', color: '#B8A080', marginBottom: '10px', fontWeight: 600 }}>Why It Matters</div>
-                <p style={{ fontSize: '14px', lineHeight: 1.7, color: '#777', fontStyle: 'italic' }}>{featured.significance}</p>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginTop: '24px' }}>
-                  {featured.keywords.map((kw, i) => <span key={i} style={{ fontSize: '10px', padding: '3px 10px', background: '#EDEADE', color: '#888' }}>{kw}</span>)}
-                </div>
-              </div>
-              <div>
-                <ImageWithFallback key={featured.id} item={featured} aspectRatio="3/4" />
-                <div style={{ marginTop: '36px', paddingTop: '24px', borderTop: '1px solid #E4E0D8' }}>
-                  {renderConnections(featured, 2)}
-                </div>
-              </div>
+            <div style={{ fontSize: '10px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8A080', marginBottom: '32px', fontWeight: 500 }}>Today&apos;s Connection</div>
+
+            {/* Editorial framing */}
+            <h1 style={{ fontFamily: "'DM Serif Display', serif", fontSize: '32px', fontWeight: 400, lineHeight: 1.2, letterSpacing: '-0.015em', color: '#333', marginBottom: '12px' }}>
+              {todayConnection.framing}
+            </h1>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '40px' }}>
+              <span style={{ fontSize: '10px', letterSpacing: '0.12em', textTransform: 'uppercase', color: CONNECTION_TYPES[todayConnection.type]?.color, fontWeight: 600 }}>{CONNECTION_TYPES[todayConnection.type]?.symbol} {CONNECTION_TYPES[todayConnection.type]?.label}</span>
+              <span style={{ fontSize: '10px', color: '#CCC' }}>·</span>
+              <span style={{ fontSize: '10px', letterSpacing: '0.08em', textTransform: 'uppercase', color: PALETTE[todayConnection.from.discipline] }}>{todayConnection.from.discipline}</span>
+              <span style={{ fontSize: '10px', color: '#CCC' }}>→</span>
+              <span style={{ fontSize: '10px', letterSpacing: '0.08em', textTransform: 'uppercase', color: PALETTE[todayConnection.to.discipline] }}>{todayConnection.to.discipline}</span>
             </div>
+
+            {/* Two objects side by side */}
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '40px', marginBottom: '40px' }}>
+              {[todayConnection.from, todayConnection.to].map((obj, i) => (
+                <div key={obj.id} style={{ cursor: 'pointer' }} onClick={() => { setSelectedItem(obj); setView('detail'); }}>
+                  <ImageWithFallback key={obj.id} item={obj} aspectRatio="4/3" />
+                  <div style={{ marginTop: '16px' }}>
+                    <div style={{ display: 'inline-block', fontSize: '10px', letterSpacing: '0.14em', textTransform: 'uppercase', fontWeight: 500, color: PALETTE[obj.discipline], borderBottom: `2px solid ${PALETTE[obj.discipline]}`, marginBottom: '10px', paddingBottom: '2px' }}>{obj.discipline}</div>
+                    <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: '22px', fontWeight: 400, lineHeight: 1.15, letterSpacing: '-0.01em', marginBottom: '6px' }}>{obj.title}</div>
+                    <div style={{ fontSize: '13px', color: '#888', marginBottom: '4px' }}>{obj.designer}</div>
+                    <div style={{ fontSize: '11px', color: '#BBB' }}>{obj.manufacturer} · {obj.year}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* The argued connection — the answer */}
+            <div style={{ borderTop: '1px solid #E4E0D8', paddingTop: '28px', marginBottom: '36px' }}>
+              <div style={{ fontSize: '9.5px', letterSpacing: '0.16em', textTransform: 'uppercase', color: '#B8A080', marginBottom: '14px', fontWeight: 600 }}>The Connection</div>
+              <p style={{ fontSize: '15px', lineHeight: 1.75, color: '#444', maxWidth: '720px' }}>{todayConnection.reason}</p>
+            </div>
+
+            {/* Follow the thread — path teaser */}
+            {todayConnection.path.length > 0 && (
+              <div style={{ borderTop: '1px solid #E4E0D8', paddingTop: '24px' }}>
+                <div style={{ fontSize: '9.5px', letterSpacing: '0.16em', textTransform: 'uppercase', color: '#B8A080', marginBottom: '16px', fontWeight: 600 }}>Follow the thread</div>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', maxWidth: '480px' }}>
+                  <div onClick={() => openItem(todayConnection.to)} style={{ cursor: 'pointer', background: '#FDFCF8', border: '1px solid #EBE8E0', padding: '12px 16px', display: 'flex', alignItems: 'center', gap: '14px', transition: 'all 0.2s' }}
+                    onMouseEnter={e => { e.currentTarget.style.background = '#FFF'; e.currentTarget.style.borderColor = '#CCC'; }}
+                    onMouseLeave={e => { e.currentTarget.style.background = '#FDFCF8'; e.currentTarget.style.borderColor = '#EBE8E0'; }}>
+                    <div style={{ width: '6px', height: '36px', background: PALETTE[todayConnection.to.discipline], borderRadius: '1px', flexShrink: 0 }} />
+                    <div>
+                      <div style={{ fontSize: '13.5px', fontWeight: 500, color: '#333', letterSpacing: '-0.01em' }}>{todayConnection.to.title}</div>
+                      <div style={{ fontSize: '10px', color: '#AAA', marginTop: '2px' }}>{todayConnection.to.discipline} · {todayConnection.to.designer?.split(',')[0]?.split('&')[0]?.trim()} · {todayConnection.to.year}</div>
+                    </div>
+                  </div>
+                  {todayConnection.path.map((hop, i) => (
+                    <div key={i}>
+                      <div style={{ paddingLeft: '20px' }}>
+                        <span style={{ fontSize: '9px', letterSpacing: '0.12em', textTransform: 'uppercase', color: '#B8A080' }}>↓ {CONNECTION_TYPES[hop.type]?.label || hop.type}</span>
+                      </div>
+                      <div onClick={() => openItem(hop.entry)} style={{ cursor: 'pointer', background: '#FDFCF8', border: '1px solid #EBE8E0', padding: '12px 16px', display: 'flex', alignItems: 'center', gap: '14px', marginTop: '6px', transition: 'all 0.2s' }}
+                        onMouseEnter={e => { e.currentTarget.style.background = '#FFF'; e.currentTarget.style.borderColor = '#CCC'; }}
+                        onMouseLeave={e => { e.currentTarget.style.background = '#FDFCF8'; e.currentTarget.style.borderColor = '#EBE8E0'; }}>
+                        <div style={{ width: '6px', height: '36px', background: PALETTE[hop.entry.discipline], borderRadius: '1px', flexShrink: 0 }} />
+                        <div>
+                          <div style={{ fontSize: '13.5px', fontWeight: 500, color: '#333', letterSpacing: '-0.01em' }}>{hop.entry.title}</div>
+                          <div style={{ fontSize: '10px', color: '#AAA', marginTop: '2px' }}>{hop.entry.discipline} · {hop.entry.designer?.split(',')[0]?.split('&')[0]?.trim()} · {hop.entry.year}</div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         )}
 
