@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "provenance": {
+      "command": "node",
+      "args": ["mcp/server.js"],
+      "cwd": "/Users/basaltrooms/Documents/_dev/provenance-archive/provenance-site"
+    }
+  }
+}

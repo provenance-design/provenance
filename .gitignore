@@ -1,7 +1,3 @@
 node_modules/
+mcp/node_modules/
 .next/
-.env
-.env.local
-.tmp/
-.DS_Store
-**/.DS_Store
