@@ -25,6 +25,11 @@ The archive is built as a teaching resource for design students and as the found
 
 Built with Next.js 14 and React 18. Hosted on Vercel. Data lives in JavaScript files — no database.
 
+## Licence
+
+- **Code** (MCP server, tools, application) — [MIT](LICENSE)
+- **Archive content and documentation** — [CC BY-SA 4.0](CONTENT-LICENSE.md)
+
 ## Author
 
 **Neil Housego**
