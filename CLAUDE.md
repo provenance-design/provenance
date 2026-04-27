@@ -79,9 +79,9 @@ Probabilistic AI handles reasoning. Deterministic code handles execution. This s
 - Keep commit messages concise and descriptive
 - **NEVER** push to GitHub without Neil's go-ahead — always confirm first
 
-## Repository Visibility
+## Repository
 
-The GitHub repo is **public** under the `provenance-design` account (separate from Neil's Basalt Rooms account). Neil's university colleagues should not discover the Basalt Rooms identity — the accounts have no link.
+The GitHub repo is owned by the `provenance-design` account.
 
 ## Deployment
 
@@ -168,7 +168,7 @@ The project is indexed in a PalaceForge palace at `~/.palaceforge/palace/`. Use 
 | Merge candidates | `python tools/merge.py --ids 937 938` or `--all` |
 | Merge preview | `python tools/merge.py --dry-run --all` |
 | Run locally | `npm run dev` → `localhost:3000` |
-| Staging review | `provenancearchive.uk/staging` (password: `provenance2026`) |
+| Staging review | `provenancearchive.uk/staging` (password-gated; see `app/staging/page.js`) |
 
 For the full cohort pipeline, see `workflows/cohort-pipeline.md`.
 For data schema and editing guide, see `docs/schema.md`.
@@ -183,7 +183,7 @@ For project history, see `docs/history.md`.
 
 The staging page at `/staging` is the editorial interface for reviewing candidates before they go live.
 
-- **Password:** `provenance2026` (client-side only, session state)
+- **Password:** client-side gate (see `STAGING_PASSWORD` constant in `app/staging/page.js`); not a real auth boundary
 - **Data source:** `app/data/candidates.js` (same schema as archive)
 - **Tabs:** Candidates list + Network visualiser
 - **Not linked** from the main site

@@ -14,6 +14,7 @@ docs/quality-tests/         # Internal evaluation results
 docs/superpowers/           # Planning docs, specs, plans (internal)
 docs/reference/             # Internal reference material
 .claude/agent-memory/       # Agents' working notes
+.claude/projects/           # Claude Code session memory (path-encoded; identity-leaking)
 .superpowers/               # Session state
 
 # Third-party content (not ours to redistribute)

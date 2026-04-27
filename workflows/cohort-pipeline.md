@@ -66,7 +66,7 @@ Check:
 
 ### 7. Neil Reviews
 
-Deploy staging: candidates are visible at `provenancearchive.uk/staging` (password: provenance2026).
+Deploy staging: candidates are visible at `provenancearchive.uk/staging` (password-gated; see `app/staging/page.js`).
 
 Neil reviews entries, connections, and topology. Iterate as needed.
 
