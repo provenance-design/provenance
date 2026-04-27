@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This MIT licence covers the SOFTWARE only — the MCP server, validation/topology
-tools, and the Next.js application code.
-
-The CURATED ARCHIVE CONTENT (the entry texts, significance statements,
-connection texts, editorial typology, and skills documentation) is licensed
-separately under Creative Commons Attribution-ShareAlike 4.0 International
-(CC BY-SA 4.0). See CONTENT-LICENSE.md for details.
