@@ -66,8 +66,8 @@ Probabilistic AI handles reasoning. Deterministic code handles execution. This s
 
 ## Current State
 
-- **1,000 entries** in live archive, **3,021 connections**, zero broken targets
-- **11 disciplines:** Product (240), Furniture (297), Graphic (138), Architecture (71), Textile (69), Lighting (68), Ceramic (35), Glass (35), Metalwork (20), Typography (16), Transport (11)
+- **1,000 entries** in live archive, **3,257 connections**, zero broken targets
+- **11 disciplines:** Furniture (297), Product (202), Graphic (142), Textile (72), Architecture (71), Lighting (68), Ceramic (66), Glass (35), Metalwork (20), Typography (16), Transport (11)
 - Weakest disciplines: **Transport, Typography** — prioritise when adding
 - Entry IDs: 1–1102 (not contiguous — gaps from block consolidation)
 - **Min degree 3** — no dead-end entries. Median degree 5. Max inbound 31.
@@ -124,8 +124,25 @@ See `docs/topology-guide.md` for topology guidance.
 
 ---
 
+## PalaceForge — Persistent Knowledge Base
+
+The project is indexed in a PalaceForge palace at `~/.palaceforge/palace/`. Use `palaceforge search "query"` to search across all project files — archive entries, connection texts, collab memos, editorial standards, paper drafts, topology data.
+
+**When to use it:**
+- Looking for a specific connection, entry, or design object across the archive
+- Finding which collab memo discussed a particular topic
+- Searching for evidence or examples for the paper
+- Any time you'd otherwise grep across multiple files
+
+**Example:** `palaceforge search "Bon Bon Chair"` or `palaceforge search "hub overloading"`
+
+**Re-mine after major changes:** `palaceforge mine .` (run from the project root)
+
+---
+
 ## What Claude Should Always Do
 
+- **Use palaceforge search** when looking for context across the project — it's faster than reading multiple files.
 - **Verify facts** against primary sources (V&A, Cooper Hewitt, MoMA, Vitra, Design Museum). Museum databases are authoritative.
 - **Write connections to the quality standard** in `docs/voice-guide.md`. Compressed, argued, specific, non-transferable.
 - **Think topologically.** Does this create a cross-discipline bridge? Overload a hub? Create a dead end?

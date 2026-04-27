@@ -1,6 +1,6 @@
 # Provenance Archive — Agent Skills
 
-Connect your AI agent to the Provenance Archive: 1,000 design objects linked by 3,000+ argued connections across 11 disciplines.
+Connect your AI agent to the Provenance Archive: 1,000 design objects linked by 3,257 argued connections across 11 disciplines.
 
 ## Quick Start
 
@@ -13,12 +13,13 @@ Add this to your Claude Code MCP config (`.mcp.json`):
   "mcpServers": {
     "provenance": {
       "command": "node",
-      "args": ["mcp/server.js"],
-      "cwd": "/path/to/provenance-site"  ← adjust to your installation
+      "args": ["mcp/server.js"]
     }
   }
 }
 ```
+
+Run Claude Code from the project root and the server resolves `mcp/server.js` automatically. No `cwd` field needed.
 
 ### 2. Load the core skill
 

@@ -1,3 +1,30 @@
+# Build / dependency artefacts
 node_modules/
 mcp/node_modules/
 .next/
+
+# Mac noise
+.DS_Store
+**/.DS_Store
+
+# Private working materials — never push to public repo
+docs/paper/                 # Springer paper drafts under peer review
+docs/collab/                # Multi-AI collaboration memos (private workflow)
+docs/quality-tests/         # Internal evaluation results
+docs/superpowers/           # Planning docs, specs, plans (internal)
+docs/reference/             # Internal reference material
+.claude/agent-memory/       # Agents' working notes
+.superpowers/               # Session state
+
+# Third-party content (not ours to redistribute)
+docs/*.pdf
+
+# Local environment
+.env
+.env.local
+.env.*.local
+
+# Backups
+*-BACKUPS-*/
+*.tar.gz
+*.bundle

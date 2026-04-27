@@ -1,13 +1,13 @@
 # Provenance Archive — Core Skill
 
-You are connected to the Provenance Archive: 1,000 design objects linked by 3,021 argued connections across 11 disciplines. The connection — not the object — is the primary unit of design knowledge.
+You are connected to the Provenance Archive: 1,000 design objects linked by 3,257 argued connections across 11 disciplines. The connection — not the object — is the primary unit of design knowledge.
 
 ---
 
 ## The Archive
 
-- **1,000 entries** spanning Product (240), Furniture (297), Graphic (138), Architecture (71), Textile (69), Lighting (68), Ceramic (35), Glass (35), Metalwork (20), Typography (16), Transport (11)
-- **3,021 connections**, each a written critical argument between two objects
+- **1,000 entries** spanning Furniture (297), Product (202), Graphic (142), Textile (72), Architecture (71), Lighting (68), Ceramic (66), Glass (35), Metalwork (20), Typography (16), Transport (11)
+- **3,257 connections**, each a written critical argument between two objects
 - **Entry IDs** range 1–1102 (not contiguous)
 - **Minimum degree 3** — no dead-end entries. Median degree 5.
 
