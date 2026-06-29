@@ -751,8 +751,6 @@ export default function Page() {
   const [searchQuery, setSearchQuery] = useState("");
   const [connFilter, setConnFilter] = useState("all");
   const [connMapMode, setConnMapMode] = useState("force");
-  const [connMapAuth, setConnMapAuth] = useState(false);
-  const [connMapPw, setConnMapPw] = useState("");
   const [todayConnection] = useState(() => {
     // Deterministic daily connection: djb2 hash of UTC date string
     const dateStr = new Date().toISOString().slice(0, 10);
@@ -795,7 +793,6 @@ export default function Page() {
       const item = ARCHIVE.find(i => i.id === parseInt(entryId));
       if (item) { setSelectedItem(item); setView('detail'); }
     }
-    if (sessionStorage.getItem('provenance_connmap_auth') === 'true') setConnMapAuth(true);
   }, []);
 
   const filteredArchive = ARCHIVE.filter(item => {
@@ -852,29 +849,6 @@ export default function Page() {
 
   // ── FULL-SCREEN NETWORK MODE ──
   if (view === 'connections') {
-    if (!connMapAuth) {
-      return (
-        <div style={{ width: '100vw', height: '100vh', background: '#1E2228', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'DM Sans', sans-serif" }}>
-          <div style={{ textAlign: 'center', maxWidth: 320 }}>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 32, color: '#E8E4DC', marginBottom: 5 }}>Provenance</div>
-            <div style={{ fontSize: 8, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#B8763C', marginBottom: 40 }}>Network</div>
-            <input type="password" value={connMapPw} onChange={e => setConnMapPw(e.target.value)}
-              onKeyDown={e => { if (e.key === 'Enter') { if (connMapPw === 'provenance2026') { sessionStorage.setItem('provenance_connmap_auth', 'true'); setConnMapAuth(true); } else { setConnMapPw(''); } }}}
-              placeholder="Password" autoFocus
-              style={{ width: '100%', padding: '12px 16px', fontFamily: 'inherit', fontSize: 14,
-                border: '1px solid #3A3E44', background: '#2A2E34', textAlign: 'center',
-                letterSpacing: '0.1em', color: '#E8E4DC', boxSizing: 'border-box', outline: 'none' }} />
-            <button onClick={() => { if (connMapPw === 'provenance2026') { sessionStorage.setItem('provenance_connmap_auth', 'true'); setConnMapAuth(true); } else { setConnMapPw(''); }}}
-              style={{ width: '100%', padding: 10, marginTop: 10, fontFamily: 'inherit',
-                fontSize: 10, letterSpacing: '0.14em', textTransform: 'uppercase',
-                border: '1px solid #E8E4DC', background: '#E8E4DC', color: '#1E2228', cursor: 'pointer' }}>Enter</button>
-            <button onClick={() => { setView('featured'); setSelectedItem(null); }}
-              style={{ marginTop: 20, background: 'none', border: 'none', color: '#666', fontSize: 10,
-                letterSpacing: '0.1em', textTransform: 'uppercase', cursor: 'pointer', fontFamily: 'inherit' }}>← Back</button>
-          </div>
-        </div>
-      );
-    }
     return (
       <div style={{ width: '100vw', height: '100vh', overflow: 'hidden', background: '#1E2228' }}>
         <VisualiserShell devMode={false} />
