@@ -8,14 +8,28 @@ mcp/node_modules/
 **/.DS_Store
 
 # Private working materials — never push to public repo
-docs/paper/                 # Springer paper drafts under peer review
-docs/collab/                # Multi-AI collaboration memos (private workflow)
-docs/quality-tests/         # Internal evaluation results
-docs/superpowers/           # Planning docs, specs, plans (internal)
-docs/reference/             # Internal reference material
-.claude/agent-memory/       # Agents' working notes
-.claude/projects/           # Claude Code session memory (path-encoded; identity-leaking)
-.superpowers/               # Session state
+# NOTE: git does NOT support inline comments on pattern lines — keep comments on their own line.
+
+# Springer paper drafts under peer review
+docs/paper/
+# Multi-AI collaboration memos (private workflow)
+docs/collab/
+# Internal evaluation results
+docs/quality-tests/
+# Planning docs, specs, plans (internal)
+docs/superpowers/
+# Internal reference material
+docs/reference/
+# Internal design/spec docs
+docs/FAE-REFERENCE.md
+docs/PROVENANCE-VISUALISER-DESIGN-GUIDANCE.md
+docs/VISUALISER-DESIGN-SPEC.md
+# Agents' working notes
+.claude/agent-memory/
+# Claude Code session memory (path-encoded; identity-leaking)
+.claude/projects/
+# Session state
+.superpowers/
 
 # Third-party content (not ours to redistribute)
 docs/*.pdf
