@@ -30,6 +30,15 @@ docs/VISUALISER-DESIGN-SPEC.md
 .claude/projects/
 # Session state
 .superpowers/
+# Internal paper-review agent personas (reference the unpublished paper / journal)
+.claude/agents/red-journal-reviewer.md
+.claude/agents/academic-voice-reviewer.md
+.claude/agents/design-epistemology-reviewer.md
+# Collab inbox tooling
+tools/check-inbox.sh
+# Local knowledge-base config (PalaceForge; lists identity)
+entities.json
+palaceforge.yaml
 
 # Third-party content (not ours to redistribute)
 docs/*.pdf
