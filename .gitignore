@@ -52,3 +52,8 @@ docs/*.pdf
 *-BACKUPS-*/
 *.tar.gz
 *.bundle
+
+# Internal Claude/AI tooling and workflow — local only, never public
+/CLAUDE.md
+.claude/
+workflows/
